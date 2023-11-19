@@ -257,7 +257,7 @@ Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,A challenge.
 Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,I request participation in the game.
 Dialogue: 5,0:18:16.28,0:18:16.70,Default,,0,0,0,,Conditions:
 Dialogue: 5,0:18:17.24,0:18:22.37,Default,,0,0,0,,If this unit wins, it shall be taken home\Nwith you and procreation will occur.
-Dialogue: 5,0:18:28.50,0:18:30.84,Default,,0,0,0,,Of all things, you choose chess?
+Dialogue: 5,0:18:28.50,0:18:30.84,Default,,0,0,0,,Of all things, you chose chess?
 Dialogue: 5,0:18:31.38,0:18:34.34,Default,,0,0,0,,You guys are basically walking calculators.\NThere is no way I can win.
 Dialogue: 5,0:18:37.22,0:18:38.18,Default,,0,0,0,,But—
 Dialogue: 5,0:18:40.01,0:18:41.10,Default,,0,0,0,,What if I—
@@ -368,7 +368,7 @@ Dialogue: 5,0:23:40.44,0:23:42.81,Default,,0,0,0,,Do you remember how I explaine
 Dialogue: 5,0:23:42.81,0:23:44.07,Default,,0,0,0,,Then,
 Dialogue: 5,0:23:45.40,0:23:47.36,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:23:47.61,0:23:48.99,Default,,0,0,0,,I refuse.
-Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,That time, I didn't have much of a choice.
+Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,That time I didn't have much of a choice.
 Dialogue: 5,0:23:51.91,0:23:54.87,Default,,0,0,0,,But I find games pointless and\NI don't have time to waste on them.
 Dialogue: 5,0:23:55.70,0:23:57.87,Default,,0,0,0,,What if it won't be pointless?
 Dialogue: 5,0:23:58.75,0:24:00.58,Default,,0,0,0,,What if you win
@@ -693,10 +693,10 @@ Dialogue: 5,0:39:03.61,0:39:06.45,Default,,0,0,0,,I'm just thinking about this i
 Dialogue: 5,0:39:07.03,0:39:09.70,Default,,0,0,0,,There is not way I could never beat you.
 Dialogue: 5,0:39:13.74,0:39:16.91,Default,,0,0,0,,Schwi... understands a bit.
 Dialogue: 5,0:39:18.25,0:39:23.05,Default,,0,0,0,,The current conditions upon this\Nplanet are fatal for humanity,
-Dialogue: 5,0:39:23.05,0:39:24.88,Default,,0,0,0,,the fact that you exist is an aberration.
-Dialogue: 5,0:39:26.92,0:39:27.93,Default,,0,0,0,,This aberration—
+Dialogue: 5,0:39:23.05,0:39:24.88,Default,,0,0,0,,the fact that you exist is an anomaly.
+Dialogue: 5,0:39:26.92,0:39:27.93,Default,,0,0,0,,This anomaly—
 Dialogue: 5,0:39:27.93,0:39:29.09,Default,,0,0,0,,Correction:
-Dialogue: 5,0:39:29.09,0:39:34.60,Default,,0,0,0,,This accomplishment... is possible because of your heart.
+Dialogue: 5,0:39:29.09,0:39:34.60,Default,,0,0,0,,accomplishment... is possible because of Riku's heart.
 Dialogue: 5,0:39:35.39,0:39:36.43,Default,,0,0,0,,Your will.
 Dialogue: 5,0:39:37.98,0:39:41.40,Default,,0,0,0,,Despite overwhelming odds,\Nhumanity as a whole survives.
 Dialogue: 5,0:39:41.73,0:39:44.32,Default,,0,0,0,,This is an objective success and yet...
@@ -710,11 +710,11 @@ Dialogue: 5,0:40:05.71,0:40:07.38,Default,,0,0,0,,but what then?
 Dialogue: 5,0:40:07.38,0:40:09.42,Default,,0,0,0,,What the hell else do you do?
 Dialogue: 5,0:40:09.42,0:40:12.34,Default,,0,0,0,,Just sit back and let yourself\Nget obliterated into nothing?
 Dialogue: 5,0:40:12.55,0:40:13.97,Default,,0,0,0,,And if you don't like that idea,
-Dialogue: 5,0:40:13.97,0:40:17.47,Default,,0,0,0,,can you tell half of the people to die\Nfor the sake of saving the another half?
-Dialogue: 5,0:40:17.47,0:40:20.35,Default,,0,0,0,,Will that change anything at the end?
+Dialogue: 5,0:40:13.97,0:40:17.12,Default,,0,0,0,,can you tell half of the people to die\Nfor the sake of saving the another half?
+Dialogue: 5,0:40:17.12,0:40:20.35,Default,,0,0,0,,Will that change anything at the end?
 Dialogue: 5,0:40:20.35,0:40:21.23,Default,,0,0,0,,Riku.
 Dialogue: 5,0:40:24.06,0:40:25.90,Default,,0,0,0,,Tell me Schwi.
-Dialogue: 5,0:40:27.15,0:40:28.82,Default,,0,0,0,,What else can we do?
+Dialogue: 5,0:40:27.15,0:40:28.82,Default,,0,0,0,,What should we do?
 Dialogue: 5,0:40:30.07,0:40:33.20,Default,,0,0,0,,What... should I do?
 Dialogue: 5,0:40:37.54,0:40:39.71,Default,,0,0,0,,I don't know either.
 Dialogue: 5,0:40:40.12,0:40:44.13,Default,,0,0,0,,Riku's heart... what does it tell?
@@ -738,9 +738,9 @@ Dialogue: 5,0:41:51.28,0:41:52.36,Default,,0,0,0,,No.
 Dialogue: 5,0:41:53.78,0:41:55.11,Default,,0,0,0,,Nevermind.
 Dialogue: 5,0:42:05.37,0:42:06.79,Default,,0,0,0,,It's beautiful.
 Dialogue: 5,0:42:10.75,0:42:11.76,Default,,0,0,0,,Schwi,
-Dialogue: 5,0:42:12.26,0:42:15.01,Default,,0,0,0,,it's nice to do things together, right?
+Dialogue: 5,0:42:12.26,0:42:15.01,Default,,0,0,0,,it's good to do things jointly, right?
 Dialogue: 5,0:42:16.09,0:42:17.01,Default,,0,0,0,,Riku,
-Dialogue: 5,0:42:17.01,0:42:18.97,Default,,0,0,0,,didn't you always do things by yourself?
+Dialogue: 5,0:42:17.01,0:42:18.97,Default,,0,0,0,,haven't you always done things by yourself?
 Dialogue: 5,0:42:18.97,0:42:20.06,Default,,0,0,0,,No.
 Dialogue: 5,0:42:20.06,0:42:21.40,Default,,0,0,0,,I was just struggling like an idiot.
 Dialogue: 5,0:42:21.40,0:42:24.10,Default,,0,0,0,,Forcing myself to things beyond my limits.
@@ -831,17 +831,17 @@ Dialogue: 5,0:47:20.02,0:47:22.61,Default,,0,0,0,,we're gonna make our own rules
 Dialogue: 5,0:47:22.61,0:47:23.07,Default,,0,0,0,,And then...
 Dialogue: 5,0:47:23.86,0:47:25.07,Default,,0,0,0,,we will win.
 Dialogue: 5,0:47:27.07,0:47:29.95,Default,,0,0,0,,Number 1: You must not kill.
-Dialogue: 5,0:47:29.95,0:47:32.45,Default,,0,0,0,,{\i1}The heart does not wish for murder.
+Dialogue: 5,0:47:29.95,0:47:32.45,Default,,0,0,0,,{\i1}The heart doesn't wish for murder.
 Dialogue: 5,0:47:32.45,0:47:35.45,Default,,0,0,0,,Number 2: You must not let anyone die,
-Dialogue: 5,0:47:35.45,0:47:37.96,Default,,0,0,0,,{\i1}The heart does not want anyone to die.
+Dialogue: 5,0:47:35.45,0:47:37.96,Default,,0,0,0,,{\i1}The heart doesn't want anyone to die.
 Dialogue: 5,0:47:37.96,0:47:40.79,Default,,0,0,0,,Number 3: You must not let anyone discover you.
-Dialogue: 5,0:47:40.79,0:47:42.59,Default,,0,0,0,,{\i1}If we are discovered we are dead.
+Dialogue: 5,0:47:40.79,0:47:42.59,Default,,0,0,0,,{\i1}If we are discovered, we are dead.
 Dialogue: 5,0:47:42.59,0:47:45.76,Default,,0,0,0,,Number 4: No tactic is off limits.
 Dialogue: 5,0:47:45.76,0:47:49.55,Default,,0,0,0,,{\i1}Not even a sly trick should be considered dirty.
 Dialogue: 5,0:47:49.55,0:47:52.89,Default,,0,0,0,,Number 5: Those guys' rules mean nothing to us.
-Dialogue: 5,0:47:52.89,0:47:55.22,Default,,0,0,0,,{\i1}The heart doesn't give two shits about their bloody contest.
+Dialogue: 5,0:47:52.89,0:47:55.22,Default,,0,0,0,,{\i1}The heart doesn't give a shit about their bloody contest.
 Dialogue: 5,0:47:55.60,0:48:00.35,Default,,0,0,0,,Number 6: Break any of these rules and you lose.
-Dialogue: 5,0:48:00.35,0:48:04.32,Default,,0,0,0,,{\i1}The heart gains nothing from a\Nvictory where violence is a principle.
+Dialogue: 5,0:48:00.35,0:48:04.32,Default,,0,0,0,,{\i1}The heart gains nothing from a\Nvictory when violence is a principle.
 Dialogue: 5,0:48:05.23,0:48:06.40,Default,,0,0,0,,That's all.
 Dialogue: 5,0:48:07.40,0:48:09.24,Default,,0,0,0,,Now we do whatever we want.
 Dialogue: 5,0:48:10.20,0:48:11.74,Default,,0,0,0,,We are the ghosts.
@@ -880,160 +880,167 @@ Dialogue: 5,0:49:59.93,0:50:03.73,Default,,0,0,0,,In a world where life has no v
 Dialogue: 5,0:50:04.89,0:50:08.82,Default,,0,0,0,,And all these people here who have mastered\Nthe knowledge, skills and techniques to do that...
 Dialogue: 5,0:50:09.27,0:50:14.24,Default,,0,0,0,,What else can you call them besides\N magnificent fools, who deserve great respect?
 Dialogue: 5,0:50:14.95,0:50:16.70,Default,,0,0,0,,Okay! Let's do this!
-Dialogue: 5,0:50:16.70,0:50:18.99,Default,,0,0,0,,Let us pledge upon the wishes of our fallen brothers!
+Dialogue: 5,0:50:16.70,0:50:18.99,Default,,0,0,0,,Let's pledge upon the wishes of our fallen brothers!
 Dialogue: 5,0:50:19.28,0:50:21.20,Default,,0,0,0,,Ascheito!
-Dialogue: 5,0:50:21.87,0:50:23.00,Default,,0,0,0,,No
+Dialogue: 5,0:50:21.87,0:50:23.00,Default,,0,0,0,,No.
 Dialogue: 5,0:50:23.00,0:50:25.46,Default,,0,0,0,,Not upon the wishes of the fallen.
 Dialogue: 5,0:50:25.46,0:50:27.21,Default,,0,0,0,,With the rules we have united upon,
 Dialogue: 5,0:50:28.13,0:50:29.59,Default,,0,0,0,,abiding by these rules,
 Dialogue: 5,0:50:31.09,0:50:32.55,Default,,0,0,0,,I pledge Aschente.
 Dialogue: 5,0:50:35.22,0:50:36.09,Default,,0,0,0,,Okay.
 Dialogue: 5,0:50:37.47,0:50:39.30,Default,,0,0,0,,Let the game begin.
-Dialogue: 5,0:50:45.48,0:50:46.35,Default,,0,0,0,,Riku.
+Dialogue: 5,0:50:45.48,0:50:46.35,Default,,0,0,0,,Riku,
 Dialogue: 5,0:50:47.15,0:50:48.94,Default,,0,0,0,,I am now certain.
-Dialogue: 5,0:50:48.94,0:50:50.61,Default,,0,0,0,,I don't understand the human heart.
-Dialogue: 5,0:50:52.32,0:50:56.57,Default,,0,0,0,,All the strategies have less than\None percent chance of success.
-Dialogue: 5,0:50:56.57,0:50:59.37,Default,,0,0,0,,And yet, why is everyone so sure that we can pull it off.
+Dialogue: 5,0:50:48.94,0:50:50.61,Default,,0,0,0,,I don't understand the heart.
+Dialogue: 5,0:50:52.32,0:50:56.57,Default,,0,0,0,,All the plans have \Nnear zero percent chance of success.
+Dialogue: 5,0:50:56.57,0:50:59.37,Default,,0,0,0,,Therefore, why everyone believes we can pull it off?
 Dialogue: 5,0:51:01.24,0:51:02.49,Default,,0,0,0,,So Schwi,
-Dialogue: 5,0:51:02.87,0:51:04.95,Default,,0,0,0,,if you roll a dice what are the odds you roll a 6?
-Dialogue: 5,0:51:05.58,0:51:06.62,Default,,0,0,0,,A one out of six chance.
-Dialogue: 5,0:51:07.17,0:51:13.00,Default,,0,0,0,,But what if someone who doesn't exist\Nswaps it out for a dice that will only roll a six?
-Dialogue: 5,0:51:14.67,0:51:17.01,Default,,0,0,0,,You're talking about the deliberate\Nmanipulation of the variables.
+Dialogue: 5,0:51:02.87,0:51:04.95,Default,,0,0,0,,what are the odds of a 6, if you roll a die?
+Dialogue: 5,0:51:05.58,0:51:07.17,Default,,0,0,0,,One in six.
+Dialogue: 5,0:51:07.17,0:51:09.17,Default,,0,0,0,,But what if it happened to be
+Dialogue: 5,0:51:09.17,0:51:13.00,Default,,0,0,0,,that you only roll a die, when it's about to roll a six?
+Dialogue: 5,0:51:14.67,0:51:17.01,Default,,0,0,0,,You're talking about setting up all the factors.
 Dialogue: 5,0:51:17.30,0:51:18.22,Default,,0,0,0,,Yeah.
-Dialogue: 5,0:51:18.22,0:51:20.35,Default,,0,0,0,,I like to call it cheating.
-Dialogue: 5,0:51:20.35,0:51:21.26,Default,,0,0,0,,Interesting, right?
-Dialogue: 5,0:51:22.22,0:51:24.77,Default,,0,0,0,,We are the singularity of the equation.
-Dialogue: 5,0:51:25.14,0:51:27.35,Default,,0,0,0,,We'll make every prediction,
-Dialogue: 5,0:51:27.35,0:51:30.31,Default,,0,0,0,,strategy and calculation,\Ncome together exactly how we want it to.
-Dialogue: 5,0:51:30.94,0:51:32.48,Default,,0,0,0,,If we pull it off, it will be a...
+Dialogue: 5,0:51:18.22,0:51:20.35,Default,,0,0,0,,I'd rather call it cheating.
+Dialogue: 5,0:51:20.35,0:51:21.26,Default,,0,0,0,,Tempting, isn't it?
+Dialogue: 5,0:51:22.22,0:51:24.77,Default,,0,0,0,,We also are a factor in this equation.
+Dialogue: 5,0:51:25.14,0:51:27.35,Default,,0,0,0,,We'll make every prediction, calculation.
+Dialogue: 5,0:51:27.35,0:51:30.31,Default,,0,0,0,,With things coming together exactly how we wanted.
+Dialogue: 5,0:51:30.94,0:51:32.48,Default,,0,0,0,,If this gonna work—
 Dialogue: 5,0:51:32.48,0:51:33.27,Default,,0,0,0,,A miracle.
-Dialogue: 5,0:51:34.78,0:51:36.15,Default,,0,0,0,,If you manage to make it happen.
-Dialogue: 5,0:51:36.15,0:51:38.53,Default,,0,0,0,,The probability theory will become a distortion.
+Dialogue: 5,0:51:34.78,0:51:36.15,Default,,0,0,0,,If you plan for it to work,
+Dialogue: 5,0:51:36.15,0:51:38.53,Default,,0,0,0,,zero needs to vanish from the probability theory.
 Dialogue: 5,0:51:39.36,0:51:40.45,Default,,0,0,0,,Yeah.
 Dialogue: 5,0:51:40.45,0:51:42.24,Default,,0,0,0,,Anything can happen.
-Dialogue: 5,0:51:42.24,0:51:44.58,Default,,0,0,0,,Zero or one hundred, it doesn't really matter.
+Dialogue: 5,0:51:42.24,0:51:44.58,Default,,0,0,0,,Zero or not zero, it doesn't really matter.
 Dialogue: 5,0:51:45.12,0:51:47.21,Default,,0,0,0,,It's just an empty theory on a piece of paper, after all.
 Dialogue: 5,0:51:47.75,0:51:49.04,Default,,0,0,0,,Would you like me to prove it to you?
-Dialogue: 5,0:51:49.87,0:51:54.50,Default,,0,0,0,,Question: what are the odds that right\Nhere and now, I profess my love to you?
-Dialogue: 5,0:51:55.88,0:51:57.80,Default,,0,0,0,,Intent unclear.
-Dialogue: 5,0:51:57.80,0:51:59.63,Default,,0,0,0,,Estimation: near zero.
-Dialogue: 5,0:51:59.63,0:52:01.89,Default,,0,0,0,,See? you're wrong.
-Dialogue: 5,0:52:07.81,0:52:09.94,Default,,0,0,0,,Will you marry me?
+Dialogue: 5,0:51:49.87,0:51:50.87,Default,,0,0,0,,Query:
+Dialogue: 5,0:51:50.87,0:51:54.50,Default,,0,0,0,,What are the odds that right\Nhere and now, I profess my love to you?
+Dialogue: 5,0:51:55.88,0:51:57.80,Default,,0,0,0,,Query unclear.
+Dialogue: 5,0:51:57.80,0:51:59.63,Default,,0,0,0,,Estimation: Approaching zero.
+Dialogue: 5,0:51:59.63,0:52:01.89,Default,,0,0,0,,Oh yeah? Well then...
+Dialogue: 5,0:52:07.81,0:52:09.94,Default,,0,0,0,,Will you marry me, Schwi?
 Dialogue: 5,0:52:15.86,0:52:17.07,Default,,0,0,0,,Cannot...
 Dialogue: 5,0:52:18.28,0:52:19.61,Default,,0,0,0,,comprehend.
 Dialogue: 5,0:52:19.61,0:52:20.82,Default,,0,0,0,,I decline.
-Dialogue: 5,0:52:20.82,0:52:25.29,Default,,0,0,0,,I'm sorry I got carried away! I've never been with a women before!
+Dialogue: 5,0:52:20.82,0:52:22.52,Default,,0,0,0,,I'm sorry I got carried away!
+Dialogue: 5,0:52:22.52,0:52:26.09,Default,,0,0,0,,I've never been with a women before!
 Dialogue: 5,0:52:24.91,0:52:26.08,Alt,,0,0,0,,Marriage...
-Dialogue: 5,0:52:28.29,0:52:31.92,Default,,0,0,0,,The act of exchanging vows in\Norder to reproduce amongst humans.
-Dialogue: 5,0:52:32.46,0:52:34.00,Default,,0,0,0,,But Schwi is an Ex-machina.
+Dialogue: 5,0:52:28.29,0:52:31.92,Default,,0,0,0,,the act of exchanging vows \Nbetween humans in order to reproduce.
+Dialogue: 5,0:52:32.46,0:52:34.00,Default,,0,0,0,,Schwi is an Ex-machina.
 Dialogue: 5,0:52:34.00,0:52:35.59,Default,,0,0,0,,I don't care about that!
 Dialogue: 5,0:52:35.59,0:52:39.59,Default,,0,0,0,,I just simply want you by my side forever!
-Dialogue: 5,0:52:39.59,0:52:42.22,Default,,0,0,0,,Why? I'm by your side right now.
-Dialogue: 5,0:52:42.72,0:52:45.35,Default,,0,0,0,,That's not what I mean, I'm talking as a life partner!
-Dialogue: 5,0:52:46.72,0:52:49.27,Default,,0,0,0,,Ex-machina cannot reproduce.
+Dialogue: 5,0:52:39.59,0:52:41.09,Default,,0,0,0,,Why?
+Dialogue: 5,0:52:41.09,0:52:42.22,Default,,0,0,0,,I'm by your side right now.
+Dialogue: 5,0:52:42.72,0:52:45.35,Default,,0,0,0,,Not like this, I mean as a life partner!
+Dialogue: 5,0:52:46.72,0:52:49.27,Default,,0,0,0,,Ex-machina cannot retrace.
 Dialogue: 5,0:52:49.27,0:52:50.39,Default,,0,0,0,,That doesn't matter!
 Dialogue: 5,0:52:50.39,0:52:52.65,Default,,0,0,0,,We cannot copulate either.
-Dialogue: 5,0:52:52.65,0:52:54.90,Default,,0,0,0,,Riku, you would remain a virgin forever.
+Dialogue: 5,0:52:52.65,0:52:54.90,Default,,0,0,0,,Riku, you'll never do it...
 Dialogue: 5,0:52:55.48,0:52:56.73,Default,,0,0,0,,That doesn't matter!
-Dialogue: 5,0:52:57.11,0:52:58.03,Default,,0,0,0,,A momentary delay.
-Dialogue: 5,0:52:58.03,0:53:00.24,Default,,0,0,0,,Ahh, come on! I don't care! Details!
-Dialogue: 5,0:53:02.24,0:53:03.49,Default,,0,0,0,,It is not possible.
+Dialogue: 5,0:52:57.11,0:52:58.33,Default,,0,0,0,,A momentary delay.
+Dialogue: 5,0:52:58.33,0:53:00.24,Default,,0,0,0,,Ahh, come on! I don't care! Details!
+Dialogue: 5,0:53:02.24,0:53:03.49,Default,,0,0,0,,It's impossible.
 Dialogue: 5,0:53:04.32,0:53:05.45,Default,,0,0,0,,Because—
-Dialogue: 5,0:53:06.70,0:53:07.24,Default,,0,0,0,,Schwi?
+Dialogue: 5,0:53:06.70,0:53:07.24,Default,,0,0,0,,Schwi...
 Dialogue: 5,0:53:08.20,0:53:09.66,Default,,0,0,0,,Because—
 Dialogue: 5,0:53:10.12,0:53:11.00,Default,,0,0,0,,Because I—
-Dialogue: 5,0:53:13.58,0:53:16.04,Default,,0,0,0,,Reflection: From Prüfer to energy
-Dialogue: 5,0:53:16.04,0:53:17.17,Default,,0,0,0,,Acknowledged.
+Dialogue: 5,0:53:13.58,0:53:16.04,Default,,0,0,0,,Reflection: From Prüfer to lateral
+Dialogue: 5,0:53:16.04,0:53:17.17,Default,,0,0,0,,Approved.
 Dialogue: 5,0:53:17.17,0:53:18.42,Default,,0,0,0,,The one who destroyed your hometown...
-Dialogue: 5,0:53:20.26,0:53:24.30,Default,,0,0,0,,Lösen: Org. 2807: Umweg.
+Dialogue: 5,0:53:20.26,0:53:24.30,Default,,0,0,0,,Lösen: Org. 2807 - Umweg.
 Dialogue: 5,0:53:37.40,0:53:39.48,Default,,0,0,0,,was me.
-Dialogue: 5,0:53:46.28,0:53:47.74,Default,,0,0,0,,Even knowing that...
-Dialogue: 5,0:53:48.20,0:53:51.62,Default,,0,0,0,,can you still say the same thing?
-Dialogue: 5,0:53:52.71,0:53:56.38,Default,,0,0,0,,Schwi, I realized it.
-Dialogue: 5,0:53:56.38,0:53:57.96,Default,,0,0,0,,Somehow, I already knew.
+Dialogue: 5,0:53:46.28,0:53:48.20,Default,,0,0,0,,Knowing this...
+Dialogue: 5,0:53:48.20,0:53:49.70,Default,,0,0,0,,can you...
+Dialogue: 5,0:53:49.70,0:53:51.62,Default,,0,0,0,,still say the same thing?
+Dialogue: 5,0:53:52.71,0:53:56.38,Default,,0,0,0,,Schwi, I'm aware of this.
+Dialogue: 5,0:53:56.38,0:53:57.96,Default,,0,0,0,,I somehow figured it out.
 Dialogue: 5,0:54:00.38,0:54:02.38,Default,,0,0,0,,How?
 Dialogue: 5,0:54:02.38,0:54:08.51,Default,,0,0,0,,Well, the first thing that seemed a little off is,\Nyou know... the first moment we ever met.
-Dialogue: 5,0:54:09.22,0:54:12.64,Default,,0,0,0,,I mean, why would you have chosen to play chess?
-Dialogue: 5,0:54:14.52,0:54:19.77,Default,,0,0,0,,In the first place, why were you waiting\Nout there so far away from your colony?
-Dialogue: 5,0:54:19.77,0:54:22.69,Default,,0,0,0,,Wasn't very well thought out, was it?
-Dialogue: 5,0:54:22.69,0:54:24.99,Default,,0,0,0,,Even if that is so... why?
+Dialogue: 5,0:54:09.22,0:54:12.64,Default,,0,0,0,,Why would you choose to convince someone with chess?
+Dialogue: 5,0:54:14.52,0:54:19.77,Default,,0,0,0,,Besides, why did you assume, that my heart was the reason our colony survived?
+Dialogue: 5,0:54:19.77,0:54:22.69,Default,,0,0,0,,Wasn't very discrete, was it?
+Dialogue: 5,0:54:22.69,0:54:24.99,Default,,0,0,0,,Even if... why?
 Dialogue: 5,0:54:24.99,0:54:26.41,Default,,0,0,0,,Well,
-Dialogue: 5,0:54:26.41,0:54:28.87,Default,,0,0,0,,I guess after taking into account\Neverything that happened,
-Dialogue: 5,0:54:28.87,0:54:31.16,Default,,0,0,0,,I kinda still fell for you.
+Dialogue: 5,0:54:26.41,0:54:28.87,Default,,0,0,0,,after taking everything into account I realized,
+Dialogue: 5,0:54:28.87,0:54:31.16,Default,,0,0,0,,that I fell for you anyway.
 Dialogue: 5,0:54:32.54,0:54:35.87,Default,,0,0,0,,Nothing will change the fact\Nthat you wiped out my hometown.
-Dialogue: 5,0:54:36.37,0:54:40.50,Default,,0,0,0,,But if it wasn't for that,\Nthen we probably never would've met.
+Dialogue: 5,0:54:36.37,0:54:40.50,Default,,0,0,0,,And that we know each other thanks to this very thing.
 Dialogue: 5,0:54:41.30,0:54:42.63,Default,,0,0,0,,It is what it is.
-Dialogue: 5,0:54:42.63,0:54:44.76,Default,,0,0,0,,We can try and sugarcoat it,\Nbut it won't change anything.
+Dialogue: 5,0:54:42.63,0:54:44.76,Default,,0,0,0,,We can try to sugarcoat it.
 Dialogue: 5,0:54:44.76,0:54:46.05,Default,,0,0,0,,We can...
 Dialogue: 5,0:54:46.05,0:54:47.26,Default,,0,0,0,,mourn about it,
 Dialogue: 5,0:54:47.26,0:54:48.68,Default,,0,0,0,,cry about it,
 Dialogue: 5,0:54:48.68,0:54:51.81,Default,,0,0,0,,reflect on it as we move forward.
-Dialogue: 5,0:54:52.56,0:54:57.06,Default,,0,0,0,,That is why you took an interest in me. Right?
-Dialogue: 5,0:54:59.06,0:55:02.98,Default,,0,0,0,,Be it your past, your present that is with me now,
-Dialogue: 5,0:55:02.98,0:55:05.49,Default,,0,0,0,,And your future where I want you by my side,
+Dialogue: 5,0:54:52.56,0:54:57.06,Default,,0,0,0,,Thanks to this, I am my current self. Right?
+Dialogue: 5,0:54:59.06,0:55:02.98,Default,,0,0,0,,Be it your past, your present is with me now.
+Dialogue: 5,0:55:02.98,0:55:05.49,Default,,0,0,0,,And your future where I want you by my side.
 Dialogue: 5,0:55:05.49,0:55:07.32,Default,,0,0,0,,I love all of you.
-Dialogue: 5,0:55:08.28,0:55:12.08,Default,,0,0,0,,Being with you has made me think that\Neven in a world like this, I want to live.
-Dialogue: 5,0:55:12.83,0:55:17.17,Default,,0,0,0,,Being with you has made me think\Nthat I can continue smiling forever.
+Dialogue: 5,0:55:08.28,0:55:12.08,Default,,0,0,0,,If you'll be there for me, I’ll be able to keep going in this world.
+Dialogue: 5,0:55:12.83,0:55:17.17,Default,,0,0,0,,If you’ll be there for me, I’ll be able to make it through in line with my heart.
 Dialogue: 5,0:55:18.17,0:55:18.92,Default,,0,0,0,,So,
-Dialogue: 5,0:55:19.71,0:55:24.51,Default,,0,0,0,,will you throw logic out of the window\Nand choose to walk this path with me?
+Dialogue: 5,0:55:19.71,0:55:24.51,Default,,0,0,0,,will you throw away all reason \Nand choose to walk this path with me?
 Dialogue: 5,0:55:25.92,0:55:28.38,Default,,0,0,0,,That is, as my wife?
 Dialogue: 5,0:55:34.14,0:55:35.22,Default,,0,0,0,,Schwi?
-Dialogue: 5,0:55:37.56,0:55:38.81,Default,,0,0,0,,In every literal sense,
-Dialogue: 5,0:55:39.90,0:55:41.94,Default,,0,0,0,,and every way it appears,
-Dialogue: 5,0:55:42.61,0:55:44.23,Default,,0,0,0,,I may be incompetent.
+Dialogue: 5,0:55:37.56,0:55:38.81,Default,,0,0,0,,In every way,
+Dialogue: 5,0:55:39.90,0:55:41.94,Default,,0,0,0,,in every reasoning,
+Dialogue: 5,0:55:42.61,0:55:44.23,Default,,0,0,0,,I may not be suitable.
 Dialogue: 5,0:55:44.23,0:55:45.49,Default,,0,0,0,,And yet.
-Dialogue: 5,0:55:47.70,0:55:49.16,Default,,0,0,0,,Let me—
-Dialogue: 5,0:55:49.16,0:55:54.79,Default,,0,0,0,,Let me be by your side.\NWith you and you alone Riku, forever.
-Dialogue: 5,0:55:57.87,0:55:59.46,Default,,0,0,0,,And I, the same with you.
+Dialogue: 5,0:55:47.70,0:55:49.16,Default,,0,0,0,,Forever...
+Dialogue: 5,0:55:49.16,0:55:54.79,Default,,0,0,0,,Forever and ever, let me be by your side.
+Dialogue: 5,0:55:57.87,0:55:59.46,Default,,0,0,0,,And I the same with you.
 Dialogue: 5,0:56:04.17,0:56:05.59,Default,,0,0,0,,Riku,
 Dialogue: 5,0:56:05.59,0:56:08.51,Default,,0,0,0,,do you take Schwi to be your wife,
 Dialogue: 5,0:56:08.51,0:56:10.09,Default,,0,0,0,,swearing to grow old together,
-Dialogue: 5,0:56:10.09,0:56:12.26,Default,,0,0,0,,support and love each other and to stay alive?
-Dialogue: 5,0:56:12.26,0:56:13.39,Default,,0,0,0,,Yeah, I swear.
-Dialogue: 5,0:56:13.39,0:56:16.27,Default,,0,0,0,,Riku! This is where you say Asheito.
+Dialogue: 5,0:56:10.09,0:56:12.26,Default,,0,0,0,,support each other and to stay alive?
+Dialogue: 5,0:56:12.26,0:56:13.39,Default,,0,0,0,,Yep, I do.
+Dialogue: 5,0:56:13.39,0:56:16.27,Default,,0,0,0,,Hey Riku! This is where you say Asheito!
 Dialogue: 5,0:56:16.27,0:56:18.35,Default,,0,0,0,,Sorry, that got abolished.
-Dialogue: 5,0:56:18.35,0:56:20.44,Default,,0,0,0,,So, Aschente.
-Dialogue: 5,0:56:20.44,0:56:24.86,Default,,0,0,0,,Kinda bugs me that you've been up to all this\Ncrazy stuff without letting me know anything.
+Dialogue: 5,0:56:18.35,0:56:20.44,Default,,0,0,0,,You go with Aschente now.
+Dialogue: 5,0:56:20.44,0:56:24.86,Default,,0,0,0,,It bugs me that you've been up to all this \Ncrazy stuff without letting me know anything.
 Dialogue: 5,0:56:25.15,0:56:26.53,Default,,0,0,0,,Like, what the hell!
-Dialogue: 5,0:56:26.53,0:56:31.91,Default,,0,0,0,,You just told me where your secret hideout\Nis and when I get here you're getting married!
-Dialogue: 5,0:56:31.91,0:56:34.37,Default,,0,0,0,,It is you who said we should hold a ceremony?
+Dialogue: 5,0:56:26.53,0:56:31.91,Default,,0,0,0,,You just told me where your secret hideout is \Nand when I get here you're getting married!
+Dialogue: 5,0:56:31.91,0:56:34.37,Default,,0,0,0,,Can we just go on with the ceremony?
 Dialogue: 5,0:56:34.37,0:56:35.37,Default,,0,0,0,,It was your idea.
 Dialogue: 5,0:56:36.91,0:56:39.87,Default,,0,0,0,,Do you, Schwi, take Riku as your husband,
-Dialogue: 5,0:56:39.87,0:56:42.54,Default,,0,0,0,,swear to grow together, support and love each other?
+Dialogue: 5,0:56:39.87,0:56:42.54,Default,,0,0,0,,swear to grow old together, support each—
 Dialogue: 5,0:56:41.87,0:56:42.88,Alt,,0,0,0,,Yes.
-Dialogue: 5,0:56:43.29,0:56:47.96,Default,,0,0,0,,I swear to Riku, the one who taught me why I was\Nborn and who gave me a heart. I pledge to myself:
+Dialogue: 5,0:56:43.29,0:56:49.51,Default,,0,0,0,,I swear, to the one who taught me about \Nthe heart and gave me a purpose.
 Dialogue: 5,0:56:49.51,0:56:51.51,Default,,0,0,0,,I will not let Riku die.
 Dialogue: 5,0:56:51.51,0:56:54.80,Default,,0,0,0,,We will live side by side right to the end.
 Dialogue: 5,0:56:54.80,0:56:56.14,Default,,0,0,0,,Aschente.
-Dialogue: 5,0:57:00.52,0:57:05.02,Default,,0,0,0,,And so, as your new big sister,\NI would like to congratulate you on your marriage.
+Dialogue: 5,0:57:00.52,0:57:05.02,Default,,0,0,0,,And so, as your new big sister,\NI'd like to congratulate you on your marriage.
 Dialogue: 5,0:57:05.02,0:57:06.07,Default,,0,0,0,,Couronne!
-Dialogue: 5,0:57:13.49,0:57:15.12,Default,,0,0,0,,You are so cute!
-Dialogue: 5,0:57:15.12,0:57:16.62,Default,,0,0,0,,Couronne, why are you..?
-Dialogue: 5,0:57:16.87,0:57:20.29,Default,,0,0,0,,Well she is the one you chose to be your bride, right?
+Dialogue: 5,0:57:13.49,0:57:15.12,Default,,0,0,0,,Yay! So cute!
+Dialogue: 5,0:57:15.12,0:57:16.62,Default,,0,0,0,,Couronne, how...?
+Dialogue: 5,0:57:16.87,0:57:20.29,Default,,0,0,0,,Well, you yourself chose her to be your bride, right?
 Dialogue: 5,0:57:21.41,0:57:25.59,Default,,0,0,0,,So in closing, you shall carve your names onto this.
 Dialogue: 5,0:57:25.59,0:57:27.00,Default,,0,0,0,,On this rock?
-Dialogue: 5,0:57:27.00,0:57:31.30,Default,,0,0,0,,You guys, on the surface you don't exist\Nso there can be no records of this, right?
-Dialogue: 5,0:57:31.67,0:57:33.09,Default,,0,0,0,,There's your name..
-Dialogue: 5,0:57:33.09,0:57:37.81,Default,,0,0,0,,Yes, my surname, and from now on\Nit will be the same for all three of us.
-Dialogue: 5,0:57:41.14,0:57:44.06,Default,,0,0,0,,Haha, our surname sounds weird.
-Dialogue: 5,0:57:46.19,0:57:51.61,Default,,0,0,0,,Riku, Schwi, I don't know what you guys are up to.
-Dialogue: 5,0:57:51.61,0:57:55.53,Default,,0,0,0,,I mean, you two are really not of this world.
-Dialogue: 5,0:57:56.41,0:58:02.83,Default,,0,0,0,,But well, I do know I have a little brother\NI adore and now a cute younger sister too.
-Dialogue: 5,0:58:03.21,0:58:06.25,Default,,0,0,0,,So, I beg you:
+Dialogue: 5,0:57:27.00,0:57:31.30,Default,,0,0,0,,On the surface, you Ghosts don't exist, \Nso there can't be any records of this, right?
+Dialogue: 5,0:57:31.67,0:57:33.09,Default,,0,0,0,,There's your name...
+Dialogue: 5,0:57:33.09,0:57:34.59,Default,,0,0,0,,Yes, and my surname.
+Dialogue: 5,0:57:35.89,0:57:37.81,Default,,0,0,0,,And from now on, it'll be our surname.
+Dialogue: 5,0:57:40.14,0:57:44.06,Default,,0,0,0,,Haha, 'our surname' sounds weird.
+Dialogue: 5,0:57:45.50,0:57:51.61,Default,,0,0,0,,Eh, Riku, Schwi, I don't know what you're up to.
+Dialogue: 5,0:57:51.61,0:57:53.61,Default,,0,0,0,,I mean... 
+Dialogue: 5,0:57:53.61,0:57:55.53,Default,,0,0,0,,you two are really not of this world.
+Dialogue: 5,0:57:56.41,0:58:02.83,Default,,0,0,0,,But, I do know... that I also have a cute younger sister from now on.
+Dialogue: 5,0:58:03.21,0:58:06.25,Default,,0,0,0,,So, I beg you,
 Dialogue: 5,0:58:06.25,0:58:09.21,Default,,0,0,0,,be careful and don't do anything rash.
 Dialogue: 5,0:58:09.63,0:58:11.21,Default,,0,0,0,,I don't wanna lose my family.
-Dialogue: 5,0:58:11.59,0:58:15.09,Default,,0,0,0,,Yeah, no one is gonna die Couronne.
-Dialogue: 5,0:58:15.09,0:58:18.14,Default,,0,0,0,,Because this is one game we'll win for sure.
-Dialogue: 5,0:58:18.14,0:58:20.89,Default,,0,0,0,,You can leave it to us, Big Sister!
-Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,It smells. It's the black ash.
+Dialogue: 5,0:58:11.59,0:58:15.09,Default,,0,0,0,,Yeah, no one is gonna die.
+Dialogue: 5,0:58:15.09,0:58:18.14,Default,,0,0,0,,Because this one game, we'll win for sure.
+Dialogue: 5,0:58:18.14,0:58:20.89,Default,,0,0,0,,Leave it to us, big sis!
+Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,It stinks. It's the black ash.
 Dialogue: 5,0:58:35.91,0:58:38.28,Default,,0,0,0,,As expected of the Werebeast.
 Dialogue: 5,0:58:38.28,0:58:40.79,Default,,0,0,0,,You can eat me if you want but,
-Dialogue: 5,0:58:40.79,0:58:43.16,Default,,0,0,0,,I guarantee you I won't taste very good.
+Dialogue: 5,0:58:40.79,0:58:43.16,Default,,0,0,0,,I can guarantee I won't taste very good.
 Dialogue: 5,0:58:43.75,0:58:46.42,Default,,0,0,0,,Who the hell are you?
 Dialogue: 5,0:58:46.42,0:58:50.84,Default,,0,0,0,,The west of of the continent\NLucia where your base is located,
 Dialogue: 5,0:58:50.84,0:58:54.30,Default,,0,0,0,,the Dwarves are planning to conduct\Nan advanced explosion test out there.
 Dialogue: 5,0:58:54.72,0:58:56.80,Default,,0,0,0,,And be warned; this thing can even kill an Old Deus.
-Dialogue: 5,0:58:56.80,0:58:59.68,Default,,0,0,0,,It's a large scale explosive called an E-bomb.
+Dialogue: 5,0:58:56.80,0:58:59.68,Default,,0,0,0,,It's a large scale explosive called the E-bomb.
 Dialogue: 5,0:59:01.60,0:59:03.77,Default,,0,0,0,,Your kind can use Blood Destruction, right?
 Dialogue: 5,0:59:03.77,0:59:08.02,Default,,0,0,0,,It can prove useful for you to\Nget into the Dwarves facility.
 Dialogue: 5,0:59:08.02,0:59:11.36,Default,,0,0,0,,You could make quick work of it,\Nor do whatever you want of it.
