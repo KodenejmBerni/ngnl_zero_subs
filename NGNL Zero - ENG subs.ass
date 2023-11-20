@@ -1099,8 +1099,8 @@ Dialogue: 5,1:02:16.13,1:02:19.63,Default,,0,0,0,,You know what, Nina Clive is a
 Dialogue: 5,1:02:19.63,1:02:24.88,Default,,0,0,0,,My name is actually Think Nirvalen.
 Dialogue: 5,1:02:24.88,1:02:27.72,Default,,0,0,0,,Did you already figure it out?
 Dialogue: 5,1:02:29.43,1:02:33.31,Default,,0,0,0,,Have I ever called you Nina, in the first place?
-Dialogue: 5,1:02:36.94,1:02:39.19,Default,,0,0,0,,For treating me today like a plaything... #TODO
-Dialogue: 5,1:02:39.19,1:02:42.99,Default,,0,0,0,,I promise you that I'll make you regret it. 
+Dialogue: 5,1:02:36.94,1:02:39.19,Default,,0,0,0,,For treating me today like a plaything,
+Dialogue: 5,1:02:39.19,1:02:42.99,Default,,0,0,0,,I promise I'll find out who you are and I'll gut you.
 Dialogue: 5,1:02:43.99,1:02:47.62,Default,,0,0,0,,After all, the rumor that \NElves are relentlessly vindictive...
 Dialogue: 5,1:02:48.07,1:02:51.20,Default,,0,0,0,,first began with none other than the Nirvalen family.
 Dialogue: 5,1:02:53.29,1:02:54.16,Default,,0,0,0,,Riku!
