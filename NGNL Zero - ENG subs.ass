@@ -1044,7 +1044,7 @@ Dialogue: 5,0:58:56.80,0:58:59.68,Default,,0,0,0,,It's a large scale explosive c
 Dialogue: 5,0:59:01.60,0:59:03.77,Default,,0,0,0,,Your kind can use Blood Destruction, right?
 Dialogue: 5,0:59:03.77,0:59:08.02,Default,,0,0,0,,It can prove useful for you to\Nget into the Dwarves facility.
 Dialogue: 5,0:59:08.02,0:59:11.36,Default,,0,0,0,,You could get over it quickly, \Nor whatever you want.
-Dialogue: 5,0:59:12.73,0:59:17.20,Default,,0,0,0,,The Dwarves' fleet will move while\Nkeeping a eye on the Werebeasts.
+Dialogue: 5,0:59:12.73,0:59:17.20,Default,,0,0,0,,The Dwarves' fleet will move while\Nkeeping an eye on the Werebeasts.
 Dialogue: 5,0:59:17.66,0:59:21.95,Default,,0,0,0,,The Werebeasts, fearful of the E-bomb, flee Lucia.
 Dialogue: 5,0:59:22.49,0:59:26.25,Default,,0,0,0,,Next, secret Elvish information is given to the Dwarves.
 Dialogue: 5,0:59:29.25,0:59:31.17,Default,,0,0,0,,Now comes the tricky one.
@@ -1055,10 +1055,10 @@ Dialogue: 5,0:59:42.01,0:59:47.23,Default,,0,0,0,,I assume you have business her
 Dialogue: 5,0:59:47.69,0:59:50.60,Default,,0,0,0,,I was thinking the two of us could have a little game.
 Dialogue: 5,0:59:50.60,0:59:51.27,Default,,0,0,0,,A game?
 Dialogue: 5,0:59:51.73,0:59:54.57,Default,,0,0,0,,And the currency we'll bet with is an information.
-Dialogue: 5,0:59:55.03,0:59:58.24,Default,,0,0,0,,If you win, I'll tell you something.\NIf you lose, you tell me something. #TODO
+Dialogue: 5,0:59:55.03,0:59:58.24,Default,,0,0,0,,If I win, you tell me something.\NIf you win, it's the other way around.
 Dialogue: 5,0:59:58.95,1:00:01.82,Default,,0,0,0,,I know completely nothing of you,
-Dialogue: 5,1:00:01.82,1:00:04.99,Default,,0,0,0,,and yet you hope for Nina Clive \Nto just accept a challenge right away?
-Dialogue: 5,1:00:05.49,1:00:07.83,Default,,0,0,0,,Maybe let me start with this.
+Dialogue: 5,1:00:01.82,1:00:04.99,Default,,0,0,0,,and yet you hope for Nina Clive \Nto accept a challenge just like that? 
+Dialogue: 5,1:00:05.49,1:00:07.83,Default,,0,0,0,,Maybe let me start with this:
 Dialogue: 5,1:00:07.83,1:00:10.62,Default,,0,0,0,,Information on the Áka Si Anse \Nhas been leaked to the Dwarves.
 Dialogue: 5,1:00:11.21,1:00:12.84,Default,,0,0,0,,Is that good enough?
 Dialogue: 5,1:00:13.54,1:00:16.76,Default,,0,0,0,,As the applicant and caretaker \Nof the Áka Si Anse theory,
@@ -1100,45 +1100,46 @@ Dialogue: 5,1:02:19.63,1:02:24.88,Default,,0,0,0,,My name is actually Think Nirv
 Dialogue: 5,1:02:24.88,1:02:27.72,Default,,0,0,0,,Did you already figure it out?
 Dialogue: 5,1:02:29.43,1:02:33.31,Default,,0,0,0,,Have I ever called you Nina, in the first place?
 Dialogue: 5,1:02:36.94,1:02:39.19,Default,,0,0,0,,For treating me today like a plaything,
-Dialogue: 5,1:02:39.19,1:02:42.99,Default,,0,0,0,,I promise I'll find out who you are and I'll gut you.
+Dialogue: 5,1:02:39.19,1:02:42.99,Default,,0,0,0,,I promise I'll find out who you are \Nand I'll gut you.
 Dialogue: 5,1:02:43.99,1:02:47.62,Default,,0,0,0,,After all, the rumor that \NElves are relentlessly vindictive...
 Dialogue: 5,1:02:48.07,1:02:51.20,Default,,0,0,0,,first began with none other than the Nirvalen family.
 Dialogue: 5,1:02:53.29,1:02:54.16,Default,,0,0,0,,Riku!
 Dialogue: 5,1:02:55.08,1:02:57.58,Default,,0,0,0,,Riku, hurry! It's a decontaminate.
 Dialogue: 5,1:03:00.34,1:03:03.46,Default,,0,0,0,,Riku you lied to me! You said\Nthat it would only be an hour.
-Dialogue: 5,1:03:03.46,1:03:06.34,Default,,0,0,0,,You've been breathing Black Ash for twice that time!
+Dialogue: 5,1:03:03.46,1:03:06.34,Default,,0,0,0,,You've been breathing Black Ash for twice that time! 
 Dialogue: 5,1:03:13.85,1:03:16.10,Default,,0,0,0,,I didn't have a choice.
-Dialogue: 5,1:03:16.10,1:03:20.90,Default,,0,0,0,,If I did not do this, my cover would\Nhave been blown immediately.
-Dialogue: 5,1:03:21.98,1:03:25.49,Default,,0,0,0,,Much less against a race with superior intelligence,
-Dialogue: 5,1:03:25.49,1:03:29.49,Default,,0,0,0,,No one would ever imagine\Nsuch suicidal behavior, right?
+Dialogue: 5,1:03:16.10,1:03:20.90,Default,,0,0,0,,I had to do it or my cover would \Nhave been blown immediately.
+Dialogue: 5,1:03:21.98,1:03:25.49,Default,,0,0,0,,Even more so against the race of higher intelligence,
+Dialogue: 5,1:03:25.49,1:03:29.49,Default,,0,0,0,,no one would ever imagine\Nsuch suicidal behavior, right?
 Dialogue: 5,1:03:32.08,1:03:33.37,Default,,0,0,0,,Riku!
-Dialogue: 5,1:03:35.20,1:03:37.46,Default,,0,0,0,,I think this is maybe it for me.
+Dialogue: 5,1:03:35.20,1:03:37.46,Default,,0,0,0,,I guess that's it for me.
 Dialogue: 5,1:03:39.33,1:03:43.96,Default,,0,0,0,,So, how much longer do you think I've got?
-Dialogue: 5,1:03:45.30,1:03:46.67,Default,,0,0,0,,I won't let you die.
+Dialogue: 5,1:03:45.30,1:03:46.67,Default,,0,0,0,,You won't die.
 Dialogue: 5,1:03:47.01,1:03:49.80,Default,,0,0,0,,You have to stay alive until I die.
-Dialogue: 5,1:03:51.30,1:03:54.81,Default,,0,0,0,,What is the lifespan of an Ex-machina?
-Dialogue: 5,1:03:54.81,1:03:58.52,Default,,0,0,0,,I have another 892 years left to live.
+Dialogue: 5,1:03:51.30,1:03:54.81,Default,,0,0,0,,Ex-machina's lifespan, how long is it?
+Dialogue: 5,1:03:54.81,1:03:56.31,Default,,0,0,0,,In my service life,
+Dialogue: 5,1:03:56.31,1:03:58.52,Default,,0,0,0,,I have another 892 years.
 Dialogue: 5,1:04:00.19,1:04:03.48,Default,,0,0,0,,I guess I'll have to step it up then.
 Dialogue: 5,1:04:06.65,1:04:08.65,Default,,0,0,0,,And so the first objective was secured:
 Dialogue: 5,1:04:09.20,1:04:14.08,Default,,0,0,0,,Moving the battle away from the human territories.
 Dialogue: 5,1:04:15.16,1:04:17.33,Default,,0,0,0,,First the Dwarves and now the Elves.
-Dialogue: 5,1:04:17.91,1:04:20.75,Default,,0,0,0,,Even the Werebeasts are leaving!
-Dialogue: 5,1:04:20.75,1:04:22.38,Default,,0,0,0,,What's going on?
-Dialogue: 5,1:04:23.84,1:04:26.80,Default,,0,0,0,,Lily, keep a watch out for me while I am gone!
+Dialogue: 5,1:04:17.91,1:04:20.75,Default,,0,0,0,,Even the Werebeasts are leaving.
+Dialogue: 5,1:04:20.75,1:04:22.38,Default,,0,0,0,,What is going on?
+Dialogue: 5,1:04:23.84,1:04:26.80,Default,,0,0,0,,Lily, please keep the watch while I am gone!
 Dialogue: 5,1:04:26.80,1:04:28.30,Default,,0,0,0,,Wait, Couronne!
 Dialogue: 5,1:04:31.01,1:04:34.18,Default,,0,0,0,,The ghosts continued to take action from behind the scenes.
 Dialogue: 5,1:04:34.89,1:04:38.56,Default,,0,0,0,,And just like we wanted,\Nthe Elves eventually became allies with the Fairies,
-Dialogue: 5,1:04:38.56,1:04:43.98,Default,,0,0,0,,and moved to ramp up their contracts with the\NDragonia in order to oppose all the Dwarvish fleet.
-Dialogue: 5,1:04:44.82,1:04:48.61,Default,,0,0,0,,Meanwhile, the Dwarves became allies with the Gigants,
-Dialogue: 5,1:04:48.61,1:04:51.20,Default,,0,0,0,,as well as several Phantasmas,\Nwho were all on friendly terms.
+Dialogue: 5,1:04:38.56,1:04:43.98,Default,,0,0,0,,and moved to ramp up their contracts with the\NDragonia to oppose all the Dwarvish fleet.
+Dialogue: 5,1:04:44.82,1:04:48.61,Default,,0,0,0,,Meanwhile, the Dwarves became allies with the Giants,
+Dialogue: 5,1:04:48.61,1:04:51.20,Default,,0,0,0,,as well as several Phantasmas, who were on friendly terms.
 Dialogue: 5,1:04:52.07,1:04:54.37,Default,,0,0,0,,Manipulated by the ghosts' information,
-Dialogue: 5,1:04:54.37,1:04:58.58,Default,,0,0,0,,each of the major powers took steps to guard against\Nthe large scale destructive weaponry of the other,
-Dialogue: 5,1:04:58.58,1:05:01.62,Default,,0,0,0,,moving their headquarters to the\Nneighboring continent of Ariena.
-Dialogue: 5,1:05:03.08,1:05:08.05,Default,,0,0,0,,And well, that just so happens to be the\Nhome base of the greatest threat of all:
-Dialogue: 5,1:05:08.05,1:05:12.59,Default,,0,0,0,,the Old Deus Artosh.
+Dialogue: 5,1:04:54.37,1:04:58.58,Default,,0,0,0,,each crucial pawn took steps to guard itself \Nagainst the destructive threat of the other,
+Dialogue: 5,1:04:58.58,1:05:01.62,Default,,0,0,0,,moving its forces to the\Nneighboring continent of Ariena.
+Dialogue: 5,1:05:03.08,1:05:08.05,Default,,0,0,0,,Which just happens to be \Nthe home base of the Flügels' sovereign,
+Dialogue: 5,1:05:08.05,1:05:12.59,Default,,0,0,0,,the Old Deus - Artosh.
 Dialogue: 5,1:05:15.97,1:05:17.14,Default,,0,0,0,,Umweg:
 Dialogue: 5,1:05:19.85,1:05:22.56,Default,,0,0,0,,23 units are now installed.
-Dialogue: 5,1:05:22.56,1:05:24.65,Default,,0,0,0,,That leaves nine remaining.
+Dialogue: 5,1:05:22.56,1:05:24.65,Default,,0,0,0,,That leaves nine more.
 Dialogue: 5,1:05:25.86,1:05:29.36,Default,,0,0,0,,And so, as each of the other races\Nstarted to take advantage of the situation,
 Dialogue: 5,1:05:29.36,1:05:33.24,Default,,0,0,0,,the clock began ticking down to the world's final battle.
 Dialogue: 5,1:05:35.03,1:05:38.29,Default,,0,0,0,,Exactly like we planned.
