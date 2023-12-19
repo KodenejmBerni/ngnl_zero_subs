@@ -1125,42 +1125,44 @@ Dialogue: 5,1:04:09.20,1:04:14.08,Default,,0,0,0,,Moving the battle away from th
 Dialogue: 5,1:04:15.16,1:04:17.33,Default,,0,0,0,,First the Dwarves and now the Elves.
 Dialogue: 5,1:04:17.91,1:04:20.75,Default,,0,0,0,,Even the Werebeasts are leaving.
 Dialogue: 5,1:04:20.75,1:04:22.38,Default,,0,0,0,,What is going on?
-Dialogue: 5,1:04:23.84,1:04:26.80,Default,,0,0,0,,Lily, please keep the watch while I am gone!
+Dialogue: 5,1:04:23.84,1:04:26.80,Default,,0,0,0,,Lily, please keep a watch for me!
 Dialogue: 5,1:04:26.80,1:04:28.30,Default,,0,0,0,,Wait, Couronne!
 Dialogue: 5,1:04:31.01,1:04:34.18,Default,,0,0,0,,The ghosts continued to take action from behind the scenes.
 Dialogue: 5,1:04:34.89,1:04:38.56,Default,,0,0,0,,And just like we wanted,\Nthe Elves eventually became allies with the Fairies,
 Dialogue: 5,1:04:38.56,1:04:43.98,Default,,0,0,0,,and moved to ramp up their contracts with the\NDragonia to oppose all the Dwarvish fleet.
 Dialogue: 5,1:04:44.82,1:04:48.61,Default,,0,0,0,,Meanwhile, the Dwarves became allies with the Giants,
-Dialogue: 5,1:04:48.61,1:04:51.20,Default,,0,0,0,,as well as several Phantasmas, who were on friendly terms.
+Dialogue: 5,1:04:48.61,1:04:51.20,Default,,0,0,0,,as well as several Phantasmas who were on friendly terms.
 Dialogue: 5,1:04:52.07,1:04:54.37,Default,,0,0,0,,Manipulated by the ghosts' information,
 Dialogue: 5,1:04:54.37,1:04:58.58,Default,,0,0,0,,each crucial pawn took steps to guard itself \Nagainst the destructive threat of the other,
 Dialogue: 5,1:04:58.58,1:05:01.62,Default,,0,0,0,,moving its forces to the\Nneighboring continent of Ariena.
-Dialogue: 5,1:05:03.08,1:05:08.05,Default,,0,0,0,,Which just happens to be \Nthe home base of the Flügels' sovereign,
+Dialogue: 5,1:05:03.08,1:05:08.05,Default,,0,0,0,,Which just happened to be \Nthe home base of the Flügels' sovereign,
 Dialogue: 5,1:05:08.05,1:05:12.59,Default,,0,0,0,,the Old Deus - Artosh.
 Dialogue: 5,1:05:15.97,1:05:17.14,Default,,0,0,0,,Umweg:
 Dialogue: 5,1:05:19.85,1:05:22.56,Default,,0,0,0,,23 units are now installed.
 Dialogue: 5,1:05:22.56,1:05:24.65,Default,,0,0,0,,That leaves nine more.
-Dialogue: 5,1:05:25.86,1:05:29.36,Default,,0,0,0,,And so, as each of the other races\Nstarted to take advantage of the situation,
-Dialogue: 5,1:05:29.36,1:05:33.24,Default,,0,0,0,,the clock began ticking down to the world's final battle.
-Dialogue: 5,1:05:35.03,1:05:38.29,Default,,0,0,0,,Exactly like we planned.
+Dialogue: 5,1:05:25.86,1:05:29.36,Default,,0,0,0,,And so, as each race tried to get the situation under control,
+Dialogue: 5,1:05:29.36,1:05:33.24,Default,,0,0,0,,the time began counting down to the world's final battle.
+Dialogue: 5,1:05:35.03,1:05:36.73,Default,,0,0,0,,Exactly
+Dialogue: 5,1:05:36.73,1:05:38.73,Default,,0,0,0,,like clockwork.
 Dialogue: 5,1:05:40.33,1:05:41.79,Default,,0,0,0,,Hey Schwi,
-Dialogue: 5,1:05:42.04,1:05:44.79,Default,,0,0,0,,of all the Gods, is there a god of games?
-Dialogue: 5,1:05:45.92,1:05:50.09,Default,,0,0,0,,If I told you I met him, would you believe me?
-Dialogue: 5,1:05:51.67,1:05:55.34,Default,,0,0,0,,He always makes moves way beyond my anticipation,
-Dialogue: 5,1:05:55.84,1:05:58.18,Default,,0,0,0,,and of course I lose to him every single time,
-Dialogue: 5,1:05:58.64,1:05:58.89,Default,,0,0,0,,and yet,
-Dialogue: 5,1:05:59.85,1:06:02.39,Default,,0,0,0,,it's so much fun that I can't stand it.
-Dialogue: 5,1:06:02.39,1:06:06.40,Default,,0,0,0,,I always think that—
-Dialogue: 5,1:06:06.56,1:06:10.32,Default,,0,0,0,,Next time for sure I can beat him.
-Dialogue: 5,1:06:10.32,1:06:13.20,Default,,0,0,0,,That's why I have to settle\Nthings with him once and for all.
-Dialogue: 5,1:06:13.65,1:06:17.70,Default,,0,0,0,,Because that game of ours isn't over yet.
+Dialogue: 5,1:05:42.04,1:05:44.79,Default,,0,0,0,,is there anyone such as god of games?
+Dialogue: 5,1:05:45.92,1:05:50.09,Default,,0,0,0,,If I'd told you I've met him...
+Dialogue: 5,1:05:51.67,1:05:55.34,Default,,0,0,0,,He always moves way beyond my predictions
+Dialogue: 5,1:05:55.84,1:05:58.18,Default,,0,0,0,,and of course I lose every single time.
+Dialogue: 5,1:05:58.64,1:06:00.15,Default,,0,0,0,,And yet,
+Dialogue: 5,1:06:00.15,1:06:02.39,Default,,0,0,0,,it's so much fun to play.
+Dialogue: 5,1:06:02.39,1:06:06.40,Default,,0,0,0,,I always... I always have the feeling that...
+Dialogue: 5,1:06:06.56,1:06:09.02,Default,,0,0,0,,I'll beat him the next time.
+Dialogue: 5,1:06:09.02,1:06:13.20,Default,,0,0,0,,That's why, we still have to settle\Nthings between us.
+Dialogue: 5,1:06:13.65,1:06:15.95,Default,,0,0,0,,Because that worthy game of ours
+Dialogue: 5,1:06:15.95,1:06:17.70,Default,,0,0,0,,hasn't come yet.
 Dialogue: 5,1:06:18.87,1:06:20.79,Default,,0,0,0,,If you believe it,
 Dialogue: 5,1:06:20.79,1:06:22.00,Default,,0,0,0,,then,
 Dialogue: 5,1:06:22.45,1:06:23.71,Default,,0,0,0,,I believe it too.
 Dialogue: 5,1:06:25.21,1:06:27.71,Default,,0,0,0,,If you say he exists, then he does.
-Dialogue: 5,1:06:28.50,1:06:30.88,Default,,0,0,0,,I do not doubt you anymore.
+Dialogue: 5,1:06:28.50,1:06:30.88,Default,,0,0,0,,I have no doubts about that.
 Dialogue: 5,1:06:33.05,1:06:34.88,Default,,0,0,0,,Oh come on!
-Dialogue: 5,1:06:35.22,1:06:39.14,Default,,0,0,0,,Why isn't someone here to hear you say that?!\NThey wouldn't believe me!
+Dialogue: 5,1:06:35.22,1:06:39.14,Default,,0,0,0,,You're so wonderful!\NWhy there's no one here to hear this?!
 Dialogue: 5,1:06:39.85,1:06:41.14,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:42.93,1:06:44.06,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:45.94,1:06:47.35,Default,,0,0,0,,Couronne.
