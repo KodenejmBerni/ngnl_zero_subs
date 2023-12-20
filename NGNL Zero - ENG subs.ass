@@ -1168,45 +1168,47 @@ Dialogue: 5,1:06:42.93,1:06:44.06,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:45.94,1:06:47.35,Default,,0,0,0,,Couronne.
 Dialogue: 5,1:06:50.27,1:06:52.19,Default,,0,0,0,,It's just like you said,
 Dialogue: 5,1:06:52.19,1:06:54.11,Default,,0,0,0,,we haven't lost a single person to the war,
-Dialogue: 5,1:06:55.20,1:06:58.07,Default,,0,0,0,,and sightings of the other races have dried up too.
+Dialogue: 5,1:06:55.20,1:06:58.07,Default,,0,0,0,,and sightings of the other races have decreased too.
 Dialogue: 5,1:06:58.07,1:06:58.87,Default,,0,0,0,,Yeah you bet.
-Dialogue: 5,1:06:59.83,1:07:02.49,Default,,0,0,0,,Well, if you two are the ones behind all of this,
-Dialogue: 5,1:07:02.49,1:07:05.37,Default,,0,0,0,,then I daresay that you are\Ndoing something pretty amazing.
-Dialogue: 5,1:07:05.37,1:07:06.75,Default,,0,0,0,,But Riku!
-Dialogue: 5,1:07:06.75,1:07:09.50,Default,,0,0,0,,Do you realize the shape you are in right now?
+Dialogue: 5,1:06:59.83,1:07:02.49,Default,,0,0,0,,If you're the ones behind all of this,
+Dialogue: 5,1:07:02.49,1:07:05.37,Default,,0,0,0,,then it just leaves me speechless...
+Dialogue: 5,1:07:05.37,1:07:06.75,Default,,0,0,0,,But still, Riku!
+Dialogue: 5,1:07:06.75,1:07:09.50,Default,,0,0,0,,Do you realize what shape you are in rigth now?
 Dialogue: 5,1:07:09.50,1:07:10.25,Default,,0,0,0,,It's not a problem.
-Dialogue: 5,1:07:10.25,1:07:11.38,Default,,0,0,0,,It's a big problem Riku!
-Dialogue: 5,1:07:12.05,1:07:14.01,Default,,0,0,0,,You're falling apart.
+Dialogue: 5,1:07:10.25,1:07:11.38,Default,,0,0,0,,It's a huge problem!
+Dialogue: 5,1:07:12.05,1:07:14.01,Default,,0,0,0,,You're falling apart...
 Dialogue: 5,1:07:14.42,1:07:16.72,Default,,0,0,0,,We're almost there.
 Dialogue: 5,1:07:17.05,1:07:17.89,Default,,0,0,0,,Please overlook it.
-Dialogue: 5,1:07:20.35,1:07:21.85,Default,,0,0,0,,But when is almost?
-Dialogue: 5,1:07:21.85,1:07:22.89,Default,,0,0,0,,When will it be over?
+Dialogue: 5,1:07:20.35,1:07:21.85,Default,,0,0,0,,Almost?
+Dialogue: 5,1:07:21.85,1:07:22.89,Default,,0,0,0,,What on earth...
 Dialogue: 5,1:07:24.10,1:07:26.81,Default,,0,0,0,,How long do you want to worry me?
 Dialogue: 5,1:07:32.40,1:07:33.15,Default,,0,0,0,,Hey Couronne,
-Dialogue: 5,1:07:34.48,1:07:37.91,Default,,0,0,0,,do you know what the gods\Nare after with this war of theirs?
-Dialogue: 5,1:07:39.03,1:07:40.91,Default,,0,0,0,,The throne of the One True God.
+Dialogue: 5,1:07:34.48,1:07:37.91,Default,,0,0,0,,do you know what the gods are\Nafter with this war of theirs?
+Dialogue: 5,1:07:39.03,1:07:40.91,Default,,0,0,0,,The ultimate tiltle.
 Dialogue: 5,1:07:40.91,1:07:43.29,Default,,0,0,0,,Yeah, according to Schwi,
-Dialogue: 5,1:07:43.29,1:07:46.04,Default,,0,0,0,,it's something they refer to as the Suniaster.
-Dialogue: 5,1:07:46.58,1:07:48.71,Default,,0,0,0,,It's a kind of conceptual device.
-Dialogue: 5,1:07:48.71,1:07:54.55,Default,,0,0,0,,And it was designed so that out of all of those big fancy\NOld Deus idiots, only one of them can be called God.
-Dialogue: 5,1:07:54.55,1:07:56.55,Default,,0,0,0,,A conceptual device?
-Dialogue: 5,1:07:57.22,1:07:59.84,Default,,0,0,0,,Where on earth is something like that supposed to be?
-Dialogue: 5,1:08:00.43,1:08:03.35,Default,,0,0,0,,The conditions for the manifestation of the Suniaster:
+Dialogue: 5,1:07:43.29,1:07:46.04,Default,,0,0,0,,they refer to it as the Suniaster.
+Dialogue: 5,1:07:46.58,1:07:48.71,Default,,0,0,0,,It's some kind of Deus device.
+Dialogue: 5,1:07:48.71,1:07:53.10,Default,,0,0,0,,And it was created so that one of those fancy Old Deus idiots could be called...
+Dialogue: 5,1:07:53.10,1:07:54.40,Default,,0,0,0,,The One True God.
+Dialogue: 5,1:07:54.85,1:07:56.55,Default,,0,0,0,,The One True God?
+Dialogue: 5,1:07:57.22,1:07:59.84,Default,,0,0,0,,Where something like that is supposed to be?
+Dialogue: 5,1:08:00.43,1:08:03.35,Default,,0,0,0,,The conditions for the Suniaster:
 Dialogue: 5,1:08:03.35,1:08:07.06,Default,,0,0,0,,It will manifest itself in front of\Nthe greatest power on the planet.
-Dialogue: 5,1:08:07.48,1:08:11.90,Default,,0,0,0,,And if there are ten gods out there with equal power,
-Dialogue: 5,1:08:11.90,1:08:15.19,Default,,0,0,0,,they will have to kill all the other nine,\Nmaking whoever is left the One True God.
-Dialogue: 5,1:08:15.73,1:08:17.57,Default,,0,0,0,,That's their twisted way of thinking.
-Dialogue: 5,1:08:17.57,1:08:20.03,Default,,0,0,0,,What? That's so stupid!
-Dialogue: 5,1:08:20.41,1:08:22.82,Default,,0,0,0,,So that's the reason that we've been—
-Dialogue: 5,1:08:22.82,1:08:26.08,Default,,0,0,0,,Couronne, that's too subtle to call them stupid.
+Dialogue: 5,1:08:07.48,1:08:11.90,Default,,0,0,0,,Thus, if there are ten powerful gods out there,
+Dialogue: 5,1:08:11.90,1:08:15.73,Default,,0,0,0,,killing all the other nine will solve the problem, right?
+Dialogue: 5,1:08:15.73,1:08:17.57,Default,,0,0,0,,That's their brainless thinking.
+Dialogue: 5,1:08:17.57,1:08:20.03,Default,,0,0,0,,Wha— That's stupid!
+Dialogue: 5,1:08:20.41,1:08:22.82,Default,,0,0,0,,And that's the reason that we've been—
+Dialogue: 5,1:08:22.82,1:08:26.08,Default,,0,0,0,,Couronne, calling them stupid is barely enough.
 Dialogue: 5,1:08:26.58,1:08:28.37,Default,,0,0,0,,After all,
-Dialogue: 5,1:08:28.37,1:08:32.96,Default,,0,0,0,,even without doing all that,\Nwe can still make the Suniaster appear.
-Dialogue: 5,1:08:34.21,1:08:36.96,Default,,0,0,0,,And that's why I've gathered all\Nthese handsome fellas together.
+Dialogue: 5,1:08:28.37,1:08:32.96,Default,,0,0,0,,even without all that effort,\Nthe Suniaster will nicely show up.
+Dialogue: 5,1:08:34.21,1:08:36.96,Default,,0,0,0,,And that's why we've gathered all\Nthese handsome fellas together.
 Dialogue: 5,1:08:38.42,1:08:40.34,Default,,0,0,0,,The Áka Si Anse,
 Dialogue: 5,1:08:40.34,1:08:41.97,Default,,0,0,0,,the E-bomb,
 Dialogue: 5,1:08:41.97,1:08:43.10,Default,,0,0,0,,the Heaven's strike.
-Dialogue: 5,1:08:43.10,1:08:46.97,Default,,0,0,0,,All these extraordinary powers\Nthat we gathered in this one spot...
-Dialogue: 5,1:08:47.68,1:08:50.35,Default,,0,0,0,,We will use it to pierce through this planet.
+Dialogue: 5,1:08:43.10,1:08:46.97,Default,,0,0,0,,All these enormous powers,\Ngathered for one purpose...
+Dialogue: 5,1:08:47.68,1:08:49.48,Default,,0,0,0,,To break through
+Dialogue: 5,1:08:49.48,1:08:50.35,Default,,0,0,0,,the planet.
 Dialogue: 5,1:08:51.02,1:08:52.06,Default,,0,0,0,,The planet?!
 Dialogue: 5,1:08:52.48,1:08:55.73,Default,,0,0,0,,All the Old Deus were literally born from this world.
 Dialogue: 5,1:08:55.73,1:08:58.15,Default,,0,0,0,,They all came from the spirit circuit.
