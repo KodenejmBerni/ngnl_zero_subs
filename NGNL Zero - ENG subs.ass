@@ -1269,12 +1269,13 @@ Dialogue: 5,1:12:36.49,1:12:37.45,Default,,0,0,0,,Forgive me.
 Dialogue: 5,1:12:39.62,1:12:42.54,Default,,0,0,0,,I'll be back.
 Dialogue: 5,1:12:44.84,1:12:47.21,Default,,0,0,0,,The Elves have the Áka Si Anse.
 Dialogue: 5,1:12:47.21,1:12:49.47,Default,,0,0,0,,The Dwarfs have their E-bomb.
-Dialogue: 5,1:12:49.47,1:12:53.09,Default,,0,0,0,,But they're both still small fries\Nand yet challenging Lord Artosh.
-Dialogue: 5,1:12:53.09,1:12:54.68,Default,,0,0,0,,What foolishness! Nya!
+Dialogue: 5,1:12:49.47,1:12:50.97,Default,,0,0,0,,They're both small fries
+Dialogue: 5,1:12:50.97,1:12:53.09,Default,,0,0,0,,and yet challenging Lord Artosh.
+Dialogue: 5,1:12:53.09,1:12:54.68,Default,,0,0,0,,What stupidity! Nya!
 Dialogue: 5,1:12:56.72,1:12:57.72,Default,,0,0,0,,That hurt—
-Dialogue: 5,1:12:57.72,1:13:02.02,Default,,0,0,0,,You're the one who's foolish Azriel,\Nwe can't afford to make any brazen moves ourselves.
-Dialogue: 5,1:13:02.94,1:13:05.57,Default,,0,0,0,,If Lord Artosh is awaiting the right opportunity,
-Dialogue: 5,1:13:05.57,1:13:07.48,Default,,0,0,0,,then so we must all wait as well.
+Dialogue: 5,1:12:57.72,1:13:02.02,Default,,0,0,0,,You're the one stupid Azriel.\NBut I understand your impatience...
+Dialogue: 5,1:13:02.94,1:13:05.57,Default,,0,0,0,,Lord Artosh has been silent for some time,
+Dialogue: 5,1:13:05.57,1:13:07.48,Default,,0,0,0,,no one knows how much longer it will last.
 Dialogue: 5,1:13:09.74,1:13:11.86,Default,,0,0,0,,Rather boring, isn't it?
 Dialogue: 5,1:13:18.83,1:13:20.58,Default,,0,0,0,,Eight more.
 Dialogue: 5,1:13:21.71,1:13:26.04,Default,,0,0,0,,If I acquire the Suniaster, then Riku will not die.
