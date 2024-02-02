@@ -1314,7 +1314,7 @@ Dialogue: 5,1:15:29.42,1:15:33.05,Default,,0,0,0,,All armaments, fire power and 
 Dialogue: 5,1:15:34.67,1:15:36.55,Default,,0,0,0,,set to maximum output.
 Dialogue: 5,1:15:37.93,1:15:41.93,Default,,0,0,0,,Oh my. I knew the Ex-machinas learn to imitate the deadliest attack
 Dialogue: 5,1:15:41.93,1:15:44.89,Default,,0,0,0,,performed by an enemy.
-Dialogue: 5,1:15:46.06,1:15:49.15,Default,,0,0,0,,Have any of your kind died of laughter?
+Dialogue: 5,1:15:46.06,1:15:49.15,Default,,0,0,0,,But have any of your kind died of laughter?
 Dialogue: 5,1:15:49.85,1:15:50.98,Default,,0,0,0,,Over-boost!
 Dialogue: 5,1:16:05.37,1:16:07.00,Default,,0,0,0,,Asyut-Armor!
 Dialogue: 5,1:16:15.09,1:16:20.05,Default,,0,0,0,,Not very kind to the environment, scattering dead spirits like that.
@@ -1338,42 +1338,43 @@ Dialogue: 5,1:17:44.18,1:17:45.47,Default,,0,0,0,,Riku...
 Dialogue: 5,1:17:47.14,1:17:49.18,Default,,0,0,0,,I don't want to die.
 Dialogue: 5,1:17:49.18,1:17:50.14,Default,,0,0,0,,I can't die.
 Dialogue: 5,1:17:51.02,1:17:53.23,Default,,0,0,0,,We cannot fail...
-Dialogue: 5,1:17:53.94,1:17:56.31,Default,,0,0,0,,because of me.
+Dialogue: 5,1:17:53.94,1:17:56.31,Default,,0,0,0,,because of me!
 Dialogue: 5,1:18:03.57,1:18:07.24,Default,,0,0,0,,All I can do now...
 Dialogue: 5,1:18:08.54,1:18:12.41,Default,,0,0,0,,All I can do for Riku is...
 Dialogue: 5,1:18:14.96,1:18:22.72,Default,,0,0,0,,Unit identification: ÜC207PR4F57T9.
-Dialogue: 5,1:18:22.72,1:18:26.52,Default,,0,0,0,,My analysis of the human heart has led to crucial conclusions.
+Dialogue: 5,1:18:22.72,1:18:26.52,Default,,0,0,0,,Eins, my analysis of the human heart has led to crucial conclusions.
 Dialogue: 5,1:18:26.52,1:18:28.43,Default,,0,0,0,,I'm requesting reconnection!
 Dialogue: 5,1:18:28.43,1:18:34.23,Default,,0,0,0,,Due to a long period of disconnection, your data is\Nsuspected to contain a large amount of critical errors.
-Dialogue: 5,1:18:34.23,1:18:35.81,Default,,0,0,0,,Your request has been denied.
-Dialogue: 5,1:18:35.81,1:18:37.48,Default,,0,0,0,,Reason rejected!
-Dialogue: 5,1:18:37.48,1:18:42.69,Default,,0,0,0,,All Prüfer reports and analytical studies are\Nrequired to be sent to the Einzieg for analysis.
-Dialogue: 5,1:18:42.69,1:18:44.65,Default,,0,0,0,,I strongly urge for my application for re-connection.
-Dialogue: 5,1:18:44.65,1:18:46.49,Default,,0,0,0,,To be acknowledged.
-Dialogue: 5,1:18:47.45,1:18:50.49,Default,,0,0,0,,Einzieg, no... Correction:
-Dialogue: 5,1:18:50.66,1:18:51.74,Default,,0,0,0,,You stubborn blockhead!
-Dialogue: 5,1:18:55.96,1:18:58.50,Default,,0,0,0,,In actual fact, I don't want to give this to anyone!
-Dialogue: 5,1:18:58.50,1:19:01.55,Default,,0,0,0,,I love Riku, I don't want to be separated from him.
-Dialogue: 5,1:19:01.55,1:19:03.17,Default,,0,0,0,,Because this is embarrassing.
-Dialogue: 5,1:19:03.17,1:19:06.09,Default,,0,0,0,,These countless errors of feelings Riku gave me.
-Dialogue: 5,1:19:06.59,1:19:10.51,Default,,0,0,0,,These are all mine.
-Dialogue: 5,1:19:10.51,1:19:12.35,Default,,0,0,0,,And I am saying that I will hand them over!
+Dialogue: 5,1:18:34.23,1:18:35.81,Default,,0,0,0,,Your request has been rejected.
+Dialogue: 5,1:18:35.81,1:18:37.48,Default,,0,0,0,,Reasoning inaccurate!
+Dialogue: 5,1:18:37.48,1:18:39.48,Default,,0,0,0,,Urgent forwarding to Einzig requested.
+Dialogue: 5,1:18:39.48,1:18:42.69,Default,,0,0,0,,All data is required to be sent for further analysis.
+Dialogue: 5,1:18:42.69,1:18:46.49,Default,,0,0,0,,I know you lack permissions to reject this!
+Dialogue: 5,1:18:47.45,1:18:50.49,Default,,0,0,0,,Eins... no, correction...
+Dialogue: 5,1:18:50.66,1:18:51.74,Default,,0,0,0,,you stubborn moron!
+Dialogue: 5,1:18:55.96,1:18:58.50,Default,,0,0,0,,Actually, I don't want to give this to anyone!
+Dialogue: 5,1:18:58.50,1:19:01.55,Default,,0,0,0,,I love Riku, I don't want to say goodbye.
+Dialogue: 5,1:19:01.55,1:19:03.17,Default,,0,0,0,,It's embarrassing...
+Dialogue: 5,1:19:03.17,1:19:06.09,Default,,0,0,0,,These countless mysterious feelings Riku gave me.
+Dialogue: 5,1:19:06.59,1:19:10.51,Default,,0,0,0,,These are all mine
+Dialogue: 5,1:19:10.51,1:19:12.35,Default,,0,0,0,,and I want to hand them over!
 Dialogue: 5,1:19:13.31,1:19:15.60,Default,,0,0,0,,Do you know what that means, idiot?
-Dialogue: 5,1:19:16.02,1:19:17.60,Default,,0,0,0,,Stop your blabbering,
-Dialogue: 5,1:19:18.02,1:19:21.15,Default,,0,0,0,,and inherit these thoughts!
-Dialogue: 5,1:19:38.79,1:19:41.04,Default,,0,0,0,,As expected, your unit is damaged.
-Dialogue: 5,1:19:41.96,1:19:43.25,Default,,0,0,0,,I know.
-Dialogue: 5,1:19:43.25,1:19:47.05,Default,,0,0,0,,It's contradicting and failing,\Nand yet still manages to function.
-Dialogue: 5,1:19:47.05,1:19:48.18,Default,,0,0,0,,This is an anomaly.
-Dialogue: 5,1:19:48.18,1:19:49.14,Default,,0,0,0,,I know that as well.
+Dialogue: 5,1:19:16.02,1:19:17.60,Default,,0,0,0,,Stop your jabbering
+Dialogue: 5,1:19:18.02,1:19:21.15,Default,,0,0,0,,and inherit these thoughts! 
+Dialogue: 5,1:19:38.79,1:19:41.04,Default,,0,0,0,,Your unit is indeed broken.
+Dialogue: 5,1:19:42.26,1:19:43.25,Default,,0,0,0,,I know.
+Dialogue: 5,1:19:43.25,1:19:47.05,Default,,0,0,0,,Inconsistent, unsettled and yet it manages to function.
+Dialogue: 5,1:19:47.05,1:19:48.18,Default,,0,0,0,,Anomaly.
+Dialogue: 5,1:19:48.18,1:19:49.14,Default,,0,0,0,,I know that too!
 Dialogue: 5,1:19:49.68,1:19:51.76,Default,,0,0,0,,It's impossible.
-Dialogue: 5,1:19:51.76,1:19:57.31,Default,,0,0,0,,This is the reality—\Nthis heart that Riku gave me is the proof!
-Dialogue: 5,1:19:58.73,1:20:02.57,Default,,0,0,0,,In consideration of said status,\Nit is deemed your unit contains valuable sample data.
-Dialogue: 5,1:20:04.32,1:20:08.99,Default,,0,0,0,,Re-initiating data synchronization.\NCompletion time is 251 seconds.
+Dialogue: 5,1:19:51.76,1:19:57.31,Default,,0,0,0,,That's the reality... the whole study of Riku's heart is the proof!
+Dialogue: 5,1:19:58.73,1:20:00.23,Default,,0,0,0,,Your unit 
+Dialogue: 5,1:20:00.23,1:20:02.57,Default,,0,0,0,,is considered to contain valuable data.
+Dialogue: 5,1:20:04.32,1:20:08.99,Default,,0,0,0,,Reinitiating data synchronization.\NCompletion in 251 seconds.
 Dialogue: 5,1:20:08.99,1:20:12.08,Default,,0,0,0,,During this time, destruction to your unit is forbidden.
 Dialogue: 5,1:20:14.12,1:20:15.83,Default,,0,0,0,,Alles-Lösen.
-Dialogue: 5,1:20:16.00,1:20:16.87,Default,,0,0,0,,Forme...
-Dialogue: 5,1:20:16.87,1:20:19.83,Default,,0,0,0,,Initiating the algorithm for combating unknown foes.
+Dialogue: 5,1:20:16.00,1:20:19.00,Default,,0,0,0,,Forme. Algorithm for combating unknown foes:
+Dialogue: 5,1:20:19.00,1:20:19.60,Default,,0,0,0,,initiation.
 Dialogue: 5,1:20:22.42,1:20:24.55,Default,,0,0,0,,These emotions the heart gave—
 Dialogue: 5,1:20:27.42,1:20:33.76,Default,,0,0,0,,Having been born a machine,\NI was given life.
 Dialogue: 5,1:20:34.97,1:20:39.31,Default,,0,0,0,,I got 251 seconds to survive, so I will... bet it all!
