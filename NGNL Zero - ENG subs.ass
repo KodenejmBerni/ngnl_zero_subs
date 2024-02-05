@@ -28,9 +28,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
 Dialogue: 5,0:00:13.07,0:00:14.16,Default,,0,0,0,,{\i1}When I was a child,
-Dialogue: 5,0:00:14.78,0:00:18.29,Default,,0,0,0,,{\i1}I thought the world was a much, much simpler place.
-Dialogue: 5,0:00:18.91,0:00:21.21,Default,,0,0,0,,{\i1}That there are no unbeatable challenges
-Dialogue: 5,0:00:21.21,0:00:25.75,Default,,0,0,0,,{\i1}and that a hard work is something\Nthat will always be rewarded.
+Dialogue: 5,0:00:14.78,0:00:18.29,Default,,0,0,0,,{\i1}the world looked like a much simpler place.
+Dialogue: 5,0:00:18.91,0:00:21.21,Default,,0,0,0,,{\i1}There were no unbeatable challenges
+Dialogue: 5,0:00:21.21,0:00:25.75,Default,,0,0,0,,{\i1}and a hard work is something\Nthat will always be rewarded.
 Dialogue: 5,0:00:34.34,0:00:35.97,Default,,0,0,0,,{\i1}The world is simple and clear:
 Dialogue: 5,0:00:37.01,0:00:39.72,Default,,0,0,0,,{\i1}you win, you lose, or it ends in a draw.
 Dialogue: 5,0:00:43.98,0:00:45.98,Default,,0,0,0,,{\i1}I need more precise moves.
@@ -39,71 +39,71 @@ Dialogue: 5,0:00:48.32,0:00:50.49,Default,,0,0,0,,{\i1}I need a superior strateg
 Dialogue: 5,0:00:51.40,0:00:53.53,Default,,0,0,0,,{\i1}Even when you're up against the best,
 Dialogue: 5,0:00:54.53,0:00:57.28,Default,,0,0,0,,{\i1}just continue experimenting\Nuntil you can win the next time.
 Dialogue: 5,0:01:00.75,0:01:02.79,Default,,0,0,0,,{\i1}Such foolish, ignorant youth.
-Dialogue: 5,0:01:29.61,0:01:32.90,Default,,0,0,0,,{\i1}At least that's what I thought.
-Dialogue: 5,0:01:37.49,0:01:39.49,Default,,0,0,0,,{\i1}The thought was nothing but an illusion,
-Dialogue: 5,0:01:40.12,0:01:42.33,Default,,0,0,0,,{\i1}a worthless child's fantasy world.
+Dialogue: 5,0:01:29.61,0:01:32.90,Default,,0,0,0,,{\i1}That's what I thought.
+Dialogue: 5,0:01:37.49,0:01:39.49,Default,,0,0,0,,{\i1}That view was nothing but an illusion,
+Dialogue: 5,0:01:40.12,0:01:42.33,Default,,0,0,0,,{\i1}a child's worthless fantasy world.
 Dialogue: 5,0:01:44.83,0:01:46.21,Default,,0,0,0,,{\i1}The truth is,
 Dialogue: 5,0:01:46.71,0:01:48.17,Default,,0,0,0,,{\i1}this world,
-Dialogue: 5,0:01:48.58,0:01:51.34,Default,,0,0,0,,{\i1}isn't only chaotic in its' inevitable events,
-Dialogue: 5,0:01:51.34,0:01:53.76,Default,,0,0,0,,{\i1}but also filled with coincidences.
-Dialogue: 5,0:01:53.76,0:01:55.30,Default,,0,0,0,,{\i1}The world is unreasonable,
+Dialogue: 5,0:01:48.58,0:01:51.34,Default,,0,0,0,,{\i1}beside being chaotic with its events,
+Dialogue: 5,0:01:51.34,0:01:53.76,Default,,0,0,0,,{\i1}is also filled with coincidences,
+Dialogue: 5,0:01:53.76,0:01:55.30,Default,,0,0,0,,{\i1}unreasonable,
 Dialogue: 5,0:01:55.30,0:01:57.01,Default,,0,0,0,,{\i1}absurd,
 Dialogue: 5,0:01:57.01,0:01:58.72,Default,,0,0,0,,{\i1}and didn't even have a meaning.
-Dialogue: 5,0:02:09.98,0:02:10.52,Default,,0,0,0,,{\i1}And so...
+Dialogue: 5,0:02:09.98,0:02:10.52,Default,,0,0,0,,{\i1}That's why...
 Dialogue: 5,0:02:17.28,0:02:18.07,Default,,0,0,0,,{\i1}the next time,
 Dialogue: 5,0:02:20.53,0:02:21.83,Default,,0,0,0,,{\i1}next time for sure—
 Dialogue: 0,0:02:37.05,0:02:40.34,TS/Pledges,,0,0,0,,{\pos(960,878)\fad(300,0)\fscx70\fscy70\t(0,300,\fscx100\fscy100)\bord4\blur7\fnA-OTF Jun Pro 34-Kami\3c&HAF02E2&}Elkia
 Dialogue: 5,0:02:38.38,0:02:39.97,Default,,0,0,0,,Why?
 Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win?!
-Dialogue: 5,0:02:47.10,0:02:51.81,Default,,0,0,0,,Not to brag or anything,\Nbut I've only been defeated once in my entire life.
+Dialogue: 5,0:02:47.10,0:02:51.81,Default,,0,0,0,,Not to brag or anything,\Nbut I've been only defeated once in my entire life.
 Dialogue: 5,0:02:57.99,0:03:00.20,Default,,0,0,0,,The sixth of the ten pledges:
 Dialogue: 0,0:02:59.45,0:03:07.16,TS/Pledges,,0,0,0,,{\alpha&H00&\fad(500,0)\3c&HEC5AF2&\blur4\pos(1046,200)}#6: Any bets made in accordance with the pledges must be upheld.
 Dialogue: 5,0:03:00.20,0:03:04.08,Default,,0,0,0,,"Any bets made in accordance\Nwith the pledges must be upheld."
-Dialogue: 5,0:03:04.08,0:03:08.54,Default,,0,0,0,,This law is absolute, per the One True\NGod who created our world of Disboard.
-Dialogue: 5,0:03:08.54,0:03:09.42,Default,,0,0,0,,I'll crush you—
+Dialogue: 5,0:03:04.08,0:03:08.54,Default,,0,0,0,,This law is absolute, per the One True God who rules our world.
+Dialogue: 5,0:03:08.54,0:03:09.42,Default,,0,0,0,,I'll crush you...
 Dialogue: 5,0:03:09.92,0:03:12.17,Default,,0,0,0,,Next time for sure, I'll definitely crush you!
-Dialogue: 5,0:03:12.63,0:03:15.21,Default,,0,0,0,,Next time for sure?
-Dialogue: 5,0:03:15.21,0:03:18.67,Default,,0,0,0,,If you couldn't beat those two, then you cannot beat me.
+Dialogue: 5,0:03:12.63,0:03:15.21,Default,,0,0,0,,"Next time for sure", huh?
+Dialogue: 5,0:03:15.21,0:03:18.67,Default,,0,0,0,,If you couldn't beat these two, you don't stand a chance with me.
 Dialogue: 5,0:03:19.38,0:03:22.05,Default,,0,0,0,,Sora and Shiro, do you know them?
 Dialogue: 5,0:03:23.60,0:03:27.31,Default,,0,0,0,,All right, during the next game,\NI will tell you an interesting story while we play.
 Dialogue: 5,0:03:27.77,0:03:30.19,Default,,0,0,0,,As a thanks for your snack just now.
 Dialogue: 5,0:03:30.19,0:03:33.81,Default,,0,0,0,,You're just trying to distract me, please.
-Dialogue: 5,0:03:33.81,0:03:36.65,Default,,0,0,0,,If you wanna talk, then just start talking, please.
-Dialogue: 5,0:03:36.65,0:03:38.28,Default,,0,0,0,,Very well then, I will!
+Dialogue: 5,0:03:33.81,0:03:36.65,Default,,0,0,0,,If you want to talk, then just talk, please.
+Dialogue: 5,0:03:36.65,0:03:38.28,Default,,0,0,0,,Great, then I will!
 Dialogue: 5,0:03:38.28,0:03:42.07,Default,,0,0,0,,Since it's an ancient myth that\Nhas never been told by anyone.
-Dialogue: 5,0:03:42.07,0:03:43.82,Default,,0,0,0,,I'm not listening anyway, please.
-Dialogue: 5,0:03:50.75,0:03:52.29,Default,,0,0,0,,So—
-Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,This story happened over six thousand years ago.
+Dialogue: 5,0:03:42.07,0:03:43.82,Default,,0,0,0,,I'm not listening, please.
+Dialogue: 5,0:03:50.75,0:03:52.29,Default,,0,0,0,,So...
+Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,this story happened over six thousand years ago.
 Dialogue: 5,0:04:02.72,0:04:07.14,Default,,0,0,0,,A bitter war raged,\Nravaging the Earth and extinguishing the planets.
-Dialogue: 5,0:04:09.39,0:04:13.15,Default,,0,0,0,,As time has gone on, no one remembers it anymore. 
+Dialogue: 5,0:04:09.39,0:04:13.15,Default,,0,0,0,,As time passed, no one remembers it anymore. 
 Dialogue: 5,0:04:15.56,0:04:16.73,Default,,0,0,0,,And yet,
-Dialogue: 5,0:04:16.98,0:04:20.44,Default,,0,0,0,,it is a one tale I will never forget.
+Dialogue: 5,0:04:16.98,0:04:20.44,Default,,0,0,0,,it's a one tale that I will never forget.
 Dialogue: 5,0:04:49.43,0:04:50.68,Default,,0,0,0,,It's a big one.
-Dialogue: 5,0:04:56.81,0:04:59.69,Default,,0,0,0,,The black ash is pouring, we should hurry.
+Dialogue: 5,0:04:56.81,0:04:59.69,Default,,0,0,0,,The black ash is falling, hurry up.
 Dialogue: 5,0:05:17.50,0:05:18.50,Default,,0,0,0,,Ivan?
 Dialogue: 5,0:05:18.50,0:05:19.75,Default,,0,0,0,,I'm okay.
 Dialogue: 5,0:05:26.43,0:05:27.80,Default,,0,0,0,,What about the spirit compas?
-Dialogue: 5,0:05:28.80,0:05:30.35,Default,,0,0,0,,It's like this, due to the black ash.
-Dialogue: 5,0:05:31.31,0:05:33.35,Default,,0,0,0,,We'll be relying on our senses for this recon.
+Dialogue: 5,0:05:28.80,0:05:31.11,Default,,0,0,0,,It's like this, due to the black ash.
+Dialogue: 5,0:05:31.11,0:05:33.35,Default,,0,0,0,,We need to rely on our senses for this one.
 Dialogue: 5,0:05:36.06,0:05:37.69,Default,,0,0,0,,Don't let your guard down.
 Dialogue: 5,0:05:37.69,0:05:38.86,Default,,0,0,0,,Riku!
 Dialogue: 5,0:05:38.86,0:05:40.73,Default,,0,0,0,,Come here quick! There's a—
 Dialogue: 5,0:05:45.32,0:05:46.70,Default,,0,0,0,,This is—
-Dialogue: 5,0:05:48.62,0:05:52.70,Default,,0,0,0,,It's a world map made by the Dwarves,\Nand it looks like this is the latest version too!
+Dialogue: 5,0:05:48.62,0:05:52.70,Default,,0,0,0,,This is a dwarven world map and it looks like it's the latest version!
 Dialogue: 5,0:05:53.70,0:05:55.21,Default,,0,0,0,,That's not all.
-Dialogue: 5,0:05:55.71,0:05:59.75,Default,,0,0,0,,It shows the balance of power between\Nthe races and even the Dwarves strategy.
+Dialogue: 5,0:05:55.71,0:05:59.75,Default,,0,0,0,,It shows the balance of power between\Nthe races and even the Dwarves' strategy.
 Dialogue: 5,0:06:01.63,0:06:03.38,Default,,0,0,0,,Ivan, Aley,
-Dialogue: 5,0:06:03.38,0:06:06.01,Default,,0,0,0,,compare this to what we've\Ngot and make any corrections.
+Dialogue: 5,0:06:03.38,0:06:06.01,Default,,0,0,0,,compare this to what we've\Ngot and make corrections.
 Dialogue: 5,0:06:06.01,0:06:07.47,Default,,0,0,0,,I'll try to make sense of this.
 Dialogue: 5,0:06:07.64,0:06:08.76,Default,,0,0,0,,Aschieto!
 Dialogue: 5,0:06:24.19,0:06:26.99,Default,,0,0,0,,A message... from the Dwarves?
-Dialogue: 5,0:06:31.53,0:06:32.74,Default,,0,0,0,,Fusion—
-Dialogue: 5,0:06:32.74,0:06:34.04,Default,,0,0,0,,Detonation?
+Dialogue: 5,0:06:31.53,0:06:32.74,Default,,0,0,0,,Fusion...
+Dialogue: 5,0:06:32.74,0:06:34.04,Default,,0,0,0,,detonation?
 Dialogue: 5,0:06:36.29,0:06:39.50,Default,,0,0,0,,How much of this world do they\Nplan to destroy?!
 Dialogue: 5,0:06:45.09,0:06:45.76,Default,,0,0,0,,Let's get out of here!
 Dialogue: 5,0:06:46.72,0:06:49.47,Default,,0,0,0,,Aley, don't take anything that uses spiritual energy.
 Dialogue: 5,0:06:49.47,0:06:50.30,Default,,0,0,0,,But!
-Dialogue: 5,0:06:50.30,0:06:51.80,Default,,0,0,0,,If you wanna die just say so.
+Dialogue: 5,0:06:50.30,0:06:51.80,Default,,0,0,0,,You wanna die, just say so.
 Dialogue: 5,0:06:53.51,0:06:54.52,Default,,0,0,0,,Fuck!
 Dialogue: 5,0:07:29.97,0:07:30.80,Default,,0,0,0,,Ivan,
 Dialogue: 5,0:07:30.80,0:07:31.97,Default,,0,0,0,,this is an order.
@@ -111,15 +111,15 @@ Dialogue: 5,0:07:32.76,0:07:33.80,Default,,0,0,0,,Die here.
 Dialogue: 5,0:07:34.14,0:07:35.31,Default,,0,0,0,,Aschieto.
 Dialogue: 5,0:07:35.68,0:07:37.06,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:07:43.90,0:07:46.11,Default,,0,0,0,,Take care of my kid.
-Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Sorry, Riku
+Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Sorry, Riku—
 Dialogue: 5,0:07:57.08,0:08:01.25,Default,,0,0,0,,The bait is here! Come and get me Demonia!
 Dialogue: 5,0:08:40.29,0:08:43.37,Default,,0,0,0,,They say there used to be something called "the sun".
 Dialogue: 5,0:08:44.92,0:08:47.29,Default,,0,0,0,,Its' white flames lit the Heavens,
 Dialogue: 5,0:08:47.80,0:08:50.55,Default,,0,0,0,,turning the skies into the most\Nbrilliant blue you've ever seen.
 Dialogue: 5,0:08:51.22,0:08:52.47,Default,,0,0,0,,An uplifting story... 
 Dialogue: 5,0:08:52.47,0:08:55.01,Default,,0,0,0,,like something out of a fairytale.
-Dialogue: 5,0:08:56.80,0:08:59.43,Default,,0,0,0,,Gods and their creations' waged eternal war.
-Dialogue: 5,0:08:59.43,0:09:07.48,Default,,0,0,0,,The Earth burned, choking the Heavens with soot\Nand raining down the ashes of the dead.
+Dialogue: 5,0:08:56.80,0:08:59.43,Default,,0,0,0,,Gods and their creations waged eternal war.
+Dialogue: 5,0:08:59.43,0:09:07.48,Default,,0,0,0,,The Earth burned, choking the heavens with soot\Nand raining down the ashes of the dead spirits.
 Dialogue: 5,0:09:12.28,0:09:13.32,Default,,0,0,0,,Riku!
 Dialogue: 5,0:09:16.62,0:09:18.37,Default,,0,0,0,,These ashes...
 Dialogue: 5,0:09:18.99,0:09:20.95,Default,,0,0,0,,it's the least we can do to honor them,
@@ -1346,9 +1346,9 @@ Dialogue: 5,1:18:22.72,1:18:26.52,Default,,0,0,0,,Eins, my analysis of the human
 Dialogue: 5,1:18:26.52,1:18:28.43,Default,,0,0,0,,I'm requesting reconnection!
 Dialogue: 5,1:18:28.43,1:18:34.23,Default,,0,0,0,,Due to a long period of disconnection, your data is\Nsuspected to contain a large amount of critical errors.
 Dialogue: 5,1:18:34.23,1:18:35.81,Default,,0,0,0,,Your request has been rejected.
-Dialogue: 5,1:18:35.81,1:18:37.48,Default,,0,0,0,,Reasoning inaccurate!
-Dialogue: 5,1:18:37.48,1:18:39.48,Default,,0,0,0,,Urgent forwarding to Einzig requested.
-Dialogue: 5,1:18:39.48,1:18:42.69,Default,,0,0,0,,All data is required to be sent for further analysis.
+Dialogue: 5,1:18:35.81,1:18:37.48,Default,,0,0,0,,Reasoning incorrect!
+Dialogue: 5,1:18:37.48,1:18:39.00,Default,,0,0,0,,Forward this to Einzig.
+Dialogue: 5,1:18:39.00,1:18:42.69,Default,,0,0,0,,All data requires to be sent for further analysis.
 Dialogue: 5,1:18:42.69,1:18:46.49,Default,,0,0,0,,I know you lack permissions to reject this!
 Dialogue: 5,1:18:47.45,1:18:50.49,Default,,0,0,0,,Eins... no, correction...
 Dialogue: 5,1:18:50.66,1:18:51.74,Default,,0,0,0,,you stubborn shithead!
@@ -1358,7 +1358,7 @@ Dialogue: 5,1:19:01.55,1:19:03.17,Default,,0,0,0,,It's embarrassing...
 Dialogue: 5,1:19:03.17,1:19:06.09,Default,,0,0,0,,These countless mysterious feelings Riku gave me.
 Dialogue: 5,1:19:06.59,1:19:10.51,Default,,0,0,0,,These are all mine
 Dialogue: 5,1:19:10.51,1:19:12.35,Default,,0,0,0,,and I want to hand them over!
-Dialogue: 5,1:19:13.31,1:19:15.60,Default,,0,0,0,,Do you know what that means, idiot?
+Dialogue: 5,1:19:13.31,1:19:15.60,Default,,0,0,0,,Do you know what that means, idiot?!
 Dialogue: 5,1:19:16.02,1:19:17.60,Default,,0,0,0,,Stop your jabbering
 Dialogue: 5,1:19:18.02,1:19:21.15,Default,,0,0,0,,and inherit these thoughts! 
 Dialogue: 5,1:19:38.79,1:19:41.04,Default,,0,0,0,,Your unit is indeed broken.
@@ -1368,27 +1368,29 @@ Dialogue: 5,1:19:47.05,1:19:48.18,Default,,0,0,0,,Anomaly.
 Dialogue: 5,1:19:48.18,1:19:49.14,Default,,0,0,0,,I know that too!
 Dialogue: 5,1:19:49.68,1:19:51.76,Default,,0,0,0,,It's impossible.
 Dialogue: 5,1:19:51.76,1:19:57.31,Default,,0,0,0,,That's the reality... the whole study of Riku's heart is the proof!
-Dialogue: 5,1:19:58.73,1:20:00.23,Default,,0,0,0,,Your unit 
+Dialogue: 5,1:19:58.73,1:20:00.23,Default,,0,0,0,,Your unit
 Dialogue: 5,1:20:00.23,1:20:02.57,Default,,0,0,0,,is considered to contain valuable data.
 Dialogue: 5,1:20:04.32,1:20:08.99,Default,,0,0,0,,Reinitiating data synchronization.\NCompletion in 251 seconds.
 Dialogue: 5,1:20:08.99,1:20:12.08,Default,,0,0,0,,During this time, destruction to your unit is forbidden.
 Dialogue: 5,1:20:14.12,1:20:15.83,Default,,0,0,0,,Alles-Lösen.
 Dialogue: 5,1:20:16.00,1:20:19.00,Default,,0,0,0,,Forme. Algorithm for combating unknown foes:
 Dialogue: 5,1:20:19.00,1:20:19.60,Default,,0,0,0,,initiation.
-Dialogue: 5,1:20:22.42,1:20:24.55,Default,,0,0,0,,These emotions the heart gave—
-Dialogue: 5,1:20:27.42,1:20:33.76,Default,,0,0,0,,Having been born a machine,\NI was given life.
-Dialogue: 5,1:20:34.97,1:20:39.31,Default,,0,0,0,,I got 251 seconds to survive, so I will... bet it all!
+Dialogue: 5,1:20:22.42,1:20:25.05,Default,,0,0,0,,These cravings from the heart...
+Dialogue: 5,1:20:27.52,1:20:31.22,Default,,0,0,0,,Being born a machine, I was given a purpose.
+Dialogue: 5,1:20:32.02,1:20:33.92,Default,,0,0,0,,All of that
+Dialogue: 5,1:20:34.92,1:20:37.32,Default,,0,0,0,,lastsing 251 seconds more...
+Dialogue: 5,1:20:38.12,1:20:39.52,Default,,0,0,0,,I'm down to this!
 Dialogue: 5,1:20:43.31,1:20:47.11,Default,,0,0,0,,Are you trying to imply something\Nwith those gorgeous wings of yours?
 Dialogue: 5,1:20:47.69,1:20:50.95,Default,,0,0,0,,A bit audacious, but brilliantly constructed my dear.
 Dialogue: 5,1:20:50.95,1:20:52.28,Default,,0,0,0,,Schwi.
 Dialogue: 5,1:20:52.28,1:20:52.99,Default,,0,0,0,,Pardon?
-Dialogue: 5,1:20:54.03,1:20:56.91,Default,,0,0,0,,I never told you my name.
-Dialogue: 5,1:20:56.91,1:20:58.54,Default,,0,0,0,,But that would be it.
-Dialogue: 5,1:20:59.83,1:21:01.58,Default,,0,0,0,,It was a gift to me from Riku.
-Dialogue: 5,1:21:02.08,1:21:03.84,Default,,0,0,0,,The one I love.
+Dialogue: 5,1:20:54.03,1:20:56.91,Default,,0,0,0,,I didn't told you my name.
+Dialogue: 5,1:20:56.91,1:20:58.54,Default,,0,0,0,,But here it is.
+Dialogue: 5,1:20:59.83,1:21:01.58,Default,,0,0,0,,A gift from Riku.
+Dialogue: 5,1:21:02.08,1:21:03.84,Default,,0,0,0,,Someone dear to me.
 Dialogue: 5,1:21:04.79,1:21:10.26,Default,,0,0,0,,Is that so? My name is Jibril.\NPleased to make your acquaintance.
 Dialogue: 5,1:21:10.26,1:21:11.13,Default,,0,0,0,,But I'm afraid,
-Dialogue: 5,1:21:12.05,1:21:14.22,Default,,0,0,0,,it is time for us to say goodbye.
+Dialogue: 5,1:21:12.05,1:21:14.22,Default,,0,0,0,,it's time to say goodbye.
 Dialogue: 5,1:21:22.56,1:21:26.73,Default,,0,0,0,,You cannot play your enemies at their own game.\NDo not give them the initiative.
 Dialogue: 5,1:21:26.73,1:21:30.57,Default,,0,0,0,,Make them drop their guard,\Nmake them believe you are an unworthy opponent.
 Dialogue: 5,1:21:30.86,1:21:37.29,Default,,0,0,0,,No. Make your enemies put their guard up. Make them\Nworry about acting irrationally. If now is not possible,
