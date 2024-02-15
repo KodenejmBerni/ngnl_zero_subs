@@ -28,30 +28,30 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
 Dialogue: 5,0:00:13.07,0:00:14.16,Default,,0,0,0,,{\i1}When I was a child,
-Dialogue: 5,0:00:14.78,0:00:18.29,Default,,0,0,0,,{\i1}the world looked like a much simpler place.
-Dialogue: 5,0:00:18.91,0:00:21.21,Default,,0,0,0,,{\i1}There were no unbeatable challenges
-Dialogue: 5,0:00:21.21,0:00:25.75,Default,,0,0,0,,{\i1}and a hard work is something\Nthat will always be rewarded.
-Dialogue: 5,0:00:34.34,0:00:35.97,Default,,0,0,0,,{\i1}The world is simple and clear:
-Dialogue: 5,0:00:37.01,0:00:39.72,Default,,0,0,0,,{\i1}you win, you lose, or it ends in a draw.
-Dialogue: 5,0:00:43.98,0:00:45.98,Default,,0,0,0,,{\i1}I need more precise moves.
-Dialogue: 5,0:00:46.11,0:00:47.52,Default,,0,0,0,,{\i1}I need more efficient tactics.
-Dialogue: 5,0:00:48.32,0:00:50.49,Default,,0,0,0,,{\i1}I need a superior strategy!
-Dialogue: 5,0:00:51.40,0:00:53.53,Default,,0,0,0,,{\i1}Even when you're up against the best,
-Dialogue: 5,0:00:54.53,0:00:57.28,Default,,0,0,0,,{\i1}just continue experimenting\Nuntil you can win the next time.
-Dialogue: 5,0:01:00.75,0:01:02.79,Default,,0,0,0,,{\i1}Such foolish, ignorant youth.
+Dialogue: 5,0:00:14.78,0:00:18.29,Default,,0,0,0,,{\i1}the world was simple for me.
+Dialogue: 5,0:00:18.91,0:00:21.21,Default,,0,0,0,,{\i1}Nothing was unbeatable
+Dialogue: 5,0:00:21.21,0:00:25.75,Default,,0,0,0,,{\i1}and a hard work was always going to be rewarded.
+Dialogue: 5,0:00:34.34,0:00:35.97,Default,,0,0,0,,{\i1}The world is clear:
+Dialogue: 5,0:00:37.01,0:00:39.72,Default,,0,0,0,,{\i1}you win, lose or it's a draw.
+Dialogue: 5,0:00:43.98,0:00:45.98,Default,,0,0,0,,{\i1}More precise moves!
+Dialogue: 5,0:00:46.11,0:00:47.52,Default,,0,0,0,,{\i1}More efficient tactics!
+Dialogue: 5,0:00:48.32,0:00:50.49,Default,,0,0,0,,{\i1}I want a superior strategy!
+Dialogue: 5,0:00:51.40,0:00:53.53,Default,,0,0,0,,{\i1}Even if you lose this time,
+Dialogue: 5,0:00:54.53,0:00:57.28,Default,,0,0,0,,{\i1}you'll just have another chance next time.
+Dialogue: 5,0:01:00.75,0:01:02.79,Default,,0,0,0,,{\i1}Foolish, ignorant brat.
 Dialogue: 5,0:01:29.61,0:01:32.90,Default,,0,0,0,,{\i1}That's what I thought.
-Dialogue: 5,0:01:37.49,0:01:39.49,Default,,0,0,0,,{\i1}That view was nothing but an illusion,
-Dialogue: 5,0:01:40.12,0:01:42.33,Default,,0,0,0,,{\i1}a child's worthless fantasy world.
+Dialogue: 5,0:01:37.49,0:01:39.49,Default,,0,0,0,,{\i1}A childish delusion,
+Dialogue: 5,0:01:40.12,0:01:42.33,Default,,0,0,0,,{\i1}pathetic world of games.
 Dialogue: 5,0:01:44.83,0:01:46.21,Default,,0,0,0,,{\i1}The truth is,
-Dialogue: 5,0:01:46.71,0:01:48.17,Default,,0,0,0,,{\i1}this world,
-Dialogue: 5,0:01:48.58,0:01:51.34,Default,,0,0,0,,{\i1}beside being chaotic with its events,
-Dialogue: 5,0:01:51.34,0:01:53.76,Default,,0,0,0,,{\i1}is also filled with coincidences,
+Dialogue: 5,0:01:46.71,0:01:48.17,Default,,0,0,0,,{\i1}this world
+Dialogue: 5,0:01:48.58,0:01:51.34,Default,,0,0,0,,{\i1}is just nothing like it.
+Dialogue: 5,0:01:51.34,0:01:53.76,Default,,0,0,0,,{\i1}It's all coincidental,
 Dialogue: 5,0:01:53.76,0:01:55.30,Default,,0,0,0,,{\i1}unreasonable,
 Dialogue: 5,0:01:55.30,0:01:57.01,Default,,0,0,0,,{\i1}absurd,
-Dialogue: 5,0:01:57.01,0:01:58.72,Default,,0,0,0,,{\i1}and didn't even have a meaning.
-Dialogue: 5,0:02:09.98,0:02:10.52,Default,,0,0,0,,{\i1}That's why...
-Dialogue: 5,0:02:17.28,0:02:18.07,Default,,0,0,0,,{\i1}the next time,
-Dialogue: 5,0:02:20.53,0:02:21.83,Default,,0,0,0,,{\i1}next time for sure—
+Dialogue: 5,0:01:57.01,0:01:58.72,Default,,0,0,0,,{\i1}and doesn't have a meaning.
+Dialogue: 5,0:02:09.98,0:02:11.32,Default,,0,0,0,,{\i1}Nevertheless...
+Dialogue: 5,0:02:17.28,0:02:18.07,Default,,0,0,0,,{\i1}Next—
+Dialogue: 5,0:02:20.53,0:02:21.83,Default,,0,0,0,,{\i1}Next time...
 Dialogue: 0,0:02:37.05,0:02:40.34,TS/Pledges,,0,0,0,,{\pos(960,878)\fad(300,0)\fscx70\fscy70\t(0,300,\fscx100\fscy100)\bord4\blur7\fnA-OTF Jun Pro 34-Kami\3c&HAF02E2&}Elkia
 Dialogue: 5,0:02:38.38,0:02:39.97,Default,,0,0,0,,Why?
 Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win?!
@@ -1417,8 +1417,8 @@ Dialogue: 5,1:23:35.65,1:23:36.86,Default,,0,0,0,,I...
 Dialogue: 5,1:23:37.24,1:23:39.20,Default,,0,0,0,,finally understand.
 Dialogue: 5,1:23:40.20,1:23:41.41,Default,,0,0,0,,I...
 Dialogue: 5,1:23:41.83,1:23:46.21,Default,,0,0,0,,am truly blissful to have met you.
-Dialogue: 5,1:23:48.08,1:23:49.75,Default,,0,0,0,,Next time.
-Dialogue: 5,1:23:50.13,1:23:51.96,Default,,0,0,0,,We'll never be apart.
+Dialogue: 5,1:23:48.08,1:23:49.75,Default,,0,0,0,,Next time,
+Dialogue: 5,1:23:50.13,1:23:51.96,Default,,0,0,0,,we'll never be apart.
 Dialogue: 5,1:23:53.50,1:23:55.09,Default,,0,0,0,,I truly...
 Dialogue: 5,1:23:55.42,1:23:57.22,Default,,0,0,0,,...love you.
 Dialogue: 5,1:24:06.02,1:24:09.73,Default,,0,0,0,,I didn't get her head... now the merchandise is gone.
