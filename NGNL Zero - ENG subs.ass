@@ -77,7 +77,7 @@ Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,this story happened over six t
 Dialogue: 5,0:04:02.72,0:04:07.14,Default,,0,0,0,,The earth and sky were then ravaged by a cruel war.
 Dialogue: 5,0:04:09.39,0:04:13.15,Default,,0,0,0,,As time passes, no one remembers it anymore.
 Dialogue: 5,0:04:15.56,0:04:16.73,Default,,0,0,0,,And yet,
-Dialogue: 5,0:04:16.98,0:04:20.44,Default,,0,0,0,,it's a story I will never forget.
+Dialogue: 5,0:04:17.28,0:04:20.44,Default,,0,0,0,,it's a story I will never forget.
 Dialogue: 5,0:04:49.43,0:04:50.68,Default,,0,0,0,,It's a big one.
 Dialogue: 5,0:04:56.81,0:04:59.69,Default,,0,0,0,,Black ash is falling, hurry up.
 Dialogue: 5,0:05:17.50,0:05:18.50,Default,,0,0,0,,Ivan?
@@ -196,13 +196,12 @@ Dialogue: 5,0:14:11.62,0:14:12.16,Default,,0,0,0,,{\i1}No.
 Dialogue: 5,0:14:13.20,0:14:15.04,Default,,0,0,0,,{\i1}This scale of destruction...
 Dialogue: 5,0:14:15.58,0:14:17.21,Default,,0,0,0,,{\i1}perhaps Flügels?
 Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}What a huge one...
-Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}My... imagination?
-
+Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}Imagination?
 Dialogue: 5,0:15:35.24,0:15:36.79,Default,,0,0,0,,{\i1}Ex-machina?!
-Dialogue: 5,0:15:36.79,0:15:37.50,Default,,0,0,0,,Investigating.
-Dialogue: 5,0:15:37.62,0:15:39.25,Default,,0,0,0,,Adjusting to the circumstances.
+Dialogue: 5,0:15:36.79,0:15:37.50,Default,,0,0,0,,Examination.
+Dialogue: 5,0:15:37.62,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
 Dialogue: 5,0:15:41.92,0:15:42.25,Default,,0,0,0,,{\i1}Stay calm.
-Dialogue: 5,0:15:43.38,0:15:46.25,Default,,0,0,0,,{\i1}This thing always operates as a part of a collective.
+Dialogue: 5,0:15:43.38,0:15:46.25,Default,,0,0,0,,{\i1}This thing always operates as part of a collective.
 Dialogue: 5,0:15:46.25,0:15:48.63,Default,,0,0,0,,{\i1}It shares consciousness with a cluster,
 Dialogue: 5,0:15:48.63,0:15:51.22,Default,,0,0,0,,{\i1}which means others must be nearby.
 Dialogue: 5,0:15:51.22,0:15:52.30,Default,,0,0,0,,{\i1}That means—
@@ -214,25 +213,25 @@ Dialogue: 5,0:16:09.11,0:16:09.70,Default,,0,0,0,,Huh?
 Dialogue: 5,0:16:16.95,0:16:18.04,Default,,0,0,0,,Error:
 Dialogue: 5,0:16:19.29,0:16:20.54,Default,,0,0,0,,Cannot
 Dialogue: 5,0:16:20.54,0:16:21.12,Default,,0,0,0,,comprehend.
-Dialogue: 5,0:16:21.42,0:16:23.88,Default,,0,0,0,,{\i1}I am the one that cannot fucking comprehend here!
-Dialogue: 5,0:16:23.88,0:16:28.21,Default,,0,0,0,,Conjecture: Is this scenario not sufficient\Nto bring you gratification?
-Dialogue: 5,0:16:28.84,0:16:30.67,Default,,0,0,0,,Unfortunately...
-Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo that gets excited\Nby being observed by you guys.
+Dialogue: 5,0:16:21.42,0:16:23.88,Default,,0,0,0,,{\i1}I am the one who cannot fucking comprehend!
+Dialogue: 5,0:16:23.88,0:16:28.21,Default,,0,0,0,,Conjecture: Is this scenario not bringing you gratification?
+Dialogue: 5,0:16:28.84,0:16:30.67,Default,,0,0,0,,Something like this?
+Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo who gets excited by you guys.
 Dialogue: 5,0:16:34.80,0:16:35.80,Default,,0,0,0,,Query:
 Dialogue: 5,0:16:35.80,0:16:37.51,Default,,0,0,0,,Who are "you guys"?
-Dialogue: 5,0:16:37.51,0:16:38.97,Default,,0,0,0,,Oh don't play dumb with me.
-Dialogue: 5,0:16:38.97,0:16:41.48,Default,,0,0,0,,I know all of this gets sent to that cluster thing of yours.
+Dialogue: 5,0:16:37.51,0:16:38.97,Default,,0,0,0,,Don't play dumb.
+Dialogue: 5,0:16:38.97,0:16:41.48,Default,,0,0,0,,All of this gets sent to that cluster.
 Dialogue: 5,0:16:42.06,0:16:42.77,Default,,0,0,0,,Negative.
-Dialogue: 5,0:16:42.77,0:16:45.56,Default,,0,0,0,,This unit has been disengaged\Nfrom the cluster collective.
-Dialogue: 5,0:16:46.11,0:16:47.61,Default,,0,0,0,,Disengaged you say?
-Dialogue: 5,0:16:48.44,0:16:49.69,Default,,0,0,0,,So that means you're alone?
+Dialogue: 5,0:16:42.77,0:16:45.56,Default,,0,0,0,,This unit has been disengaged from the cluster.
+Dialogue: 5,0:16:46.11,0:16:47.61,Default,,0,0,0,,Disengaged?
+Dialogue: 5,0:16:48.44,0:16:49.69,Default,,0,0,0,,You're alone?
 Dialogue: 5,0:16:49.94,0:16:51.03,Default,,0,0,0,,Affirmative.
-Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,So then...
-Dialogue: 5,0:16:54.07,0:16:59.12,Default,,0,0,0,,What does some stray Ex-machina\Nwant with someone like me?
-Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,Do you mind if I even ask?
+Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then...
+Dialogue: 5,0:16:54.07,0:16:59.12,Default,,0,0,0,,What does some stray Ex-machina want from someone like me?
+Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,Do you mind if I ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
-Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the unique language\Nhumans use among themselves.
-Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The language referred to as "the heart".
+Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the unique incentive of humans.
+Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The incentive of the heart.
 Dialogue: 5,0:17:08.96,0:17:10.26,Default,,0,0,0,,The heart?
 Dialogue: 5,0:17:10.26,0:17:11.47,Default,,0,0,0,,Reasoning:
 Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,This unit's investigation of the heart generated multiple\Nlogic errors, causing this unit to be disassociated.
