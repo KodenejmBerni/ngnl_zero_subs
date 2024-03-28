@@ -198,23 +198,24 @@ Dialogue: 5,0:14:15.58,0:14:17.21,Default,,0,0,0,,{\i1}perhaps Flügels?
 Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}What a huge one...
 Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}Imagination?
 Dialogue: 5,0:15:35.24,0:15:36.79,Default,,0,0,0,,{\i1}Ex-machina?!
-Dialogue: 5,0:15:36.79,0:15:37.50,Default,,0,0,0,,Examination.
+Dialogue: 5,0:15:36.79,0:15:37.62,Default,,0,0,0,,Examination.
 Dialogue: 5,0:15:37.62,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
-Dialogue: 5,0:15:41.92,0:15:42.25,Default,,0,0,0,,{\i1}Stay calm.
+Dialogue: 5,0:15:41.92,0:15:42.75,Default,,0,0,0,,{\i1}Stay calm.
 Dialogue: 5,0:15:43.38,0:15:46.25,Default,,0,0,0,,{\i1}This thing always operates as part of a collective.
 Dialogue: 5,0:15:46.25,0:15:48.63,Default,,0,0,0,,{\i1}It shares consciousness with a cluster,
 Dialogue: 5,0:15:48.63,0:15:51.22,Default,,0,0,0,,{\i1}which means others must be nearby.
 Dialogue: 5,0:15:51.22,0:15:52.30,Default,,0,0,0,,{\i1}That means—
-Dialogue: 5,0:15:52.30,0:15:52.97,Default,,0,0,0,,{\i1}Conclusion.
+Dialogue: 5,0:15:52.30,0:15:53.07,Default,,0,0,0,,Conclusion.
 Dialogue: 5,0:15:53.85,0:15:59.14,Default,,0,0,0,,{\i1}If I make any hostile moves,\Nall the Ex-machinas will see me as a threat.
 Dialogue: 5,0:15:59.81,0:16:01.44,Default,,0,0,0,,{\i1}I must not resist.
-Dialogue: 5,0:16:05.19,0:16:08.69,Default,,0,0,0,,Onii-chan, I cannot resist you.\NMake a woman out of me.
+Dialogue: 5,0:16:05.19,0:16:08.69,Default,,0,0,0,,Onii-chan I cannot resist you.\NMake a woman out of me.
 Dialogue: 5,0:16:09.11,0:16:09.70,Default,,0,0,0,,Huh?
 Dialogue: 5,0:16:16.95,0:16:18.04,Default,,0,0,0,,Error:
 Dialogue: 5,0:16:19.29,0:16:20.54,Default,,0,0,0,,Cannot
 Dialogue: 5,0:16:20.54,0:16:21.12,Default,,0,0,0,,comprehend.
 Dialogue: 5,0:16:21.42,0:16:23.88,Default,,0,0,0,,{\i1}I am the one who cannot fucking comprehend!
-Dialogue: 5,0:16:23.88,0:16:28.21,Default,,0,0,0,,Conjecture: Is this scenario not bringing you gratification?
+Dialogue: 5,0:16:23.88,0:16:25.38,Default,,0,0,0,,Conjecture: 
+Dialogue: 5,0:16:25.38,0:16:28.21,Default,,0,0,0,,Is this scenario not bringing you gratification?
 Dialogue: 5,0:16:28.84,0:16:30.67,Default,,0,0,0,,Something like this?
 Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo who gets excited by you guys.
 Dialogue: 5,0:16:34.80,0:16:35.80,Default,,0,0,0,,Query:
@@ -225,10 +226,10 @@ Dialogue: 5,0:16:42.06,0:16:42.77,Default,,0,0,0,,Negative.
 Dialogue: 5,0:16:42.77,0:16:45.56,Default,,0,0,0,,This unit has been disengaged from the cluster.
 Dialogue: 5,0:16:46.11,0:16:47.61,Default,,0,0,0,,Disengaged?
 Dialogue: 5,0:16:48.44,0:16:49.69,Default,,0,0,0,,You're alone?
-Dialogue: 5,0:16:49.94,0:16:51.03,Default,,0,0,0,,Affirmative.
+Dialogue: 5,0:16:49.94,0:16:51.03,Default,,0,0,0,,Correct.
 Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then...
 Dialogue: 5,0:16:54.07,0:16:59.12,Default,,0,0,0,,What does some stray Ex-machina want from someone like me?
-Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,Do you mind if I ask?
+Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,May I even ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
 Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the unique incentive of humans.
 Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The incentive of the heart.
