@@ -218,52 +218,51 @@ Dialogue: 5,0:16:23.88,0:16:25.38,Default,,0,0,0,,Conjecture:
 Dialogue: 5,0:16:25.38,0:16:28.21,Default,,0,0,0,,Is this scenario not bringing you gratification?
 Dialogue: 5,0:16:28.84,0:16:30.67,Default,,0,0,0,,Something like this?
 Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo who gets excited by you guys.
-Dialogue: 5,0:16:34.80,0:16:35.80,Default,,0,0,0,,Query:
-Dialogue: 5,0:16:35.80,0:16:37.51,Default,,0,0,0,,Who are "you guys"?
+Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Query: Who are "you guys"?
 Dialogue: 5,0:16:37.51,0:16:38.97,Default,,0,0,0,,Don't play dumb.
 Dialogue: 5,0:16:38.97,0:16:41.48,Default,,0,0,0,,All of this gets sent to that cluster.
-Dialogue: 5,0:16:42.06,0:16:42.77,Default,,0,0,0,,Negative.
-Dialogue: 5,0:16:42.77,0:16:45.56,Default,,0,0,0,,This unit has been disengaged from the cluster.
+Dialogue: 5,0:16:41.86,0:16:42.77,Default,,0,0,0,,Negative.
+Dialogue: 5,0:16:42.77,0:16:45.76,Default,,0,0,0,,This unit has been disengaged from the cluster.
 Dialogue: 5,0:16:46.11,0:16:47.61,Default,,0,0,0,,Disengaged?
 Dialogue: 5,0:16:48.44,0:16:49.94,Default,,0,0,0,,You're alone?
-Dialogue: 5,0:16:49.94,0:16:51.03,Default,,0,0,0,,Correct.
+Dialogue: 5,0:16:49.94,0:16:51.23,Default,,0,0,0,,Correct.
 Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then...
-Dialogue: 5,0:16:54.07,0:16:59.12,Default,,0,0,0,,what does some stray Ex-machina want from someone like me?
+Dialogue: 5,0:16:54.07,0:16:59.32,Default,,0,0,0,,what does some stray Ex-machina want from someone like me?
 Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,May I even ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
-Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the unique zeal of humans. #TODO: incentive -> motivation?
+Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the unique zeal of humans.
 Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The zeal of the heart.
 Dialogue: 5,0:17:08.96,0:17:10.26,Default,,0,0,0,,The heart?
 Dialogue: 5,0:17:10.26,0:17:11.47,Default,,0,0,0,,Reasoning:
-Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,Investigation of the heart generated multiple logic errors, causing this unit to be disassociated.
+Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,Deeper investigation generated many logical errors, causing this unit to be disassociated.
 Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation has been conducted independently.
 Dialogue: 5,0:17:22.48,0:17:23.94,Default,,0,0,0,,Observation?
-Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,So you're planning to study the heart on your own and get the cluster to take you back?
+Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,So you're planning to study the heart on your own and get the cluster to take you back? #TODO: Przerobić by zastanawiał się od kiedy go obserwuje.
 Dialogue: 5,0:17:29.82,0:17:31.28,Default,,0,0,0,,Demand:
-Dialogue: 5,0:17:31.28,0:17:35.41,Default,,0,0,0,,It is postulated that direct dermo-contact,
-Dialogue: 5,0:17:35.41,0:17:37.74,Default,,0,0,0,,results in a unique heart stimulation.
-Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request procreation with this unit.
+Dialogue: 5,0:17:31.28,0:17:35.41,Default,,0,0,0,,It is postulated that direct dermo-contact
+Dialogue: 5,0:17:35.41,0:17:37.74,Default,,0,0,0,,leads to heart stimulation.
+Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request a procreation.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
 Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Alternative:
-Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of\Nthis unit in any manner you wish.
-Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,Though it possesses no orifice.
-Dialogue: 5,0:17:50.46,0:17:51.55,Default,,0,0,0,,I already said—
-Dialogue: 5,0:17:51.55,0:17:53.01,Default,,0,0,0,,Wait, no orifice?
+Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit in the village.
+Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, it has no orifice.
+Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point! #TODO: Dodać zająknięcie "Vill-"
 Dialogue: 5,0:18:02.27,0:18:02.60,Default,,0,0,0,,Lösen.
-Dialogue: 5,0:18:06.52,0:18:07.02,Default,,0,0,0,,Recreation.
-Dialogue: 5,0:18:07.94,0:18:09.27,Default,,0,0,0,,Earth.
-Dialogue: 5,0:18:09.69,0:18:10.65,Default,,0,0,0,,Chess.
-Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,A challenge.
-Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,I request participation in the game.
-Dialogue: 5,0:18:16.28,0:18:16.70,Default,,0,0,0,,Conditions:
-Dialogue: 5,0:18:17.24,0:18:22.37,Default,,0,0,0,,If this unit wins, it shall be taken home\Nwith you and procreation will occur.
-Dialogue: 5,0:18:28.50,0:18:30.84,Default,,0,0,0,,Of all things, you chose chess?
-Dialogue: 5,0:18:31.38,0:18:34.34,Default,,0,0,0,,You guys are basically walking calculators.\NThere is no way I can win.
-Dialogue: 5,0:18:37.22,0:18:38.18,Default,,0,0,0,,But—
-Dialogue: 5,0:18:40.01,0:18:41.10,Default,,0,0,0,,What if I—
-Dialogue: 5,0:18:42.43,0:18:43.85,Default,,0,0,0,,do manage to win?
+Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Duel.
+Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,Challenge.
+Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,Chess.
+Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
+Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
+Dialogue: 5,0:18:16.28,0:18:17.24,Default,,0,0,0,,Conditions:
+Dialogue: 5,0:18:17.24,0:18:22.37,Default,,0,0,0,,If this unit wins, it shall be taken to the colony and procreation shall occur.
+Dialogue: 5,0:18:28.50,0:18:30.94,Default,,0,0,0,,Of all things, you chose chess?
+Dialogue: 5,0:18:31.38,0:18:34.64,Default,,0,0,0,,You guys are basically walking calculators.
+Dialogue: 5,0:18:37.22,0:18:38.18,Default,,0,0,0,,But
+Dialogue: 5,0:18:40.01,0:18:41.10,Default,,0,0,0,,what if...
+Dialogue: 5,0:18:42.43,0:18:43.85,Default,,0,0,0,,I manage to win?
 Dialogue: 5,0:18:44.27,0:18:45.77,Default,,0,0,0,,Answer:
-Dialogue: 5,0:18:45.77,0:18:49.86,Default,,0,0,0,,You shall take this unit home and then\Npermission for procreation shall be granted.
+Dialogue: 5,0:18:45.77,0:18:47.55,Default,,0,0,0,,You take this unit home
+Dialogue: 5,0:18:47.55,0:18:49.86,Default,,0,0,0,,and permission for procreation shall be granted.
 Dialogue: 5,0:18:49.86,0:18:51.61,Default,,0,0,0,,There's no difference!
 Dialogue: 5,0:18:52.07,0:18:56.36,Default,,0,0,0,,Well whatever, I guess there's no\Nother way out of this, is there?
 Dialogue: 5,0:18:56.57,0:18:58.15,Default,,0,0,0,,Fine, I'll play along.
