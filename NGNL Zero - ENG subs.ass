@@ -237,16 +237,16 @@ Dialogue: 5,0:17:10.26,0:17:11.47,Default,,0,0,0,,Reasoning:
 Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,Deeper investigation generated many logical errors, causing this unit to be disassociated.
 Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation has been conducted independently.
 Dialogue: 5,0:17:22.48,0:17:23.94,Default,,0,0,0,,Observation?
-Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,So you're planning to study the heart on your own and get the cluster to take you back? #TODO: Przerobić by zastanawiał się od kiedy go obserwuje.
+Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,So you're planning to study the heart on your own and get the cluster to take you back?
 Dialogue: 5,0:17:29.82,0:17:31.28,Default,,0,0,0,,Demand:
 Dialogue: 5,0:17:31.28,0:17:35.41,Default,,0,0,0,,It is postulated that direct dermo-contact
 Dialogue: 5,0:17:35.41,0:17:37.74,Default,,0,0,0,,leads to heart stimulation.
 Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request a procreation.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
-Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Alternative:
+Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Adjustment:
 Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit in the village.
 Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, it has no orifice.
-Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point! #TODO: Dodać zająknięcie "Vill-"
+Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point!
 Dialogue: 5,0:18:02.27,0:18:02.60,Default,,0,0,0,,Lösen.
 Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Duel.
 Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,Challenge.
@@ -264,17 +264,17 @@ Dialogue: 5,0:18:44.27,0:18:45.77,Default,,0,0,0,,Answer:
 Dialogue: 5,0:18:45.77,0:18:47.55,Default,,0,0,0,,You take this unit home
 Dialogue: 5,0:18:47.55,0:18:49.86,Default,,0,0,0,,and permission for procreation shall be granted.
 Dialogue: 5,0:18:49.86,0:18:51.61,Default,,0,0,0,,There's no difference!
-Dialogue: 5,0:18:52.07,0:18:56.36,Default,,0,0,0,,Well whatever, I guess there's no\Nother way out of this, is there?
-Dialogue: 5,0:18:56.57,0:18:58.15,Default,,0,0,0,,Fine, I'll play along.
-Dialogue: 5,0:18:58.15,0:18:59.03,Default,,0,0,0,,Conclusion:
-Dialogue: 5,0:18:59.03,0:19:01.24,Default,,0,0,0,,A game in accordance to the aforementioned terms.
-Dialogue: 5,0:19:01.24,0:19:03.74,Default,,0,0,0,,Sure, I'll play with you one time.
-Dialogue: 5,0:19:03.99,0:19:05.50,Default,,0,0,0,,Except I'll be making a slight change
-Dialogue: 5,0:19:06.45,0:19:09.50,Default,,0,0,0,,to these little win conditions of yours.
+Dialogue: 5,0:18:52.07,0:18:56.36,Default,,0,0,0,,Eh whatever, I guess there is no other way.
+Dialogue: 5,0:18:56.57,0:18:58.15,Default,,0,0,0,,Let's play once.
+Dialogue: 5,0:18:58.15,0:18:59.03,Default,,0,0,0,,Clarification:
+Dialogue: 5,0:18:59.03,0:19:01.24,Default,,0,0,0,,You accept the game request?
+Dialogue: 5,0:19:01.24,0:19:03.74,Default,,0,0,0,,Yeah, indeed.
+Dialogue: 5,0:19:03.99,0:19:05.50,Default,,0,0,0,,Except I propose
+Dialogue: 5,0:19:06.45,0:19:09.50,Default,,0,0,0,,much better win conditions for you.
 Dialogue: 5,0:19:29.98,0:19:31.44,Default,,0,0,0,,We have arrived.
-Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,So, when it comes to mobility you\Nreally don't use any spiritual energy?
+Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,So, when it comes to mobility you really don't use any spiritual energy?
 Dialogue: 5,0:19:38.03,0:19:39.20,Default,,0,0,0,,Correct.
-Dialogue: 5,0:19:39.20,0:19:44.08,Default,,0,0,0,,Utilizing spiritual energy would\Nhave saved 55.782 seconds.
+Dialogue: 5,0:19:39.20,0:19:44.08,Default,,0,0,0,,Utilizing spiritual energy would have saved 55.782 seconds.
 Dialogue: 5,0:19:45.29,0:19:46.20,Default,,0,0,0,,Addendum:
 Dialogue: 5,0:19:46.20,0:19:49.04,Default,,0,0,0,,This unit is a Prüfer, a model primarily used for analysis.
 Dialogue: 5,0:19:49.04,0:19:51.75,Default,,0,0,0,,It's capabilities are less than other Ex-machinas'.
