@@ -193,10 +193,10 @@ Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Looking for meaning in su
 Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}Can I still call that a sanity?
 Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}Dwarves?
 Dialogue: 5,0:14:11.62,0:14:12.16,Default,,0,0,0,,{\i1}No.
-Dialogue: 5,0:14:13.20,0:14:15.04,Default,,0,0,0,,{\i1}This scale of destruction...
+Dialogue: 5,0:14:13.20,0:14:15.04,Default,,0,0,0,,{\i1}This scale of this destruction...
 Dialogue: 5,0:14:15.58,0:14:17.21,Default,,0,0,0,,{\i1}perhaps Flügels?
-Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}What a huge one...
-Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}Imagination?
+Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}That's a huge one...
+Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}My imagination?
 Dialogue: 5,0:15:35.24,0:15:36.79,Default,,0,0,0,,{\i1}Ex-machina?!
 Dialogue: 5,0:15:36.79,0:15:37.62,Default,,0,0,0,,Examination.
 Dialogue: 5,0:15:37.62,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
@@ -214,8 +214,8 @@ Dialogue: 5,0:16:16.95,0:16:18.04,Default,,0,0,0,,Error:
 Dialogue: 5,0:16:19.29,0:16:20.54,Default,,0,0,0,,Cannot
 Dialogue: 5,0:16:20.54,0:16:21.12,Default,,0,0,0,,comprehend.
 Dialogue: 5,0:16:21.42,0:16:23.88,Default,,0,0,0,,{\i1}I am the one who cannot fucking comprehend!
-Dialogue: 5,0:16:23.88,0:16:25.38,Default,,0,0,0,,Conjecture: 
-Dialogue: 5,0:16:25.38,0:16:28.21,Default,,0,0,0,,Is this scenario not bringing you gratification?
+Dialogue: 5,0:16:23.88,0:16:25.38,Default,,0,0,0,,Conjecture:
+Dialogue: 5,0:16:25.38,0:16:28.21,Default,,0,0,0,,Does this scenario not bring you gratification?
 Dialogue: 5,0:16:28.84,0:16:30.67,Default,,0,0,0,,Something like this?
 Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo who gets excited by you guys.
 Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Query: Who are "you guys"?
@@ -245,9 +245,9 @@ Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request a procreation.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
 Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Adjustment:
 Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit in the village.
-Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, it has no orifice.
+Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,Although it has no orifice.
 Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point!
-Dialogue: 5,0:18:02.27,0:18:02.60,Default,,0,0,0,,Lösen.
+Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen.
 Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Duel.
 Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,Challenge.
 Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,Chess.
@@ -255,7 +255,7 @@ Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
 Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
 Dialogue: 5,0:18:16.28,0:18:17.24,Default,,0,0,0,,Conditions:
 Dialogue: 5,0:18:17.24,0:18:22.37,Default,,0,0,0,,If this unit wins, it shall be taken to the colony and procreation shall occur.
-Dialogue: 5,0:18:28.50,0:18:30.94,Default,,0,0,0,,Of all things, you chose chess?
+Dialogue: 5,0:18:28.50,0:18:30.94,Default,,0,0,0,,Of all things, you've chosen chess?
 Dialogue: 5,0:18:31.38,0:18:34.64,Default,,0,0,0,,You guys are basically walking calculators.
 Dialogue: 5,0:18:37.22,0:18:38.18,Default,,0,0,0,,But
 Dialogue: 5,0:18:40.01,0:18:41.10,Default,,0,0,0,,what if...
@@ -281,7 +281,7 @@ Dialogue: 5,0:19:49.04,0:19:51.75,Default,,0,0,0,,It's capabilities are less tha
 Dialogue: 5,0:19:51.75,0:19:55.21,Default,,0,0,0,,An absurd race like this waging a war?
 Dialogue: 5,0:19:55.21,0:19:57.96,Default,,0,0,0,,No wonder the world has gone to hell.
 Dialogue: 5,0:19:58.92,0:20:00.47,Default,,0,0,0,,What should I call you?
-Dialogue: 5,0:20:00.47,0:20:01.89,Default,,0,0,0,,Cannot comprehend.
+Dialogue: 5,0:20:00.57,0:20:01.89,Default,,0,0,0,,Cannot comprehend.
 Dialogue: 5,0:20:01.89,0:20:03.93,Default,,0,0,0,,Your name. Do you have one?
 Dialogue: 5,0:20:03.93,0:20:05.22,Default,,0,0,0,,Understood.
 Dialogue: 5,0:20:05.22,0:20:06.95,Default,,0,0,0,,Registration number:
@@ -289,57 +289,57 @@ Dialogue: 5,0:20:06.95,0:20:10.48,Default,,0,0,0,,ÜC207PR4F57T9.
 Dialogue: 5,0:20:10.48,0:20:12.15,Default,,0,0,0,,That's your name?
 Dialogue: 5,0:20:12.15,0:20:14.73,Default,,0,0,0,,Useless, we need to go with something easier.
 Dialogue: 5,0:20:14.73,0:20:15.73,Default,,0,0,0,,Query:
-Dialogue: 5,0:20:15.73,0:20:21.49,Default,,0,0,0,,This unit won and can stay with Riku until it understands the human heart.
-Dialogue: 5,0:20:21.49,0:20:23.91,Default,,0,0,0,,Why does this enable comprehension?
+Dialogue: 5,0:20:15.73,0:20:21.49,Default,,0,0,0,,This unit won, so it can analyze the human heart by staying with Riku.
+Dialogue: 5,0:20:21.49,0:20:23.91,Default,,0,0,0,,Is this necessary for comprehension?
 Dialogue: 5,0:20:23.91,0:20:28.54,Default,,0,0,0,,The heart isn't something that can be understood through words or procreation.
 Dialogue: 5,0:20:28.54,0:20:31.54,Default,,0,0,0,,You'll need to stay with me for a while.
 Dialogue: 5,0:20:32.00,0:20:34.29,Default,,0,0,0,,Query: Is self-naming allowed?
 Dialogue: 5,0:20:34.29,0:20:35.71,Default,,0,0,0,,Sure, whatever.
 Dialogue: 5,0:20:38.21,0:20:39.51,Default,,0,0,0,,Response:
 Dialogue: 5,0:20:39.51,0:20:40.90,Default,,0,0,0,,Schwarzer.
-Dialogue: 5,0:20:41.01,0:20:43.05,Default,,0,0,0,,Long, difficult and sounds weird.
-Dialogue: 5,0:20:43.05,0:20:45.51,Default,,0,0,0,,We're taking Schwi.
-Dialogue: 5,0:20:45.51,0:20:46.36,Default,,0,0,0,,Riddle:
-Dialogue: 5,0:20:46.36,0:20:48.60,Default,,0,0,0,,Arbitrary name has been customized.
+Dialogue: 5,0:20:40.90,0:20:43.05,Default,,0,0,0,,Damn long and sounds weird.
+Dialogue: 5,0:20:43.05,0:20:45.41,Default,,0,0,0,,We're taking Schwi.
+Dialogue: 5,0:20:45.41,0:20:48.60,Default,,0,0,0,,Incoherence: Arbitrary parameter modified.
 Dialogue: 5,0:20:48.60,0:20:51.39,Default,,0,0,0,,Can we do something with your talking?
 Dialogue: 5,0:20:51.39,0:20:54.98,Default,,0,0,0,,Laden: Adopting personality 1610.
 Dialogue: 5,0:20:57.20,0:20:59.61,Default,,0,0,0,,Onii-chan, is this better?
 Dialogue: 5,0:20:59.61,0:21:00.28,Default,,0,0,0,,Never!
-Dialogue: 5,0:21:00.78,0:21:03.91,Default,,0,0,0,,Retort: It was the most logical choice available.
-Dialogue: 5,0:21:03.91,0:21:08.74,Default,,0,0,0,,And what logical bullcrap did you use\Nto position yourself as my younger sister?
-Dialogue: 5,0:21:08.74,0:21:11.79,Default,,0,0,0,,Answer: I merely presented the most optimal option.
-Dialogue: 5,0:21:12.16,0:21:15.29,Default,,0,0,0,,It will be a big problem if people start asking about our past.
-Dialogue: 5,0:21:15.92,0:21:19.59,Default,,0,0,0,,Just act shy and don't say more than you have to.
-Dialogue: 5,0:21:19.59,0:21:24.09,Default,,0,0,0,,And quit starting every sentence\Nsounding like a robot. Understood?
+Dialogue: 5,0:21:00.78,0:21:03.91,Default,,0,0,0,,Retort: It's the result of high-cost computation.
+Dialogue: 5,0:21:03.91,0:21:08.74,Default,,0,0,0,,Am I supposed to walk in there and say I have a sister out of nowhere?
+Dialogue: 5,0:21:08.74,0:21:11.79,Default,,0,0,0,,Request: Provide optimal scenario.
+Dialogue: 5,0:21:12.16,0:21:15.92,Default,,0,0,0,,Ok then, you're timid and don't talk too much.
+Dialogue: 5,0:21:15.92,0:21:19.59,Default,,0,0,0,,It hurts a lot when someone asks about your past.
+Dialogue: 5,0:21:19.59,0:21:24.09,Default,,0,0,0,,And quit starting every sentence sounding like a robot. Understood?
 Dialogue: 5,0:21:26.80,0:21:28.14,Default,,0,0,0,,Understood.
 Dialogue: 5,0:21:30.52,0:21:32.43,Default,,0,0,0,,Is this fine?
-Dialogue: 5,0:21:33.31,0:21:35.44,Default,,0,0,0,,Are you... acting?
-Dialogue: 5,0:21:35.65,0:21:37.06,Default,,0,0,0,,Acting?
+Dialogue: 5,0:21:33.31,0:21:35.44,Default,,0,0,0,,Are you... kidding?
+Dialogue: 5,0:21:35.65,0:21:37.06,Default,,0,0,0,,Kidding?
 Dialogue: 5,0:21:37.06,0:21:38.69,Default,,0,0,0,,I'm not.
-Dialogue: 5,0:21:38.69,0:21:41.19,Default,,0,0,0,,I have chosen a personality\Nmatching the given parameters
-Dialogue: 5,0:21:41.74,0:21:43.95,Default,,0,0,0,,Trace emulation.
+Dialogue: 5,0:21:38.69,0:21:41.49,Default,,0,0,0,,I've chosen a personality with matching parameters.
+Dialogue: 5,0:21:41.74,0:21:43.95,Default,,0,0,0,,Deliberate emulation.
 Dialogue: 5,0:21:44.90,0:21:46.24,Default,,0,0,0,,It'll do.
-Dialogue: 5,0:21:46.91,0:21:49.70,Default,,0,0,0,,I want you to stay where I can\Nsee you and keep those clothes on.
-Dialogue: 5,0:21:49.70,0:21:54.83,Default,,0,0,0,,Is there something you can do\Nabout that tail looking thing you got there?
-Dialogue: 5,0:21:54.83,0:21:55.46,Default,,0,0,0,,Negative.
-Dialogue: 5,0:21:55.96,0:22:00.80,Default,,0,0,0,,It is Schwi's power source.\NA quasi-nerve crossed with spiritual circuitry.
-Dialogue: 5,0:22:02.01,0:22:03.34,Default,,0,0,0,,Fine, I guess.
-Dialogue: 5,0:22:03.34,0:22:05.22,Default,,0,0,0,,We'll just say it's a fashion choice.
-Dialogue: 5,0:22:05.22,0:22:06.59,Default,,0,0,0,,But I'm gonna say this one more time:
-Dialogue: 5,0:22:06.84,0:22:09.84,Default,,0,0,0,,You can't show that robot body of yours to anyone else.
-Dialogue: 5,0:22:10.70,0:22:11.74,Default,,0,0,0,,Ok.
-Dialogue: 5,0:22:11.74,0:22:13.81,Default,,0,0,0,,Can only show it to you.
-Dialogue: 5,0:22:14.31,0:22:15.73,Default,,0,0,0,,She's so cute!
-Dialogue: 5,0:22:15.73,0:22:17.10,Default,,0,0,0,,Who is this girl?
-Dialogue: 5,0:22:17.60,0:22:20.73,Default,,0,0,0,,I found her on the way back\Nin a colony that got wiped out, she was in a—
-Dialogue: 5,0:22:21.11,0:22:22.73,Default,,0,0,0,,So she is...
+Dialogue: 5,0:21:46.91,0:21:49.70,Default,,0,0,0,,I want you to stay where I can see you.
+Dialogue: 5,0:21:49.70,0:21:54.83,Default,,0,0,0,,Can you do something about that tail looking things?
+Dialogue: 5,0:21:54.83,0:21:55.46,Default,,0,0,0,,I can't.
+Dialogue: 5,0:21:55.96,0:22:00.80,Default,,0,0,0,,It is my power source. A quasi-nerve crossed with spiritual circuitry.
+Dialogue: 5,0:22:01.20,0:22:03.34,Default,,0,0,0,,Ehh, fine.
+Dialogue: 5,0:22:03.34,0:22:05.22,Default,,0,0,0,,We'll say they're trinkets.
+Dialogue: 5,0:22:05.22,0:22:06.59,Default,,0,0,0,,And one more time,
+Dialogue: 5,0:22:06.84,0:22:09.84,Default,,0,0,0,,nobody can see that robot body of yours.
+Dialogue: 5,0:22:10.70,0:22:11.74,Default,,0,0,0,,Okay.
+Dialogue: 5,0:22:11.74,0:22:13.81,Default,,0,0,0,,Nobody can see it.
+Dialogue: 5,0:22:14.31,0:22:15.73,Default,,0,0,0,,So cute!
+Dialogue: 5,0:22:15.73,0:22:17.10,Default,,0,0,0,,Who is she?
+Dialogue: 5,0:22:17.60,0:22:20.73,Default,,0,0,0,,Her colony got wiped out. I found her on the—
+Dialogue: 5,0:22:21.11,0:22:22.73,Default,,0,0,0,,Is she...
 Dialogue: 5,0:22:22.73,0:22:24.03,Default,,0,0,0,,your wife?
 Dialogue: 5,0:22:24.03,0:22:24.49,Default,,0,0,0,,Wife?
-Dialogue: 5,0:22:24.49,0:22:24.99,Default,,0,0,0,,Listen—
-Dialogue: 5,0:22:24.99,0:22:26.70,Default,,0,0,0,,Oh come on! Don't be shy!
-Dialogue: 5,0:22:26.70,0:22:31.00,Default,,0,0,0,,In this age your first priority should be kids,\Nsecond is food, three, four, five is more kids!
-Dialogue: 5,0:22:31.00,0:22:32.29,Default,,0,0,0,,Could you stop that?
-Dialogue: 5,0:22:32.29,0:22:33.37,Default,,0,0,0,,That goes for you too!
+Dialogue: 5,0:22:24.49,0:22:24.99,Default,,0,0,0,,Really...
+Dialogue: 5,0:22:24.99,0:22:26.70,Default,,0,0,0,,Oh come on, don't be shy!
+
+Dialogue: 5,0:22:26.70,0:22:31.00,Default,,0,0,0,,In this age first priority is kids, second is food. Three, four, five is more kids!
+Dialogue: 5,0:22:31.00,0:22:32.29,Default,,0,0,0,,Can you stop that?
+Dialogue: 5,0:22:32.29,0:22:33.37,Default,,0,0,0,,You stop too!
 Dialogue: 5,0:22:34.00,0:22:35.46,Default,,0,0,0,,What does she mean?
 Dialogue: 5,0:22:35.46,0:22:36.75,Default,,0,0,0,,She doesn't mean anything.
 Dialogue: 5,0:22:37.42,0:22:38.58,Default,,0,0,0,,What's your name?
@@ -409,9 +409,9 @@ Dialogue: 5,0:25:35.55,0:25:37.68,Default,,0,0,0,,You rob us of everything we ha
 Dialogue: 5,0:25:37.68,0:25:39.47,Default,,0,0,0,,And what you have to say is:
 Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,"Hey humans, why do you guys still exist?"
 Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let me see what's in your heart."
-Dialogue: 5,0:25:46.48,0:25:46.98,Default,,0,0,0,,Yeah?!
-Dialogue: 5,0:25:46.98,0:25:47.90,Default,,0,0,0,,You wanna know?!
-Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,What comes from my heart...
+Dialogue: 5,0:25:46.58,0:25:47.18,Default,,0,0,0,,Yeah?!
+Dialogue: 5,0:25:47.18,0:25:48.31,Default,,0,0,0,,You wanna know
+Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,what comes from my heart
 Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,since the very day I was born?!
 Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Rot in hell! Every fucking one of you!
 Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you know how many people\Nhave died because of you?
