@@ -367,12 +367,12 @@ Dialogue: 5,0:23:40.44,0:23:42.81,Default,,0,0,0,,Remember what I told about the
 Dialogue: 5,0:23:43.11,0:23:44.37,Default,,0,0,0,,Then
 Dialogue: 5,0:23:45.40,0:23:47.36,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:23:47.61,0:23:48.99,Default,,0,0,0,,I refuse.
-Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,It was only once.
+Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,That was the only time.
 Dialogue: 5,0:23:51.91,0:23:54.87,Default,,0,0,0,,I find games pointless and a waste of time.
-Dialogue: 5,0:23:55.70,0:23:57.87,Default,,0,0,0,,What if it isn't pointless?
+Dialogue: 5,0:23:55.70,0:23:57.87,Default,,0,0,0,,What if it wasn't pointless?
 Dialogue: 5,0:23:58.75,0:24:00.58,Default,,0,0,0,,What if the prize
-Dialogue: 5,0:24:00.58,0:24:03.52,Default,,0,0,0,,would be all the information you desire.
-Dialogue: 5,0:24:03.88,0:24:04.98,Default,,0,0,0,,For example,
+Dialogue: 5,0:24:00.58,0:24:03.63,Default,,0,0,0,,was all the information you desire.
+Dialogue: 5,0:24:03.88,0:24:05.13,Default,,0,0,0,,For example,
 Dialogue: 5,0:24:05.38,0:24:07.80,Default,,0,0,0,,the reason behind the Great War
 Dialogue: 5,0:24:07.80,0:24:10.01,Default,,0,0,0,,and what it will take to end it.
 Dialogue: 5,0:24:12.89,0:24:14.14,Default,,0,0,0,,Give me a break.
@@ -381,25 +381,25 @@ Dialogue: 5,0:24:19.43,0:24:21.90,Default,,0,0,0,,The only thing I need to know
 Dialogue: 5,0:24:24.56,0:24:26.69,Default,,0,0,0,,is how to stay alive.
 Dialogue: 5,0:24:26.69,0:24:28.03,Default,,0,0,0,,That's it.
 Dialogue: 5,0:24:31.11,0:24:33.70,Default,,0,0,0,,That's why I brought you with me.
-
-Dialogue: 5,0:24:34.24,0:24:39.12,Default,,0,0,0,,The knowledge, the maths,\Nthe engineering tech you ex-machina contain—
-Dialogue: 5,0:24:39.83,0:24:41.83,Default,,0,0,0,,If I would beat you then that's what I want.
+Dialogue: 5,0:24:34.24,0:24:39.12,Default,,0,0,0,,Ex Machina’s engineering tech, knowledge, maths
+Dialogue: 5,0:24:39.83,0:24:41.83,Default,,0,0,0,,that's what I want if I win.
 Dialogue: 5,0:24:43.96,0:24:45.29,Default,,0,0,0,,Understood.
-Dialogue: 5,0:24:46.75,0:24:47.67,Default,,0,0,0,,Currently...
-Dialogue: 5,0:24:48.96,0:24:50.67,Default,,0,0,0,,the state of our world...
-Dialogue: 5,0:24:51.30,0:24:53.89,Default,,0,0,0,,the fact that humans still exist is...
-Dialogue: 5,0:24:54.68,0:24:55.76,Default,,0,0,0,,an anomaly.
-Dialogue: 5,0:24:56.60,0:24:59.10,Default,,0,0,0,,Even we, Ex-machina...
-Dialogue: 5,0:24:59.10,0:25:00.81,Default,,0,0,0,,cannot calculate a reason for this.
-Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,As life forms you are weak.
+Dialogue: 5,0:24:46.70,0:24:47.77,Default,,0,0,0,,The current  
+Dialogue: 5,0:24:48.96,0:24:50.67,Default,,0,0,0,,state of the world...
+Dialogue: 5,0:24:51.30,0:24:53.89,Default,,0,0,0,,The fact that people still exist is
+Dialogue: 5,0:24:54.68,0:24:55.90,Default,,0,0,0,,an anomaly.
+Dialogue: 5,0:24:56.60,0:24:59.10,Default,,0,0,0,,Logical reasoning
+Dialogue: 5,0:24:59.10,0:25:00.81,Default,,0,0,0,,fails to explain it.
+Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,You're a weak form of life.
 Dialogue: 5,0:25:04.73,0:25:06.77,Default,,0,0,0,,Your civilization is primitive.
-Dialogue: 5,0:25:06.77,0:25:08.98,Default,,0,0,0,,You cannot utilize spiritual power, and yet...
-Dialogue: 5,0:25:10.07,0:25:11.57,Default,,0,0,0,,You have subsisted.
-Dialogue: 5,0:25:12.74,0:25:14.45,Default,,0,0,0,,There must be a reason,
+Dialogue: 5,0:25:06.67,0:25:09.45,Default,,0,0,0,,You cannot utilize spiritual power, and yet
+Dialogue: 5,0:25:10.07,0:25:11.67,Default,,0,0,0,,you resisted.
+
+Dialogue: 5,0:25:12.74,0:25:14.45,Default,,0,0,0,,There must be a reason
 Dialogue: 5,0:25:14.99,0:25:16.12,Default,,0,0,0,,a key...
-Dialogue: 5,0:25:16.70,0:25:17.49,Default,,0,0,0,,to your survival.
-Dialogue: 5,0:25:18.79,0:25:20.08,Default,,0,0,0,,And my theory is that...
-Dialogue: 5,0:25:20.75,0:25:21.96,Default,,0,0,0,,it resides...
+Dialogue: 5,0:25:16.70,0:25:17.49,Default,,0,0,0,,A factor...
+Dialogue: 5,0:25:18.79,0:25:20.08,Default,,0,0,0,,And my theory is that
+Dialogue: 5,0:25:20.75,0:25:21.96,Default,,0,0,0,,it resides
 Dialogue: 5,0:25:22.46,0:25:24.45,Default,,0,0,0,,in the human heart.
 Dialogue: 5,0:25:24.45,0:25:27.88,Default,,0,0,0,,Schwi wish to discover—
 Dialogue: 5,0:25:26.88,0:25:27.88,Alt,,0,0,0,,Stop.
@@ -431,7 +431,7 @@ Dialogue: 5,0:26:29.44,0:26:30.86,Default,,0,0,0,,If you just
 Dialogue: 5,0:26:30.86,0:26:32.19,Default,,0,0,0,,stab me here,
 Dialogue: 5,0:26:32.86,0:26:34.16,Default,,0,0,0,,Schwi 
 Dialogue: 5,0:26:34.16,0:26:35.11,Default,,0,0,0,,will die.
-Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Die? 
+Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Die?
 Dialogue: 5,0:26:36.91,0:26:40.66,Default,,0,0,0,,Since I am not a living being,\Na permament cessation,
 Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,impossible to repair.
 Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,Termination.
