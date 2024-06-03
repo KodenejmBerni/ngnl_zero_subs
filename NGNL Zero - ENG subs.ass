@@ -359,9 +359,9 @@ Dialogue: 5,0:23:16.79,0:23:18.87,Default,,0,0,0,,You make me look bad over here
 Dialogue: 5,0:23:19.92,0:23:22.79,Default,,0,0,0,,You don't like this form?
 Dialogue: 5,0:23:22.89,0:23:24.96,Default,,0,0,0,,That's not my thing.
 Dialogue: 5,0:23:25.51,0:23:28.42,Default,,0,0,0,,Then, what are you into?
-Dialogue: 5,0:23:28.42,0:23:29.26,Default,,0,0,0,,Listen...
+Dialogue: 5,0:23:28.42,0:23:29.55,Default,,0,0,0,,Listen...
 Dialogue: 5,0:23:29.55,0:23:32.72,Default,,0,0,0,,Do you even know what 'being into' means?
-Dialogue: 5,0:23:34.10,0:23:36.60,Default,,0,0,0,,I want to know what encourages you.
+Dialogue: 5,0:23:34.10,0:23:36.65,Default,,0,0,0,,I want to know what encourages you.
 Dialogue: 5,0:23:36.98,0:23:40.44,Default,,0,0,0,,That's not something I can tell you with words.
 Dialogue: 5,0:23:40.44,0:23:42.81,Default,,0,0,0,,Remember what I told about the heart?
 Dialogue: 5,0:23:43.11,0:23:44.37,Default,,0,0,0,,Then
@@ -369,40 +369,40 @@ Dialogue: 5,0:23:45.40,0:23:47.36,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:23:47.61,0:23:48.99,Default,,0,0,0,,I refuse.
 Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,That was the only time.
 Dialogue: 5,0:23:51.91,0:23:54.87,Default,,0,0,0,,I find games pointless and a waste of time.
-Dialogue: 5,0:23:55.70,0:23:57.87,Default,,0,0,0,,What if it wasn't pointless?
-Dialogue: 5,0:23:58.75,0:24:00.58,Default,,0,0,0,,What if the prize
-Dialogue: 5,0:24:00.58,0:24:03.63,Default,,0,0,0,,was all the information you desire.
-Dialogue: 5,0:24:03.88,0:24:05.13,Default,,0,0,0,,For example,
+Dialogue: 5,0:23:55.70,0:23:58.10,Default,,0,0,0,,What if it wasn't pointless?
+Dialogue: 5,0:23:58.75,0:24:00.58,Default,,0,0,0,,I can bet
+Dialogue: 5,0:24:00.58,0:24:03.63,Default,,0,0,0,,all the information you desire.
+Dialogue: 5,0:24:03.88,0:24:05.38,Default,,0,0,0,,For example,
 Dialogue: 5,0:24:05.38,0:24:07.80,Default,,0,0,0,,the reason behind the Great War
-Dialogue: 5,0:24:07.80,0:24:10.01,Default,,0,0,0,,and what it will take to end it.
+Dialogue: 5,0:24:07.80,0:24:10.01,Default,,0,0,0,,and what it takes to end it.
 Dialogue: 5,0:24:12.89,0:24:14.14,Default,,0,0,0,,Give me a break.
 Dialogue: 5,0:24:14.51,0:24:19.43,Default,,0,0,0,,As a mere human, I couldn't care less about it.
 Dialogue: 5,0:24:19.43,0:24:21.90,Default,,0,0,0,,The only thing I need to know
-Dialogue: 5,0:24:24.56,0:24:26.69,Default,,0,0,0,,is how to stay alive.
+Dialogue: 5,0:24:24.46,0:24:26.69,Default,,0,0,0,,is how to stay alive.
 Dialogue: 5,0:24:26.69,0:24:28.03,Default,,0,0,0,,That's it.
 Dialogue: 5,0:24:31.11,0:24:33.70,Default,,0,0,0,,That's why I brought you with me.
 Dialogue: 5,0:24:34.24,0:24:39.12,Default,,0,0,0,,Ex Machina’s engineering tech, knowledge, maths
 Dialogue: 5,0:24:39.83,0:24:41.83,Default,,0,0,0,,that's what I want if I win.
-Dialogue: 5,0:24:43.96,0:24:45.29,Default,,0,0,0,,Understood.
-Dialogue: 5,0:24:46.70,0:24:47.77,Default,,0,0,0,,The current  
-Dialogue: 5,0:24:48.96,0:24:50.67,Default,,0,0,0,,state of the world...
-Dialogue: 5,0:24:51.30,0:24:53.89,Default,,0,0,0,,The fact that people still exist is
+Dialogue: 5,0:24:43.96,0:24:45.29,Default,,0,0,0,,Okay.
+Dialogue: 5,0:24:46.70,0:24:47.87,Default,,0,0,0,,The current
+Dialogue: 5,0:24:48.96,0:24:50.87,Default,,0,0,0,,state of the world...
+Dialogue: 5,0:24:51.30,0:24:53.89,Default,,0,0,0,,The existence of humans in it is
 Dialogue: 5,0:24:54.68,0:24:55.90,Default,,0,0,0,,an anomaly.
 Dialogue: 5,0:24:56.60,0:24:59.10,Default,,0,0,0,,Logical reasoning
-Dialogue: 5,0:24:59.10,0:25:00.81,Default,,0,0,0,,fails to explain it.
-Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,You're a weak form of life.
-Dialogue: 5,0:25:04.73,0:25:06.77,Default,,0,0,0,,Your civilization is primitive.
-Dialogue: 5,0:25:06.67,0:25:09.45,Default,,0,0,0,,You cannot utilize spiritual power, and yet
-Dialogue: 5,0:25:10.07,0:25:11.67,Default,,0,0,0,,you resisted.
-
-Dialogue: 5,0:25:12.74,0:25:14.45,Default,,0,0,0,,There must be a reason
-Dialogue: 5,0:25:14.99,0:25:16.12,Default,,0,0,0,,a key...
-Dialogue: 5,0:25:16.70,0:25:17.49,Default,,0,0,0,,A factor...
-Dialogue: 5,0:25:18.79,0:25:20.08,Default,,0,0,0,,And my theory is that
-Dialogue: 5,0:25:20.75,0:25:21.96,Default,,0,0,0,,it resides
+Dialogue: 5,0:24:59.10,0:25:00.91,Default,,0,0,0,,fails to explain it.
+Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,As a life form you are weak.
+Dialogue: 5,0:25:04.73,0:25:06.67,Default,,0,0,0,,Your civilization is primitive.
+Dialogue: 5,0:25:06.67,0:25:09.55,Default,,0,0,0,,You cannot utilize spirits, and yet
+Dialogue: 5,0:25:10.07,0:25:11.77,Default,,0,0,0,,you push forward.
+Dialogue: 5,0:25:12.74,0:25:14.65,Default,,0,0,0,,There must be a reason
+Dialogue: 5,0:25:14.99,0:25:16.70,Default,,0,0,0,,to resist.
+Dialogue: 5,0:25:16.70,0:25:18.10,Default,,0,0,0,,A factor.
+Dialogue: 5,0:25:18.79,0:25:20.38,Default,,0,0,0,,I think that factor
+Dialogue: 5,0:25:20.75,0:25:22.26,Default,,0,0,0,,resides
 Dialogue: 5,0:25:22.46,0:25:24.45,Default,,0,0,0,,in the human heart.
-Dialogue: 5,0:25:24.45,0:25:27.88,Default,,0,0,0,,Schwi wish to discover—
-Dialogue: 5,0:25:26.88,0:25:27.88,Alt,,0,0,0,,Stop.
+Dialogue: 5,0:25:24.45,0:25:26.88,Default,,0,0,0,,That's what I want to—
+Dialogue: 5,0:25:26.88,0:25:27.88,Default,,0,0,0,,Hey
+
 Dialogue: 5,0:25:29.71,0:25:31.34,Default,,0,0,0,,Don't mock me.
 Dialogue: 5,0:25:32.17,0:25:33.09,Default,,0,0,0,,Riku?
 Dialogue: 5,0:25:33.09,0:25:35.55,Default,,0,0,0,,You wage war whenever you want.
@@ -414,7 +414,7 @@ Dialogue: 5,0:25:46.58,0:25:47.18,Default,,0,0,0,,Yeah?!
 Dialogue: 5,0:25:47.18,0:25:48.31,Default,,0,0,0,,You wanna know
 Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,what comes from my heart
 Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,since the very day I was born?!
-Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Rot in hell! Every fucking one of you!
+Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Fuck every single one of you!
 Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you know how many people\Nhave died because of you?
 Dialogue: 5,0:26:00.66,0:26:03.41,Default,,0,0,0,,You probably know exaclty how many, don't you?
 Dialogue: 5,0:26:03.87,0:26:06.83,Default,,0,0,0,,And how many will die because of my rules?
