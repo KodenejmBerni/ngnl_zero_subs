@@ -37,7 +37,7 @@ Dialogue: 5,0:00:43.98,0:00:45.98,Default,,0,0,0,,{\i1}More precise moves!
 Dialogue: 5,0:00:46.11,0:00:47.52,Default,,0,0,0,,{\i1}More efficient tactics!
 Dialogue: 5,0:00:48.32,0:00:50.49,Default,,0,0,0,,{\i1}I want a superior strategy!
 Dialogue: 5,0:00:51.40,0:00:53.53,Default,,0,0,0,,{\i1}Even if you lose this time,
-Dialogue: 5,0:00:54.53,0:00:57.28,Default,,0,0,0,,{\i1}you'll just have another chance next time.
+Dialogue: 5,0:00:54.53,0:00:57.28,Default,,0,0,0,,{\i1}you just have another chance next time.
 Dialogue: 5,0:01:00.75,0:01:02.79,Default,,0,0,0,,{\i1}Foolish, ignorant brat.
 Dialogue: 5,0:01:29.61,0:01:32.90,Default,,0,0,0,,{\i1}That's what I thought.
 Dialogue: 5,0:01:37.49,0:01:39.49,Default,,0,0,0,,{\i1}A childish delusion,
@@ -184,17 +184,17 @@ Dialogue: 5,0:13:00.26,0:13:03.13,Default,,0,0,0,,keep lying myself like this?!
 Dialogue: 5,0:13:09.52,0:13:12.02,Default,,0,0,0,,{\i1}No one born into this world,
 Dialogue: 5,0:13:12.89,0:13:16.94,Default,,0,0,0,,{\i1}wants to die without a reason.
 Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just like a reason to live,
-Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart requires meaning in death
+Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart requires a meaning in death
 Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}or it won't accept it.
 Dialogue: 5,0:13:32.79,0:13:35.25,Default,,0,0,0,,{\i1}Ivan's death won't be in vain.
 Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Ruins of the elvish city,
 Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}things you almost never come across.
-Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Looking for meaning in such a world...
+Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Looking for a meaning in such a world...
 Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}Can I still call that a sanity?
-Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}Dwarves?
+Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}The Dwarves?
 Dialogue: 5,0:14:11.62,0:14:12.16,Default,,0,0,0,,{\i1}No.
-Dialogue: 5,0:14:13.20,0:14:15.04,Default,,0,0,0,,{\i1}This scale of this destruction...
-Dialogue: 5,0:14:15.58,0:14:17.21,Default,,0,0,0,,{\i1}perhaps Flügels?
+Dialogue: 5,0:14:13.20,0:14:15.04,Default,,0,0,0,,{\i1}The scale of this destruction...
+Dialogue: 5,0:14:15.58,0:14:17.21,Default,,0,0,0,,{\i1}perhaps the Flügels.
 Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}That's a huge one...
 Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}My imagination?
 Dialogue: 5,0:15:35.24,0:15:36.79,Default,,0,0,0,,{\i1}Ex-machina?!
@@ -203,7 +203,7 @@ Dialogue: 5,0:15:37.62,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
 Dialogue: 5,0:15:41.92,0:15:42.75,Default,,0,0,0,,{\i1}Stay calm.
 Dialogue: 5,0:15:43.38,0:15:46.25,Default,,0,0,0,,{\i1}This thing always operates as part of a collective.
 Dialogue: 5,0:15:46.25,0:15:48.63,Default,,0,0,0,,{\i1}It shares consciousness with a cluster,
-Dialogue: 5,0:15:48.63,0:15:51.22,Default,,0,0,0,,{\i1}which means others must be nearby.
+Dialogue: 5,0:15:48.63,0:15:51.22,Default,,0,0,0,,{\i1}so others must be nearby.
 Dialogue: 5,0:15:51.22,0:15:52.30,Default,,0,0,0,,{\i1}That means—
 Dialogue: 5,0:15:52.30,0:15:53.07,Default,,0,0,0,,Conclusion.
 Dialogue: 5,0:15:53.85,0:15:59.14,Default,,0,0,0,,{\i1}If I make any hostile moves,\Nall the Ex-machinas will see me as a threat.
@@ -237,7 +237,7 @@ Dialogue: 5,0:17:10.26,0:17:11.47,Default,,0,0,0,,Reasoning:
 Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,Deeper investigation generated many logical errors, causing this unit to be disassociated.
 Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation has been conducted independently.
 Dialogue: 5,0:17:22.48,0:17:23.94,Default,,0,0,0,,Observation?
-Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,So you're planning to study the heart on your own and get the cluster to take you back?
+Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,For how long have you been spying on me after being thrown out of that cluster?
 Dialogue: 5,0:17:29.82,0:17:31.28,Default,,0,0,0,,Demand:
 Dialogue: 5,0:17:31.28,0:17:35.41,Default,,0,0,0,,It is postulated that direct dermo-contact
 Dialogue: 5,0:17:35.41,0:17:37.74,Default,,0,0,0,,leads to heart stimulation.
@@ -245,12 +245,12 @@ Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request a procreation.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
 Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Adjustment:
 Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit in the village.
-Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,Although it has no orifice.
+Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,It has no orifice tho.
 Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point!
 Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen.
-Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Duel.
-Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,Challenge.
-Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,Chess.
+Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,A duel,
+Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,challenge,
+Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,chess.
 Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
 Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
 Dialogue: 5,0:18:16.28,0:18:17.24,Default,,0,0,0,,Conditions:
@@ -272,7 +272,7 @@ Dialogue: 5,0:19:01.24,0:19:03.74,Default,,0,0,0,,Yeah, indeed.
 Dialogue: 5,0:19:03.99,0:19:05.50,Default,,0,0,0,,Except I propose
 Dialogue: 5,0:19:06.45,0:19:09.50,Default,,0,0,0,,much better win conditions for you.
 Dialogue: 5,0:19:29.98,0:19:31.44,Default,,0,0,0,,We have arrived.
-Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,So, such journey didn't consume any spiritual energy?
+Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,That journey didn't even consume any spiritual energy?
 Dialogue: 5,0:19:38.03,0:19:39.20,Default,,0,0,0,,Correct.
 Dialogue: 5,0:19:39.20,0:19:44.08,Default,,0,0,0,,Utilizing spiritual energy would have saved 55.782 seconds.
 Dialogue: 5,0:19:45.29,0:19:46.20,Default,,0,0,0,,Addendum:
@@ -304,7 +304,7 @@ Dialogue: 5,0:20:48.60,0:20:51.39,Default,,0,0,0,,Can we do something with your 
 Dialogue: 5,0:20:51.39,0:20:54.98,Default,,0,0,0,,Laden: Adopting personality 1610.
 Dialogue: 5,0:20:57.20,0:20:59.61,Default,,0,0,0,,Onii-chan, is this better?
 Dialogue: 5,0:20:59.61,0:21:00.28,Default,,0,0,0,,Never!
-Dialogue: 5,0:21:00.78,0:21:03.91,Default,,0,0,0,,Retort: It's the result of high-cost computation.
+Dialogue: 5,0:21:00.78,0:21:03.91,Default,,0,0,0,,Retort: It was the result of high-cost computation.
 Dialogue: 5,0:21:03.91,0:21:08.74,Default,,0,0,0,,Am I supposed to walk in there and say I have a sister out of nowhere?
 Dialogue: 5,0:21:08.74,0:21:11.79,Default,,0,0,0,,Request: Provide optimal scenario.
 Dialogue: 5,0:21:12.16,0:21:15.92,Default,,0,0,0,,Ok then, you're timid and don't talk too much.
@@ -343,7 +343,7 @@ Dialogue: 5,0:22:34.00,0:22:35.46,Default,,0,0,0,,What does she mean?
 Dialogue: 5,0:22:35.46,0:22:36.75,Default,,0,0,0,,She doesn't mean anything.
 Dialogue: 5,0:22:37.22,0:22:38.68,Default,,0,0,0,,What's your name?
 Dialogue: 5,0:22:38.82,0:22:40.02,Default,,0,0,0,,Schwi.
-Dialogue: 5,0:22:40.84,0:22:42.80,Default,,0,0,0,,Lovely name.
+Dialogue: 5,0:22:40.84,0:22:42.80,Default,,0,0,0,,A lovely name.
 Dialogue: 5,0:22:42.80,0:22:44.84,Default,,0,0,0,,How did you meet Riku?
 Dialogue: 5,0:22:45.67,0:22:48.97,Default,,0,0,0,,We kissed...
 Dialogue: 5,0:22:48.97,0:22:51.95,Default,,0,0,0,,and then the demand for procreation was made.
@@ -351,7 +351,7 @@ Dialogue: 5,0:22:55.68,0:22:57.60,Default,,0,0,0,,No, that's not—
 Dialogue: 5,0:22:57.81,0:22:59.31,Default,,0,0,0,,Riku,
 Dialogue: 5,0:22:59.31,0:23:01.80,Default,,0,0,0,,you couldn't wait...
 Dialogue: 5,0:23:01.90,0:23:04.78,Default,,0,0,0,,at least until you return?!
-Dialogue: 5,0:23:06.28,0:23:09.25,Default,,0,0,0,,Could have put it in a better way.
+Dialogue: 5,0:23:06.28,0:23:09.25,Default,,0,0,0,,You could have put it in a better way.
 Dialogue: 5,0:23:09.82,0:23:10.81,Default,,0,0,0,,A better way?
 Dialogue: 5,0:23:10.81,0:23:12.12,Default,,0,0,0,,Eh, whatever.
 Dialogue: 5,0:23:12.12,0:23:16.79,Default,,0,0,0,,Anyway, can't you at least try to act more mature?
@@ -393,10 +393,10 @@ Dialogue: 5,0:24:59.10,0:25:00.91,Default,,0,0,0,,fails to explain it.
 Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,As a life form you are weak.
 Dialogue: 5,0:25:04.73,0:25:06.67,Default,,0,0,0,,Your civilization is primitive.
 Dialogue: 5,0:25:06.67,0:25:09.55,Default,,0,0,0,,You cannot utilize spiritual power, and yet
-Dialogue: 5,0:25:10.07,0:25:11.77,Default,,0,0,0,,you subsisted.
-Dialogue: 5,0:25:12.74,0:25:14.65,Default,,0,0,0,,There must be a reason
-Dialogue: 5,0:25:14.99,0:25:16.70,Default,,0,0,0,,to resist.
-Dialogue: 5,0:25:16.70,0:25:18.10,Default,,0,0,0,,A factor.
+Dialogue: 5,0:25:10.07,0:25:11.77,Default,,0,0,0,,you resist.
+Dialogue: 5,0:25:12.74,0:25:14.65,Default,,0,0,0,,There must be a reason,
+Dialogue: 5,0:25:14.99,0:25:16.70,Default,,0,0,0,,a stimulus,
+Dialogue: 5,0:25:16.70,0:25:18.10,Default,,0,0,0,,a factor.
 Dialogue: 5,0:25:18.79,0:25:20.38,Default,,0,0,0,,I think that factor
 Dialogue: 5,0:25:20.75,0:25:22.26,Default,,0,0,0,,resides
 Dialogue: 5,0:25:22.46,0:25:24.45,Default,,0,0,0,,in the human heart.
@@ -408,7 +408,7 @@ Dialogue: 5,0:25:33.09,0:25:35.55,Default,,0,0,0,,You slaughter us as you like.
 Dialogue: 5,0:25:35.55,0:25:37.68,Default,,0,0,0,,You rob us of everything we have.
 Dialogue: 5,0:25:37.68,0:25:39.47,Default,,0,0,0,,And what do you have to say?
 Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,"Hey humans, why do you guys still exist?"
-Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let's see what's in your heart."
+Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let me see what's in your heart."
 Dialogue: 5,0:25:46.58,0:25:47.18,Default,,0,0,0,,Yeah?!
 Dialogue: 5,0:25:47.18,0:25:48.31,Default,,0,0,0,,You wanna know
 Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,what comes from my heart
@@ -417,29 +417,29 @@ Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Fuck every single one of you!
 Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you know how many have died because of you?
 Dialogue: 5,0:26:00.66,0:26:02.21,Default,,0,0,0,,How many you've killed?
 Dialogue: 5,0:26:02.21,0:26:03.87,Default,,0,0,0,,How many—
-Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many you made me kill.
-Dialogue: 5,0:26:08.04,0:26:09.09,Default,,0,0,0,,Riku,
-Dialogue: 5,0:26:09.09,0:26:10.34,Default,,0,0,0,,you're crying.
+Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many you made me kill...
+Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, you're crying.
 Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore
 Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,I must have said something terrible
-Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,or... hurtful.
+Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,or hurtful.
 
-Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Riku's heart
-Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wish to kill Schwi.
-Dialogue: 5,0:26:26.73,0:26:27.94,Default,,0,0,0,,Understood.
+Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Your heart
+Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill Schwi.
+Dialogue: 5,0:26:26.73,0:26:27.94,Default,,0,0,0,,I see.
 Dialogue: 5,0:26:29.44,0:26:30.86,Default,,0,0,0,,If you just
 Dialogue: 5,0:26:30.86,0:26:32.19,Default,,0,0,0,,stab me here,
-Dialogue: 5,0:26:32.86,0:26:34.16,Default,,0,0,0,,Schwi 
-Dialogue: 5,0:26:34.16,0:26:35.11,Default,,0,0,0,,will die.
+Dialogue: 5,0:26:32.86,0:26:34.16,Default,,0,0,0,,Schwi
+Dialogue: 5,0:26:34.16,0:26:35.31,Default,,0,0,0,,will die.
 Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Die?
-Dialogue: 5,0:26:36.91,0:26:40.66,Default,,0,0,0,,Since I am not a living being,\Na permament cessation,
-Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,impossible to repair.
-Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,Termination.
-Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi wish to know Riku's heart.
-Dialogue: 5,0:26:49.04,0:26:49.92,Default,,0,0,0,,That's why...
-Dialogue: 5,0:26:50.38,0:26:53.59,Default,,0,0,0,,If this is truly what your heart desires. I want to know...\N
-Dialogue: 5,0:26:54.05,0:26:55.05,Default,,0,0,0,,Will you...
-Dialogue: 5,0:26:55.05,0:26:56.88,Default,,0,0,0,,kill Schwi?
+Dialogue: 5,0:26:36.91,0:26:38.91,Default,,0,0,0,,I'm not a living being...
+Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A termination.
+Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,A permanent
+Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,shut down.
+
+Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi wants to know your heart.
+Dialogue: 5,0:26:49.04,0:26:53.59,Default,,0,0,0,,So now, that your heart desires it,
+Dialogue: 5,0:26:53.95,0:26:55.35,Default,,0,0,0,,do you
+Dialogue: 5,0:26:55.35,0:26:57.00,Default,,0,0,0,,kill Schwi?
 Dialogue: 5,0:27:01.14,0:27:02.01,Default,,0,0,0,,Chad
 Dialogue: 5,0:27:02.01,0:27:02.85,Default,,0,0,0,,Anton
 Dialogue: 5,0:27:02.85,0:27:03.56,Default,,0,0,0,,Elmer
@@ -487,8 +487,8 @@ Dialogue: 5,0:27:32.79,0:27:33.34,Default,,0,0,0,,Hound
 Dialogue: 5,0:27:33.63,0:27:34.34,Default,,0,0,0,,Balrof
 Dialogue: 5,0:27:34.34,0:27:35.25,Default,,0,0,0,,Masashi
 Dialogue: 5,0:27:35.25,0:27:35.92,Default,,0,0,0,,Memegan
-Dialogue: 5,0:27:35.92,0:27:36.46,Default,,0,0,0,,Karim!
-Dialogue: 5,0:27:38.22,0:27:39.13,Default,,0,0,0,,Ivan!
+Dialogue: 5,0:27:35.92,0:27:36.96,Default,,0,0,0,,Karim!
+Dialogue: 5,0:27:38.22,0:27:39.33,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:27:40.18,0:27:42.35,Default,,0,0,0,,Forty-eight people.
 Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,It's forty-eight people that I ordered to die.
 Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,Many people have\Ndied because of your Great War.
