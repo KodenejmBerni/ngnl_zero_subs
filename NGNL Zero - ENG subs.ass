@@ -323,7 +323,7 @@ Dialogue: 5,0:21:49.70,0:21:54.83,Default,,0,0,0,,Can you do something about tha
 Dialogue: 5,0:21:54.83,0:21:55.46,Default,,0,0,0,,I can't.
 Dialogue: 5,0:21:55.96,0:22:00.80,Default,,0,0,0,,It is my power source. A quasi-nerve crossed with spiritual circuitry.
 Dialogue: 5,0:22:01.30,0:22:03.34,Default,,0,0,0,,Ehh, fine.
-Dialogue: 5,0:22:03.34,0:22:05.22,Default,,0,0,0,,We'll say they're trinkets.
+Dialogue: 5,0:22:03.34,0:22:05.22,Default,,0,0,0,,Let's say they're trinkets."
 Dialogue: 5,0:22:05.22,0:22:06.59,Default,,0,0,0,,And one more time,
 Dialogue: 5,0:22:06.84,0:22:09.84,Default,,0,0,0,,nobody can see that robot body of yours.
 Dialogue: 5,0:22:10.70,0:22:11.74,Default,,0,0,0,,Okay.
@@ -422,7 +422,6 @@ Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, you're crying.
 Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore
 Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,I must have said something terrible
 Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,or hurtful.
-
 Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Your heart
 Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill Schwi.
 Dialogue: 5,0:26:26.73,0:26:27.94,Default,,0,0,0,,I see.
@@ -435,7 +434,6 @@ Dialogue: 5,0:26:36.91,0:26:38.91,Default,,0,0,0,,I'm not a living being...
 Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A termination.
 Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,A permanent
 Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,shut down.
-
 Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi wants to know your heart.
 Dialogue: 5,0:26:49.04,0:26:53.59,Default,,0,0,0,,So now, that your heart desires it,
 Dialogue: 5,0:26:53.95,0:26:55.35,Default,,0,0,0,,do you
@@ -489,36 +487,41 @@ Dialogue: 5,0:27:34.34,0:27:35.25,Default,,0,0,0,,Masashi
 Dialogue: 5,0:27:35.25,0:27:35.92,Default,,0,0,0,,Memegan
 Dialogue: 5,0:27:35.92,0:27:36.96,Default,,0,0,0,,Karim!
 Dialogue: 5,0:27:38.22,0:27:39.33,Default,,0,0,0,,Ivan!
-Dialogue: 5,0:27:40.18,0:27:42.35,Default,,0,0,0,,Forty-eight people.
-Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,It's forty-eight people that I ordered to die.
-Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,Many people have\Ndied because of your Great War.
-Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,Removed, like dust being swept away!
-Dialogue: 5,0:27:52.77,0:27:53.77,Default,,0,0,0,,But...
-Dialogue: 5,0:27:53.77,0:27:55.61,Default,,0,0,0,,the one who convinced them
-Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,that they need to die—
+Dialogue: 5,0:27:40.18,0:27:42.35,Default,,0,0,0,,Forty-eight.
+Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,That's how many lives I'm responsible for.
+Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,Perhaps many more people died due to the war,
+Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,like dust being swept away.
+Dialogue: 5,0:27:52.77,0:27:54.00,Default,,0,0,0,,But
+Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,the one who decided
+Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,who should die—
 Dialogue: 5,0:28:14.96,0:28:16.21,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:35.11,0:28:36.32,Default,,0,0,0,,Riku?
-Dialogue: 5,0:28:36.32,0:28:37.40,Default,,0,0,0,,You awake?
-Dialogue: 5,0:28:37.40,0:28:40.49,Default,,0,0,0,,Sorry, I know you're tired, but if you don't mind—
+Dialogue: 5,0:28:36.32,0:28:37.40,Default,,0,0,0,,Are you awake?
+Dialogue: 5,0:28:37.40,0:28:40.49,Default,,0,0,0,,I know you're tired, but maybe—
 Dialogue: 5,0:28:42.91,0:28:45.24,Default,,0,0,0,,Oh! Sorry!
-Dialogue: 5,0:28:49.54,0:28:53.46,Default,,0,0,0,,Do you mind if I ask you why\Nyou're sitting there straddling me?
-Dialogue: 5,0:28:53.46,0:28:56.54,Default,,0,0,0,,Riku, you instructed me to stay where you can see me.
-Dialogue: 5,0:28:56.54,0:28:59.21,Default,,0,0,0,,I only meant for you to stay nearby.
-Dialogue: 5,0:28:59.21,0:29:00.17,Default,,0,0,0,,Inconsistency:
-Dialogue: 5,0:29:00.17,0:29:02.59,Default,,0,0,0,,Do you see me when I'm not in your line of sight?
-Dialogue: 5,0:29:02.59,0:29:03.76,Default,,0,0,0,,Is this some role-play?
-Dialogue: 5,0:29:03.76,0:29:04.51,Default,,0,0,0,,No! It's not!
-Dialogue: 5,0:29:04.72,0:29:07.26,Default,,0,0,0,,It's okay, big sis understands!
-Dialogue: 5,0:29:07.26,0:29:10.02,Default,,0,0,0,,Whenever you're done,\Nlet me know so Schwi can take a bath.
+Dialogue: 5,0:28:49.54,0:28:53.46,Default,,0,0,0,,Might I inquire what are you sitting on me for?
+Dialogue: 5,0:28:53.46,0:28:56.49,Default,,0,0,0,,Riku, I'm letting you know where I am.
+Dialogue: 5,0:28:56.49,0:28:59.21,Default,,0,0,0,,You could have just stayed nearby.
+Dialogue: 5,0:28:59.21,0:29:00.17,Default,,0,0,0,,Confusing...
+Dialogue: 5,0:29:00.17,0:29:02.59,Default,,0,0,0,,You cannot see me when you sleep.
+Dialogue: 5,0:29:02.59,0:29:03.76,Default,,0,0,0,,Intriguing role-play.
+Dialogue: 5,0:29:03.76,0:29:04.51,Default,,0,0,0,,That's not it!
+Dialogue: 5,0:29:04.72,0:29:07.26,Default,,0,0,0,,No worries, sis understands.
+Dialogue: 5,0:29:07.26,0:29:10.02,Default,,0,0,0,,When you're done, Schwi can join us for a bath.
 Dialogue: 5,0:29:10.27,0:29:11.02,Default,,0,0,0,,A bath?
+
 Dialogue: 5,0:29:16.36,0:29:18.36,Default,,0,0,0,,Schwi...
 Dialogue: 5,0:29:18.36,0:29:20.85,Default,,0,0,0,,cannot show her body
 Dialogue: 5,0:29:20.85,0:29:21.78,Default,,0,0,0,,to anyone else.
-Dialogue: 5,0:29:21.94,0:29:23.28,Default,,0,0,0,,Oh my! You have her trained?!
+
+Dialogue: 5,0:29:21.84,0:29:23.74,Default,,0,0,0,,Oh my! Already this far?!
 Dialogue: 5,0:29:23.74,0:29:25.82,Default,,0,0,0,,Couronne, please shut up.
+
 Dialogue: 5,0:29:25.82,0:29:27.28,Default,,0,0,0,,Wow, things sure are moving quickly.
 Dialogue: 5,0:29:27.91,0:29:29.62,Default,,0,0,0,,I leave Schwi in your care, then.
 Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,I'll go kick out whoever is in the bath.
+
+
 Dialogue: 5,0:29:48.43,0:29:49.81,Default,,0,0,0,,I am... sorry.
 Dialogue: 5,0:29:50.85,0:29:51.77,Default,,0,0,0,,Sorry for what?
 Dialogue: 5,0:29:52.64,0:29:55.94,Default,,0,0,0,,For being the aggressor and yet\Nasking you about the heart.
