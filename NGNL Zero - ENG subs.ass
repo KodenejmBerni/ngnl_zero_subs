@@ -238,7 +238,7 @@ Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,Deeper investigation generated
 Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation has been conducted independently.
 Dialogue: 5,0:17:22.48,0:17:23.94,Default,,0,0,0,,Observation, huh?
 Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,Are you planning to analyze the heart and then return with everything to that cluster?
-Dialogue: 5,0:17:29.82,0:17:31.28,Default,,0,0,0,,Demand: 
+Dialogue: 5,0:17:29.82,0:17:31.28,Default,,0,0,0,,Demand:
 Dialogue: 5,0:17:31.28,0:17:35.41,Default,,0,0,0,,It is postulated that direct dermo-contact
 Dialogue: 5,0:17:35.41,0:17:37.74,Default,,0,0,0,,leads to heart stimulation.
 Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request a procreation.
@@ -272,7 +272,7 @@ Dialogue: 5,0:19:01.24,0:19:03.74,Default,,0,0,0,,Yeah, indeed.
 Dialogue: 5,0:19:03.99,0:19:05.50,Default,,0,0,0,,Except I propose
 Dialogue: 5,0:19:06.45,0:19:09.50,Default,,0,0,0,,much better win conditions for you.
 Dialogue: 5,0:19:29.98,0:19:31.44,Default,,0,0,0,,We have arrived.
-Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,That journey didn't even consume any spiritual energy?
+Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,Hey, you seriously didn't use any spiritual energy for that?
 Dialogue: 5,0:19:38.03,0:19:39.20,Default,,0,0,0,,Correct.
 Dialogue: 5,0:19:39.20,0:19:44.08,Default,,0,0,0,,Utilizing spiritual energy would have saved 55.782 seconds.
 Dialogue: 5,0:19:45.29,0:19:46.20,Default,,0,0,0,,Addendum:
@@ -489,12 +489,12 @@ Dialogue: 5,0:27:35.25,0:27:35.92,Default,,0,0,0,,Memegan
 Dialogue: 5,0:27:35.92,0:27:36.96,Default,,0,0,0,,Karim!
 Dialogue: 5,0:27:38.22,0:27:39.33,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:27:40.18,0:27:42.35,Default,,0,0,0,,Forty-eight.
-Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,That's how many lives I'm responsible for.
-Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,Perhaps many more people died due to the war,
-Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,like dust being swept away.
-Dialogue: 5,0:27:52.77,0:27:54.00,Default,,0,0,0,,But
-Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,the one who decided
-Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,who should die—
+Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,That's how many deaths I'm responsible for.
+Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,It's true that many more people have died due to the war
+Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,being swept away like dust,
+Dialogue: 5,0:27:52.77,0:27:54.00,Default,,0,0,0,,but
+Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,these were the ones
+Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,I ordered to die.
 Dialogue: 5,0:28:14.96,0:28:16.21,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:35.11,0:28:36.32,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:36.32,0:28:37.40,Default,,0,0,0,,Are you awake?
@@ -519,38 +519,38 @@ Dialogue: 5,0:29:25.82,0:29:27.91,Default,,0,0,0,,Wow, you sure are moving quick
 Dialogue: 5,0:29:27.91,0:29:29.62,Default,,0,0,0,,I leave Schwi in your care, then.
 Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,The bath will be all to yourselves.
 
-Dialogue: 5,0:29:48.43,0:29:49.81,Default,,0,0,0,,I am... sorry.
-Dialogue: 5,0:29:50.85,0:29:51.77,Default,,0,0,0,,Sorry for what?
-Dialogue: 5,0:29:52.64,0:29:55.94,Default,,0,0,0,,For being the aggressor and yet\Nasking you about the heart.
-Dialogue: 5,0:29:56.65,0:29:57.61,Default,,0,0,0,,It's illogical.
-Dialogue: 5,0:29:58.86,0:30:00.36,Default,,0,0,0,,I wouldn't say illogical...
-Dialogue: 5,0:30:00.57,0:30:01.90,Default,,0,0,0,,It's insensitive.
-Dialogue: 5,0:30:02.61,0:30:05.95,Default,,0,0,0,,My circuits are capable of sensitive transmissions.
-Dialogue: 5,0:30:05.95,0:30:07.62,Default,,0,0,0,,That's not what I meant.
+Dialogue: 5,0:29:48.43,0:29:50.01,Default,,0,0,0,,I'm... sorry.
+Dialogue: 5,0:29:50.85,0:29:51.87,Default,,0,0,0,,For what?
+Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,For the aggressor to ask a victim about the heart
+Dialogue: 5,0:29:56.65,0:29:57.61,Default,,0,0,0,,is illogical.
+Dialogue: 5,0:29:58.86,0:30:00.36,Default,,0,0,0,,Not illogical...
+Dialogue: 5,0:30:00.57,0:30:02.10,Default,,0,0,0,,it's insensitive.
+Dialogue: 5,0:30:02.61,0:30:05.95,Default,,0,0,0,,I have an abundant network of sensors.
+Dialogue: 5,0:30:05.95,0:30:07.80,Default,,0,0,0,,That's not what I meant.
 Dialogue: 5,0:30:09.37,0:30:12.62,Default,,0,0,0,,Well, I also got too worked up.
 Dialogue: 5,0:30:13.50,0:30:15.29,Default,,0,0,0,,Is that a bad thing?
-Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Can be.
-Dialogue: 5,0:30:16.79,0:30:20.13,Default,,0,0,0,,I could strike you\Nand that wouldn't solve anything, would it?
-Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to strike Schwi?
-Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,No, it's just a point I am trying to make.
-Dialogue: 5,0:30:26.26,0:30:28.01,Default,,0,0,0,,Actually, is it?
+Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Usually.
+Dialogue: 5,0:30:16.79,0:30:20.13,Default,,0,0,0,,Me wanting to stab you in a fit of rage won't solve any of my problems.
+Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to stab Schwi...
+Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,It was just an example.
+Dialogue: 5,0:30:26.26,0:30:28.01,Default,,0,0,0,,Or was it?
 Dialogue: 5,0:30:28.72,0:30:30.51,Default,,0,0,0,,I'm not so sure myself.
-Dialogue: 5,0:30:32.64,0:30:33.72,Default,,0,0,0,,Riku.
-Dialogue: 5,0:30:33.72,0:30:34.77,Default,,0,0,0,,Let's play a game.
-Dialogue: 5,0:30:40.86,0:30:42.82,Default,,0,0,0,,What did you bring that thing for?
-Dialogue: 5,0:30:44.32,0:30:46.61,Default,,0,0,0,,Because it's the only time...
-Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,that you smiled.
-Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,So...
+Dialogue: 5,0:30:32.64,0:30:33.72,Default,,0,0,0,,Riku,
+Dialogue: 5,0:30:33.72,0:30:34.77,Default,,0,0,0,,let's play a game.
+Dialogue: 5,0:30:40.86,0:30:42.82,Default,,0,0,0,,What did you bring that for?
+Dialogue: 5,0:30:44.32,0:30:46.61,Default,,0,0,0,,It's the only time
+Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,you opened up.
+Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,So
 Dialogue: 5,0:30:53.37,0:30:55.12,Default,,0,0,0,,let's play a game.
-Dialogue: 5,0:30:57.62,0:30:58.62,Default,,0,0,0,,Schwi
-Dialogue: 5,0:30:58.62,0:31:00.88,Default,,0,0,0,,wish to know Riku's heart.
-Dialogue: 5,0:31:01.25,0:31:04.38,Default,,0,0,0,,But, also not in a manner that hurts Riku.
+Dialogue: 5,0:30:57.62,0:31:01.12,Default,,0,0,0,,Schwi wishes to get to know your heart,
+Dialogue: 5,0:31:01.25,0:31:04.38,Default,,0,0,0,,but not in a manner that harms you.
 Dialogue: 5,0:31:05.05,0:31:06.63,Default,,0,0,0,,I don't know
-Dialogue: 5,0:31:07.01,0:31:08.38,Default,,0,0,0,,what to do. 
+Dialogue: 5,0:31:07.01,0:31:08.38,Default,,0,0,0,,what to do.
 Dialogue: 5,0:31:10.51,0:31:13.14,Default,,0,0,0,,Why do you care about my feelings?
-Dialogue: 5,0:31:13.14,0:31:15.22,Default,,0,0,0,,If you'd want to return to your cluster,
-Dialogue: 5,0:31:15.22,0:31:18.77,Default,,0,0,0,,I'm sure you could corner me or anything,\Nto learn more about the heart.
-Dialogue: 5,0:31:19.19,0:31:21.11,Default,,0,0,0,,Riku is right.
+Dialogue: 5,0:31:13.14,0:31:15.22,Default,,0,0,0,,If you want to return to your cluster,
+Dialogue: 5,0:31:15.22,0:31:18.77,Default,,0,0,0,,I'm sure you could force me to learn more about the heart.
+Dialogue: 5,0:31:19.19,0:31:21.11,Default,,0,0,0,,You're right.
+
 Dialogue: 5,0:31:21.69,0:31:22.52,Default,,0,0,0,,But either way,
 Dialogue: 5,0:31:22.52,0:31:25.57,Default,,0,0,0,,Schwi doesn't wish to go back.
 Dialogue: 5,0:31:27.45,0:31:28.20,Default,,0,0,0,,Why is that? 
