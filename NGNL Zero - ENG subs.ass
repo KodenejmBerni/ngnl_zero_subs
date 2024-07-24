@@ -89,7 +89,7 @@ Dialogue: 5,0:05:36.06,0:05:37.69,Default,,0,0,0,,Don't let your guard down.
 Dialogue: 5,0:05:37.69,0:05:38.86,Default,,0,0,0,,Riku!
 Dialogue: 5,0:05:38.86,0:05:40.73,Default,,0,0,0,,Come quick! There's a—
 Dialogue: 5,0:05:45.32,0:05:46.70,Default,,0,0,0,,This is...
-Dialogue: 5,0:05:48.62,0:05:52.70,Default,,0,0,0,,a Dwarven world map! And it's very recent!
+Dialogue: 5,0:05:48.62,0:05:52.70,Default,,0,0,0,,A Dwarven world map! And it's very recent!
 Dialogue: 5,0:05:53.70,0:05:55.21,Default,,0,0,0,,That's not all.
 Dialogue: 5,0:05:55.71,0:05:59.75,Default,,0,0,0,,It shows the distribution of all forces. Even the Dwarves' strategy.
 Dialogue: 5,0:06:01.63,0:06:03.38,Default,,0,0,0,,Ivan, Aley,
@@ -175,7 +175,7 @@ Dialogue: 5,0:12:28.97,0:12:30.35,Default,,0,0,0,,Say it!
 Dialogue: 5,0:12:30.35,0:12:35.48,Default,,0,0,0,,I killed him, because that's the only way for us to live!
 Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If that's how one stays alive,
 Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what comes next?
-Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far should I go?
+Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far I need to go?
 Dialogue: 5,0:12:45.78,0:12:50.25,Default,,0,0,0,,Until I order half the village to bite the dust for the other half?
 Dialogue: 5,0:12:50.25,0:12:52.50,Default,,0,0,0,,Or until I no longer give a fuck?!
 Dialogue: 5,0:12:55.00,0:12:57.00,Default,,0,0,0,,When will this end?
@@ -185,12 +185,12 @@ Dialogue: 5,0:13:09.52,0:13:12.02,Default,,0,0,0,,{\i1}Everyone born into this w
 Dialogue: 5,0:13:12.89,0:13:16.94,Default,,0,0,0,,{\i1}wants their life to mean anything.
 Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just like a reason to live,
 Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart requires a meaning in death
-Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to accept reality.
+Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to accept this reality.
 Dialogue: 5,0:13:32.79,0:13:35.25,Default,,0,0,0,,{\i1}Ivan's death won't be in vain.
 Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Ruins of an elvish city,
 Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}things you almost never come across.
-Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}But could accepting such a world...
-Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}still be called a sanity?
+Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Staying sane in such a world...
+Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}could that really be called sanity?"
 Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}The Dwarves?
 Dialogue: 5,0:14:11.62,0:14:12.77,Default,,0,0,0,,{\i1}No.
 Dialogue: 5,0:14:13.20,0:14:15.10,Default,,0,0,0,,{\i1}The scale of this destruction...
@@ -521,49 +521,46 @@ Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,The bath will be all to yourse
 
 Dialogue: 5,0:29:48.43,0:29:50.01,Default,,0,0,0,,I'm... sorry.
 Dialogue: 5,0:29:50.85,0:29:51.87,Default,,0,0,0,,For what?
-Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,For the aggressor to ask a victim about the heart
-Dialogue: 5,0:29:56.65,0:29:57.61,Default,,0,0,0,,is illogical.
-Dialogue: 5,0:29:58.86,0:30:00.36,Default,,0,0,0,,Not illogical...
+Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,Aggressor asking a victim about the heart...
+Dialogue: 5,0:29:56.65,0:29:57.70,Default,,0,0,0,,it's illogical.
+Dialogue: 5,0:29:58.50,0:30:00.36,Default,,0,0,0,,Not illogical,
 Dialogue: 5,0:30:00.57,0:30:02.10,Default,,0,0,0,,it's insensitive.
 Dialogue: 5,0:30:02.61,0:30:05.95,Default,,0,0,0,,I have an abundant network of sensors.
 Dialogue: 5,0:30:05.95,0:30:07.80,Default,,0,0,0,,That's not what I meant.
 Dialogue: 5,0:30:09.37,0:30:12.62,Default,,0,0,0,,Well, I also got too worked up.
-Dialogue: 5,0:30:13.50,0:30:15.29,Default,,0,0,0,,Is that a bad thing?
-Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Usually.
-Dialogue: 5,0:30:16.79,0:30:20.13,Default,,0,0,0,,Me wanting to stab you in a fit of rage won't solve any of my problems.
+Dialogue: 5,0:30:13.25,0:30:15.29,Default,,0,0,0,,Is that a bad thing?
+Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Yeah.
+Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,Wanting to stab you wouldn’t solve any actual problems.
 Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to stab Schwi...
-Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,It was just an example.
+Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,That was only hypothetical.
 Dialogue: 5,0:30:26.26,0:30:28.01,Default,,0,0,0,,Or was it?
 Dialogue: 5,0:30:28.72,0:30:30.51,Default,,0,0,0,,I'm not so sure myself.
 Dialogue: 5,0:30:32.64,0:30:33.72,Default,,0,0,0,,Riku,
-Dialogue: 5,0:30:33.72,0:30:34.77,Default,,0,0,0,,let's play a game.
+Dialogue: 5,0:30:33.72,0:30:34.97,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:30:40.86,0:30:42.82,Default,,0,0,0,,What did you bring that for?
 Dialogue: 5,0:30:44.32,0:30:46.61,Default,,0,0,0,,It's the only time
-Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,you opened up.
-Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,So
+Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,you open up...
+Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,so
 Dialogue: 5,0:30:53.37,0:30:55.12,Default,,0,0,0,,let's play a game.
-Dialogue: 5,0:30:57.62,0:31:01.12,Default,,0,0,0,,Schwi wishes to get to know your heart,
-Dialogue: 5,0:31:01.25,0:31:04.38,Default,,0,0,0,,but not in a manner that harms you.
-Dialogue: 5,0:31:05.05,0:31:06.63,Default,,0,0,0,,I don't know
+Dialogue: 5,0:30:57.35,0:31:01.12,Default,,0,0,0,,Schwi wishes to get to know your heart,
+Dialogue: 5,0:31:01.12,0:31:04.38,Default,,0,0,0,,but not in a manner that harms you.
+Dialogue: 5,0:31:04.90,0:31:06.63,Default,,0,0,0,,I don't know
 Dialogue: 5,0:31:07.01,0:31:08.38,Default,,0,0,0,,what to do.
 Dialogue: 5,0:31:10.51,0:31:13.14,Default,,0,0,0,,Why do you care about my feelings?
 Dialogue: 5,0:31:13.14,0:31:15.22,Default,,0,0,0,,If you want to return to your cluster,
 Dialogue: 5,0:31:15.22,0:31:18.77,Default,,0,0,0,,I'm sure you could force me to learn more about the heart.
 Dialogue: 5,0:31:19.19,0:31:21.11,Default,,0,0,0,,You're right.
-
-Dialogue: 5,0:31:21.69,0:31:22.52,Default,,0,0,0,,But either way,
-Dialogue: 5,0:31:22.52,0:31:25.57,Default,,0,0,0,,Schwi doesn't wish to go back.
-Dialogue: 5,0:31:27.45,0:31:28.20,Default,,0,0,0,,Why is that? 
+Dialogue: 5,0:31:21.69,0:31:25.57,Default,,0,0,0,,However, Schwi doesn’t care to come back.
+Dialogue: 5,0:31:27.45,0:31:28.20,Default,,0,0,0,,Why is that?
 Dialogue: 5,0:31:28.20,0:31:29.66,Default,,0,0,0,,Y-You're asking me?
-Dialogue: 5,0:31:31.74,0:31:32.87,Default,,0,0,0,,Stating possibility...
-Dialogue: 5,0:31:32.87,0:31:34.04,Default,,0,0,0,,Answer:
-Dialogue: 5,0:31:34.04,0:31:35.59,Default,,0,0,0,,Cluster semantic linkages:
+Dialogue: 5,0:31:31.74,0:31:34.00,Default,,0,0,0,,Calculating line of reasoning.
+Dialogue: 5,0:31:34.00,0:31:35.59,Default,,0,0,0,,Cluster semantic connections:
 Dialogue: 5,0:31:35.59,0:31:36.29,Default,,0,0,0,,pointless,
 Dialogue: 5,0:31:36.29,0:31:37.09,Default,,0,0,0,,lack of orders,
-Dialogue: 5,0:31:37.09,0:31:37.99,Default,,0,0,0,,without purpose,
-Dialogue: 5,0:31:37.99,0:31:39.21,Default,,0,0,0,,ownerless.
-Dialogue: 5,0:31:39.21,0:31:40.81,Default,,0,0,0,,Analysis took prominence.
-Dialogue: 5,0:31:40.81,0:31:42.00,Default,,0,0,0,,Comprehension of Riku impo—
+Dialogue: 5,0:31:37.09,0:31:37.99,Default,,0,0,0,,ownerless,
+Dialogue: 5,0:31:37.99,0:31:39.21,Default,,0,0,0,,without purpose.
+Dialogue: 5,0:31:39.21,0:31:40.81,Default,,0,0,0,,Riku's motivation incomprehensible.
+Dialogue: 5,0:31:40.81,0:31:42.00,Default,,0,0,0,,Adopting purpose impossible—
 Dialogue: 5,0:31:42.00,0:31:42.54,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:42.54,0:31:43.00,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:43.00,0:31:43.63,Default,,0,0,0,,{\fad(100,100)}ERROR.
@@ -574,23 +571,23 @@ Dialogue: 5,0:31:45.21,0:31:45.76,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:45.76,0:31:46.34,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:45.96,0:31:46.67,Alt,,0,0,0,,Stop that!
 Dialogue: 5,0:31:46.34,0:31:46.67,Default,,0,0,0,,{\fad(100,100)}ERROR.
-Dialogue: 5,0:31:51.47,0:31:52.72,Default,,0,0,0,,Conclusion: 
-Dialogue: 5,0:31:52.72,0:31:55.51,Default,,0,0,0,,I don't want to go back. It seems...
-Dialogue: 5,0:31:55.72,0:31:57.02,Default,,0,0,0,,It seems..?
-Dialogue: 5,0:31:57.43,0:31:59.73,Default,,0,0,0,,Unable to quantify definitely.
+Dialogue: 5,0:31:51.47,0:31:52.72,Default,,0,0,0,,Conclusion:
+Dialogue: 5,0:31:52.72,0:31:55.51,Default,,0,0,0,,I don't want to go back. Convergently...
+Dialogue: 5,0:31:55.72,0:31:57.02,Default,,0,0,0,,Convergently?
+Dialogue: 5,0:31:57.43,0:31:59.73,Default,,0,0,0,,Not determined definitively.
 Dialogue: 5,0:31:59.73,0:32:00.81,Default,,0,0,0,,Although,
-Dialogue: 5,0:32:01.65,0:32:03.02,Default,,0,0,0,,it seems so.
-Dialogue: 5,0:32:03.77,0:32:05.11,Default,,0,0,0,,It seems?
+Dialogue: 5,0:32:01.65,0:32:03.02,Default,,0,0,0,,convergently.
+Dialogue: 5,0:32:03.77,0:32:05.11,Default,,0,0,0,,Convergently?
 Dialogue: 5,0:32:07.23,0:32:08.74,Default,,0,0,0,,That's little confusing.
 Dialogue: 5,0:32:10.07,0:32:11.78,Default,,0,0,0,,Pawn to E4.
-Dialogue: 5,0:32:11.78,0:32:14.08,Default,,0,0,0,,You could at least let me have the first move.
-Dialogue: 5,0:32:14.08,0:32:15.58,Default,,0,0,0,,Your turn.
-Dialogue: 5,0:32:15.58,0:32:18.20,Default,,0,0,0,,Also, you're playing while I'm\Nsitting here brushing your hair.
-Dialogue: 5,0:32:18.20,0:32:19.62,Default,,0,0,0,,That's not very fair, is it?
-Dialogue: 5,0:32:19.62,0:32:22.50,Default,,0,0,0,,Ehh... why is it so long anyway?
+Dialogue: 5,0:32:11.78,0:32:14.08,Default,,0,0,0,,Hey, at least let me have the center.
+Dialogue: 5,0:32:14.08,0:32:15.58,Default,,0,0,0,,Your move.
+Dialogue: 5,0:32:15.58,0:32:18.20,Default,,0,0,0,,Also, I'm sitting here brushing your hair.
+Dialogue: 5,0:32:18.20,0:32:19.62,Default,,0,0,0,,That's not fair.
+Dialogue: 5,0:32:19.62,0:32:22.50,Default,,0,0,0,,Ehh, it takes forever by the way.
 Dialogue: 5,0:32:23.00,0:32:25.42,Default,,0,0,0,,There is a possibility to cut it.
-Dialogue: 5,0:32:25.42,0:32:27.46,Default,,0,0,0,,No, you don't have to do that.
-Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,You just don't get it, do you?
+Dialogue: 5,0:32:25.65,0:32:27.46,Default,,0,0,0,,No, there's no need for that.
+Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,Sometimes you really don’t grasp it.
 
 Dialogue: 5,0:33:06.59,0:33:07.63,Default,,0,0,0,,Riku.
 Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,Here you go, I have designed a compact telescope.
