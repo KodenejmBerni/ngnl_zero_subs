@@ -518,7 +518,6 @@ Dialogue: 5,0:29:23.74,0:29:25.82,Default,,0,0,0,,Couronne, please shut up.
 Dialogue: 5,0:29:25.82,0:29:27.91,Default,,0,0,0,,Wow, you sure are moving quickly.
 Dialogue: 5,0:29:27.91,0:29:29.62,Default,,0,0,0,,I leave Schwi in your care, then.
 Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,The bath will be all to yourselves.
-
 Dialogue: 5,0:29:48.43,0:29:50.01,Default,,0,0,0,,I'm... sorry.
 Dialogue: 5,0:29:50.85,0:29:51.87,Default,,0,0,0,,For what?
 Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,Aggressor asking a victim about the heart...
@@ -589,14 +588,16 @@ Dialogue: 5,0:32:23.00,0:32:25.42,Default,,0,0,0,,There is a possibility to cut 
 Dialogue: 5,0:32:25.65,0:32:27.46,Default,,0,0,0,,No, there's no need for that.
 Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,Sometimes you really don’t grasp it.
 
-Dialogue: 5,0:33:06.59,0:33:07.63,Default,,0,0,0,,Riku.
-Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,Here you go, I have designed a compact telescope.
-Dialogue: 5,0:33:13.22,0:33:14.30,Default,,0,0,0,,Seriously?
-Dialogue: 5,0:33:14.30,0:33:15.76,Default,,0,0,0,,I still haven't beaten you at chess yet.
-Dialogue: 5,0:33:16.01,0:33:19.39,Default,,0,0,0,,But I thought this is what you wanted.
-Dialogue: 5,0:33:24.15,0:33:25.94,Default,,0,0,0,,Is that where I met you?
-Dialogue: 5,0:33:28.40,0:33:31.11,Default,,0,0,0,,There's something about that place\Nthat has always bugged me.
-Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,But it's so far away that I can't\Njust get up and walk there.
+Dialogue: 5,0:33:06.59,0:33:07.63,Default,,0,0,0,,Riku,
+Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,I managed to design a compact telescope.
+Dialogue: 5,0:33:13.22,0:33:14.30,Default,,0,0,0,,Another thing?
+Dialogue: 5,0:33:14.30,0:33:15.76,Default,,0,0,0,,I still haven't won at chess.
+Dialogue: 5,0:33:16.01,0:33:19.39,Default,,0,0,0,,But you wanted it, I think.
+Dialogue: 5,0:33:24.15,0:33:25.94,Default,,0,0,0,,Is that where we met?
+Dialogue: 5,0:33:26.65,0:33:27.65,Default,,0,0,0,,Yeah...
+Dialogue: 5,0:33:28.40,0:33:31.11,Default,,0,0,0,,One thing about this corner keeps bugging me.
+Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,In any case, it's too far to go there just on a whim.
+
 Dialogue: 5,0:33:38.62,0:33:40.04,Default,,0,0,0,,We have arrived.
 Dialogue: 5,0:33:43.16,0:33:45.54,Default,,0,0,0,,You sure ARE the analysing unit.
 Dialogue: 5,0:33:45.54,0:33:46.54,Default,,0,0,0,,Aren't you?.
@@ -666,6 +667,7 @@ Dialogue: 5,0:37:47.78,0:37:50.49,Default,,0,0,0,,I broke my promise,
 Dialogue: 5,0:37:50.49,0:37:52.29,Default,,0,0,0,,and used spiritual energy.
 Dialogue: 5,0:37:53.21,0:37:55.04,Default,,0,0,0,,Well I guess it's better than dying.
 Dialogue: 5,0:37:55.96,0:38:00.25,Default,,0,0,0,,Anyway, we should probably get out of here\N quick before some band of freaks finds us.
+
 Dialogue: 5,0:38:05.22,0:38:06.22,Default,,0,0,0,,Dammit!
 Dialogue: 5,0:38:06.93,0:38:08.97,Default,,0,0,0,,We've got a black ash storm.
 Dialogue: 5,0:38:09.35,0:38:10.76,Default,,0,0,0,,I will be fine.
