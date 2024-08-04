@@ -247,9 +247,9 @@ Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Adjustment:
 Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit in the village.
 Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, there's no orifice.
 Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point!
-Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen.
-Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,A duel,
-Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,a challenge,
+Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen:
+Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Prime
+Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,game —
 Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,chess.
 Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
 Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
@@ -309,7 +309,7 @@ Dialogue: 5,0:21:03.91,0:21:08.74,Default,,0,0,0,,Am I supposed to walk in there
 Dialogue: 5,0:21:08.74,0:21:11.79,Default,,0,0,0,,Request: Provide optimal scenario.
 Dialogue: 5,0:21:12.16,0:21:15.92,Default,,0,0,0,,Ok then, you're timid and don't talk too much.
 Dialogue: 5,0:21:15.92,0:21:19.59,Default,,0,0,0,,It hurts a lot when someone asks about your past.
-Dialogue: 5,0:21:19.59,0:21:24.09,Default,,0,0,0,,And quit starting every sentence sounding like a robot. Understood?
+Dialogue: 5,0:21:19.59,0:21:24.09,Default,,0,0,0,,And quit starting every sentence sounding like a robot. Got it?
 Dialogue: 5,0:21:26.80,0:21:28.14,Default,,0,0,0,,Understood.
 Dialogue: 5,0:21:30.52,0:21:32.43,Default,,0,0,0,,Is this fine?
 Dialogue: 5,0:21:33.31,0:21:35.44,Default,,0,0,0,,Are you... kidding?
@@ -587,93 +587,90 @@ Dialogue: 5,0:32:19.62,0:32:22.50,Default,,0,0,0,,Ehh, it takes forever by the w
 Dialogue: 5,0:32:23.00,0:32:25.42,Default,,0,0,0,,There is a possibility to cut it.
 Dialogue: 5,0:32:25.65,0:32:27.46,Default,,0,0,0,,No, there's no need for that.
 Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,Sometimes you really don’t grasp it.
-
 Dialogue: 5,0:33:06.59,0:33:07.63,Default,,0,0,0,,Riku,
 Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,I managed to design a compact telescope.
 Dialogue: 5,0:33:13.22,0:33:14.30,Default,,0,0,0,,Another thing?
-Dialogue: 5,0:33:14.30,0:33:15.76,Default,,0,0,0,,I still haven't won at chess.
+Dialogue: 5,0:33:14.30,0:33:16.01,Default,,0,0,0,,I still haven't won at chess.
 Dialogue: 5,0:33:16.01,0:33:19.39,Default,,0,0,0,,But you wanted it, I think.
 Dialogue: 5,0:33:24.15,0:33:25.94,Default,,0,0,0,,Is that where we met?
 Dialogue: 5,0:33:26.65,0:33:27.65,Default,,0,0,0,,Yeah...
 Dialogue: 5,0:33:28.40,0:33:31.11,Default,,0,0,0,,One thing about this corner keeps bugging me.
-Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,In any case, it's too far to go there just on a whim.
+Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,In any case, it's too far to just go there on a whim.
 
 Dialogue: 5,0:33:38.62,0:33:40.04,Default,,0,0,0,,We have arrived.
-Dialogue: 5,0:33:43.16,0:33:45.54,Default,,0,0,0,,You sure ARE the analysing unit.
-Dialogue: 5,0:33:45.54,0:33:46.54,Default,,0,0,0,,Aren't you?.
-Dialogue: 5,0:33:47.67,0:33:51.71,Default,,0,0,0,,Have you noticed the buildings are all destroyed,
-Dialogue: 5,0:33:51.71,0:33:55.38,Default,,0,0,0,,but for some reason, the ground here is mostly untouched?
-Dialogue: 5,0:33:55.38,0:33:58.80,Default,,0,0,0,,That would be because of the Elves' protective magic.
-Dialogue: 5,0:33:59.31,0:34:03.10,Default,,0,0,0,,But why let everything be completely\Nwiped out, except for this one spot?
-Dialogue: 5,0:34:03.10,0:34:06.81,Default,,0,0,0,,To the Elves this was an important facility.
-Dialogue: 5,0:34:07.81,0:34:09.11,Default,,0,0,0,,An emergency shelter.
-Dialogue: 5,0:34:09.77,0:34:10.98,Default,,0,0,0,,Or something else?
-Dialogue: 5,0:34:11.36,0:34:13.82,Default,,0,0,0,,Something of more value.
-Dialogue: 5,0:34:17.66,0:34:21.95,Default,,0,0,0,,A facility to research and develop, new weaponry.
-Dialogue: 5,0:34:29.34,0:34:31.13,Default,,0,0,0,,What the hell is this?
+Dialogue: 5,0:33:43.16,0:33:46.54,Default,,0,0,0,,Quite enthusiastic unit, aren't you?
+Dialogue: 5,0:33:47.67,0:33:51.71,Default,,0,0,0,,Have you noticed? All the buildings around are destroyed,
+Dialogue: 5,0:33:51.71,0:33:55.38,Default,,0,0,0,,but for some reason, this ground was barely damaged.
+Dialogue: 5,0:33:55.38,0:33:58.80,Default,,0,0,0,,Elven defensive magic...
+Dialogue: 5,0:33:59.31,0:34:03.10,Default,,0,0,0,,But of all the possible places, why here?
+Dialogue: 5,0:34:03.10,0:34:06.81,Default,,0,0,0,,For the Elves, it could have been an escape route,
+Dialogue: 5,0:34:07.81,0:34:09.11,Default,,0,0,0,,a shelter,
+Dialogue: 5,0:34:09.77,0:34:13.82,Default,,0,0,0,,or perhaps... even something more valuable.
+Dialogue: 5,0:34:17.66,0:34:21.95,Default,,0,0,0,,A research facility for new weaponry.
+Dialogue: 5,0:34:29.34,0:34:31.13,Default,,0,0,0,,What are these?
 Dialogue: 5,0:34:31.13,0:34:35.05,Default,,0,0,0,,Protective glyphs of the Old Deus, Kainas.
 Dialogue: 5,0:34:35.05,0:34:36.26,Default,,0,0,0,,Kainas?
-Dialogue: 5,0:34:36.26,0:34:37.97,Default,,0,0,0,,That's the creator of the Elves.
-Dialogue: 5,0:34:39.22,0:34:40.89,Default,,0,0,0,,These are not protective glyphs,
-Dialogue: 5,0:34:40.89,0:34:43.89,Default,,0,0,0,,and they do not correspond to any available data.
-Dialogue: 5,0:34:43.89,0:34:46.27,Default,,0,0,0,,Regarding elvish glyphs or magical writings.
-Dialogue: 5,0:34:46.27,0:34:49.31,Default,,0,0,0,,It's probably some new\Nhorrible foolishness they invented.
-Dialogue: 5,0:34:49.31,0:34:52.73,Default,,0,0,0,,Be it the Dwarves or Elves,\Nthey sure are enthusiastic about destroying the planet.
+Dialogue: 5,0:34:36.26,0:34:37.97,Default,,0,0,0,,Their creator?
+Dialogue: 5,0:34:39.22,0:34:40.89,Default,,0,0,0,,Actually not protective.
+Dialogue: 5,0:34:40.89,0:34:43.89,Default,,0,0,0,,The applied patterns, the technique
+Dialogue: 5,0:34:43.89,0:34:46.27,Default,,0,0,0,,don't match any available data.
+Dialogue: 5,0:34:46.27,0:34:49.31,Default,,0,0,0,,Must be some new crap they invented.
+Dialogue: 5,0:34:49.31,0:34:52.73,Default,,0,0,0,,Just like the dwarves, they never really have enough power.
 Dialogue: 5,0:34:54.28,0:34:55.95,Default,,0,0,0,,Áka Si Anse...
-Dialogue: 5,0:34:56.36,0:34:58.86,Default,,0,0,0,,proof of concept reactor.
-Dialogue: 5,0:34:59.53,0:35:00.53,Default,,0,0,0,,Riku,
-Dialogue: 5,0:35:00.53,0:35:02.45,Default,,0,0,0,,you can read the Elvish language?
-Dialogue: 5,0:35:03.99,0:35:07.33,Default,,0,0,0,,Even the best clue is worthless\Nif you can not understand it.
-Dialogue: 5,0:35:07.62,0:35:09.38,Default,,0,0,0,,To this day, the traits,
-Dialogue: 5,0:35:09.38,0:35:12.34,Default,,0,0,0,,the languages and the customs of the various races
-Dialogue: 5,0:35:12.34,0:35:16.72,Default,,0,0,0,,have been passed down into our history,\Nwritten works, any means you can think of.
-Dialogue: 5,0:35:17.59,0:35:19.13,Default,,0,0,0,,That's what we do,
-Dialogue: 5,0:35:19.13,0:35:22.35,Default,,0,0,0,,because we lowly humans aren't gonna just sit back\Nand let ourselves get wiped out.
-Dialogue: 5,0:35:23.93,0:35:25.60,Default,,0,0,0,,With that being said...
-Dialogue: 5,0:35:25.85,0:35:28.10,Default,,0,0,0,,I can't read a damn thing else on here.
+Dialogue: 5,0:34:56.36,0:34:58.86,Default,,0,0,0,,proof of concept reactor...
+Dialogue: 5,0:34:59.53,0:35:02.45,Default,,0,0,0,,Riku, you can read Elvish?
+Dialogue: 5,0:35:03.99,0:35:07.33,Default,,0,0,0,,Everything you sacrifice is worthless if you can't put things to use.
+Dialogue: 5,0:35:07.62,0:35:09.38,Default,,0,0,0,,Legends, writings —
+Dialogue: 5,0:35:09.38,0:35:12.34,Default,,0,0,0,,we've used every means you can think of.
+Dialogue: 5,0:35:12.34,0:35:16.72,Default,,0,0,0,,Languages, customs, everything has been passed down to this day.
+Dialogue: 5,0:35:17.59,0:35:19.13,Default,,0,0,0,,Despite the circumstances
+Dialogue: 5,0:35:19.13,0:35:22.35,Default,,0,0,0,,we want much more than just to endlessly run away.
+Dialogue: 5,0:35:23.93,0:35:25.60,Default,,0,0,0,,Either way...
+Dialogue: 5,0:35:25.85,0:35:28.10,Default,,0,0,0,,I can't read a damn thing else here.
 Dialogue: 5,0:35:28.52,0:35:30.02,Default,,0,0,0,,Especially this part.
 Dialogue: 5,0:35:30.02,0:35:31.61,Default,,0,0,0,,Must be a name, right?
-Dialogue: 5,0:35:31.94,0:35:34.78,Default,,0,0,0,,If these are all sensitive informations,
-Dialogue: 5,0:35:34.78,0:35:38.40,Default,,0,0,0,,then it's most likely that they\Nare written in code, encrypted.
-Dialogue: 5,0:35:38.40,0:35:44.87,Default,,0,0,0,,You're right, the problem is that even the names of\Nwhoever's involved in this are also encrypted.
+Dialogue: 5,0:35:31.94,0:35:34.78,Default,,0,0,0,,If it's classified elven information,
+Dialogue: 5,0:35:34.78,0:35:38.40,Default,,0,0,0,,it's most likely encrypted.
+Dialogue: 5,0:35:38.40,0:35:44.87,Default,,0,0,0,,That's right, it must be... that even the names of everyone involved are encrypted.
 Dialogue: 5,0:35:45.83,0:35:47.79,Default,,0,0,0,,Áka Si Anse.
-Dialogue: 5,0:35:48.83,0:35:52.59,Default,,0,0,0,,The only thing we know for sure is a\Nbunch of encrypted nonsense.
-Dialogue: 5,0:35:57.05,0:35:58.34,Default,,0,0,0,,Riku stand back!
+Dialogue: 5,0:35:48.83,0:35:52.59,Default,,0,0,0,,One thing we know for sure it's for no good.
+Dialogue: 5,0:35:57.05,0:35:58.34,Default,,0,0,0,,Riku, stand back!
 Dialogue: 5,0:35:58.51,0:35:59.72,Default,,0,0,0,,Lösen:
 Dialogue: 5,0:36:00.05,0:36:01.18,Default,,0,0,0,,Umweg.
 Dialogue: 5,0:36:07.52,0:36:08.52,Default,,0,0,0,,Run!
-Dialogue: 5,0:36:15.23,0:36:15.90,Default,,0,0,0,,Dammit!
+Dialogue: 5,0:36:15.23,0:36:15.90,Default,,0,0,0,,Shit!
 Dialogue: 5,0:36:18.44,0:36:19.70,Default,,0,0,0,,Schwi.
 Dialogue: 5,0:36:25.74,0:36:26.54,Default,,0,0,0,,Schwi!
-Dialogue: 5,0:36:27.54,0:36:28.16,Default,,0,0,0,,Ri—
+Dialogue: 5,0:36:27.54,0:36:28.16,Default,,0,0,0,,Rik—
 Dialogue: 5,0:36:49.93,0:36:51.02,Default,,0,0,0,,Schwi...
 Dialogue: 5,0:36:51.89,0:36:53.15,Default,,0,0,0,,Schwi!
 Dialogue: 5,0:36:57.98,0:36:59.19,Default,,0,0,0,,Schwi...
-Dialogue: 5,0:37:01.28,0:37:03.53,Default,,0,0,0,,Security system.
-Dialogue: 5,0:37:03.53,0:37:06.37,Default,,0,0,0,,The Elvish magic remains active.
-Dialogue: 5,0:37:07.53,0:37:08.37,Default,,0,0,0,,Don't worry,
-Dialogue: 5,0:37:08.37,0:37:09.45,Default,,0,0,0,,I'll be fine.
+Dialogue: 5,0:37:01.28,0:37:03.53,Default,,0,0,0,,Security system...
+Dialogue: 5,0:37:03.53,0:37:06.37,Default,,0,0,0,,Elf magic active...
+Dialogue: 5,0:37:07.53,0:37:09.45,Default,,0,0,0,,But, I be fine.
 Dialogue: 5,0:37:10.29,0:37:11.21,Default,,0,0,0,,Lösen:
-Dialogue: 5,0:37:11.58,0:37:13.25,Default,,0,0,0,,Enderpokryphen.
+Dialogue: 5,0:37:11.58,0:37:13.25,Default,,0,0,0,,Stehapokryphen.
+
 Dialogue: 5,0:37:22.17,0:37:23.09,Default,,0,0,0,,What was that?
-Dialogue: 5,0:37:23.09,0:37:25.01,Default,,0,0,0,,A special ability of the Ex-machina,
-Dialogue: 5,0:37:25.01,0:37:28.97,Default,,0,0,0,,If attacked, we can analyze,\Nemulate, and reproduce the attack.
+Dialogue: 5,0:37:23.09,0:37:25.01,Default,,0,0,0,,An ability of Ex-machina.
+Dialogue: 5,0:37:25.01,0:37:28.97,Default,,0,0,0,,Received attack can be analyzed, adjusted, reproduced.
 Dialogue: 5,0:37:28.97,0:37:30.02,Default,,0,0,0,,Copying it.
-Dialogue: 5,0:37:30.68,0:37:36.52,Default,,0,0,0,,But as a Prüfer, I would only be able to generate\Nless than ten percent of it's original strength.
+Dialogue: 5,0:37:30.68,0:37:36.52,Default,,0,0,0,,However, Prufer's analysis only allows for ten percent of the original power.
 Dialogue: 5,0:37:37.82,0:37:39.61,Default,,0,0,0,,Even then,
-Dialogue: 5,0:37:39.61,0:37:41.32,Default,,0,0,0,,you are still quite ridiculous.
+Dialogue: 5,0:37:39.61,0:37:41.32,Default,,0,0,0,,that's still ridiculous.
+
 Dialogue: 5,0:37:45.20,0:37:46.53,Default,,0,0,0,,I'm sorry.
 Dialogue: 5,0:37:47.78,0:37:50.49,Default,,0,0,0,,I broke my promise,
 Dialogue: 5,0:37:50.49,0:37:52.29,Default,,0,0,0,,and used spiritual energy.
 Dialogue: 5,0:37:53.21,0:37:55.04,Default,,0,0,0,,Well I guess it's better than dying.
 Dialogue: 5,0:37:55.96,0:38:00.25,Default,,0,0,0,,Anyway, we should probably get out of here\N quick before some band of freaks finds us.
 
-Dialogue: 5,0:38:05.22,0:38:06.22,Default,,0,0,0,,Dammit!
+Dialogue: 5,0:38:05.22,0:38:06.22,Default,,0,0,0,,Shit!
 Dialogue: 5,0:38:06.93,0:38:08.97,Default,,0,0,0,,We've got a black ash storm.
 Dialogue: 5,0:38:09.35,0:38:10.76,Default,,0,0,0,,I will be fine.
 Dialogue: 5,0:38:10.76,0:38:14.23,Default,,0,0,0,,My system is equipped with a decontamination\Nsolution that purifies the toxicities of the Ash.
 Dialogue: 5,0:38:14.23,0:38:17.19,Default,,0,0,0,,You may be fine but that doesn't mean I will be.
-Dialogue: 5,0:38:24.82,0:38:25.82,Default,,0,0,0,,So...
+Dialogue: 5,0:38:24.82,0:38:25.82,Default,,0,0,0,,Well...
 Dialogue: 5,0:38:25.82,0:38:27.53,Default,,0,0,0,,you probably took chess with you.
 Dialogue: 5,0:38:27.53,0:38:28.70,Default,,0,0,0,,I am sorry.
 Dialogue: 5,0:38:29.52,0:38:30.95,Default,,0,0,0,,I'm not angry.
@@ -736,6 +733,7 @@ Dialogue: 5,0:41:41.35,0:41:45.52,Default,,0,0,0,,regarding the atmosphere, it'd
 Dialogue: 5,0:41:45.85,0:41:48.90,Default,,0,0,0,,Was there a change in the atmospheric conditions?
 Dialogue: 5,0:41:51.28,0:41:52.36,Default,,0,0,0,,No.
 Dialogue: 5,0:41:53.78,0:41:55.11,Default,,0,0,0,,Nevermind.
+
 Dialogue: 5,0:42:05.37,0:42:06.79,Default,,0,0,0,,It's beautiful.
 Dialogue: 5,0:42:10.75,0:42:11.76,Default,,0,0,0,,Schwi,
 Dialogue: 5,0:42:12.26,0:42:15.01,Default,,0,0,0,,it's good to do things jointly, right?
