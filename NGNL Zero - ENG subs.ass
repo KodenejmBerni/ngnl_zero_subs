@@ -530,9 +530,9 @@ Dialogue: 5,0:30:05.95,0:30:07.80,Default,,0,0,0,,That's not what I meant.
 Dialogue: 5,0:30:09.37,0:30:12.62,Default,,0,0,0,,Well, I also got too worked up.
 Dialogue: 5,0:30:13.25,0:30:15.29,Default,,0,0,0,,Is that a bad thing?
 Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Yeah.
-Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,Wanting to stab you wouldn’t solve any actual problems.
+Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,A desire to stab you wouldn't solve any actual problems.
 Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to stab Schwi...
-Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,That was only hypothetical.
+Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,It was just an example.
 Dialogue: 5,0:30:26.26,0:30:28.01,Default,,0,0,0,,Or was it?
 Dialogue: 5,0:30:28.72,0:30:30.51,Default,,0,0,0,,I'm not so sure myself.
 Dialogue: 5,0:30:32.64,0:30:33.72,Default,,0,0,0,,Riku,
@@ -667,24 +667,25 @@ Dialogue: 5,0:38:09.30,0:38:10.86,Default,,0,0,0,,I will be fine.
 Dialogue: 5,0:38:10.86,0:38:14.23,Default,,0,0,0,,I'm equipped with a decontaminant that neutralizes the toxicity of the ash.
 Dialogue: 5,0:38:14.23,0:38:17.19,Default,,0,0,0,,Maybe you'll be okay, but I won't.
 
-Dialogue: 5,0:38:24.82,0:38:25.82,Default,,0,0,0,,Well...
-Dialogue: 5,0:38:25.82,0:38:27.53,Default,,0,0,0,,you probably took chess with you.
-Dialogue: 5,0:38:27.53,0:38:28.70,Default,,0,0,0,,I am sorry.
-Dialogue: 5,0:38:29.52,0:38:30.95,Default,,0,0,0,,I'm not angry.
-Dialogue: 5,0:38:31.41,0:38:32.91,Default,,0,0,0,,Do you want to play a game?
+Dialogue: 5,0:38:24.82,0:38:25.97,Default,,0,0,0,,Well...
+Dialogue: 5,0:38:25.97,0:38:27.53,Default,,0,0,0,,I bet you have chess with you.
+Dialogue: 5,0:38:27.70,0:38:28.70,Default,,0,0,0,,I'm sorry.
+Dialogue: 5,0:38:29.52,0:38:30.95,Default,,0,0,0,,I'm not picking on you.
+Dialogue: 5,0:38:31.51,0:38:32.91,Default,,0,0,0,,Do you want to play a game?
 Dialogue: 5,0:38:33.79,0:38:34.79,Default,,0,0,0,,Really?
 Dialogue: 5,0:38:35.08,0:38:36.54,Default,,0,0,0,,In this storm,
-Dialogue: 5,0:38:36.54,0:38:39.38,Default,,0,0,0,,we won't be detected by anyone.
-Dialogue: 5,0:38:39.79,0:38:41.55,Default,,0,0,0,,It's a good way to kill some time.
-Dialogue: 5,0:38:49.93,0:38:51.56,Default,,0,0,0,,Damn it! I lost again.
+Dialogue: 5,0:38:36.54,0:38:39.38,Default,,0,0,0,,we won’t be detected by anyone anyway.
+Dialogue: 5,0:38:39.79,0:38:41.55,Default,,0,0,0,,We can kill some time with it.
+Dialogue: 5,0:38:49.93,0:38:51.93,Default,,0,0,0,,Damn it! I lost again!
 Dialogue: 5,0:38:51.93,0:38:53.31,Default,,0,0,0,,One more time!
-Dialogue: 5,0:38:53.31,0:38:54.35,Default,,0,0,0,,Riku,
-Dialogue: 5,0:38:54.35,0:38:57.27,Default,,0,0,0,,why do you keep challenging me,\Nknowing you can't beat me?
-Dialogue: 5,0:38:57.27,0:38:58.44,Default,,0,0,0,,I can't beat you?
-Dialogue: 5,0:38:58.98,0:39:01.57,Default,,0,0,0,,Riku, you haven't yet.
-Dialogue: 5,0:39:01.57,0:39:02.23,Default,,0,0,0,,Not even once.
-Dialogue: 5,0:39:03.61,0:39:06.45,Default,,0,0,0,,I'm just thinking about this in a bigger picture.
-Dialogue: 5,0:39:07.03,0:39:09.70,Default,,0,0,0,,There is not way I could never beat you.
+Dialogue: 5,0:38:53.61,0:38:56.10,Default,,0,0,0,,Riku, if you can't win,
+Dialogue: 5,0:38:56.10,0:38:57.45,Default,,0,0,0,,why do you keep playing?
+Dialogue: 5,0:38:57.45,0:38:58.54,Default,,0,0,0,,I can't win?
+Dialogue: 5,0:38:59.20,0:39:01.40,Default,,0,0,0,,Riku, you still haven't won
+Dialogue: 5,0:39:01.50,0:39:02.90,Default,,0,0,0,,a single time.
+Dialogue: 5,0:39:03.61,0:39:06.45,Default,,0,0,0,,I’ve already made you think longer.
+Dialogue: 5,0:39:07.03,0:39:09.70,Default,,0,0,0,,What dictates that I have no chance at all?
+
 Dialogue: 5,0:39:13.74,0:39:16.91,Default,,0,0,0,,Schwi... understands a bit.
 Dialogue: 5,0:39:18.25,0:39:23.05,Default,,0,0,0,,The current conditions upon this\Nplanet are fatal for humanity,
 Dialogue: 5,0:39:23.05,0:39:24.88,Default,,0,0,0,,the fact that you exist is an anomaly.
@@ -715,8 +716,8 @@ Dialogue: 5,0:40:40.12,0:40:44.13,Default,,0,0,0,,Riku's heart... what does it t
 Dialogue: 5,0:40:47.21,0:40:49.59,Default,,0,0,0,,Just look what a freaking mess I am.
 Dialogue: 5,0:40:50.09,0:40:52.84,Default,,0,0,0,,I asked you 'cause honestly I don't know.
 Dialogue: 5,0:40:53.55,0:40:55.14,Default,,0,0,0,,I cannot tell.
-Dialogue: 5,0:40:55.35,0:40:56.97,Default,,0,0,0,,In that case,
-Dialogue: 5,0:40:57.31,0:40:58.39,Default,,0,0,0,,what would you rather do?
+Dialogue: 5,0:40:55.35,0:40:56.97,Default,,0,0,0,,So what
+Dialogue: 5,0:40:57.31,0:40:58.39,Default,,0,0,0,,do you want?
 Dialogue: 5,0:41:01.56,0:41:02.64,Default,,0,0,0,,what would I rather do?
 Dialogue: 5,0:41:03.73,0:41:05.48,Default,,0,0,0,,Whatever it is.
 Dialogue: 5,0:41:06.69,0:41:08.15,Default,,0,0,0,,Schwi will help you.
@@ -726,7 +727,7 @@ Dialogue: 5,0:41:19.25,0:41:21.15,Default,,0,0,0,,That's why...
 Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,Schwi wants to do anything that Riku wants to do.
 Dialogue: 5,0:41:35.59,0:41:36.89,Default,,0,0,0,,Checkmate.
 Dialogue: 5,0:41:40.43,0:41:41.35,Default,,0,0,0,,Schwi,
-Dialogue: 5,0:41:41.35,0:41:45.52,Default,,0,0,0,,regarding the atmosphere, it'd be a good idea to at least let me get a draw.
+Dialogue: 5,0:41:41.35,0:41:45.52,Default,,0,0,0,,In this atmosphere, it'd be a good idea to at least let me get a draw.
 Dialogue: 5,0:41:45.85,0:41:48.90,Default,,0,0,0,,Was there a change in the atmospheric conditions?
 Dialogue: 5,0:41:51.28,0:41:52.36,Default,,0,0,0,,No.
 Dialogue: 5,0:41:53.78,0:41:55.11,Default,,0,0,0,,Nevermind.
