@@ -678,36 +678,37 @@ Dialogue: 5,0:38:36.54,0:38:39.38,Default,,0,0,0,,we won’t be detected by anyo
 Dialogue: 5,0:38:39.79,0:38:41.55,Default,,0,0,0,,We can kill some time with it.
 Dialogue: 5,0:38:49.93,0:38:51.93,Default,,0,0,0,,Damn it! I lost again!
 Dialogue: 5,0:38:51.93,0:38:53.31,Default,,0,0,0,,One more time!
-Dialogue: 5,0:38:53.61,0:38:56.10,Default,,0,0,0,,Riku, if you can't win,
-Dialogue: 5,0:38:56.10,0:38:57.45,Default,,0,0,0,,why do you keep playing?
+Dialogue: 5,0:38:53.61,0:38:56.05,Default,,0,0,0,,Riku, if you can't win,
+Dialogue: 5,0:38:56.05,0:38:57.45,Default,,0,0,0,,why do you keep playing?
 Dialogue: 5,0:38:57.45,0:38:58.54,Default,,0,0,0,,I can't win?
 Dialogue: 5,0:38:59.20,0:39:01.40,Default,,0,0,0,,Riku, you still haven't won
 Dialogue: 5,0:39:01.50,0:39:02.90,Default,,0,0,0,,a single time.
-Dialogue: 5,0:39:03.61,0:39:06.45,Default,,0,0,0,,I’ve already made you think longer.
-Dialogue: 5,0:39:07.03,0:39:09.70,Default,,0,0,0,,What dictates that I have no chance at all?
+Dialogue: 5,0:39:03.61,0:39:06.45,Default,,0,0,0,,I’ve managed to make you think longer.
+Dialogue: 5,0:39:07.03,0:39:09.70,Default,,0,0,0,,Who said I can never win?
+Dialogue: 5,0:39:13.90,0:39:17.10,Default,,0,0,0,,Schwi understands a bit.
+Dialogue: 5,0:39:18.35,0:39:23.30,Default,,0,0,0,,Current conditions on the planet are fatal for humans.
+Dialogue: 5,0:39:23.30,0:39:24.70,Default,,0,0,0,,Being alive is...
+Dialogue: 5,0:39:24.70,0:39:25.80,Default,,0,0,0,,an anomaly.
+Dialogue: 5,0:39:26.92,0:39:28.03,Default,,0,0,0,,This anomaly—
+Dialogue: 5,0:39:28.03,0:39:30.38,Default,,0,0,0,,correction: achievement
+Dialogue: 5,0:39:30.38,0:39:34.60,Default,,0,0,0,,is possible because of Riku's heart,
+Dialogue: 5,0:39:35.49,0:39:36.48,Default,,0,0,0,,will.
+Dialogue: 5,0:39:37.98,0:39:41.45,Default,,0,0,0,,Despite everything, humans survive.
+Dialogue: 5,0:39:41.73,0:39:44.32,Default,,0,0,0,,An objective success.
+Dialogue: 5,0:39:45.06,0:39:48.63,Default,,0,0,0,,And yet, you refuse to accept it.
+Dialogue: 5,0:39:48.63,0:39:51.40,Default,,0,0,0,,You can't accept yourself.
+Dialogue: 5,0:39:52.26,0:39:53.17,Default,,0,0,0,,Why?
+Dialogue: 5,0:39:56.35,0:39:57.80,Default,,0,0,0,,Let me ask you,
+Dialogue: 5,0:39:58.46,0:40:01.68,Default,,0,0,0,,what’s the point of surviving in this world?
+Dialogue: 5,0:40:02.14,0:40:04.60,Default,,0,0,0,,You desperately run, escape,
+Dialogue: 5,0:40:04.60,0:40:07.48,Default,,0,0,0,,and after that, what do you do?
+Dialogue: 5,0:40:07.48,0:40:09.10,Default,,0,0,0,,What the hell can you do?
+Dialogue: 5,0:40:09.42,0:40:12.34,Default,,0,0,0,,Just quietly hide until you're turned to dust?
+Dialogue: 5,0:40:12.85,0:40:14.17,Default,,0,0,0,,And if not, 
+Dialogue: 5,0:40:14.17,0:40:17.42,Default,,0,0,0,,let's just throw away as many people's lives as needed?
+Dialogue: 5,0:40:17.46,0:40:19.80,Default,,0,0,0,,That's the way to live, huh?!
 
-Dialogue: 5,0:39:13.74,0:39:16.91,Default,,0,0,0,,Schwi... understands a bit.
-Dialogue: 5,0:39:18.25,0:39:23.05,Default,,0,0,0,,The current conditions upon this\Nplanet are fatal for humanity,
-Dialogue: 5,0:39:23.05,0:39:24.88,Default,,0,0,0,,the fact that you exist is an anomaly.
-Dialogue: 5,0:39:26.92,0:39:27.93,Default,,0,0,0,,This anomaly—
-Dialogue: 5,0:39:27.93,0:39:29.09,Default,,0,0,0,,Correction:
-Dialogue: 5,0:39:29.09,0:39:34.60,Default,,0,0,0,,accomplishment... is possible because of Riku's heart.
-Dialogue: 5,0:39:35.39,0:39:36.43,Default,,0,0,0,,Your will.
-Dialogue: 5,0:39:37.98,0:39:41.40,Default,,0,0,0,,Despite overwhelming odds,\Nhumanity as a whole survives.
-Dialogue: 5,0:39:41.73,0:39:44.32,Default,,0,0,0,,This is an objective success and yet...
-Dialogue: 5,0:39:44.86,0:39:48.53,Default,,0,0,0,,you refuse to accept that way of things.
-Dialogue: 5,0:39:48.53,0:39:51.07,Default,,0,0,0,,For some reason, you don't wish\Nto acknowledge what you are.
-Dialogue: 5,0:39:52.16,0:39:53.12,Default,,0,0,0,,Why is that?
-Dialogue: 5,0:39:56.20,0:39:57.75,Default,,0,0,0,,Well, let me ask you this:
-Dialogue: 5,0:39:58.46,0:40:01.58,Default,,0,0,0,,What's the point of surviving when\Nyou live in a world like this one?
-Dialogue: 5,0:40:02.04,0:40:05.71,Default,,0,0,0,,You just run as hard and as fast\Nas you can and you keep running,
-Dialogue: 5,0:40:05.71,0:40:07.38,Default,,0,0,0,,but what then?
-Dialogue: 5,0:40:07.38,0:40:09.42,Default,,0,0,0,,What the hell else do you do?
-Dialogue: 5,0:40:09.42,0:40:12.34,Default,,0,0,0,,Just sit back and let yourself\Nget obliterated into nothing?
-Dialogue: 5,0:40:12.55,0:40:13.97,Default,,0,0,0,,And if you don't like that idea,
-Dialogue: 5,0:40:13.97,0:40:17.12,Default,,0,0,0,,can you tell half of the people to die\Nfor the sake of saving the another half?
-Dialogue: 5,0:40:17.12,0:40:20.35,Default,,0,0,0,,Will that change anything at the end?
-Dialogue: 5,0:40:20.35,0:40:21.23,Default,,0,0,0,,Riku.
+Dialogue: 5,0:40:20.45,0:40:21.23,Default,,0,0,0,,Riku.
 Dialogue: 5,0:40:24.06,0:40:25.90,Default,,0,0,0,,Tell me Schwi.
 Dialogue: 5,0:40:27.15,0:40:28.82,Default,,0,0,0,,What should we do?
 Dialogue: 5,0:40:30.07,0:40:33.20,Default,,0,0,0,,What... should I do?
@@ -716,9 +717,9 @@ Dialogue: 5,0:40:40.12,0:40:44.13,Default,,0,0,0,,Riku's heart... what does it t
 Dialogue: 5,0:40:47.21,0:40:49.59,Default,,0,0,0,,Just look what a freaking mess I am.
 Dialogue: 5,0:40:50.09,0:40:52.84,Default,,0,0,0,,I asked you 'cause honestly I don't know.
 Dialogue: 5,0:40:53.55,0:40:55.14,Default,,0,0,0,,I cannot tell.
-Dialogue: 5,0:40:55.35,0:40:56.97,Default,,0,0,0,,So what
+Dialogue: 5,0:40:55.35,0:40:56.97,Default,,0,0,0,,Then what
 Dialogue: 5,0:40:57.31,0:40:58.39,Default,,0,0,0,,do you want?
-Dialogue: 5,0:41:01.56,0:41:02.64,Default,,0,0,0,,what would I rather do?
+Dialogue: 5,0:41:01.56,0:41:02.64,Default,,0,0,0,,What do I want?
 Dialogue: 5,0:41:03.73,0:41:05.48,Default,,0,0,0,,Whatever it is.
 Dialogue: 5,0:41:06.69,0:41:08.15,Default,,0,0,0,,Schwi will help you.
 Dialogue: 5,0:41:08.90,0:41:13.95,Default,,0,0,0,,Schwi wants to stay with Riku, until she understands the heart.
