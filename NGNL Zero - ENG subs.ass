@@ -727,47 +727,49 @@ Dialogue: 5,0:41:14.10,0:41:18.70,Default,,0,0,0,,I'll stay to see what your hea
 Dialogue: 5,0:41:19.45,0:41:20.70,Default,,0,0,0,,Therefore...
 Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,Schwi wants what Riku wants.
 
-Dialogue: 5,0:41:35.59,0:41:36.89,Default,,0,0,0,,Checkmate.
+Dialogue: 5,0:41:35.69,0:41:36.95,Default,,0,0,0,,Checkmate.
 Dialogue: 5,0:41:40.43,0:41:41.35,Default,,0,0,0,,Schwi,
-Dialogue: 5,0:41:41.35,0:41:45.52,Default,,0,0,0,,you could at least let me get a draw. Read the Atmosphere.
+Dialogue: 5,0:41:41.45,0:41:45.80,Default,,0,0,0,,you could at least let me get a draw. Read the Atmosphere.
 Dialogue: 5,0:41:45.85,0:41:48.90,Default,,0,0,0,,Should I measure the weather conditions?
-Dialogue: 5,0:41:51.28,0:41:52.36,Default,,0,0,0,,No.
-Dialogue: 5,0:41:53.78,0:41:55.11,Default,,0,0,0,,Nevermind.
-Dialogue: 5,0:42:05.37,0:42:06.79,Default,,0,0,0,,Beautiful...
-Dialogue: 5,0:42:10.75,0:42:11.76,Default,,0,0,0,,Schwi,
-Dialogue: 5,0:42:12.26,0:42:15.01,Default,,0,0,0,,it's nice not to be alone.
-Dialogue: 5,0:42:16.09,0:42:17.01,Default,,0,0,0,,Riku,
-Dialogue: 5,0:42:17.01,0:42:18.97,Default,,0,0,0,,didn't you do everything alone?
-Dialogue: 5,0:42:18.97,0:42:20.06,Default,,0,0,0,,No.
-Dialogue: 5,0:42:20.06,0:42:21.40,Default,,0,0,0,,I struggled like a fool
-Dialogue: 5,0:42:21.40,0:42:24.10,Default,,0,0,0,,putting up a front for myself.
-Dialogue: 5,0:42:24.60,0:42:25.56,Default,,0,0,0,,But now...
-Dialogue: 5,0:42:26.52,0:42:32.69,Default,,0,0,0,,I have a feeling that following what you want can be quite an idea.
-Dialogue: 5,0:42:36.91,0:42:37.91,Default,,0,0,0,,Schwi,
-Dialogue: 5,0:42:39.41,0:42:40.58,Default,,0,0,0,,tell me please,
-Dialogue: 5,0:42:40.58,0:42:44.08,Default,,0,0,0,,what's the purpose of this war and what it takes to end it.
-Dialogue: 5,0:42:48.04,0:42:49.13,Default,,0,0,0,,When I was a child,
-Dialogue: 5,0:42:49.75,0:42:52.34,Default,,0,0,0,,the world was simple for me.
-Dialogue: 5,0:42:53.71,0:42:55.55,Default,,0,0,0,,Nothing was unbeatable
-Dialogue: 5,0:42:55.92,0:43:00.01,Default,,0,0,0,,and a hard work was always going to be rewarded.
-Dialogue: 5,0:43:01.51,0:43:03.60,Default,,0,0,0,,The world was clear:
-Dialogue: 5,0:43:04.18,0:43:07.56,Default,,0,0,0,,you win, lose or it's a draw.
-Dialogue: 5,0:43:09.02,0:43:11.90,Default,,0,0,0,,A truly naive view of the world.
-Dialogue: 5,0:43:13.36,0:43:14.69,Default,,0,0,0,,Those were
-Dialogue: 5,0:43:15.28,0:43:17.82,Default,,0,0,0,,the thoughts of a foolish, ignorant brat.
-Dialogue: 5,0:43:18.99,0:43:20.07,Default,,0,0,0,,Those were
-Dialogue: 5,0:43:22.70,0:43:26.12,Default,,0,0,0,,as it seems, the thoughts that were never wrong.
-Dialogue: 5,0:43:27.46,0:43:28.87,Default,,0,0,0,,Together
-Dialogue: 5,0:43:28.87,0:43:32.21,Default,,0,0,0,,I think we can do some interesting things in this world.
-Dialogue: 5,0:43:33.46,0:43:34.09,Default,,0,0,0,,Yes.
-Dialogue: 5,0:43:34.63,0:43:35.84,Default,,0,0,0,,These...
-Dialogue: 5,0:43:35.84,0:43:37.72,Default,,0,0,0,,These are good eyes.
-Dialogue: 5,0:43:38.09,0:43:39.89,Default,,0,0,0,,Good eyes?
+Dialogue: 5,0:41:51.68,0:41:52.75,Default,,0,0,0,,No.
+Dialogue: 5,0:41:53.98,0:41:55.11,Default,,0,0,0,,Nevermind.
+Dialogue: 5,0:42:05.47,0:42:06.69,Default,,0,0,0,,Beautiful...
+Dialogue: 5,0:42:10.85,0:42:12.46,Default,,0,0,0,,Schwi,
+Dialogue: 5,0:42:12.46,0:42:14.90,Default,,0,0,0,,it's nice not to be alone.
+Dialogue: 5,0:42:16.19,0:42:17.11,Default,,0,0,0,,Riku,
+Dialogue: 5,0:42:17.11,0:42:18.97,Default,,0,0,0,,didn't you do everything alone?
+Dialogue: 5,0:42:19.17,0:42:20.26,Default,,0,0,0,,No.
+Dialogue: 5,0:42:20.26,0:42:21.40,Default,,0,0,0,,I struggled like a fool
+Dialogue: 5,0:42:21.40,0:42:24.00,Default,,0,0,0,,putting up a front for myself.
+Dialogue: 5,0:42:24.75,0:42:25.76,Default,,0,0,0,,But now...
+Dialogue: 5,0:42:26.62,0:42:32.69,Default,,0,0,0,,I have a feeling that following what you want can be quite an idea.
+Dialogue: 5,0:42:37.01,0:42:37.91,Default,,0,0,0,,Schwi,
+Dialogue: 5,0:42:39.61,0:42:40.58,Default,,0,0,0,,tell me please,
+Dialogue: 5,0:42:40.68,0:42:44.08,Default,,0,0,0,,what's the purpose of this war and what it takes to end it.
+Dialogue: 5,0:42:48.14,0:42:49.33,Default,,0,0,0,,When I was a child,
+Dialogue: 5,0:42:49.85,0:42:52.34,Default,,0,0,0,,the world was simple for me.
+Dialogue: 5,0:42:53.81,0:42:55.55,Default,,0,0,0,,Nothing was unbeatable
+Dialogue: 5,0:42:56.02,0:43:00.01,Default,,0,0,0,,and a hard work was always going to be rewarded.
+Dialogue: 5,0:43:01.61,0:43:03.60,Default,,0,0,0,,The world was clear:
+Dialogue: 5,0:43:04.28,0:43:07.50,Default,,0,0,0,,you win, lose or it's a draw.
+Dialogue: 5,0:43:09.22,0:43:11.80,Default,,0,0,0,,A truly naive view of the world.
+Dialogue: 5,0:43:13.46,0:43:14.66,Default,,0,0,0,,Those were
+Dialogue: 5,0:43:15.38,0:43:17.82,Default,,0,0,0,,the thoughts of a foolish, ignorant brat.
+Dialogue: 5,0:43:19.10,0:43:20.20,Default,,0,0,0,,Those were
+
+Dialogue: 5,0:43:22.90,0:43:25.90,Default,,0,0,0,,as it seems, the thoughts that were never wrong.
+
+Dialogue: 5,0:43:27.56,0:43:29.07,Default,,0,0,0,,Together
+Dialogue: 5,0:43:29.07,0:43:32.21,Default,,0,0,0,,I think we can do some interesting things in this world.
+Dialogue: 5,0:43:33.56,0:43:34.73,Default,,0,0,0,,Yes.
+Dialogue: 5,0:43:34.73,0:43:35.94,Default,,0,0,0,,These...
+Dialogue: 5,0:43:35.94,0:43:37.90,Default,,0,0,0,,These are good eyes.
+Dialogue: 5,0:43:38.19,0:43:39.69,Default,,0,0,0,,Good eyes?
 Dialogue: 5,0:43:39.89,0:43:41.18,Default,,0,0,0,,No.
-Dialogue: 5,0:43:42.60,0:43:43.81,Default,,0,0,0,,Schwi
-Dialogue: 5,0:43:44.64,0:43:46.60,Default,,0,0,0,,is into such eyes,
-Dialogue: 5,0:43:47.02,0:43:49.73,Default,,0,0,0,,I think?
-Dialogue: 5,0:43:54.61,0:43:56.82,Default,,0,0,0,,That's so like you.
+Dialogue: 5,0:43:42.70,0:43:43.81,Default,,0,0,0,,Schwi
+Dialogue: 5,0:43:44.64,0:43:46.30,Default,,0,0,0,,is into such eyes.
+Dialogue: 5,0:43:47.12,0:43:49.73,Default,,0,0,0,,I think?
+Dialogue: 5,0:43:55.00,0:43:56.82,Default,,0,0,0,,That's so like you.
 
 Dialogue: 5,0:44:25.89,0:44:27.47,Default,,0,0,0,,This is really bad!
 Dialogue: 5,0:44:29.68,0:44:30.14,Default,,0,0,0,,Remain calm!
