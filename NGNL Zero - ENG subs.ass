@@ -249,8 +249,8 @@ Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this
 Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, there's no orifice.
 Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point!
 Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen:
-Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Prime
-Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,game —
+Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Primary
+Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,game:
 Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,chess.
 Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
 Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
@@ -666,7 +666,6 @@ Dialogue: 5,0:38:06.93,0:38:08.93,Default,,0,0,0,,A black ash storm.
 Dialogue: 5,0:38:09.30,0:38:10.86,Default,,0,0,0,,I will be fine.
 Dialogue: 5,0:38:10.86,0:38:14.23,Default,,0,0,0,,I'm equipped with a decontaminant that neutralizes the toxicity of the ash.
 Dialogue: 5,0:38:14.23,0:38:17.19,Default,,0,0,0,,Maybe you'll be okay, but I won't.
-
 Dialogue: 5,0:38:24.82,0:38:25.97,Default,,0,0,0,,Well...
 Dialogue: 5,0:38:25.97,0:38:27.53,Default,,0,0,0,,I bet you have chess with you.
 Dialogue: 5,0:38:27.70,0:38:28.70,Default,,0,0,0,,I'm sorry.
@@ -707,7 +706,6 @@ Dialogue: 5,0:40:09.42,0:40:12.34,Default,,0,0,0,,Just quietly hide until you're
 Dialogue: 5,0:40:12.85,0:40:14.17,Default,,0,0,0,,And if not, 
 Dialogue: 5,0:40:14.17,0:40:17.42,Default,,0,0,0,,let's just throw away as many people's lives as needed?
 Dialogue: 5,0:40:17.46,0:40:19.80,Default,,0,0,0,,That's the way to live, huh?!
-
 Dialogue: 5,0:40:20.45,0:40:21.23,Default,,0,0,0,,Riku.
 Dialogue: 5,0:40:24.16,0:40:25.90,Default,,0,0,0,,Tell me Schwi.
 Dialogue: 5,0:40:27.15,0:40:28.82,Default,,0,0,0,,What can you do?
@@ -726,7 +724,6 @@ Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,I'll stay by your side to witn
 Dialogue: 5,0:41:14.10,0:41:18.70,Default,,0,0,0,,I'll stay to see what your heart will give meaning to.
 Dialogue: 5,0:41:19.45,0:41:20.70,Default,,0,0,0,,Therefore...
 Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,Schwi wants what Riku wants.
-
 Dialogue: 5,0:41:35.69,0:41:36.95,Default,,0,0,0,,Checkmate.
 Dialogue: 5,0:41:40.43,0:41:41.35,Default,,0,0,0,,Schwi,
 Dialogue: 5,0:41:41.45,0:41:45.80,Default,,0,0,0,,you could at least let me get a draw. Read the Atmosphere.
@@ -800,6 +797,7 @@ Dialogue: 5,0:45:50.64,0:45:53.85,Default,,0,0,0,,So, what sort of craziness are
 Dialogue: 5,0:45:53.85,0:45:55.31,Default,,0,0,0,,Just a game.
 Dialogue: 5,0:45:55.98,0:45:57.48,Default,,0,0,0,,We'll just gonna start...
 Dialogue: 5,0:45:57.48,0:46:00.15,Default,,0,0,0,,a mere child's play.
+
 Dialogue: 5,0:46:01.44,0:46:07.24,Default,,0,0,0,,As of now, everyone here is considered dead.
 Dialogue: 5,0:46:07.24,0:46:09.91,Default,,0,0,0,,We no longer exist in this world.
 Dialogue: 5,0:46:10.29,0:46:11.54,Default,,0,0,0,,We're ghosts.
@@ -887,6 +885,7 @@ Dialogue: 5,0:50:28.13,0:50:29.59,Default,,0,0,0,,abiding by these rules,
 Dialogue: 5,0:50:31.09,0:50:32.55,Default,,0,0,0,,I pledge Aschente.
 Dialogue: 5,0:50:35.22,0:50:36.09,Default,,0,0,0,,Okay.
 Dialogue: 5,0:50:37.47,0:50:39.30,Default,,0,0,0,,Let the game begin.
+
 Dialogue: 5,0:50:45.48,0:50:46.35,Default,,0,0,0,,Riku,
 Dialogue: 5,0:50:47.15,0:50:48.94,Default,,0,0,0,,I am now certain.
 Dialogue: 5,0:50:48.94,0:50:50.61,Default,,0,0,0,,I don't understand the heart.
