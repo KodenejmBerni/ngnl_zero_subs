@@ -77,12 +77,12 @@ Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,this story happened over six t
 Dialogue: 5,0:04:02.72,0:04:07.14,Default,,0,0,0,,The earth and sky were then ravaged by a cruel war.
 Dialogue: 5,0:04:09.39,0:04:13.15,Default,,0,0,0,,As time passes, no one remembers it anymore.
 Dialogue: 5,0:04:15.56,0:04:16.83,Default,,0,0,0,,And yet,
-Dialogue: 5,0:04:17.28,0:04:20.44,Default,,0,0,0,,it's a story that I will never forget.
+Dialogue: 5,0:04:17.28,0:04:20.44,Default,,0,0,0,,it's a story I will never forget.
 
 Dialogue: 5,0:04:49.43,0:04:50.68,Default,,0,0,0,,It's a big one.
 Dialogue: 5,0:04:56.81,0:04:59.69,Default,,0,0,0,,Black ash is falling, hurry up.
 Dialogue: 5,0:05:17.50,0:05:18.50,Default,,0,0,0,,Ivan?
-Dialogue: 5,0:05:18.50,0:05:19.75,Default,,0,0,0,,I'm okay.
+Dialogue: 5,0:05:18.50,0:05:19.75,Default,,0,0,0,,It's okay.
 Dialogue: 5,0:05:26.43,0:05:28.00,Default,,0,0,0,,How's the compass?
 Dialogue: 5,0:05:28.80,0:05:31.11,Default,,0,0,0,,Too much black dust around.
 Dialogue: 5,0:05:31.11,0:05:33.35,Default,,0,0,0,,We need to rely on our senses.
@@ -572,14 +572,14 @@ Dialogue: 5,0:31:45.76,0:31:46.34,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:45.96,0:31:46.67,Alt,,0,0,0,,Stop that!
 Dialogue: 5,0:31:46.34,0:31:46.67,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:51.47,0:31:52.72,Default,,0,0,0,,Conclusion:
-Dialogue: 5,0:31:52.72,0:31:55.51,Default,,0,0,0,,I don't want to go back. Convergently...
+Dialogue: 5,0:31:52.72,0:31:55.51,Default,,0,0,0,,I don't care to go back. Convergently...
 Dialogue: 5,0:31:55.72,0:31:57.02,Default,,0,0,0,,Convergently?
 Dialogue: 5,0:31:57.43,0:31:59.73,Default,,0,0,0,,Not determined definitively.
 Dialogue: 5,0:31:59.73,0:32:00.81,Default,,0,0,0,,Although,
 Dialogue: 5,0:32:01.65,0:32:03.02,Default,,0,0,0,,convergently.
 Dialogue: 5,0:32:03.77,0:32:05.11,Default,,0,0,0,,Convergently?
 Dialogue: 5,0:32:07.23,0:32:08.74,Default,,0,0,0,,That's little confusing.
-Dialogue: 5,0:32:10.07,0:32:11.78,Default,,0,0,0,,Pawn to E4.
+Dialogue: 5,0:32:10.07,0:32:11.78,Default,,0,0,0,,Pawn E4.
 Dialogue: 5,0:32:11.78,0:32:14.08,Default,,0,0,0,,Hey, at least let me have the center.
 Dialogue: 5,0:32:14.08,0:32:15.58,Default,,0,0,0,,Your move.
 Dialogue: 5,0:32:15.58,0:32:18.20,Default,,0,0,0,,Also, I'm sitting here brushing your hair.
@@ -800,7 +800,7 @@ Dialogue: 5,0:45:57.64,0:45:59.93,Default,,0,0,0,,about to start a mere child's 
 Dialogue: 5,0:46:01.44,0:46:07.24,Default,,0,0,0,,Everyone here is considered to have not escaped the village in time and to be dead.
 Dialogue: 5,0:46:07.24,0:46:09.91,Default,,0,0,0,,We no longer exist in this world.
 Dialogue: 5,0:46:10.29,0:46:11.54,Default,,0,0,0,,Ghosts.
-Dialogue: 5,0:46:13.33,0:46:15.71,Default,,0,0,0,,Someday the war will end...
+Dialogue: 5,0:46:13.33,0:46:15.71,Default,,0,0,0,,"Someday the war will end."
 Dialogue: 5,0:46:15.71,0:46:18.54,Default,,0,0,0,,Stop waiting for a future that will never come.
 Dialogue: 5,0:46:19.34,0:46:21.50,Default,,0,0,0,,What do we do in this shitty world?
 Dialogue: 5,0:46:21.50,0:46:24.67,Default,,0,0,0,,Run, hide and pray for mercy?
@@ -824,37 +824,37 @@ Dialogue: 5,0:47:18.69,0:47:19.31,Default,,0,0,0,,In that case,
 Dialogue: 5,0:47:20.02,0:47:22.61,Default,,0,0,0,,we'll also make the rules as we like
 Dialogue: 5,0:47:22.61,0:47:23.07,Default,,0,0,0,,and then
 Dialogue: 5,0:47:23.86,0:47:25.07,Default,,0,0,0,,go for victory.
-
-Dialogue: 5,0:47:27.07,0:47:29.95,Default,,0,0,0,,Number 1: You must not kill.
-Dialogue: 5,0:47:29.95,0:47:32.45,Default,,0,0,0,,{\i1}The heart doesn't wish for murder.
-Dialogue: 5,0:47:32.45,0:47:35.45,Default,,0,0,0,,Number 2: You must not let anyone die,
-Dialogue: 5,0:47:35.45,0:47:37.96,Default,,0,0,0,,{\i1}The heart doesn't want anyone to die.
-Dialogue: 5,0:47:37.96,0:47:40.79,Default,,0,0,0,,Number 3: You must not let anyone discover you.
-Dialogue: 5,0:47:40.79,0:47:42.59,Default,,0,0,0,,{\i1}If we are discovered, we are dead.
-Dialogue: 5,0:47:42.59,0:47:45.76,Default,,0,0,0,,Number 4: No tactic is off limits.
-Dialogue: 5,0:47:45.76,0:47:49.55,Default,,0,0,0,,{\i1}Not even a sly trick should be considered dirty.
-Dialogue: 5,0:47:49.55,0:47:52.89,Default,,0,0,0,,Number 5: Those guys' rules mean nothing to us.
-Dialogue: 5,0:47:52.89,0:47:55.22,Default,,0,0,0,,{\i1}The heart doesn't give a shit about their bloody contest.
-Dialogue: 5,0:47:55.60,0:48:00.35,Default,,0,0,0,,Number 6: Break any of these rules and you lose.
-Dialogue: 5,0:48:00.35,0:48:04.32,Default,,0,0,0,,{\i1}The heart gains nothing from a\Nvictory when violence is a principle.
+Dialogue: 5,0:47:27.07,0:47:29.95,Default,,0,0,0,,1: You must not kill.
+Dialogue: 5,0:47:29.95,0:47:32.45,Default,,0,0,0,,{\i1}The heart despises murder.
+Dialogue: 5,0:47:32.45,0:47:35.45,Default,,0,0,0,,2: You must not let anyone die.
+Dialogue: 5,0:47:35.45,0:47:37.96,Default,,0,0,0,,{\i1}The heart wishes no one death.
+Dialogue: 5,0:47:37.96,0:47:40.79,Default,,0,0,0,,3: No one must discover you.
+Dialogue: 5,0:47:40.79,0:47:42.59,Default,,0,0,0,,{\i1}Detection means death.
+Dialogue: 5,0:47:42.59,0:47:45.76,Default,,0,0,0,,4: No trickery is off limits.
+Dialogue: 5,0:47:45.76,0:47:49.55,Default,,0,0,0,,{\i1}If you are not caught, no tactic is considered cheating.
+Dialogue: 5,0:47:49.55,0:47:52.89,Default,,0,0,0,,5: Their rules mean nothing to us.
+Dialogue: 5,0:47:52.89,0:47:55.22,Default,,0,0,0,,{\i1}The heart despises their pathetic methods.
+Dialogue: 5,0:47:55.60,0:48:00.35,Default,,0,0,0,,6: Break any of these rules and you lose.
+Dialogue: 5,0:48:00.35,0:48:04.32,Default,,0,0,0,,{\i1}The heart doesn't value a victory that violates these rules.
 Dialogue: 5,0:48:05.23,0:48:06.40,Default,,0,0,0,,That's all.
-Dialogue: 5,0:48:07.40,0:48:09.24,Default,,0,0,0,,Now we do whatever we want.
-Dialogue: 5,0:48:10.20,0:48:11.74,Default,,0,0,0,,We are the ghosts.
-Dialogue: 5,0:48:11.74,0:48:16.66,Default,,0,0,0,,We will not kill a single member of\Nthe other races including the Old Deus.
-Dialogue: 5,0:48:16.66,0:48:18.62,Default,,0,0,0,,And we will not be discovered.
-Dialogue: 5,0:48:18.62,0:48:22.54,Default,,0,0,0,,But, we will guide the course of this war to its' end!
-Dialogue: 5,0:48:23.33,0:48:25.38,Default,,0,0,0,,A resolution of this war...
-Dialogue: 5,0:48:25.38,0:48:27.84,Default,,0,0,0,,This will be a victory that we will achieve!
-Dialogue: 5,0:48:28.38,0:48:32.84,Default,,0,0,0,,Our enemies are Gods with tools\Nof great violence and despair.
-Dialogue: 5,0:48:32.84,0:48:34.60,Default,,0,0,0,,Our success rate is far beyond the horizon.
-Dialogue: 5,0:48:35.39,0:48:38.89,Default,,0,0,0,,So, to win this, we must do everything\Nin secret and behind the scenes.
-Dialogue: 5,0:48:38.89,0:48:42.31,Default,,0,0,0,,And even if we win, our actions will not\Nbe remembered by anyone,
-Dialogue: 5,0:48:42.31,0:48:45.52,Default,,0,0,0,,because we are ghosts,\Nand ghosts cannot tell of anything.
-Dialogue: 5,0:48:46.86,0:48:49.82,Default,,0,0,0,,But know this. If we can do this,
-Dialogue: 5,0:48:50.45,0:48:53.99,Default,,0,0,0,,if we can master this game for real,
-Dialogue: 5,0:48:54.49,0:48:56.20,Default,,0,0,0,,and we can win it...
-Dialogue: 5,0:48:56.74,0:49:00.46,Default,,0,0,0,,we can die with our heads held high!
-Dialogue: 5,0:49:00.46,0:49:02.75,Default,,0,0,0,,Because we lived the coolest, most badass lives ever!
+Dialogue: 5,0:48:07.40,0:48:09.24,Default,,0,0,0,,Nothing else restrains us.
+Dialogue: 5,0:48:10.20,0:48:11.74,Default,,0,0,0,,We are ghosts.
+Dialogue: 5,0:48:11.74,0:48:16.66,Default,,0,0,0,,Nobody, not even the Old Deus, will die by our hand.
+Dialogue: 5,0:48:16.66,0:48:18.62,Default,,0,0,0,,And we'll stay in the shadows.
+Dialogue: 5,0:48:18.62,0:48:22.54,Default,,0,0,0,,But, we will lead the course of this war to its end.
+Dialogue: 5,0:48:23.33,0:48:25.38,Default,,0,0,0,,The end of the Great War!
+Dialogue: 5,0:48:25.38,0:48:27.84,Default,,0,0,0,,That is the victory we will achieve!
+Dialogue: 5,0:48:28.38,0:48:32.84,Default,,0,0,0,,Enemies are gods, ruthless destroyers with terrifying power.
+Dialogue: 5,0:48:32.84,0:48:34.60,Default,,0,0,0,,Success is far beyond the horizon.
+Dialogue: 5,0:48:35.39,0:48:38.89,Default,,0,0,0,,And since everything must be done in absolute secrecy,
+Dialogue: 5,0:48:38.89,0:48:42.31,Default,,0,0,0,,even if we win, there will be no one to honor our deeds.
+Dialogue: 5,0:48:42.31,0:48:45.52,Default,,0,0,0,,We are ghosts, ghosts tell no tales.
+Dialogue: 5,0:48:46.86,0:48:49.82,Default,,0,0,0,,But know this, if...
+Dialogue: 5,0:48:50.45,0:48:53.99,Default,,0,0,0,,if we manage to finish this game,
+Dialogue: 5,0:48:54.49,0:48:56.20,Default,,0,0,0,,to win it...
+Dialogue: 5,0:48:56.74,0:49:00.46,Default,,0,0,0,,Living such a badass life
+Dialogue: 5,0:49:00.46,0:49:02.75,Default,,0,0,0,,I can die with my head held high!
+
 Dialogue: 5,0:49:05.88,0:49:06.88,Default,,0,0,0,,Okay.
 Dialogue: 5,0:49:06.88,0:49:08.63,Default,,0,0,0,,That’s the game.
 Dialogue: 5,0:49:08.63,0:49:10.84,Default,,0,0,0,,If you're willing to play, then stay here.
