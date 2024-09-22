@@ -102,7 +102,7 @@ Yūreida.
 Ghosts.
 
 Itsuka otozureru shūsen…
-Someday the war will end...
+"Someday the war will end."
 
 Son'na konai mirai o matsu no wa mō yameda.
 Stop waiting for a future that will never come.
@@ -135,7 +135,7 @@ arasoi sono sa o meguri sekai moro tomo hakai shi tsudzukete iru.
 Because of their pathetic quarrel they spread death and destruction!
 
 Son'na kuso-domo ni ittai nani o inoru.
-These pieces of shit deserve nothing!
+These pieces of shit deserve nothing from us!
 
 Īkagen mitomeyou
 It's time to realize it.
@@ -153,7 +153,7 @@ Kono sekai wa yahari tanjun'na gēmudatta.
 This world has become their game.
 
 Ano hakai-shadomo kono Suniaster
-They strive for the Suniaster.
+They fight for the Suniaster.
 
 sekai no zettai shihai-ken to iu gainen sōchi o shichū ni osameyou to.
 a conceptual device, which is said to grant absolute power over this world.
@@ -231,7 +231,7 @@ Taisen no shūketsu.
 The end of the Great War!
 
 sore ga warera ga te ni suru shōrida!
-That is the victory we will achieve!
+That's the victory we will achieve!
 
 Teki wa kami, tenchi o kogasu bōryoku (zetsubō no kugen)
 Enemies are gods, ruthless destroyers with terrifying power.
@@ -251,11 +251,8 @@ We are ghosts,
 yūrei wa kataranai.
 ghosts tell no tales.
 
-Dakedo sa,
-But know this,
-
-moshimo,
-if...
+Dakedo sa, moshimo...
+But know this, if...
 
 moshimo kono gēmu hontōni nashitogete
 if we manage to finish this game,
@@ -273,7 +270,7 @@ Sate son'na gēmu.
 Okay, that's the game.
 
 Hajimetai yatsu dake kono ba ni nokotte kure.
-Let only those who wish to start it stay here.
+Let only those who want to participate stay.
 
 Shōjiki ni iu zo.
 To be honest,
@@ -296,11 +293,17 @@ The wise would already choose death.
 Saranaru kenja wa umareru koto o erabu.
 The wisest would choose not to be born.
 
-Koko ni iru yota riku omae ga eranda yatsurada zo.
-Everyone here, Riku, are the ones you chose yourself.
+Koko ni iru yota Riku
+Everyone here Riku,
 
-Son'na mon. Orokamono no daihyō senbatsu tte koto janē ka?
-Well said. A truly elite representation of fools, isn't it?
+omae ga eranda yatsurada zo.
+are the ones you chose yourself.
+
+Son'na mon.
+Well said.
+
+Orokamono no daihyō senbatsu tte koto janē ka?
+A truly elite representation of fools, isn't it?
 
 Hito wa orukara oroka yueni.
 It's human nature to be foolish.
@@ -338,8 +341,11 @@ I pledge
 ashientoda.
 Aschiento.
 
-Sā gēmu o hajimeyou.
-So, let the game begin.
+Sā,
+So,
+
+gēmu o hajimeyou.
+let the game begin.
 
 
 00:50:39
