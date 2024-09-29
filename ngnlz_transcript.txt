@@ -379,16 +379,16 @@ Jā sore o moshi
 But what if
 
 sonzaishinai darekaga 6 shika denai saikoro ni torikaeta to shitara?
-someone who doesn't exist swapped your die for one that only rolls a six?
+someone nonexistent provides you a die that only rolls six?
 
 Hensū o sokui-teki ni sōsa...
-Prior setup of factors...
+Preliminary setup of factors...
 
 So,
 Yeah,
 
 Sore o ikasama tte iu nda,
-it's a form of trickery.
+a tricky way to play.
 
 omoshiroidaro?
 Fun, isn't it?
@@ -412,7 +412,7 @@ O— Okoseba
 I— In that case,
 
 kakuritsu-ron wa kojitsuke ni naru.
-the theory of resolution would collapse.
+the probabilistic approach collapses. #TODO
 
 So
 Yup,
@@ -421,13 +421,13 @@ Subete wa okori uru.
 anything can happen.
 
 Kakuritsu-ron ni 0 mo 100 mo nai.
-No matter whether it's 0 or 100.
+No matter if it's 0 or 100.
 
 Shosen wa kijō no kūronda.
-It’s just a prediction.
+It’s just a pure theory.
 
 Shōmei shite miseyou ka?
-Do you want me to prove it?
+Want me to prove it to you?
 
 Mondai:
 Query:
@@ -442,9 +442,9 @@ Kaisan: hobo 0.
 Answer: near 0.
 
 Hora na hazureda.
-You see? Incorrect.
+You see? Wrong.
 
-Kekkon shite kure, Schwi.
+Kekkon shite kure, Schwi?
 Will you marry me, Schwi?
 
 Rikai
@@ -456,71 +456,84 @@ comprehend.
 Kyohi suru.
 I decline.
 
-Surō se shita.
+Surō se shita!
+I'm sorry!
 
+Dōde ra bu zede shoushi ki ma shita!
+I thought it was that time already!
 
-_
-
+Kekkon...
+Mariage...
 
 Ningen ga hanshoku no chigai to kawasu keiyaku.
+a contract between humans in order to reproduce.
 
+Schwi Ex-machina.
+Schwi is an Ex-machina...
 
-(Son'na norate itta yo.)
-
+Son'na no datte ī nda yo!
+I don't care!
 
 (Otoko on'na ni shimi ni zutto sowa itte oshie tte)
-
+I just want you to be forever by my side!
 
 Naze? ima soba ni iru.
+Why? I’m by your side now.
 
 
 Sōiu imi janē yo, jinsei no hanryo to shite.
-
+That’s not the point! I meant as a life partner!
 
 Ex-machina honshoku dekinai.
+Ex-machina is unqualified.
 
-
-Mondainai de.
-
+Mondainai de!
+Doesn't matter!
 
 Hanshoku kōi mo dekinai.
+I cannot copulate either.
 
+Riku isshō dōtei...
+Riku, you'll never...
 
-Riku isshō dōtei.
-
-
-Mondainai de.
-
+Mondainai de!
+Doesn't matter!
 
 Na gatta.
+A delay...
 
-
-Koma-geikota ittara.
-
+Koma-geikota ittara!
+I said it’s nothing!
 
 Murida yo.
-
+Impossible…
 
 Datte…
-
+Because…
 
 Schwi…
-
+Schwi…
 
 Datte…
-
+Because…
 
 Riku no…
+Riku's
 
+Tensou, prufer yori Einz ihi
+Request to Einz for aerial maneuver.
+
+Saiketsu.
+Approved.
 
 Rikku no (kokyū) o horoboshita no.
-
+Riku's village has been destroyed
 
 Schwi to mo.
+by Schwi.
 
-
-Soredemo Rikku onaji ko to ieru?
-
+Soredemo, Riku onaji ko to ieru.
+Knowing this,
 
 Schwi kidzui teta yo nantonaku dakeda.
 
