@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 22
-Video Position: 3119
+Video Zoom Percent: 0.375000
+Scroll Position: 898
+Active Line: 911
+Video Position: 76678
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -753,7 +753,7 @@ Dialogue: 5,0:43:01.61,0:43:03.60,Default,,0,0,0,,The world was clear:
 Dialogue: 5,0:43:04.28,0:43:07.50,Default,,0,0,0,,you win, lose or it's a draw.
 Dialogue: 5,0:43:09.22,0:43:11.80,Default,,0,0,0,,A truly naive view of the world.
 Dialogue: 5,0:43:13.46,0:43:14.66,Default,,0,0,0,,That was
-Dialogue: 5,0:43:15.38,0:43:17.82,Default,,0,0,0,,the mindset of a foolish, ignorant brat.
+Dialogue: 5,0:43:15.38,0:43:17.82,Default,,0,0,0,,the mindset of a stupid, ignorant brat.
 Dialogue: 5,0:43:19.10,0:43:20.20,Default,,0,0,0,,That was
 Dialogue: 5,0:43:22.90,0:43:25.90,Default,,0,0,0,,actually the mindset of a doer.
 Dialogue: 5,0:43:27.56,0:43:29.07,Default,,0,0,0,,Together
@@ -887,65 +887,65 @@ Comment: 0,0:50:39.30,0:50:41.30,Default,,0,0,0,,Translation END
 Dialogue: 5,0:50:45.56,0:50:46.35,Default,,0,0,0,,Riku,
 Dialogue: 5,0:50:46.90,0:50:48.42,Default,,0,0,0,,now I completely
 Dialogue: 5,0:50:49.00,0:50:50.49,Default,,0,0,0,,don't understand the heart.
-Dialogue: 5,0:50:52.23,0:50:56.26,Default,,0,0,0,,All the plans have near zero percent chance of success.
-Dialogue: 5,0:50:56.64,0:50:59.58,Default,,0,0,0,,You wonder why we want to carry them out anyway?
+Dialogue: 5,0:50:52.23,0:50:56.26,Default,,0,0,0,,All these plans have less than 1% chance of success.
+Dialogue: 5,0:50:56.64,0:50:59.58,Default,,0,0,0,,You wonder why we're so eager to carry them out?
 Dialogue: 5,0:51:01.41,0:51:02.22,Default,,0,0,0,,So Schwi,
-Dialogue: 5,0:51:02.87,0:51:05.01,Default,,0,0,0,,what are the odds of a 6, if you roll a die?
-Dialogue: 5,0:51:05.65,0:51:06.97,Default,,0,0,0,,One in six.
-Dialogue: 5,0:51:07.23,0:51:08.37,Default,,0,0,0,,But what if it happened to be
-Dialogue: 5,0:51:09.11,0:51:13.27,Default,,0,0,0,,that you only roll a die, when it's about to roll a six?
-Dialogue: 5,0:51:14.59,0:51:17.09,Default,,0,0,0,,Preliminary setup of variables...
-Dialogue: 5,0:51:17.27,0:51:17.85,Default,,0,0,0,,Yeah.
+Dialogue: 5,0:51:02.87,0:51:05.01,Default,,0,0,0,,what's the chance of rolling a 6 on a die?
+Dialogue: 5,0:51:05.65,0:51:06.97,Default,,0,0,0,,One sixth.
+Dialogue: 5,0:51:07.23,0:51:08.37,Default,,0,0,0,,And in the case
+Dialogue: 5,0:51:09.11,0:51:13.27,Default,,0,0,0,,where an unknown spectator provides only dice that roll six?
+Dialogue: 5,0:51:14.59,0:51:17.09,Default,,0,0,0,,Disguising as random factors…
+Dialogue: 5,0:51:17.27,0:51:17.85,Default,,0,0,0,,Yeah
 Dialogue: 5,0:51:18.22,0:51:19.98,Default,,0,0,0,,I'd rather call it cheating.
-Dialogue: 5,0:51:20.44,0:51:21.26,Default,,0,0,0,,Tempting, isn't it?
-Dialogue: 5,0:51:22.28,0:51:24.46,Default,,0,0,0,,We also are a factor in this equation.
-Dialogue: 5,0:51:25.18,0:51:26.98,Default,,0,0,0,,We'll make every prediction, calculation.
-Dialogue: 5,0:51:27.45,0:51:30.06,Default,,0,0,0,,With things coming together exactly how we wanted.
-Dialogue: 5,0:51:31.01,0:51:32.36,Default,,0,0,0,,If this gonna work—
+Dialogue: 5,0:51:20.44,0:51:21.26,Default,,0,0,0,,Fun, isn't it?
+Dialogue: 5,0:51:22.28,0:51:24.46,Default,,0,0,0,,Prudence fills each day of our lives.
+Dialogue: 5,0:51:25.18,0:51:26.98,Default,,0,0,0,,Every risk or inaccuracy
+Dialogue: 5,0:51:27.45,0:51:30.06,Default,,0,0,0,,will be taken by us into account.
+Dialogue: 5,0:51:31.01,0:51:32.36,Default,,0,0,0,,If we manage to do this…
 Dialogue: 5,0:51:32.44,0:51:33.13,Default,,0,0,0,,A miracle.
-Dialogue: 5,0:51:34.35,0:51:35.77,Default,,0,0,0,,If you plan for it to work,
-Dialogue: 5,0:51:36.20,0:51:38.60,Default,,0,0,0,,zero needs to vanish from the probability theory.
-Dialogue: 5,0:51:39.53,0:51:39.99,Default,,0,0,0,,Yeah.
-Dialogue: 5,0:51:40.45,0:51:41.76,Default,,0,0,0,,Anything can happen.
-Dialogue: 5,0:51:42.30,0:51:44.47,Default,,0,0,0,,Zero or not zero, it doesn't really matter.
-Dialogue: 5,0:51:45.15,0:51:47.02,Default,,0,0,0,,It's just an empty theory on a piece of paper, after all.
-Dialogue: 5,0:51:47.81,0:51:49.12,Default,,0,0,0,,Would you like me to prove it to you?
+Dialogue: 5,0:51:34.35,0:51:35.77,Default,,0,0,0,,I— In that case,
+Dialogue: 5,0:51:36.20,0:51:38.60,Default,,0,0,0,,the probabilistic approach collapses.
+Dialogue: 5,0:51:39.53,0:51:39.99,Default,,0,0,0,,True,
+Dialogue: 5,0:51:40.45,0:51:41.76,Default,,0,0,0,,anything can happen.
+Dialogue: 5,0:51:42.30,0:51:44.47,Default,,0,0,0,,No matter if it's 0 or 100.
+Dialogue: 5,0:51:45.15,0:51:47.02,Default,,0,0,0,,It’s just a pure theory.
+Dialogue: 5,0:51:47.81,0:51:49.12,Default,,0,0,0,,Want me to prove it to you?
 Dialogue: 5,0:51:49.97,0:51:50.58,Default,,0,0,0,,Query:
-Dialogue: 5,0:51:51.03,0:51:54.06,Default,,0,0,0,,What are the chances that I’ll confess my feelings to you right now?
+Dialogue: 5,0:51:51.03,0:51:54.06,Default,,0,0,0,,What are the odds that I'll confess my feelings right now?
 Dialogue: 5,0:51:56.01,0:51:57.45,Default,,0,0,0,,Query unclear.
-Dialogue: 5,0:51:57.96,0:51:59.38,Default,,0,0,0,,Estimation: Approaching zero.
-Dialogue: 5,0:51:59.80,0:52:01.51,Default,,0,0,0,,Oh yeah? Well then...
+Dialogue: 5,0:51:57.96,0:51:59.38,Default,,0,0,0,,Answer: near zero.
+Dialogue: 5,0:51:59.80,0:52:01.51,Default,,0,0,0,,You see? Wrong.
 Dialogue: 5,0:52:07.89,0:52:09.66,Default,,0,0,0,,Will you marry me, Schwi?
-Dialogue: 5,0:52:15.97,0:52:16.64,Default,,0,0,0,,Cannot...
+Dialogue: 5,0:52:15.97,0:52:16.64,Default,,0,0,0,,Cannot
 Dialogue: 5,0:52:18.29,0:52:18.91,Default,,0,0,0,,comprehend.
 Dialogue: 5,0:52:19.72,0:52:20.51,Default,,0,0,0,,I decline.
-Dialogue: 5,0:52:20.82,0:52:22.30,Default,,0,0,0,,I'm sorry I got carried away!
-Dialogue: 5,0:52:22.60,0:52:26.32,Default,,0,0,0,,I've never been with a women before!
-Dialogue: 5,0:52:24.94,0:52:25.88,Alt,,0,0,0,,Marriage...
-Dialogue: 5,0:52:28.35,0:52:31.72,Default,,0,0,0,,the act of exchanging vows \Nbetween humans in order to reproduce.
-Dialogue: 5,0:52:32.34,0:52:34.00,Default,,0,0,0,,Schwi is an Ex-machina.
-Dialogue: 5,0:52:34.01,0:52:35.54,Default,,0,0,0,,I don't care about that!
-Dialogue: 5,0:52:35.89,0:52:38.81,Default,,0,0,0,,I just simply want you by my side forever!
+Dialogue: 5,0:52:20.82,0:52:22.30,Default,,0,0,0,,I'm sorry!
+Dialogue: 5,0:52:22.60,0:52:26.32,Default,,0,0,0,,I thought it was that time already!
+Dialogue: 5,0:52:24.94,0:52:25.88,Alt,,0,0,0,,Mariage…
+Dialogue: 5,0:52:28.35,0:52:31.72,Default,,0,0,0,,a contract between humans in order to reproduce.
+Dialogue: 5,0:52:32.34,0:52:34.00,Default,,0,0,0,,Schwi is an Ex-machina…
+Dialogue: 5,0:52:34.01,0:52:35.54,Default,,0,0,0,,I don't care!
+Dialogue: 5,0:52:35.89,0:52:38.81,Default,,0,0,0,,I just want you to be forever by my side!
 Dialogue: 5,0:52:39.62,0:52:40.29,Default,,0,0,0,,Why?
-Dialogue: 5,0:52:41.00,0:52:42.23,Default,,0,0,0,,I'm by your side right now.
-Dialogue: 5,0:52:42.72,0:52:45.41,Default,,0,0,0,,Not like this, I mean as a life partner!
-Dialogue: 5,0:52:47.11,0:52:49.26,Default,,0,0,0,,Ex-machina cannot retrace.
-Dialogue: 5,0:52:49.27,0:52:50.25,Default,,0,0,0,,That doesn't matter!
-Dialogue: 5,0:52:50.40,0:52:52.08,Default,,0,0,0,,We cannot copulate either.
-Dialogue: 5,0:52:52.81,0:52:54.38,Default,,0,0,0,,Riku, you'll never do it...
-Dialogue: 5,0:52:55.61,0:52:56.98,Default,,0,0,0,,That doesn't matter!
-Dialogue: 5,0:52:57.17,0:52:58.01,Default,,0,0,0,,A momentary delay.
-Dialogue: 5,0:52:58.10,0:53:00.13,Default,,0,0,0,,Ahh, come on! I don't care! Details!
-Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,It's impossible.
-Dialogue: 5,0:53:04.51,0:53:05.03,Default,,0,0,0,,Because—
-Dialogue: 5,0:53:06.81,0:53:07.43,Default,,0,0,0,,Schwi...
-Dialogue: 5,0:53:08.43,0:53:09.08,Default,,0,0,0,,Because—
-Dialogue: 5,0:53:10.18,0:53:10.81,Default,,0,0,0,,Because I—
-Dialogue: 5,0:53:13.75,0:53:16.07,Default,,0,0,0,,Reflection: From Prüfer to lateral
+Dialogue: 5,0:52:41.00,0:52:42.23,Default,,0,0,0,,I’m by your side now.
+Dialogue: 5,0:52:42.72,0:52:45.41,Default,,0,0,0,,Not like that! I mean as a life partner!
+Dialogue: 5,0:52:47.11,0:52:49.26,Default,,0,0,0,,Ex-machina is unqualified.
+Dialogue: 5,0:52:49.27,0:52:50.25,Default,,0,0,0,,Doesn't matter!
+Dialogue: 5,0:52:50.40,0:52:52.08,Default,,0,0,0,,I cannot copulate either.
+Dialogue: 5,0:52:52.81,0:52:54.38,Default,,0,0,0,,Riku, you'll never…
+Dialogue: 5,0:52:55.61,0:52:56.98,Default,,0,0,0,,Doesn't matter!
+Dialogue: 5,0:52:57.17,0:52:58.01,Default,,0,0,0,,A delay…
+Dialogue: 5,0:52:58.10,0:53:00.13,Default,,0,0,0,,I said it’s nothing!
+Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,Forfeited…
+Dialogue: 5,0:53:04.51,0:53:05.03,Default,,0,0,0,,because…
+Dialogue: 5,0:53:06.81,0:53:07.43,Default,,0,0,0,,Schwi…
+Dialogue: 5,0:53:08.43,0:53:09.08,Default,,0,0,0,,because…
+Dialogue: 5,0:53:10.18,0:53:10.81,Default,,0,0,0,,Riku's…
+Dialogue: 5,0:53:13.75,0:53:16.07,Default,,0,0,0,,Request to Einz for aerial maneuver.
 Dialogue: 5,0:53:16.11,0:53:17.15,Default,,0,0,0,,Approved.
-Dialogue: 5,0:53:17.22,0:53:19.80,Default,,0,0,0,,The one who destroyed your hometown...
+Dialogue: 5,0:53:17.22,0:53:19.80,Default,,0,0,0,,Riku's village has been destroyed
 Dialogue: 5,0:53:20.49,0:53:24.01,Default,,0,0,0,,Lösen: Org. 2807 - Umweg.
-Dialogue: 5,0:53:37.49,0:53:38.99,Default,,0,0,0,,was me.
+Dialogue: 5,0:53:37.49,0:53:38.99,Default,,0,0,0,,by Schwi.
 Dialogue: 5,0:53:46.09,0:53:47.44,Default,,0,0,0,,Knowing this...
 Dialogue: 5,0:53:48.31,0:53:48.79,Default,,0,0,0,,can you...
 Dialogue: 5,0:53:49.80,0:53:51.17,Default,,0,0,0,,still say the same thing?

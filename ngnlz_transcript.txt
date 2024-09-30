@@ -364,7 +364,7 @@ Sakusen dore mo seikō kakuritsu 1-pāsento-miman.
 All these plans have less than 1% chance of success.
 
 Nanoni min'na seikō suru ki manman datte ka?
-You wonder why we're so eager to carry them out anyway?
+You wonder why we're so eager to carry them out?
 
 Na Schwi,
 So Schwi,
@@ -376,34 +376,34 @@ what's the chance of rolling a 6 on a die?
 One sixth.
 
 Jā sore o moshi
-But what if
+And in the case
 
 sonzaishinai darekaga 6 shika denai saikoro ni torikaeta to shitara?
-someone nonexistent provides you a die that only rolls six?
+where an unknown spectator provides only dice that roll six?
 
-Hensū o sokui-teki ni sōsa...
-Preliminary setup of factors...
+Hensū o sokui-teki ni sōsa…
+Disguising as random factors…
 
 So,
 Yeah,
 
 Sore o ikasama tte iu nda,
-a tricky way to play.
+a tricky way to play. #TODO
 
 omoshiroidaro?
 Fun, isn't it?
 
 Oretachi wa keisan-jō no tokui-tenda.
-Avoidance is our speciality.
+Prudence fills each day of our lives.
 
 Araeru yosō, senryaku
-Every risk or threat
+Every risk or inaccuracy
 
 keisan o subete nozomu hōkō e shūsoku sa seru.
-will be taken into account while taking action.
+will be taken by us into account.
 
 Moshi seikō sa setara…
-If we're gonna make it…
+If we manage to do this…
 
 Kiseki.
 A miracle.
@@ -415,7 +415,7 @@ kakuritsu-ron wa kojitsuke ni naru.
 the probabilistic approach collapses. #TODO
 
 So
-Yup,
+True,
 
 Subete wa okori uru.
 anything can happen.
@@ -439,7 +439,7 @@ Mondai ito fumei.
 Query unclear.
 
 Kaisan: hobo 0.
-Answer: near 0.
+Answer: near zero.
 
 Hora na hazureda.
 You see? Wrong.
@@ -462,14 +462,14 @@ I'm sorry!
 Dōde ra bu zede shoushi ki ma shita!
 I thought it was that time already!
 
-Kekkon...
-Mariage...
+Kekkon…
+Mariage…
 
 Ningen ga hanshoku no chigai to kawasu keiyaku.
 a contract between humans in order to reproduce.
 
-Schwi Ex-machina.
-Schwi is an Ex-machina...
+Schwi Ex-machina…
+Schwi is an Ex-machina…
 
 Son'na no datte ī nda yo!
 I don't care!
@@ -480,9 +480,8 @@ I just want you to be forever by my side!
 Naze? ima soba ni iru.
 Why? I’m by your side now.
 
-
 Sōiu imi janē yo, jinsei no hanryo to shite.
-That’s not the point! I meant as a life partner!
+Not like that! I mean as a life partner!
 
 Ex-machina honshoku dekinai.
 Ex-machina is unqualified.
@@ -499,17 +498,17 @@ Riku, you'll never...
 Mondainai de!
 Doesn't matter!
 
-Na gatta.
-A delay...
+Na gatta…
+A delay…
 
 Koma-geikota ittara!
 I said it’s nothing!
 
-Murida yo.
-Impossible…
+Murida yo…
+Infeasible…
 
 Datte…
-Because…
+because…
 
 Schwi…
 Schwi…
@@ -518,10 +517,10 @@ Datte…
 Because…
 
 Riku no…
-Riku's
+Riku's…
 
 Tensou, prufer yori Einz ihi
-Request to Einz for aerial maneuver.
+Request to Einz for maneuver.
 
 Saiketsu.
 Approved.
@@ -1310,7 +1309,7 @@ Kore wa puremia-chū no puremiadegozaimasu yo!
 Hi ga senryoku kōsatsu sanshutsu shōritsu. Zetsumu.
 
 
-Dakedo. Kakuritsu-ron ni zero wanai.
+Dakedo. Kakuritsu-ron ni zero wa nai.
 
 
 Saishū kankoku.
