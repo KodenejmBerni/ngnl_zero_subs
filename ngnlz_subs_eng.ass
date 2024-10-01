@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 898
-Active Line: 911
-Video Position: 76678
+Video Zoom Percent: 0.250000
+Scroll Position: 922
+Active Line: 940
+Video Position: 78852
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -924,7 +924,7 @@ Dialogue: 5,0:52:22.60,0:52:26.32,Default,,0,0,0,,I thought it was that time alr
 Dialogue: 5,0:52:24.94,0:52:25.88,Alt,,0,0,0,,Mariage…
 Dialogue: 5,0:52:28.35,0:52:31.72,Default,,0,0,0,,a contract between humans in order to reproduce.
 Dialogue: 5,0:52:32.34,0:52:34.00,Default,,0,0,0,,Schwi is an Ex-machina…
-Dialogue: 5,0:52:34.01,0:52:35.54,Default,,0,0,0,,I don't care!
+Dialogue: 5,0:52:34.01,0:52:35.54,Default,,0,0,0,,Who cares about that!
 Dialogue: 5,0:52:35.89,0:52:38.81,Default,,0,0,0,,I just want you to be forever by my side!
 Dialogue: 5,0:52:39.62,0:52:40.29,Default,,0,0,0,,Why?
 Dialogue: 5,0:52:41.00,0:52:42.23,Default,,0,0,0,,I’m by your side now.
@@ -936,40 +936,42 @@ Dialogue: 5,0:52:52.81,0:52:54.38,Default,,0,0,0,,Riku, you'll never…
 Dialogue: 5,0:52:55.61,0:52:56.98,Default,,0,0,0,,Doesn't matter!
 Dialogue: 5,0:52:57.17,0:52:58.01,Default,,0,0,0,,A delay…
 Dialogue: 5,0:52:58.10,0:53:00.13,Default,,0,0,0,,I said it’s nothing!
-Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,Forfeited…
+Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,Infeasible…
 Dialogue: 5,0:53:04.51,0:53:05.03,Default,,0,0,0,,because…
 Dialogue: 5,0:53:06.81,0:53:07.43,Default,,0,0,0,,Schwi…
 Dialogue: 5,0:53:08.43,0:53:09.08,Default,,0,0,0,,because…
 Dialogue: 5,0:53:10.18,0:53:10.81,Default,,0,0,0,,Riku's…
-Dialogue: 5,0:53:13.75,0:53:16.07,Default,,0,0,0,,Request to Einz for aerial maneuver.
+Dialogue: 5,0:53:13.75,0:53:16.07,Default,,0,0,0,,Forwarding request to Einzig.
 Dialogue: 5,0:53:16.11,0:53:17.15,Default,,0,0,0,,Approved.
 Dialogue: 5,0:53:17.22,0:53:19.80,Default,,0,0,0,,Riku's village has been destroyed
 Dialogue: 5,0:53:20.49,0:53:24.01,Default,,0,0,0,,Lösen: Org. 2807 - Umweg.
 Dialogue: 5,0:53:37.49,0:53:38.99,Default,,0,0,0,,by Schwi.
 Dialogue: 5,0:53:46.09,0:53:47.44,Default,,0,0,0,,Knowing this...
 Dialogue: 5,0:53:48.31,0:53:48.79,Default,,0,0,0,,can you...
-Dialogue: 5,0:53:49.80,0:53:51.17,Default,,0,0,0,,still say the same thing?
-Dialogue: 5,0:53:52.81,0:53:53.66,Default,,0,0,0,,Schwi, I'm aware of this.
-Dialogue: 5,0:53:56.48,0:53:57.69,Default,,0,0,0,,I somehow figured it out.
+Dialogue: 5,0:53:49.80,0:53:51.17,Default,,0,0,0,,still say the same?
+Dialogue: 5,0:53:52.81,0:53:53.66,Default,,0,0,0,,Schwi,
+Dialogue: 0,0:53:54.71,0:53:55.82,Default,,0,0,0,,I'm aware of this.
+Dialogue: 5,0:53:56.48,0:53:57.69,Default,,0,0,0,,I figured it out.
 Dialogue: 5,0:54:00.49,0:54:01.85,Default,,0,0,0,,How?
-Dialogue: 5,0:54:02.59,0:54:05.57,Default,,0,0,0,,Well, the first thing that seemed a little off is,\Nyou know... the first moment we ever met.
-Dialogue: 0,0:54:06.07,0:54:08.74,Default,,0,0,0,,
-Dialogue: 5,0:54:09.33,0:54:12.95,Default,,0,0,0,,Why would you choose to convince someone with chess?
-Dialogue: 5,0:54:14.49,0:54:19.26,Default,,0,0,0,,Besides, why did you assume, that my heart was the reason our colony survived?
-Dialogue: 5,0:54:19.75,0:54:21.93,Default,,0,0,0,,Wasn't very discrete, was it?
-Dialogue: 5,0:54:22.79,0:54:24.54,Default,,0,0,0,,Even if... why?
+Dialogue: 5,0:54:02.59,0:54:05.57,Default,,0,0,0,,Well… the first thing that was off
+Dialogue: 0,0:54:06.07,0:54:08.74,Default,,0,0,0,,was when we first met.
+Dialogue: 5,0:54:09.33,0:54:12.95,Default,,0,0,0,,Why convince someone with a game of chess?
+Dialogue: 5,0:54:14.49,0:54:19.26,Default,,0,0,0,,Why wait for a specific person to be alone outside the village? And so on…
+Dialogue: 5,0:54:19.75,0:54:21.93,Default,,0,0,0,,It really didn’t take a lot.
+Dialogue: 5,0:54:22.79,0:54:24.54,Default,,0,0,0,,Even if… why?
 Dialogue: 5,0:54:25.08,0:54:26.22,Default,,0,0,0,,Well,
-Dialogue: 5,0:54:26.51,0:54:28.55,Default,,0,0,0,,after taking everything into account I realized,
-Dialogue: 5,0:54:28.92,0:54:31.03,Default,,0,0,0,,that I fell for you anyway.
-Dialogue: 5,0:54:32.68,0:54:35.68,Default,,0,0,0,,Nothing will change the fact\Nthat you wiped out my hometown.
-Dialogue: 5,0:54:36.48,0:54:40.31,Default,,0,0,0,,And that we know each other thanks to this very thing.
-Dialogue: 5,0:54:41.35,0:54:42.50,Default,,0,0,0,,It is what it is.
-Dialogue: 5,0:54:42.73,0:54:44.03,Default,,0,0,0,,We can try to sugarcoat it.
+Dialogue: 5,0:54:26.51,0:54:28.55,Default,,0,0,0,,I accepted every aspect,
+Dialogue: 5,0:54:28.92,0:54:31.03,Default,,0,0,0,,when I fell for you.
+Dialogue: 5,0:54:32.68,0:54:35.68,Default,,0,0,0,,The fact that you destroyed my home will never change,
+Dialogue: 5,0:54:36.48,0:54:40.31,Default,,0,0,0,,but without it, we wouldn't be here right now.
+Dialogue: 5,0:54:41.35,0:54:42.50,Default,,0,0,0,,It is how it is.
+Dialogue: 5,0:54:42.73,0:54:44.03,Default,,0,0,0,,No point in denying it.
 Dialogue: 5,0:54:44.86,0:54:45.69,Default,,0,0,0,,We can...
-Dialogue: 5,0:54:46.12,0:54:46.81,Default,,0,0,0,,mourn about it,
-Dialogue: 5,0:54:47.25,0:54:48.30,Default,,0,0,0,,cry about it,
-Dialogue: 5,0:54:48.78,0:54:51.81,Default,,0,0,0,,reflect on it as we move forward.
-Dialogue: 5,0:54:52.68,0:54:55.70,Default,,0,0,0,,Thanks to this, I am my current self. Right?
+Dialogue: 5,0:54:46.12,0:54:46.81,Default,,0,0,0,,weil,
+Dialogue: 5,0:54:47.25,0:54:48.30,Default,,0,0,0,,gnash your teeth
+Dialogue: 5,0:54:48.78,0:54:51.81,Default,,0,0,0,,and then, you move on to the next one.
+Dialogue: 5,0:54:52.68,0:54:55.70,Default,,0,0,0,,That's why you took an interest in me,
+Dialogue: 0,0:54:56.57,0:54:57.12,Default,,0,0,0,,isn't it?
 Dialogue: 5,0:54:59.18,0:55:02.41,Default,,0,0,0,,Be it your past, your present is with me now.
 Dialogue: 5,0:55:03.11,0:55:04.83,Default,,0,0,0,,And your future where I want you by my side.
 Dialogue: 5,0:55:05.58,0:55:06.58,Default,,0,0,0,,I love all of you.
@@ -991,7 +993,7 @@ Dialogue: 5,0:56:04.17,0:56:05.59,Default,,0,0,0,,Riku,
 Dialogue: 5,0:56:05.59,0:56:08.51,Default,,0,0,0,,do you take Schwi to be your wife,
 Dialogue: 5,0:56:08.51,0:56:10.09,Default,,0,0,0,,swearing to grow old together,
 Dialogue: 5,0:56:10.09,0:56:12.26,Default,,0,0,0,,support each other and to stay alive?
-Dialogue: 5,0:56:12.26,0:56:13.39,Default,,0,0,0,,Yep, I do.
+Dialogue: 5,0:56:12.26,0:56:13.39,Default,,0,0,0,,Yeah, sure.
 Dialogue: 5,0:56:13.39,0:56:16.27,Default,,0,0,0,,Hey Riku! This is where you say Asheito!
 Dialogue: 5,0:56:16.27,0:56:18.35,Default,,0,0,0,,Sorry, that got abolished.
 Dialogue: 5,0:56:18.35,0:56:20.44,Default,,0,0,0,,You go with Aschente now.
