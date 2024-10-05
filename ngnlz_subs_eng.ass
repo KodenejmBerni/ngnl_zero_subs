@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 924
-Active Line: 941
-Video Position: 79151
+Video Zoom Percent: 0.500000
+Scroll Position: 945
+Active Line: 948
+Video Position: 80201
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -972,15 +972,16 @@ Dialogue: 5,0:54:47.25,0:54:48.30,Default,,0,0,0,,gnash your teeth
 Dialogue: 5,0:54:48.76,0:54:51.81,Default,,0,0,0,,and then, you move on to the next one.
 Dialogue: 5,0:54:52.68,0:54:55.70,Default,,0,0,0,,That's what intrigued you about me,
 Dialogue: 0,0:54:56.57,0:54:57.12,Default,,0,0,0,,isn't it?
-Dialogue: 5,0:54:59.18,0:55:02.41,Default,,0,0,0,,Be it your past, your present is with me now.
-Dialogue: 5,0:55:03.11,0:55:04.83,Default,,0,0,0,,And your future where I want you by my side.
-Dialogue: 5,0:55:05.58,0:55:06.58,Default,,0,0,0,,I love all of you.
-Dialogue: 5,0:55:08.31,0:55:11.74,Default,,0,0,0,,If you'll be there for me, I’ll be able to keep going in this world.
-Dialogue: 5,0:55:12.79,0:55:16.76,Default,,0,0,0,,If you’ll be there for me, I’ll be able to make it through in line with my heart.
-Dialogue: 5,0:55:18.31,0:55:19.08,Default,,0,0,0,,So,
-Dialogue: 5,0:55:19.80,0:55:24.30,Default,,0,0,0,,will you throw away all reason \Nand choose to walk this path with me?
-Dialogue: 5,0:55:26.01,0:55:28.10,Default,,0,0,0,,That is, as my wife?
-Dialogue: 5,0:55:34.23,0:55:34.87,Default,,0,0,0,,Schwi?
+Dialogue: 5,0:54:59.17,0:55:02.41,Default,,0,0,0,,Be it your past, your present by my side,
+Dialogue: 5,0:55:03.11,0:55:04.83,Default,,0,0,0,,or your future shared with me,
+Dialogue: 5,0:55:05.58,0:55:06.58,Default,,0,0,0,,I love them all.
+Dialogue: 5,0:55:08.31,0:55:11.74,Default,,0,0,0,,If it's with you, I want to keep going in this world.
+Dialogue: 5,0:55:12.78,0:55:16.76,Default,,0,0,0,,If it's with you, !!!
+Dialogue: 5,0:55:18.31,0:55:19.08,Default,,0,0,0,,Therefore…
+Dialogue: 5,0:55:19.80,0:55:21.51,Default,,0,0,0,,will you leave all logic behind
+Dialogue: 0,0:55:22.55,0:55:24.31,Default,,0,0,0,,and walk this path with me
+Dialogue: 5,0:55:26.01,0:55:28.05,Default,,0,0,0,,as my wife?
+Dialogue: 5,0:55:34.23,0:55:34.87,Default,,0,0,0,,Schwi…
 Dialogue: 5,0:55:37.69,0:55:38.97,Default,,0,0,0,,In every way,
 Dialogue: 5,0:55:40.04,0:55:41.47,Default,,0,0,0,,in every reasoning,
 Dialogue: 5,0:55:42.59,0:55:45.03,Default,,0,0,0,,I may not be suitable.
