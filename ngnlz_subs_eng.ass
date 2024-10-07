@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 945
-Active Line: 948
-Video Position: 80201
+Video Zoom Percent: 0.250000
+Scroll Position: 941
+Active Line: 951
+Video Position: 80211
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -975,9 +975,9 @@ Dialogue: 0,0:54:56.57,0:54:57.12,Default,,0,0,0,,isn't it?
 Dialogue: 5,0:54:59.17,0:55:02.41,Default,,0,0,0,,Be it your past, your present by my side,
 Dialogue: 5,0:55:03.11,0:55:04.83,Default,,0,0,0,,or your future shared with me,
 Dialogue: 5,0:55:05.58,0:55:06.58,Default,,0,0,0,,I love them all.
-Dialogue: 5,0:55:08.31,0:55:11.74,Default,,0,0,0,,If it's with you, I want to keep going in this world.
-Dialogue: 5,0:55:12.78,0:55:16.76,Default,,0,0,0,,If it's with you, !!!
-Dialogue: 5,0:55:18.31,0:55:19.08,Default,,0,0,0,,Therefore…
+Dialogue: 5,0:55:08.31,0:55:11.74,Default,,0,0,0,,With you, I want to keep going in this world.
+Dialogue: 5,0:55:12.78,0:55:16.76,Default,,0,0,0,,With you, I'm able to live my life in line with my heart.
+Dialogue: 5,0:55:18.31,0:55:19.08,Default,,0,0,0,,So…
 Dialogue: 5,0:55:19.80,0:55:21.51,Default,,0,0,0,,will you leave all logic behind
 Dialogue: 0,0:55:22.55,0:55:24.31,Default,,0,0,0,,and walk this path with me
 Dialogue: 5,0:55:26.01,0:55:28.05,Default,,0,0,0,,as my wife?
