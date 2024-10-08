@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 941
-Active Line: 951
-Video Position: 80211
+Video Zoom Percent: 0.625000
+Scroll Position: 952
+Active Line: 958
+Video Position: 79745
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -925,7 +925,7 @@ Dialogue: 5,0:52:24.94,0:52:25.88,Alt,,0,0,0,,Mariage…
 Dialogue: 5,0:52:28.35,0:52:31.72,Default,,0,0,0,,a contract between humans in order to reproduce.
 Dialogue: 5,0:52:32.34,0:52:34.00,Default,,0,0,0,,Schwi is an Ex-machina…
 Dialogue: 5,0:52:34.01,0:52:35.54,Default,,0,0,0,,Who cares about that!
-Dialogue: 5,0:52:35.89,0:52:38.81,Default,,0,0,0,,I just want you to be forever by my side!
+Dialogue: 5,0:52:35.89,0:52:38.81,Default,,0,0,0,,I just want you forever by my side!
 Dialogue: 5,0:52:39.62,0:52:40.29,Default,,0,0,0,,Why?
 Dialogue: 5,0:52:41.00,0:52:42.23,Default,,0,0,0,,I’m by your side now.
 Dialogue: 5,0:52:42.72,0:52:45.41,Default,,0,0,0,,Not like that! I mean as a life partner!
@@ -936,7 +936,7 @@ Dialogue: 5,0:52:52.81,0:52:54.38,Default,,0,0,0,,Riku, you'll never…
 Dialogue: 5,0:52:55.61,0:52:56.98,Default,,0,0,0,,Doesn't matter!
 Dialogue: 5,0:52:57.17,0:52:58.01,Default,,0,0,0,,A delay…
 Dialogue: 5,0:52:58.10,0:53:00.13,Default,,0,0,0,,I said it’s nothing!
-Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,Infeasible…
+Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,Impossible…
 Dialogue: 5,0:53:04.51,0:53:05.03,Default,,0,0,0,,because…
 Dialogue: 5,0:53:06.81,0:53:07.43,Default,,0,0,0,,Schwi…
 Dialogue: 5,0:53:08.43,0:53:09.08,Default,,0,0,0,,because…
@@ -961,7 +961,7 @@ Dialogue: 5,0:54:20.20,0:54:21.93,Default,,0,0,0,,It really didn’t take a lot.
 Dialogue: 5,0:54:22.79,0:54:24.54,Default,,0,0,0,,Even if… why?
 Dialogue: 5,0:54:25.08,0:54:26.22,Default,,0,0,0,,Well,
 Dialogue: 5,0:54:26.51,0:54:28.55,Default,,0,0,0,,the thing is that I love you
-Dialogue: 5,0:54:28.92,0:54:31.03,Default,,0,0,0,,for every aspect of you.
+Dialogue: 5,0:54:28.92,0:54:31.03,Default,,0,0,0,,for every part of you.
 Dialogue: 5,0:54:32.68,0:54:35.68,Default,,0,0,0,,The fact that you destroyed my home will never change,
 Dialogue: 5,0:54:36.48,0:54:40.31,Default,,0,0,0,,and without it, we wouldn't be here right now.
 Dialogue: 5,0:54:41.35,0:54:42.50,Default,,0,0,0,,It is how it is.
@@ -982,13 +982,13 @@ Dialogue: 5,0:55:19.80,0:55:21.51,Default,,0,0,0,,will you leave all logic behin
 Dialogue: 0,0:55:22.55,0:55:24.31,Default,,0,0,0,,and walk this path with me
 Dialogue: 5,0:55:26.01,0:55:28.05,Default,,0,0,0,,as my wife?
 Dialogue: 5,0:55:34.23,0:55:34.87,Default,,0,0,0,,Schwi…
-Dialogue: 5,0:55:37.69,0:55:38.97,Default,,0,0,0,,In every way,
-Dialogue: 5,0:55:40.04,0:55:41.47,Default,,0,0,0,,in every reasoning,
-Dialogue: 5,0:55:42.59,0:55:45.03,Default,,0,0,0,,I may not be suitable.
-Dialogue: 5,0:55:44.39,0:55:45.08,Default,,0,0,0,,And yet.
-Dialogue: 5,0:55:47.78,0:55:48.68,Default,,0,0,0,,Forever...
-Dialogue: 5,0:55:49.24,0:55:54.53,Default,,0,0,0,,Forever and ever, let me be by your side.
-Dialogue: 5,0:55:57.91,0:55:58.92,Default,,0,0,0,,And I the same with you.
+Dialogue: 5,0:55:37.69,0:55:38.97,Default,,0,0,0,,It's clear
+Dialogue: 5,0:55:40.04,0:55:41.47,Default,,0,0,0,,I'm a wrong choice
+Dialogue: 5,0:55:42.59,0:55:43.77,Default,,0,0,0,,in so many ways…
+Dialogue: 5,0:55:44.39,0:55:45.08,Default,,0,0,0,,And yet,
+Dialogue: 5,0:55:47.75,0:55:50.62,Default,,0,0,0,,forever… and ever,
+Dialogue: 5,0:55:51.44,0:55:54.39,Default,,0,0,0,,let me be by your side.
+Dialogue: 5,0:55:57.91,0:55:58.92,Default,,0,0,0,,Allow me as well.
 Comment: 0,0:55:58.92,0:56:00.92,Default,,0,0,0,,Sync END
 Dialogue: 5,0:56:04.17,0:56:05.59,Default,,0,0,0,,Riku,
 Dialogue: 5,0:56:05.59,0:56:08.51,Default,,0,0,0,,do you take Schwi to be your wife,
