@@ -364,7 +364,7 @@ Sakusen dore mo seikō kakuritsu 1-pāsento-miman.
 All these plans have less than 1% chance of success.
 
 Nanoni min'na seikō suru ki manman datte ka?
-You wonder why we're so eager to carry them out?
+You don't get why we're so eager to do it?
 
 Na Schwi,
 So Schwi,
@@ -376,19 +376,19 @@ what's the chance of rolling a 6 on a die?
 One sixth.
 
 Jā sore o moshi
-And in the case
+But what if
 
-sonzaishinai darekaga 6 shika denai saikoro ni torikaeta to shitara?
-where an unknown spectator provides only dice that roll six?
+sonzaishinai darekaga roku shika denai saikoro ni torikaeta to shitara?
+a certain unseen observer provides dice that only roll a six?
 
 Hensū o sokui-teki ni sōsa…
-Disguising as random factors…
+Acting as random factors…
 
 So,
 Yeah,
 
 Sore o ikasama tte iu nda,
-a tricky way to play. #TODO
+This is our way to play.
 
 omoshiroidaro?
 Fun, isn't it?
@@ -403,28 +403,28 @@ keisan o subete nozomu hōkō e shūsoku sa seru.
 will be taken by us into account.
 
 Moshi seikō sa setara…
-If we manage to do this…
+If this succeeds…
 
 Kiseki.
 A miracle.
 
-O— Okoseba
-I— In that case,
+O- Okoseba
+I– In that case,
 
 kakuritsu-ron wa kojitsuke ni naru.
-the probabilistic approach collapses. #TODO
+you need to reject probability theory.
 
 So
 True,
 
 Subete wa okori uru.
-anything can happen.
+you must go beyond it.
 
 Kakuritsu-ron ni 0 mo 100 mo nai.
 No matter if it's 0 or 100.
 
 Shosen wa kijō no kūronda.
-It’s just a pure theory.
+It’s all just on paper.
 
 Shōmei shite miseyou ka?
 Want me to prove it to you?
@@ -441,8 +441,11 @@ Query unclear.
 Kaisan: hobo 0.
 Answer: near zero.
 
-Hora na hazureda.
-You see? Wrong.
+Hora na?
+You see?
+
+Hazureda.
+Wrong.
 
 Kekkon shite kure, Schwi?
 Will you marry me, Schwi?
@@ -665,56 +668,84 @@ Allow me as well.
 00:56:03
 
 
-Otto Riku, Schwi o tsuma to shi, tomoni ayumi sasae ai shi, ikinokoru koto o chikaimasu ka?
+Otto Riku,
+So Riku,
 
+Schwi o tsuma to shi,
+do you take Schwi as your wife
+
+tomoni ayumi sasae ai shi, 
+and vow to love her,
+
+ikinokoru koto o chikaimasu ka?
+support her, and stay alive?
 
 Na (chigau).
+Yeah, sure.
 
+Naa Riku! Koko wa Ascheito totte!
+Come on! You say Ascheito!
 
-Are sore haishi shita?
+Ware sore haishi shita.
+Actually, I abolished it.
 
+Dakara aschiento da. 
+Now it's Aschiento.
 
-Dakara aschiento da.
+Watashi no shiranai tokoro de iroiro yatteru no 
+You do all your things without letting me know.
 
-
-Watashi no shiranai tokoro de iroiro yatteru no nanka kiniiranai wa?
-
+nanka kiniiranai wa
+It gets on my nerves.
 
 Daitai nani o!
+Like, seriously!
+
+Kakurega no basho no shirase ga todoite iza kite mitara,
+You send me the location of your secret hideout,
+
+nani no maeoki mo naku ikinari kekkon tte?
+and when I get there you're getting married?!
+
+Shiki o agero tte ittara korondarou.
+You insisted on the ceremony so much…
+
+Sukashi gowalk ne?
+Can we move on?
+
+Tsuma Schwi, Riku otto to shi, tomoni ayumi 
+So Schwi, do you take Riku as your husband,
+
+sasae ai-
+and vow to love hi–
+
+Chikai.
+I do.
+
+Schwi no sonzai. Umareta imi. Kokoro ore tari Riku ni chikatte.
+Shubi no sonzai, umareta imi, kokoro o kure tari Riku ni chikatte.
+My purpose
+
+Zettai Riku shina senai
+I won't let Riku die
+
+ikinokotte saigomade issho ni iru.
 
 
-Kakurega no basho no shirase ga todoite, iza kite mitara nani no maeoki mo naku ikinari kekkon tte?
-
-
-_
-
-
-_
-
-
-Tsuma Schwi, Riku otto to shi, tomoni ayumi sasae ai-
-
-
-Ishikawa.
-
-
-Schwi no sonzai. Umareta imi. Kokoro ore tari Riku ni chikatte. Zettai Riku shina senai ikinokotte saigomade issho ni iru.
-
-
-Aschieto.
-
+Aschento.
+Aschento.
 
 Toriaezu ane to shite kekkon'omedetō to iwa sete morau ne.
 
 
-Corounne!
+Couron!
+Couron!
 
+UwU Kawaii!
+Yay! So cute!
 
-UwU Kawaii
-
-
-Corounne, nande.
-
+Couron, nande.
+Couron, how…
 
 Datte, Riku ga eranda o yomesan desho?
 
@@ -758,7 +789,7 @@ Mucha wa shinaide.
 Ā. Daremoshiranai shi, shina senai kono gēmu dake wa kanarazu katsukara.
 
 
-Makasete. O nēchan.
+Makasete. Onēchan.
 
 
 
