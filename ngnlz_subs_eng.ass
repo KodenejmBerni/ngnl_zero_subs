@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 970
-Active Line: 983
-Video Position: 82471
+Video Zoom Percent: 0.250000
+Scroll Position: 998
+Active Line: 1017
+Video Position: 85287
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -989,7 +989,6 @@ Dialogue: 5,0:55:44.39,0:55:45.08,Default,,0,0,0,,And yet,
 Dialogue: 5,0:55:47.75,0:55:50.62,Default,,0,0,0,,forever… and ever,
 Dialogue: 5,0:55:51.44,0:55:54.39,Default,,0,0,0,,let me be by your side.
 Dialogue: 5,0:55:57.91,0:55:58.92,Default,,0,0,0,,Allow me as well.
-Comment: 0,0:55:58.92,0:55:58.92,Default,,0,0,0,,Translation END
 Dialogue: 5,0:56:04.21,0:56:05.15,Default,,0,0,0,,So Riku,
 Dialogue: 5,0:56:05.57,0:56:08.18,Default,,0,0,0,,do you take Schwi as your wife
 Dialogue: 5,0:56:08.57,0:56:11.99,Default,,0,0,0,,and vow to love her, support her, and stay alive?
@@ -1007,49 +1006,51 @@ Dialogue: 5,0:56:34.41,0:56:35.57,Default,,0,0,0,,Can we move on?
 Dialogue: 5,0:56:36.95,0:56:40.94,Default,,0,0,0,,So Schwi, do you take Riku as your husband,
 Dialogue: 5,0:56:41.00,0:56:41.98,Default,,0,0,0,,and vow to love hi–
 Dialogue: 5,0:56:41.99,0:56:42.55,Alt,,0,0,0,,I do.
-Dialogue: 5,0:56:43.35,0:56:49.02,Default,,0,0,0,,I swear, to the one who taught me about \Nthe heart and gave me a purpose.
-Dialogue: 5,0:56:49.55,0:56:51.16,Default,,0,0,0,,I will not let Riku die.
-Dialogue: 5,0:56:51.59,0:56:54.51,Default,,0,0,0,,We will live by his side right to the end.
-Dialogue: 5,0:56:54.88,0:56:55.92,Default,,0,0,0,,Aschente.
-Dialogue: 5,0:57:00.61,0:57:05.04,Default,,0,0,0,,And so, as your new big sister,\NI'd like to congratulate you on your marriage.
+Dialogue: 5,0:56:43.35,0:56:49.02,Default,,0,0,0,,I vow to the one who gives me meaning, purpose, and the heart.
+Dialogue: 5,0:56:49.55,0:56:51.16,Default,,0,0,0,,I won't let him die,
+Dialogue: 5,0:56:51.59,0:56:54.51,Default,,0,0,0,,and till the end, will stay by his side.
+Dialogue: 5,0:56:54.88,0:56:55.92,Default,,0,0,0,,Aschento.
+Dialogue: 5,0:57:00.61,0:57:05.04,Default,,0,0,0,,Now, as your sister, let me congratulate you on your marriage.
 Dialogue: 5,0:57:05.02,0:57:05.57,Default,,0,0,0,,Couron!
 Dialogue: 5,0:57:13.65,0:57:15.13,Default,,0,0,0,,Yay! So cute!
 Dialogue: 5,0:57:15.14,0:57:16.85,Default,,0,0,0,,Couron, how…
-Dialogue: 5,0:57:16.95,0:57:20.33,Default,,0,0,0,,Well, you yourself chose her to be your bride, right?
-Dialogue: 5,0:57:21.42,0:57:24.93,Default,,0,0,0,,So in closing, you shall carve your names onto this.
+Dialogue: 5,0:57:16.95,0:57:20.33,Default,,0,0,0,,After all, it's you who chose her, isn't it?
+Dialogue: 5,0:57:21.42,0:57:24.93,Default,,0,0,0,,So, to conclude, carve your names onto this.
 Dialogue: 5,0:57:25.45,0:57:26.53,Default,,0,0,0,,On this rock?
-Dialogue: 5,0:57:27.06,0:57:31.42,Default,,0,0,0,,On the surface, you Ghosts don't exist, \Nso there can't be any records of this, right?
-Dialogue: 5,0:57:31.71,0:57:32.93,Default,,0,0,0,,There's your name...
-Dialogue: 5,0:57:33.07,0:57:34.76,Default,,0,0,0,,Yes, and my surname.
-Dialogue: 5,0:57:35.84,0:57:37.65,Default,,0,0,0,,And from now on, it'll be our surname.
-Dialogue: 5,0:57:40.16,0:57:43.70,Default,,0,0,0,,Haha, 'our surname' sounds weird.
-Dialogue: 5,0:57:45.41,0:57:47.31,Default,,0,0,0,,Eh, Riku, Schwi, I don't know what you're up to.
-Dialogue: 0,0:57:48.46,0:57:52.81,Default,,0,0,0,,I mean... you two are really not of this world.
-Dialogue: 5,0:57:53.63,0:57:55.23,Default,,0,0,0,,
-Dialogue: 5,0:57:56.45,0:58:02.41,Default,,0,0,0,,But, I do know... that I also have a cute younger sister from now on.
-Dialogue: 5,0:58:03.17,0:58:05.51,Default,,0,0,0,,So, I beg you,
-Dialogue: 5,0:58:06.31,0:58:08.71,Default,,0,0,0,,be careful and don't do anything rash.
-Dialogue: 5,0:58:09.68,0:58:11.05,Default,,0,0,0,,I don't wanna lose my family.
+Dialogue: 5,0:57:27.06,0:57:31.42,Default,,0,0,0,,You guys don't officially exist so you can't have any documents, right?
+Dialogue: 5,0:57:31.71,0:57:32.93,Default,,0,0,0,,There's your name…
+Dialogue: 5,0:57:33.07,0:57:34.76,Default,,0,0,0,,Yeah, and my surname.
+Dialogue: 5,0:57:35.84,0:57:37.65,Default,,0,0,0,,It'll be {\i1}our{\i0} surname from now on.
+Dialogue: 5,0:57:40.16,0:57:43.70,Default,,0,0,0,,Haha, it sounds weird, "our surname".
+Dialogue: 5,0:57:45.41,0:57:49.13,Default,,0,0,0,,Hey, Riku, Schwi, you two…
+Dialogue: 0,0:57:49.97,0:57:52.81,Default,,0,0,0,,I really have no idea what are you up to.
+Dialogue: 5,0:57:53.63,0:57:55.23,Default,,0,0,0,,You two are beyond this world.
+Dialogue: 5,0:57:56.45,0:57:59.32,Default,,0,0,0,,But… I do know
+Dialogue: 0,0:58:00.04,0:58:02.35,Default,,0,0,0,,that I have a brother and a sister now.
+Dialogue: 5,0:58:03.17,0:58:05.51,Default,,0,0,0,,So, please…
+Dialogue: 5,0:58:06.31,0:58:08.71,Default,,0,0,0,,I don't want to lose another family.
+Dialogue: 5,0:58:09.68,0:58:11.05,Default,,0,0,0,,Don't die on me.
 Dialogue: 5,0:58:11.65,0:58:14.74,Default,,0,0,0,,Yeah, no one is gonna die.
-Dialogue: 5,0:58:15.10,0:58:17.84,Default,,0,0,0,,Because this one game, we'll win for sure.
-Comment: 0,0:58:17.84,0:58:18.27,Default,,0,0,0,,Sync END
-Dialogue: 5,0:58:18.27,0:58:20.43,Default,,0,0,0,,Leave it to us, big sis!
-Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,It stinks. It's the black ash.
-Dialogue: 5,0:58:35.91,0:58:38.28,Default,,0,0,0,,As expected of the Werebeast.
-Dialogue: 5,0:58:38.28,0:58:40.79,Default,,0,0,0,,You can eat me if you want,
-Dialogue: 5,0:58:40.79,0:58:43.16,Default,,0,0,0,,but I can guarantee I won't taste very good.
-Dialogue: 5,0:58:43.75,0:58:46.42,Default,,0,0,0,,Who the hell are you?
-Dialogue: 5,0:58:46.42,0:58:50.84,Default,,0,0,0,,The west of the continent Lucia, \Nwhere your base is located,
-Dialogue: 5,0:58:50.84,0:58:54.30,Default,,0,0,0,,the Dwarves are planning to conduct \Nan explosion test out there.
-Dialogue: 5,0:58:54.72,0:58:56.80,Default,,0,0,0,,Even the Old Deus can be killed by it.
-Dialogue: 5,0:58:56.80,0:58:59.68,Default,,0,0,0,,It's a large scale explosive called the E-bomb.
-Dialogue: 5,0:59:01.60,0:59:03.77,Default,,0,0,0,,Your kind can use Blood Destruction, right?
-Dialogue: 5,0:59:03.77,0:59:08.02,Default,,0,0,0,,It can prove useful for you to\Nget into the Dwarves facility.
-Dialogue: 5,0:59:08.02,0:59:11.36,Default,,0,0,0,,You could get over it quickly, \Nor whatever you want.
-Dialogue: 5,0:59:12.73,0:59:17.20,Default,,0,0,0,,The Dwarves' fleet will move while\Nkeeping an eye on the Werebeasts.
-Dialogue: 5,0:59:17.66,0:59:21.95,Default,,0,0,0,,The Werebeasts, fearful of the E-bomb, flee Lucia.
-Dialogue: 5,0:59:22.49,0:59:26.25,Default,,0,0,0,,Next, secret Elvish information is given to the Dwarves.
-Dialogue: 5,0:59:29.25,0:59:31.17,Default,,0,0,0,,Now comes the tricky one.
+Dialogue: 5,0:58:15.10,0:58:17.84,Default,,0,0,0,,This game, we've got in the bag.
+Dialogue: 5,0:58:18.27,0:58:20.45,Default,,0,0,0,,Leave it to us, sis.
+Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,It stinks! The black ash!
+Dialogue: 5,0:58:35.96,0:58:38.01,Default,,0,0,0,,You don't disappoint.
+Dialogue: 5,0:58:38.41,0:58:40.33,Default,,0,0,0,,I wouldn't mind if you ate me
+Dialogue: 5,0:58:40.81,0:58:43.19,Default,,0,0,0,,but I bet I wouldn't taste very good.
+Dialogue: 5,0:58:43.93,0:58:45.60,Default,,0,0,0,,Who the hell are you?
+Dialogue: 5,0:58:46.47,0:58:50.11,Default,,0,0,0,,The western coast of the continent Lucia, where you reside,
+Dialogue: 5,0:58:50.94,0:58:53.91,Default,,0,0,0,,the Dwarves are planning a little experiment there…
+Dialogue: 5,0:58:54.79,0:58:56.70,Default,,0,0,0,,Capable of killing an Old Deus
+Dialogue: 5,0:58:56.84,0:58:59.69,Default,,0,0,0,,a massive hydrogen bomb.
+Dialogue: 5,0:59:01.70,0:59:03.35,Default,,0,0,0,,You're a bloodbreaker, right?
+Dialogue: 5,0:59:03.87,0:59:07.37,Default,,0,0,0,,Breaking into their facility shouldn’t be a problem.
+Dialogue: 5,0:59:08.14,0:59:11.01,Default,,0,0,0,,You could handle it if you happen to care.
+Comment: 0,0:59:11.56,0:59:11.58,Default,,0,0,0,,Translation END
+Dialogue: 5,0:59:12.73,0:59:16.73,Default,,0,0,0,,The Dwarves' fleet will move while\Nkeeping an eye on the Werebeasts.
+Dialogue: 5,0:59:17.82,0:59:21.67,Default,,0,0,0,,The Werebeasts, fearful of the E-bomb, flee Lucia.
+Dialogue: 5,0:59:22.57,0:59:26.15,Default,,0,0,0,,Next, secret Elvish information is given to the Dwarves.
+Dialogue: 5,0:59:29.36,0:59:30.94,Default,,0,0,0,,Now comes the tricky one.
+Comment: 0,0:59:11.58,0:59:11.59,Default,,0,0,0,,Sync END
 Dialogue: 5,0:59:35.46,0:59:36.72,Default,,0,0,0,,Who's there?
 Dialogue: 5,0:59:37.47,0:59:39.14,Default,,0,0,0,,Well,
 Dialogue: 5,0:59:39.14,0:59:41.30,Default,,0,0,0,,let me just call myself a ghost.
@@ -1316,7 +1317,7 @@ Dialogue: 5,1:15:29.42,1:15:33.05,Default,,0,0,0,,All armaments, fire power and 
 Dialogue: 5,1:15:34.67,1:15:36.55,Default,,0,0,0,,set to maximum output.
 Dialogue: 5,1:15:37.93,1:15:41.93,Default,,0,0,0,,Oh my. I knew the Ex-machinas learn to imitate the deadliest attack
 Dialogue: 5,1:15:41.93,1:15:44.89,Default,,0,0,0,,performed by an enemy.
-Dialogue: 5,1:15:46.06,1:15:49.15,Default,,0,0,0,,But have any of your kind died of laughter?
+Dialogue: 5,1:15:46.06,1:15:49.15,Default,,0,0,0,,Have any of you died of laughter?
 Dialogue: 5,1:15:49.85,1:15:50.98,Default,,0,0,0,,Over-boost!
 Dialogue: 5,1:16:05.37,1:16:07.00,Default,,0,0,0,,Asyut-Armor!
 Dialogue: 5,1:16:15.09,1:16:20.05,Default,,0,0,0,,Not very kind to the environment, scattering dead spirits like that.
