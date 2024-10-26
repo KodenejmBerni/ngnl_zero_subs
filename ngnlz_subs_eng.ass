@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 998
-Active Line: 1017
-Video Position: 85287
+Scroll Position: 1069
+Active Line: 1076
+Video Position: 87087
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1034,7 +1034,7 @@ Dialogue: 5,0:58:11.65,0:58:14.74,Default,,0,0,0,,Yeah, no one is gonna die.
 Dialogue: 5,0:58:15.10,0:58:17.84,Default,,0,0,0,,This game, we've got in the bag.
 Dialogue: 5,0:58:18.27,0:58:20.45,Default,,0,0,0,,Leave it to us, sis.
 Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,It stinks! The black ash!
-Dialogue: 5,0:58:35.96,0:58:38.01,Default,,0,0,0,,You don't disappoint.
+Dialogue: 5,0:58:35.96,0:58:38.01,Default,,0,0,0,,You don't disappoint!
 Dialogue: 5,0:58:38.41,0:58:40.33,Default,,0,0,0,,I wouldn't mind if you ate me
 Dialogue: 5,0:58:40.81,0:58:43.19,Default,,0,0,0,,but I bet I wouldn't taste very good.
 Dialogue: 5,0:58:43.93,0:58:45.60,Default,,0,0,0,,Who the hell are you?
@@ -1045,67 +1045,68 @@ Dialogue: 5,0:58:56.84,0:58:59.69,Default,,0,0,0,,a massive hydrogen bomb.
 Dialogue: 5,0:59:01.70,0:59:03.35,Default,,0,0,0,,You're a bloodbreaker, right?
 Dialogue: 5,0:59:03.87,0:59:07.37,Default,,0,0,0,,Breaking into their facility shouldn’t be a problem.
 Dialogue: 5,0:59:08.14,0:59:11.01,Default,,0,0,0,,You could handle it if you happen to care.
+Dialogue: 5,0:59:12.73,0:59:16.73,Default,,0,0,0,,The Dwarf fleet regroups to avoid the Werebeasts.
+Dialogue: 5,0:59:17.82,0:59:21.67,Default,,0,0,0,,The Werebeasts, fearful of the bomb, flee from Lucia.
+Dialogue: 5,0:59:22.57,0:59:26.15,Default,,0,0,0,,Next, the Elves' secret reaches the Dwarves.
+Dialogue: 5,0:59:29.36,0:59:30.94,Default,,0,0,0,,Now the finishing touches.
+Dialogue: 5,0:59:35.58,0:59:36.14,Default,,0,0,0,,Who is it?
+Dialogue: 5,0:59:37.53,0:59:38.47,Default,,0,0,0,,Well,
+Dialogue: 5,0:59:39.19,0:59:41.02,Default,,0,0,0,,let's just call me a ghost.
+Dialogue: 5,0:59:42.04,0:59:46.78,Default,,0,0,0,,I assume you have a good reason for coming here uninvited.
+Dialogue: 5,0:59:47.72,0:59:50.01,Default,,0,0,0,,I was hoping to play a little game.
+Dialogue: 5,0:59:50.64,0:59:51.35,Default,,0,0,0,,A game?
 Comment: 0,0:59:11.56,0:59:11.58,Default,,0,0,0,,Translation END
-Dialogue: 5,0:59:12.73,0:59:16.73,Default,,0,0,0,,The Dwarves' fleet will move while\Nkeeping an eye on the Werebeasts.
-Dialogue: 5,0:59:17.82,0:59:21.67,Default,,0,0,0,,The Werebeasts, fearful of the E-bomb, flee Lucia.
-Dialogue: 5,0:59:22.57,0:59:26.15,Default,,0,0,0,,Next, secret Elvish information is given to the Dwarves.
-Dialogue: 5,0:59:29.36,0:59:30.94,Default,,0,0,0,,Now comes the tricky one.
+Dialogue: 5,0:59:51.86,0:59:54.05,Default,,0,0,0,,And the currency we'll bet with is an information.
+Dialogue: 5,0:59:55.09,0:59:58.20,Default,,0,0,0,,If I win, you tell me something.\NIf you win, it's the other way around.
+Dialogue: 5,0:59:58.95,1:00:01.21,Default,,0,0,0,,I know completely nothing of you,
+Dialogue: 5,1:00:01.88,1:00:05.18,Default,,0,0,0,,and yet you hope for Nina Clive \Nto accept a challenge just like that?
+Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,Maybe let me start with this:
+Dialogue: 5,1:00:07.94,1:00:10.64,Default,,0,0,0,,Information on the Áka Si Anse \Nhas been leaked to the Dwarves.
+Dialogue: 5,1:00:11.43,1:00:12.68,Default,,0,0,0,,Is that good enough?
+Dialogue: 5,1:00:13.59,1:00:16.39,Default,,0,0,0,,As the applicant and caretaker \Nof the Áka Si Anse theory,
+Dialogue: 5,1:00:16.82,1:00:20.44,Default,,0,0,0,,you should have the ability to confirm \Nthe veracity of this information.
+Dialogue: 5,1:00:20.92,1:00:22.07,Default,,0,0,0,,Am I mistaken?
+Dialogue: 5,1:00:25.14,1:00:25.96,Default,,0,0,0,,Very well.
+Dialogue: 5,1:00:26.64,1:00:30.21,Default,,0,0,0,,I may not know who you are, \Nbut this is something I cannot ignore.
+Dialogue: 5,1:00:30.62,1:00:32.38,Default,,0,0,0,,Therefore, here is my wager.
+Dialogue: 5,1:00:32.82,1:00:35.58,Default,,0,0,0,,The true advocate of the Áka Si Anse theory is actually—
+Dialogue: 5,1:00:34.87,1:00:35.88,Alt,,0,0,0,,Somebody else, right?
+Dialogue: 5,1:00:36.73,1:00:38.57,Default,,0,0,0,,I've already obtained this information.
+Dialogue: 5,1:00:40.30,1:00:42.45,Default,,0,0,0,,But I also know that I have not.
+Dialogue: 5,1:00:43.34,1:00:47.00,Default,,0,0,0,,And you will resort to magic to make me believe your lie.
+Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now then what shall I give you?
+Dialogue: 5,1:00:54.90,1:01:00.87,Default,,0,0,0,,When the Dwarves learned of the Áka Si Anse,\Nthey concluded that it wasn't a threat.
+Dialogue: 5,1:01:01.08,1:01:02.65,Default,,0,0,0,,Let's bet on that proof.
+Dialogue: 5,1:01:03.30,1:01:04.65,Default,,0,0,0,,That's ridiculous!
+Dialogue: 5,1:01:05.67,1:01:06.99,Default,,0,0,0,,It's true.
+Dialogue: 5,1:01:08.15,1:01:09.67,Default,,0,0,0,,And I have information
+Dialogue: 5,1:01:10.19,1:01:12.59,Default,,0,0,0,,of the weapon possessed by the Dwarves,
+Dialogue: 5,1:01:12.90,1:01:15.70,Default,,0,0,0,,which they concluded to match the power of the Áka Si Anse.
+Dialogue: 5,1:01:21.58,1:01:22.74,Default,,0,0,0,,The E-bomb?
+Dialogue: 5,1:01:24.02,1:01:24.57,Default,,0,0,0,,Yes.
+Dialogue: 5,1:01:25.08,1:01:28.66,Default,,0,0,0,,A weapon of tremendous scale. \NOne that can wipe out the entire continent.
+Dialogue: 5,1:01:29.59,1:01:32.99,Default,,0,0,0,,You're saying those creatures \Nthat burrow in the earth like moles,
+Dialogue: 5,1:01:33.51,1:01:35.18,Default,,0,0,0,,outperformed the Áka Si Anse;
+Dialogue: 5,1:01:35.53,1:01:37.72,Default,,0,0,0,,the combination of Elvish and spiritual magic?
+Dialogue: 5,1:01:38.84,1:01:39.66,Default,,0,0,0,,Wait just a moment.
+Dialogue: 5,1:01:40.94,1:01:44.02,Default,,0,0,0,,Few times during our games you moved as if trying to lose.
+Dialogue: 5,1:01:45.02,1:01:46.74,Default,,0,0,0,,Let me ask one last thing:
+Dialogue: 5,1:01:47.30,1:01:48.30,Default,,0,0,0,,are you our enemy...
+Dialogue: 5,1:01:49.24,1:01:50.57,Default,,0,0,0,,or our ally?
+Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,I am neither your enemy, nor your ally.
+Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,
+Dialogue: 5,1:01:57.27,1:02:00.15,Default,,0,0,0,,I just wish as few of you to die as possible.
+Dialogue: 5,1:02:02.60,1:02:03.91,Default,,0,0,0,,Very well Mr. Ghost.
+Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,I can assume you've shared this information only with me and nobody else?
+Dialogue: 5,1:02:16.18,1:02:19.63,Default,,0,0,0,,You know what, Nina Clive is an alias.
+Dialogue: 5,1:02:19.82,1:02:24.36,Default,,0,0,0,,My name is actually Think Nirvalen.
+Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Did you already figure it out?
+Dialogue: 5,1:02:29.52,1:02:32.79,Default,,0,0,0,,Have I ever called you Nina, in the first place?
+Dialogue: 5,1:02:37.03,1:02:39.13,Default,,0,0,0,,For treating me today like a plaything,
+Dialogue: 5,1:02:39.29,1:02:43.19,Default,,0,0,0,,I promise I'll find out who you are \Nand I'll gut you.
+Dialogue: 5,1:02:44.05,1:02:47.22,Default,,0,0,0,,After all, the rumor that \NElves are relentlessly vindictive...
+Dialogue: 5,1:02:48.19,1:02:50.89,Default,,0,0,0,,first began with none other than the Nirvalen family.
 Comment: 0,0:59:11.58,0:59:11.59,Default,,0,0,0,,Sync END
-Dialogue: 5,0:59:35.46,0:59:36.72,Default,,0,0,0,,Who's there?
-Dialogue: 5,0:59:37.47,0:59:39.14,Default,,0,0,0,,Well,
-Dialogue: 5,0:59:39.14,0:59:41.30,Default,,0,0,0,,let me just call myself a ghost.
-Dialogue: 5,0:59:42.01,0:59:47.23,Default,,0,0,0,,I assume you have business here that \Nwarrants barging into my home uninvited.
-Dialogue: 5,0:59:47.69,0:59:50.60,Default,,0,0,0,,I was thinking the two of us could have a little game.
-Dialogue: 5,0:59:50.60,0:59:51.27,Default,,0,0,0,,A game?
-Dialogue: 5,0:59:51.73,0:59:54.57,Default,,0,0,0,,And the currency we'll bet with is an information.
-Dialogue: 5,0:59:55.03,0:59:58.24,Default,,0,0,0,,If I win, you tell me something.\NIf you win, it's the other way around.
-Dialogue: 5,0:59:58.95,1:00:01.82,Default,,0,0,0,,I know completely nothing of you,
-Dialogue: 5,1:00:01.82,1:00:04.99,Default,,0,0,0,,and yet you hope for Nina Clive \Nto accept a challenge just like that?
-Dialogue: 5,1:00:05.49,1:00:07.83,Default,,0,0,0,,Maybe let me start with this:
-Dialogue: 5,1:00:07.83,1:00:10.62,Default,,0,0,0,,Information on the Áka Si Anse \Nhas been leaked to the Dwarves.
-Dialogue: 5,1:00:11.21,1:00:12.84,Default,,0,0,0,,Is that good enough?
-Dialogue: 5,1:00:13.54,1:00:16.76,Default,,0,0,0,,As the applicant and caretaker \Nof the Áka Si Anse theory,
-Dialogue: 5,1:00:16.76,1:00:20.89,Default,,0,0,0,,you should have the ability to confirm \Nthe veracity of this information.
-Dialogue: 5,1:00:20.89,1:00:22.64,Default,,0,0,0,,Am I mistaken?
-Dialogue: 5,1:00:25.14,1:00:26.64,Default,,0,0,0,,Very well.
-Dialogue: 5,1:00:26.64,1:00:30.60,Default,,0,0,0,,I may not know who you are, \Nbut this is something I cannot ignore.
-Dialogue: 5,1:00:30.60,1:00:32.73,Default,,0,0,0,,Therefore, here is my wager.
-Dialogue: 5,1:00:32.73,1:00:35.23,Default,,0,0,0,,The true advocate of the Áka Si Anse theory is actually—
-Dialogue: 5,1:00:34.86,1:00:35.78,Alt,,0,0,0,,Somebody else, right?
-Dialogue: 5,1:00:36.65,1:00:38.69,Default,,0,0,0,,I've already obtained this information.
-Dialogue: 5,1:00:40.20,1:00:42.66,Default,,0,0,0,,But I also know that I have not.
-Dialogue: 5,1:00:43.24,1:00:47.37,Default,,0,0,0,,And you will resort to magic to make me believe your lie.
-Dialogue: 5,1:00:51.08,1:00:53.96,Default,,0,0,0,,Now then what shall I give you?
-Dialogue: 5,1:00:54.79,1:01:00.97,Default,,0,0,0,,When the Dwarves learned of the Áka Si Anse,\Nthey concluded that it wasn't a threat.
-Dialogue: 5,1:01:00.97,1:01:02.72,Default,,0,0,0,,Let's bet on that proof.
-Dialogue: 5,1:01:03.22,1:01:05.01,Default,,0,0,0,,That's ridiculous!
-Dialogue: 5,1:01:05.64,1:01:07.39,Default,,0,0,0,,It's true.
-Dialogue: 5,1:01:08.06,1:01:10.02,Default,,0,0,0,,And I have information
-Dialogue: 5,1:01:10.02,1:01:12.69,Default,,0,0,0,,of the weapon possessed by the Dwarves,
-Dialogue: 5,1:01:12.69,1:01:15.90,Default,,0,0,0,,which they concluded to match the power of the Áka Si Anse.
-Dialogue: 5,1:01:21.45,1:01:23.07,Default,,0,0,0,,The E-bomb?
-Dialogue: 5,1:01:23.91,1:01:25.03,Default,,0,0,0,,Yes.
-Dialogue: 5,1:01:25.03,1:01:28.66,Default,,0,0,0,,A weapon of tremendous scale. \NOne that can wipe out the entire continent.
-Dialogue: 5,1:01:29.45,1:01:33.42,Default,,0,0,0,,You're saying those creatures \Nthat burrow in the earth like moles,
-Dialogue: 5,1:01:33.42,1:01:35.42,Default,,0,0,0,,outperformed the Áka Si Anse;
-Dialogue: 5,1:01:35.42,1:01:37.75,Default,,0,0,0,,the combination of Elvish and spiritual magic?
-Dialogue: 5,1:01:38.80,1:01:40.13,Default,,0,0,0,,Wait just a moment.
-Dialogue: 5,1:01:40.84,1:01:44.13,Default,,0,0,0,,Few times during our games you moved as if trying to lose.
-Dialogue: 5,1:01:45.01,1:01:47.01,Default,,0,0,0,,Let me ask one last thing:
-Dialogue: 5,1:01:47.01,1:01:48.64,Default,,0,0,0,,are you our enemy...
-Dialogue: 5,1:01:49.27,1:01:50.85,Default,,0,0,0,,or our ally?
-Dialogue: 5,1:01:51.39,1:01:55.81,Default,,0,0,0,,I am neither your enemy, nor your ally.
-Dialogue: 5,1:01:57.23,1:02:00.15,Default,,0,0,0,,I just wish as few of you to die as possible.
-Dialogue: 5,1:02:02.53,1:02:03.86,Default,,0,0,0,,Very well Mr. Ghost.
-Dialogue: 5,1:02:05.41,1:02:10.33,Default,,0,0,0,,I can assume you've shared this information only with me and nobody else?
-Dialogue: 5,1:02:16.13,1:02:19.63,Default,,0,0,0,,You know what, Nina Clive is an alias.
-Dialogue: 5,1:02:19.63,1:02:24.88,Default,,0,0,0,,My name is actually Think Nirvalen.
-Dialogue: 5,1:02:24.88,1:02:27.72,Default,,0,0,0,,Did you already figure it out?
-Dialogue: 5,1:02:29.43,1:02:33.31,Default,,0,0,0,,Have I ever called you Nina, in the first place?
-Dialogue: 5,1:02:36.94,1:02:39.19,Default,,0,0,0,,For treating me today like a plaything,
-Dialogue: 5,1:02:39.19,1:02:42.99,Default,,0,0,0,,I promise I'll find out who you are \Nand I'll gut you.
-Dialogue: 5,1:02:43.99,1:02:47.62,Default,,0,0,0,,After all, the rumor that \NElves are relentlessly vindictive...
-Dialogue: 5,1:02:48.07,1:02:51.20,Default,,0,0,0,,first began with none other than the Nirvalen family.
 Dialogue: 5,1:02:53.29,1:02:54.16,Default,,0,0,0,,Riku!
 Dialogue: 5,1:02:55.08,1:02:57.58,Default,,0,0,0,,Riku, hurry! It's a decontaminate.
 Dialogue: 5,1:03:00.34,1:03:03.46,Default,,0,0,0,,Riku you lied to me! You said\Nthat it would only be an hour.
