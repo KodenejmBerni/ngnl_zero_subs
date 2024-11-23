@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1069
-Active Line: 1076
-Video Position: 87087
+Scroll Position: 1021
+Active Line: 1035
+Video Position: 86807
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1052,17 +1052,18 @@ Dialogue: 5,0:59:29.36,0:59:30.94,Default,,0,0,0,,Now the finishing touches.
 Dialogue: 5,0:59:35.58,0:59:36.14,Default,,0,0,0,,Who is it?
 Dialogue: 5,0:59:37.53,0:59:38.47,Default,,0,0,0,,Well,
 Dialogue: 5,0:59:39.19,0:59:41.02,Default,,0,0,0,,let's just call me a ghost.
-Dialogue: 5,0:59:42.04,0:59:46.78,Default,,0,0,0,,I assume you have a good reason for coming here uninvited.
-Dialogue: 5,0:59:47.72,0:59:50.01,Default,,0,0,0,,I was hoping to play a little game.
+Dialogue: 5,0:59:42.04,0:59:44.04,Default,,0,0,0,,I hope you have a good reason
+Dialogue: 0,0:59:44.36,0:59:46.81,Default,,0,0,0,,for coming here uninvited.
+Dialogue: 5,0:59:47.72,0:59:50.01,Default,,0,0,0,,I was hoping for a little game.
 Dialogue: 5,0:59:50.64,0:59:51.35,Default,,0,0,0,,A game?
 Comment: 0,0:59:11.56,0:59:11.58,Default,,0,0,0,,Translation END
-Dialogue: 5,0:59:51.86,0:59:54.05,Default,,0,0,0,,And the currency we'll bet with is an information.
-Dialogue: 5,0:59:55.09,0:59:58.20,Default,,0,0,0,,If I win, you tell me something.\NIf you win, it's the other way around.
-Dialogue: 5,0:59:58.95,1:00:01.21,Default,,0,0,0,,I know completely nothing of you,
-Dialogue: 5,1:00:01.88,1:00:05.18,Default,,0,0,0,,and yet you hope for Nina Clive \Nto accept a challenge just like that?
-Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,Maybe let me start with this:
-Dialogue: 5,1:00:07.94,1:00:10.64,Default,,0,0,0,,Information on the Áka Si Anse \Nhas been leaked to the Dwarves.
-Dialogue: 5,1:00:11.43,1:00:12.68,Default,,0,0,0,,Is that good enough?
+Dialogue: 5,0:59:51.86,0:59:54.05,Default,,0,0,0,,In which we bet information.
+Dialogue: 5,0:59:55.09,0:59:58.20,Default,,0,0,0,,If I win, you share something, and vice versa.
+Dialogue: 5,0:59:58.95,1:00:01.21,Default,,0,0,0,,You come here out of nowhere
+Dialogue: 5,1:00:01.88,1:00:05.18,Default,,0,0,0,,and Nina Clive is supposed to take on the challenge?
+Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,So, from me I propose…
+Dialogue: 5,1:00:07.94,1:00:10.64,Default,,0,0,0,,The Dwarves know about the existance of Aka Si Anse.
+Dialogue: 5,1:00:11.43,1:00:12.68,Default,,0,0,0,,Sounds interesting?
 Dialogue: 5,1:00:13.59,1:00:16.39,Default,,0,0,0,,As the applicant and caretaker \Nof the Áka Si Anse theory,
 Dialogue: 5,1:00:16.82,1:00:20.44,Default,,0,0,0,,you should have the ability to confirm \Nthe veracity of this information.
 Dialogue: 5,1:00:20.92,1:00:22.07,Default,,0,0,0,,Am I mistaken?
