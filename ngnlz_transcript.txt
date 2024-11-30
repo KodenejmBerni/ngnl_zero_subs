@@ -966,13 +966,13 @@ Tairiku marugoto shōmetsu sa seru ōkibo hakai heikida.
 A large-scale weapon that can wipe out an entire continent.
 
 Erufu no zenrei otoshita saikyō no reikai jutsushiki 
-
+Erufu no zenrei otoshita saikyō no reikai jutsushiki
 
 Aka Si Anse o koeru mono o
 
 
 moguragotoki ga tsukutta de sutte.
-
+Moguragotoki ga tsukutta de sutte
 
 Machi nasai.
 Wait a moment.
@@ -984,9 +984,13 @@ Saigo ni kika sete chōdai.
 Tell me one more thing.
 
 Anata wa teki, Soretomo mikata?
+Are you an enemy, or an ally?
 
+Teki demo mikata demonai.
+Neither an enemy nor an ally.
 
-I am neither an enemy nor an ally.
+Tada kanōnakagiri
+
 
 Ī wa yurei-san.
 
