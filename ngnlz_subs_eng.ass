@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1048
-Active Line: 1059
-Video Position: 88605
+Scroll Position: 1066
+Active Line: 1077
+Video Position: 90526
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -937,10 +937,10 @@ Dialogue: 5,0:52:55.61,0:52:56.98,Default,,0,0,0,,Doesn't matter!
 Dialogue: 5,0:52:57.17,0:52:58.01,Default,,0,0,0,,A delay…
 Dialogue: 5,0:52:58.10,0:53:00.13,Default,,0,0,0,,I said it’s nothing!
 Dialogue: 5,0:53:02.32,0:53:03.49,Default,,0,0,0,,Impossible…
-Dialogue: 5,0:53:04.51,0:53:05.03,Default,,0,0,0,,because…
+Dialogue: 5,0:53:04.51,0:53:05.03,Default,,0,0,0,,because–
 Dialogue: 5,0:53:06.81,0:53:07.43,Default,,0,0,0,,Schwi…
-Dialogue: 5,0:53:08.43,0:53:09.08,Default,,0,0,0,,because…
-Dialogue: 5,0:53:10.18,0:53:10.81,Default,,0,0,0,,Riku's…
+Dialogue: 5,0:53:08.43,0:53:09.08,Default,,0,0,0,,because–
+Dialogue: 5,0:53:10.18,0:53:10.81,Default,,0,0,0,,Riku's–
 Dialogue: 5,0:53:13.75,0:53:16.07,Default,,0,0,0,,Forwarding request to Einzig.
 Dialogue: 5,0:53:16.11,0:53:17.15,Default,,0,0,0,,Approved.
 Dialogue: 5,0:53:17.22,0:53:19.80,Default,,0,0,0,,Riku's village has been destroyed
@@ -1075,7 +1075,7 @@ Dialogue: 5,1:00:34.87,1:00:35.88,Alt,,0,0,0,,Isn't you?
 Dialogue: 5,1:00:36.73,1:00:38.57,Default,,0,0,0,,I already know about it.
 Dialogue: 5,1:00:40.30,1:00:42.45,Default,,0,0,0,,And I know it's a lie.
 Dialogue: 5,1:00:43.34,1:00:47.00,Default,,0,0,0,,And you'll resort to magic to make me believe it.
-Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now, what else could I give you…
+Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now, what could I give you…
 Dialogue: 5,1:00:54.90,1:01:00.87,Default,,0,0,0,,When the Dwarves learned about Áka Si Anse, they did not consider it a threat.
 Dialogue: 5,1:01:01.08,1:01:02.65,Default,,0,0,0,,I bet the reason behind it.
 Dialogue: 5,1:01:03.30,1:01:04.65,Default,,0,0,0,,They what?!
@@ -1087,32 +1087,34 @@ Dialogue: 5,1:01:21.58,1:01:22.74,Default,,0,0,0,,The E-bomb?
 Dialogue: 5,1:01:24.02,1:01:24.57,Default,,0,0,0,,Yes.
 Dialogue: 5,1:01:25.08,1:01:28.66,Default,,0,0,0,,A large-scale weapon that can wipe out an entire continent.
 Dialogue: 5,1:01:29.59,1:01:32.99,Default,,0,0,0,,The most advanced technology in the history of the elves
-Dialogue: 5,1:01:33.51,1:01:35.18,Default,,0,0,0,,outperformed the Áka Si Anse
-Dialogue: 5,1:01:35.53,1:01:37.72,Default,,0,0,0,,the combination of Elvish and spiritual magic?
+Dialogue: 5,1:01:33.51,1:01:35.18,Default,,0,0,0,,and it was outperformed
+Dialogue: 5,1:01:35.53,1:01:37.72,Default,,0,0,0,,by those moles burrowing in the earth?
 Dialogue: 5,1:01:38.84,1:01:39.66,Default,,0,0,0,,Wait a moment.
 Dialogue: 5,1:01:40.94,1:01:44.02,Default,,0,0,0,,A few times you played as if you were trying to lose.
 Dialogue: 5,1:01:45.02,1:01:46.74,Default,,0,0,0,,Tell me one last thing.
 Dialogue: 5,1:01:47.30,1:01:48.30,Default,,0,0,0,,Are you an enemy
 Dialogue: 5,1:01:49.24,1:01:50.57,Default,,0,0,0,,or an ally?
-Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,I'm neither an enemy nor an ally.
-Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,
-Dialogue: 5,1:01:57.27,1:02:00.15,Default,,0,0,0,,I just wish as few of you to die as possible.
+Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,Neither an enemy nor an ally,
+Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,as far as possible.
+Dialogue: 5,1:01:57.27,1:02:00.15,Default,,0,0,0,,I just wish for none of you to die.
 Dialogue: 5,1:02:02.60,1:02:03.91,Default,,0,0,0,,Very well Mr. Ghost.
-Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,I can assume you've shared this information only with me and nobody else?
-Dialogue: 5,1:02:16.18,1:02:19.63,Default,,0,0,0,,You know what, Nina Clive is an alias.
-Dialogue: 5,1:02:19.82,1:02:24.36,Default,,0,0,0,,My name is actually Think Nirvalen.
-Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Did you already figure it out?
-Dialogue: 5,1:02:29.52,1:02:32.79,Default,,0,0,0,,Have I ever called you Nina, in the first place?
-Dialogue: 5,1:02:37.03,1:02:39.13,Default,,0,0,0,,For treating me today like a plaything,
-Dialogue: 5,1:02:39.29,1:02:43.19,Default,,0,0,0,,I promise I'll find out who you are \Nand I'll gut you.
-Dialogue: 5,1:02:44.05,1:02:47.22,Default,,0,0,0,,After all, the rumor that \NElves are relentlessly vindictive...
-Dialogue: 5,1:02:48.19,1:02:50.89,Default,,0,0,0,,first began with none other than the Nirvalen family.
+Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,You sure expect me to do something with all this information, don't you?
+Dialogue: 5,1:02:16.18,1:02:17.61,Default,,0,0,0,,By the way,
+Dialogue: 0,1:02:17.76,1:02:19.60,Default,,0,0,0,,Nina Clive is an alias.
+Dialogue: 5,1:02:19.82,1:02:21.25,Default,,0,0,0,,You see, actually,
+Dialogue: 0,1:02:22.03,1:02:24.31,Default,,0,0,0,,Think Nirvalen is my real name.
+Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Bewildering, isn't it?
+Dialogue: 5,1:02:29.52,1:02:32.79,Default,,0,0,0,,Have I really ever called you Nina?
+Dialogue: 5,1:02:37.03,1:02:41.08,Default,,0,0,0,,I feel sorry for you for choosing me to toy with.
+Dialogue: 5,1:02:41.36,1:02:43.19,Default,,0,0,0,,I'll make you regret it!
+Dialogue: 5,1:02:44.05,1:02:47.22,Default,,0,0,0,,The rumor about elves being relentlessly vindictive
+Dialogue: 5,1:02:48.19,1:02:50.89,Default,,0,0,0,,began with the Nirvalen family, you know.
 Comment: 0,0:59:11.58,0:59:11.59,Default,,0,0,0,,Sync END
 Dialogue: 5,1:02:53.29,1:02:54.16,Default,,0,0,0,,Riku!
-Dialogue: 5,1:02:55.08,1:02:57.58,Default,,0,0,0,,Riku, hurry! It's a decontaminate.
-Dialogue: 5,1:03:00.34,1:03:03.46,Default,,0,0,0,,Riku you lied to me! You said\Nthat it would only be an hour.
+Dialogue: 5,1:02:55.08,1:02:57.58,Default,,0,0,0,,Riku, hurry! It's decontaminate.
+Dialogue: 5,1:03:00.34,1:03:03.46,Default,,0,0,0,,Riku you lied! You said\Nthat it would only be an hour.
 Dialogue: 5,1:03:03.46,1:03:06.34,Default,,0,0,0,,You've been breathing Black Ash for twice that time!
-Dialogue: 5,1:03:13.85,1:03:16.10,Default,,0,0,0,,I didn't have a choice.
+Dialogue: 5,1:03:13.85,1:03:16.10,Default,,0,0,0,,I had no choice.
 Dialogue: 5,1:03:16.10,1:03:20.90,Default,,0,0,0,,I had to do it or my cover would \Nhave been blown immediately.
 Dialogue: 5,1:03:21.98,1:03:25.49,Default,,0,0,0,,Even more so against the race of higher intelligence,
 Dialogue: 5,1:03:25.49,1:03:29.49,Default,,0,0,0,,no one would ever imagine\Nsuch suicidal behavior, right?
