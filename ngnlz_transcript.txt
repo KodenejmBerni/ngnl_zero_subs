@@ -893,7 +893,7 @@ Kono nīna curaivu ga shōbu suru to omotte.
 and Nina Clive is supposed to take on the challenge?
 
 De wa hitotsu shintei.
-From me, I propose…
+Let me start with…
 
 Aka shi anse no sonzai ga dowāfu ni morete iru.
 The Dwarves know about the existance of Aka Si Anse.
@@ -911,7 +911,7 @@ Sōiu aru mai?
 Am I mistaken?
 
 ii wa.
-Alright
+Alright.
 
 Anata wa nanimono demo hōchi wa dekinai yo ne.
 Whoever you are, I can't ignore something like this.
@@ -932,16 +932,15 @@ Dō iu no ga usoda to iu jōhō.
 And I know it's a lie.
 
 Sono uso o watashi ni shinji saseru mahō o tsukau to iu jōhō
-
+And you have resorted to magic to make me believe it.
 
 Sate, de wa kochira no chippu wa?
-Now, what could I give you…
+Now, what else do I have…
 
 Aka Si Anse no sonzai o shitta ue de, dowāfu ga sore o mondainai to handan shita.
 When the Dwarves learned about Áka Si Anse, they did not consider it a threat.
 
 Sono konkyo o kakeyou.
-Let's bet on that proof.
 I bet the reason behind it.
 
 Nan de sutte?!
@@ -960,7 +959,7 @@ Dowāfu ga handan shite iru heiki no jōhō o.
 which they believe to surpass the Áka Si Anse.
 
 Suibaku?
-The E-Bomb?
+The E-bomb?
 
 So.
 Yes.
@@ -981,16 +980,18 @@ Machi nasai.
 Wait a moment.
 
 Anata wazato makeru yō ugoita toki ga atta.
-Few times you played as if trying to lose.
+A few times you played as if you were trying to lose.
 
 Saigo ni kika sete chōdai.
 Tell me one last thing.
 
-Anata wa teki, Soretomo mikata?
-Are you an enemy, or an ally?
+Anata wa teki, 
+Are you an enemy
+
+Soretomo mikata?
+or an ally?
 
 Teki demo mikata demonai.
-Neither an enemy nor an ally.
 I'm not your enemy,
 
 Tada kanōnakagiri
@@ -1004,16 +1005,16 @@ I just wish for none of you to die.
 Very well Mr. Ghost.
 
 Sono jōhō o ukete dō suru ka? Hoka naranu watashi ni tou wake ne?
-Aren't you curious about what I'll do with all this information?
+You sure expect me to do something with all this information, don't you?
 
 Chinamini
-You know what,
+By the way,
 
 Nīna Clive wa kime
 Nina Clive is an alias.
 
 watashi no honmyō wa
-You see, actually
+You see, actually,
 
 Think Nirvalen nodesu yo.
 Think Nirvalen is my real name.
@@ -1022,16 +1023,13 @@ Kono engi yara remashita?
 Unexpected, admit it!
 
 Watashi wa ichido demo, kimi o Nina to yonda ka ne?
-Have I really ever called you Nina?
+Have you ever heard me call you Nina?
 
-Yoriniyotte kono watashi o
-
-
-tenohira moteasonda koto
-
+Yoriniyotte kono watashi o tenohira moteasonda koto
+You had the audacity to treat me like your plaything
 
 kōkai sa sete yaru nodesu yo.
-I'll make you regret it!
+and I'll make you pay for it!
 
 Erufa nenchaku-shitsu tte uwasa no yurai wa
 The rumor about elves being relentlessly vindictive

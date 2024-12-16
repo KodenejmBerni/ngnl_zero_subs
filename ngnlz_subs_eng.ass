@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1066
-Active Line: 1077
-Video Position: 90526
+Scroll Position: 1064
+Active Line: 1078
+Video Position: 90347
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1056,12 +1056,11 @@ Dialogue: 5,0:59:42.04,0:59:44.04,Default,,0,0,0,,I hope you have a good reason
 Dialogue: 0,0:59:44.36,0:59:46.81,Default,,0,0,0,,for coming here uninvited.
 Dialogue: 5,0:59:47.72,0:59:50.01,Default,,0,0,0,,I was hoping for a little game.
 Dialogue: 5,0:59:50.64,0:59:51.35,Default,,0,0,0,,A game?
-Comment: 0,0:59:11.56,0:59:11.58,Default,,0,0,0,,Translation END
 Dialogue: 5,0:59:51.86,0:59:54.05,Default,,0,0,0,,In which we bet information.
 Dialogue: 5,0:59:55.09,0:59:58.20,Default,,0,0,0,,If I win, you share something, and vice versa.
 Dialogue: 5,0:59:58.95,1:00:01.21,Default,,0,0,0,,You come here out of nowhere
 Dialogue: 5,1:00:01.88,1:00:05.18,Default,,0,0,0,,and Nina Clive is supposed to take on the challenge?
-Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,From me, I propose…
+Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,Let me start with…
 Dialogue: 5,1:00:07.94,1:00:10.64,Default,,0,0,0,,The Dwarves know about the existance of Aka Si Anse.
 Dialogue: 5,1:00:11.43,1:00:12.68,Default,,0,0,0,,Sounds interesting?
 Dialogue: 5,1:00:13.59,1:00:16.39,Default,,0,0,0,,As the lead researcher of Aka Si Anse theory
@@ -1074,8 +1073,8 @@ Dialogue: 5,1:00:32.82,1:00:35.58,Default,,0,0,0,,The true lead researcher of Ak
 Dialogue: 5,1:00:34.87,1:00:35.88,Alt,,0,0,0,,Isn't you?
 Dialogue: 5,1:00:36.73,1:00:38.57,Default,,0,0,0,,I already know about it.
 Dialogue: 5,1:00:40.30,1:00:42.45,Default,,0,0,0,,And I know it's a lie.
-Dialogue: 5,1:00:43.34,1:00:47.00,Default,,0,0,0,,And you'll resort to magic to make me believe it.
-Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now, what could I give you…
+Dialogue: 5,1:00:43.34,1:00:47.00,Default,,0,0,0,,And you have resorted to magic to make me believe it.
+Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now, what else do I have…
 Dialogue: 5,1:00:54.90,1:01:00.87,Default,,0,0,0,,When the Dwarves learned about Áka Si Anse, they did not consider it a threat.
 Dialogue: 5,1:01:01.08,1:01:02.65,Default,,0,0,0,,I bet the reason behind it.
 Dialogue: 5,1:01:03.30,1:01:04.65,Default,,0,0,0,,They what?!
@@ -1094,8 +1093,8 @@ Dialogue: 5,1:01:40.94,1:01:44.02,Default,,0,0,0,,A few times you played as if y
 Dialogue: 5,1:01:45.02,1:01:46.74,Default,,0,0,0,,Tell me one last thing.
 Dialogue: 5,1:01:47.30,1:01:48.30,Default,,0,0,0,,Are you an enemy
 Dialogue: 5,1:01:49.24,1:01:50.57,Default,,0,0,0,,or an ally?
-Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,Neither an enemy nor an ally,
-Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,as far as possible.
+Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,I'm not your enemy,
+Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,nor your ally.
 Dialogue: 5,1:01:57.27,1:02:00.15,Default,,0,0,0,,I just wish for none of you to die.
 Dialogue: 5,1:02:02.60,1:02:03.91,Default,,0,0,0,,Very well Mr. Ghost.
 Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,You sure expect me to do something with all this information, don't you?
@@ -1103,13 +1102,14 @@ Dialogue: 5,1:02:16.18,1:02:17.61,Default,,0,0,0,,By the way,
 Dialogue: 0,1:02:17.76,1:02:19.60,Default,,0,0,0,,Nina Clive is an alias.
 Dialogue: 5,1:02:19.82,1:02:21.25,Default,,0,0,0,,You see, actually,
 Dialogue: 0,1:02:22.03,1:02:24.31,Default,,0,0,0,,Think Nirvalen is my real name.
-Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Bewildering, isn't it?
-Dialogue: 5,1:02:29.52,1:02:32.79,Default,,0,0,0,,Have I really ever called you Nina?
-Dialogue: 5,1:02:37.03,1:02:41.08,Default,,0,0,0,,I feel sorry for you for choosing me to toy with.
-Dialogue: 5,1:02:41.36,1:02:43.19,Default,,0,0,0,,I'll make you regret it!
+Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Unexpected, admit it!
+Dialogue: 5,1:02:29.52,1:02:32.79,Default,,0,0,0,,Have you ever heard me call you Nina?
+Dialogue: 5,1:02:37.03,1:02:41.08,Default,,0,0,0,,You had the audacity to treat me like your plaything
+Dialogue: 5,1:02:41.36,1:02:43.19,Default,,0,0,0,,and I'll make you pay for it!
 Dialogue: 5,1:02:44.05,1:02:47.22,Default,,0,0,0,,The rumor about elves being relentlessly vindictive
 Dialogue: 5,1:02:48.19,1:02:50.89,Default,,0,0,0,,began with the Nirvalen family, you know.
-Comment: 0,0:59:11.58,0:59:11.59,Default,,0,0,0,,Sync END
+Comment: 0,1:02:50.89,1:02:51.69,Default,,0,0,0,,Translation END
+Comment: 0,1:02:51.69,1:02:53.29,Default,,0,0,0,,Sync END
 Dialogue: 5,1:02:53.29,1:02:54.16,Default,,0,0,0,,Riku!
 Dialogue: 5,1:02:55.08,1:02:57.58,Default,,0,0,0,,Riku, hurry! It's decontaminate.
 Dialogue: 5,1:03:00.34,1:03:03.46,Default,,0,0,0,,Riku you lied! You said\Nthat it would only be an hour.
