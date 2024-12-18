@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1092
-Active Line: 1106
-Video Position: 92791
+Video Zoom Percent: 0.625000
+Scroll Position: 1103
+Active Line: 1121
+Video Position: 94211
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1134,25 +1134,26 @@ Dialogue: 5,1:04:20.84,1:04:22.08,Default,,0,0,0,,What in the world?
 Dialogue: 5,1:04:23.97,1:04:26.29,Default,,0,0,0,,Lily, please stay on guard for me!
 Dialogue: 5,1:04:26.29,1:04:27.35,Default,,0,0,0,,Huh? Wait a–
 Dialogue: 0,1:04:27.35,1:04:28.03,Default,,0,0,0,,Couronne!
-Comment: 0,1:04:29.57,1:04:29.64,Default,,0,0,0,,Sync END
 Comment: 0,1:04:30.15,1:04:30.23,Default,,0,0,0,,Translation END
-Dialogue: 5,1:04:31.11,1:04:33.79,Default,,0,0,0,,The ghosts continued to take action from behind the scenes.
-Dialogue: 5,1:04:34.89,1:04:38.56,Default,,0,0,0,,And just like we wanted,\Nthe Elves eventually became allies with the Fairies,
-Dialogue: 5,1:04:38.56,1:04:43.98,Default,,0,0,0,,and moved to ramp up their contracts with the\NDragonia to oppose all the Dwarvish fleet.
-Dialogue: 5,1:04:44.82,1:04:48.61,Default,,0,0,0,,Meanwhile, the Dwarves became allies with the Giants,
-Dialogue: 5,1:04:48.61,1:04:51.20,Default,,0,0,0,,as well as several Phantasmas who were on friendly terms.
-Dialogue: 5,1:04:52.07,1:04:54.37,Default,,0,0,0,,Manipulated by the ghosts' information,
-Dialogue: 5,1:04:54.37,1:04:58.58,Default,,0,0,0,,each crucial pawn took steps to guard itself \Nagainst the destructive threat of the other,
-Dialogue: 5,1:04:58.58,1:05:01.62,Default,,0,0,0,,moving its forces to the\Nneighboring continent of Ariena.
-Dialogue: 5,1:05:03.08,1:05:08.05,Default,,0,0,0,,Which just happened to be \Nthe home base of the Flügels' sovereign,
-Dialogue: 5,1:05:08.05,1:05:12.59,Default,,0,0,0,,the Old Deus - Artosh.
-Dialogue: 5,1:05:15.97,1:05:17.14,Default,,0,0,0,,Umweg:
-Dialogue: 5,1:05:19.85,1:05:22.56,Default,,0,0,0,,23 units are now installed.
-Dialogue: 5,1:05:22.56,1:05:24.65,Default,,0,0,0,,That leaves nine more.
-Dialogue: 5,1:05:25.86,1:05:29.36,Default,,0,0,0,,And so, as each race tried to get the situation under control,
-Dialogue: 5,1:05:29.36,1:05:33.24,Default,,0,0,0,,the time began counting down to the world's final battle.
-Dialogue: 5,1:05:35.03,1:05:36.73,Default,,0,0,0,,Exactly
-Dialogue: 5,1:05:36.73,1:05:38.73,Default,,0,0,0,,like clockwork.
+Dialogue: 5,1:04:31.12,1:04:33.79,Default,,0,0,0,,The ghosts' covert actions pressed on.
+Dialogue: 5,1:04:34.97,1:04:38.31,Default,,0,0,0,,As expected, the Elves allied with the Fairies,
+Dialogue: 5,1:04:38.58,1:04:43.69,Default,,0,0,0,,and to face the Dwarf fleet, they expanded contracts with the Dragonia.
+Dialogue: 5,1:04:44.84,1:04:48.45,Default,,0,0,0,,Meanwhile, the Dwarves teamed up with the Giants
+Dialogue: 5,1:04:48.76,1:04:51.01,Default,,0,0,0,,and turned many phantasmas to their side.
+Dialogue: 5,1:04:52.10,1:04:54.27,Default,,0,0,0,,Manipulated by information,
+Dialogue: 5,1:04:54.51,1:04:58.28,Default,,0,0,0,,each major pawn took precautions against the threat of another,
+Dialogue: 5,1:04:58.69,1:05:01.38,Default,,0,0,0,,moving its forces to the continent of Ariena.
+Dialogue: 5,1:05:03.19,1:05:07.82,Default,,0,0,0,,This place however, happens to be the base of the Flügel's sovereign,
+Dialogue: 5,1:05:08.16,1:05:09.59,Default,,0,0,0,,the Old-deus,
+Dialogue: 0,1:05:10.67,1:05:12.20,Default,,0,0,0,,Lord Artosh.
+Dialogue: 5,1:05:16.13,1:05:17.18,Default,,0,0,0,,Umweg.
+Dialogue: 5,1:05:19.87,1:05:22.31,Default,,0,0,0,,23 units ready.
+Dialogue: 5,1:05:22.59,1:05:24.42,Default,,0,0,0,,9 remaining.
+Dialogue: 5,1:05:25.97,1:05:29.01,Default,,0,0,0,,And thus, under the shadow of impending terror
+Dialogue: 5,1:05:29.38,1:05:33.19,Default,,0,0,0,,the world began the countdown to the final battle.
+Dialogue: 5,1:05:35.06,1:05:36.21,Default,,0,0,0,,Everything
+Dialogue: 5,1:05:36.71,1:05:38.01,Default,,0,0,0,,as planned.
+Comment: 0,1:05:39.19,1:05:39.26,Default,,0,0,0,,Sync END
 Dialogue: 5,1:05:40.33,1:05:41.79,Default,,0,0,0,,Hey Schwi,
 Dialogue: 5,1:05:42.04,1:05:44.79,Default,,0,0,0,,is there anyone such as god of games?
 Dialogue: 5,1:05:45.92,1:05:50.09,Default,,0,0,0,,If I'd told you I've met him...
