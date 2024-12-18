@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 1077
-Active Line: 1095
-Video Position: 92075
+Scroll Position: 1092
+Active Line: 1106
+Video Position: 92791
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1125,16 +1125,18 @@ Dialogue: 5,1:03:51.33,1:03:54.47,Default,,0,0,0,,Ex-machina's lifespan… how l
 Dialogue: 5,1:03:54.83,1:03:56.01,Default,,0,0,0,,In solar cycles,
 Dialogue: 5,1:03:56.44,1:03:58.17,Default,,0,0,0,,it's 892 years.
 Dialogue: 5,1:04:00.28,1:04:02.99,Default,,0,0,0,,I really need to step it up then.
-Comment: 0,1:04:03.63,1:04:03.63,Default,,0,0,0,,Sync END
-Comment: 0,1:04:04.65,1:04:04.65,Default,,0,0,0,,Translation END
-Dialogue: 5,1:04:06.65,1:04:08.65,Default,,0,0,0,,And so the first objective was secured:
-Dialogue: 5,1:04:09.20,1:04:14.08,Default,,0,0,0,,Moving the battle away from the human territories.
-Dialogue: 5,1:04:15.16,1:04:17.33,Default,,0,0,0,,First the Dwarves and now the Elves.
-Dialogue: 5,1:04:17.91,1:04:20.75,Default,,0,0,0,,Even the Werebeasts are leaving.
-Dialogue: 5,1:04:20.75,1:04:22.38,Default,,0,0,0,,What is going on?
-Dialogue: 5,1:04:23.84,1:04:26.80,Default,,0,0,0,,Lily, please keep a watch for me!
-Dialogue: 5,1:04:26.80,1:04:28.30,Default,,0,0,0,,Wait, Couronne!
-Dialogue: 5,1:04:31.01,1:04:34.18,Default,,0,0,0,,The ghosts continued to take action from behind the scenes.
+Dialogue: 5,1:04:06.65,1:04:08.25,Default,,0,0,0,,The first objective
+Dialogue: 5,1:04:09.35,1:04:12.26,Default,,0,0,0,,removing the battle from human territory
+Dialogue: 0,1:04:12.90,1:04:13.72,Default,,0,0,0,,complete.
+Dialogue: 5,1:04:15.19,1:04:17.52,Default,,0,0,0,,First the Dwarfs, then the Elves. 
+Dialogue: 5,1:04:18.01,1:04:20.43,Default,,0,0,0,,Even the Werebeasts are leaving.
+Dialogue: 5,1:04:20.84,1:04:22.08,Default,,0,0,0,,What in the world?
+Dialogue: 5,1:04:23.97,1:04:26.29,Default,,0,0,0,,Lily, please stay on guard for me!
+Dialogue: 5,1:04:26.29,1:04:27.35,Default,,0,0,0,,Huh? Wait a–
+Dialogue: 0,1:04:27.35,1:04:28.03,Default,,0,0,0,,Couronne!
+Comment: 0,1:04:29.57,1:04:29.64,Default,,0,0,0,,Sync END
+Comment: 0,1:04:30.15,1:04:30.23,Default,,0,0,0,,Translation END
+Dialogue: 5,1:04:31.11,1:04:33.79,Default,,0,0,0,,The ghosts continued to take action from behind the scenes.
 Dialogue: 5,1:04:34.89,1:04:38.56,Default,,0,0,0,,And just like we wanted,\Nthe Elves eventually became allies with the Fairies,
 Dialogue: 5,1:04:38.56,1:04:43.98,Default,,0,0,0,,and moved to ramp up their contracts with the\NDragonia to oppose all the Dwarvish fleet.
 Dialogue: 5,1:04:44.82,1:04:48.61,Default,,0,0,0,,Meanwhile, the Dwarves became allies with the Giants,
