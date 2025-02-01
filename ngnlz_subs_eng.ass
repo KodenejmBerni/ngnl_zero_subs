@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1183
-Active Line: 1192
-Video Position: 99051
+Video Zoom Percent: 0.625000
+Scroll Position: 1188
+Active Line: 1202
+Video Position: 99778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -427,17 +427,17 @@ Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore
 Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,I must have said something terrible
 Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,or hurtful.
 Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Your heart
-Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill Schwi.
+Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill me.
 Dialogue: 5,0:26:26.73,0:26:27.94,Default,,0,0,0,,I see.
 Dialogue: 5,0:26:29.44,0:26:30.86,Default,,0,0,0,,If you just
 Dialogue: 5,0:26:30.86,0:26:32.19,Default,,0,0,0,,stab me here,
 Dialogue: 5,0:26:32.86,0:26:34.16,Default,,0,0,0,,Schwi
-Dialogue: 5,0:26:34.16,0:26:35.31,Default,,0,0,0,,will die.
-Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Die?
-Dialogue: 5,0:26:36.91,0:26:38.91,Default,,0,0,0,,I'm not a living being...
-Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A termination.
-Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,A permanent
-Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,shut down.
+Dialogue: 5,0:26:34.16,0:26:35.31,Default,,0,0,0,,dies.
+Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Dies?
+Dialogue: 5,0:26:36.91,0:26:38.91,Default,,0,0,0,,I am not alive…
+Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A shutdown,
+Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,a permanent
+Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,termination.
 Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi wants to know your heart.
 Dialogue: 5,0:26:49.04,0:26:53.59,Default,,0,0,0,,So now, that your heart desires it,
 Dialogue: 5,0:26:53.95,0:26:55.35,Default,,0,0,0,,do you
@@ -1195,7 +1195,7 @@ Dialogue: 5,1:07:24.12,1:07:26.36,Default,,0,0,0,,How much longer do I have to w
 Dialogue: 5,1:07:32.49,1:07:33.31,Default,,0,0,0,,Hey, Couron
 Comment: 0,1:07:33.76,1:07:33.86,Default,,0,0,0,,Translation END
 Dialogue: 5,1:07:34.61,1:07:37.38,Default,,0,0,0,,do you know what the gods are after in this war?
-Dialogue: 5,1:07:39.18,1:07:40.46,Default,,0,0,0,,The title of the Only God.
+Dialogue: 5,1:07:39.18,1:07:40.46,Default,,0,0,0,,The title of the One.
 Dialogue: 5,1:07:40.93,1:07:42.90,Default,,0,0,0,,Yeah, according to Schwi,
 Dialogue: 5,1:07:43.31,1:07:46.04,Default,,0,0,0,,it's something called the Suniaster.
 Dialogue: 5,1:07:46.70,1:07:48.39,Default,,0,0,0,,Many Old-deus emerged,
@@ -1222,14 +1222,15 @@ Dialogue: 5,1:08:43.19,1:08:47.13,Default,,0,0,0,,All these enormous powers, gat
 Dialogue: 5,1:08:47.79,1:08:48.86,Default,,0,0,0,,to break through
 Dialogue: 5,1:08:49.46,1:08:50.40,Default,,0,0,0,,the planet.
 Dialogue: 5,1:08:51.22,1:08:52.07,Default,,0,0,0,,The planet?!
-Dialogue: 5,1:08:52.50,1:08:55.46,Default,,0,0,0,,All the Old Deus were born on this planet.
-Dialogue: 5,1:08:55.76,1:08:57.85,Default,,0,0,0,,They all come from the Spirit Circuit.
-Dialogue: 5,1:08:58.63,1:09:01.54,Default,,0,0,0,,Which means the greatest power\Nin the world is obviously...
-Dialogue: 5,1:09:02.35,1:09:03.88,Default,,0,0,0,,The Spirit Circuit.
-Dialogue: 5,1:09:04.35,1:09:07.63,Default,,0,0,0,,As the weakest, we've set the stage for the final scene.
-Dialogue: 5,1:09:08.02,1:09:14.00,Default,,0,0,0,,We're gonna use their own strength against them\Nand turn the balance of power on it's head.
-Dialogue: 5,1:09:14.23,1:09:17.78,Default,,0,0,0,,The Suniaster will appear and once it is claimed,
-Dialogue: 5,1:09:18.02,1:09:20.97,Default,,0,0,0,,we'll become the One True God and fix the world.
+Dialogue: 5,1:08:52.50,1:08:55.76,Default,,0,0,0,,All the Old Deus came from the planet.
+Dialogue: 5,1:08:55.76,1:08:57.85,Default,,0,0,0,,Born from the Spirit Circuit.
+Dialogue: 5,1:08:58.63,1:09:01.54,Default,,0,0,0,,Therefore, the greatest power in the world is…
+Dialogue: 5,1:09:02.35,1:09:03.88,Default,,0,0,0,,The Spirit Circuit…
+Dialogue: 5,1:09:04.35,1:09:07.63,Default,,0,0,0,,As the weakest, we are setting up the final stage.
+Dialogue: 5,1:09:08.02,1:09:10.06,Default,,0,0,0,,Using their own strength,
+Dialogue: 0,1:09:10.55,1:09:14.00,Default,,0,0,0,,we'll turn the power balance of this world on its head.
+Dialogue: 5,1:09:14.23,1:09:17.78,Default,,0,0,0,,Suniaster appears, and at this moment,
+Dialogue: 5,1:09:18.02,1:09:20.97,Default,,0,0,0,,we become the One and fix the world.
 Dialogue: 5,1:09:21.57,1:09:28.88,Default,,0,0,0,,The concentrated power will be tamed and then redirected to the core using Schwi's weaponry.
 Dialogue: 5,1:09:29.25,1:09:31.75,Default,,0,0,0,,Umweg; 32 units,
 Dialogue: 5,1:09:31.75,1:09:33.10,Default,,0,0,0,,according to calculations,
