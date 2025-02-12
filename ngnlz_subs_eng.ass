@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1188
-Active Line: 1202
-Video Position: 99778
+Scroll Position: 1194
+Active Line: 1209
+Video Position: 100274
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1214,7 +1214,7 @@ Dialogue: 5,1:08:22.89,1:08:25.83,Default,,0,0,0,,Couron, not even an idiot is t
 Dialogue: 5,1:08:26.73,1:08:27.74,Default,,0,0,0,,After all,
 Dialogue: 5,1:08:28.44,1:08:29.92,Default,,0,0,0,,you don't need any of this,
 Dialogue: 0,1:08:30.41,1:08:33.17,Default,,0,0,0,,and Suniaster is still going to show up.
-Dialogue: 5,1:08:34.24,1:08:37.13,Default,,0,0,0,,That's why we brought everyone together.
+Dialogue: 5,1:08:34.24,1:08:37.13,Default,,0,0,0,,That's what we brought everyone together for.
 Dialogue: 5,1:08:38.55,1:08:40.01,Default,,0,0,0,,Áka Si Anse,
 Dialogue: 5,1:08:40.50,1:08:41.37,Default,,0,0,0,,Ether-bomb,
 Dialogue: 5,1:08:41.99,1:08:42.86,Default,,0,0,0,,Heaven's Smite.
@@ -1222,28 +1222,29 @@ Dialogue: 5,1:08:43.19,1:08:47.13,Default,,0,0,0,,All these enormous powers, gat
 Dialogue: 5,1:08:47.79,1:08:48.86,Default,,0,0,0,,to break through
 Dialogue: 5,1:08:49.46,1:08:50.40,Default,,0,0,0,,the planet.
 Dialogue: 5,1:08:51.22,1:08:52.07,Default,,0,0,0,,The planet?!
-Dialogue: 5,1:08:52.50,1:08:55.76,Default,,0,0,0,,All the Old Deus came from the planet.
+Dialogue: 5,1:08:52.50,1:08:55.76,Default,,0,0,0,,All the Old Deus emerged from the planet.
 Dialogue: 5,1:08:55.76,1:08:57.85,Default,,0,0,0,,Born from the Spirit Circuit.
-Dialogue: 5,1:08:58.63,1:09:01.54,Default,,0,0,0,,Therefore, the greatest power in the world is…
-Dialogue: 5,1:09:02.35,1:09:03.88,Default,,0,0,0,,The Spirit Circuit…
-Dialogue: 5,1:09:04.35,1:09:07.63,Default,,0,0,0,,As the weakest, we are setting up the final stage.
+Dialogue: 5,1:08:58.63,1:09:01.54,Default,,0,0,0,,Thus, the greatest power in the world is…
+Dialogue: 5,1:09:02.35,1:09:03.88,Default,,0,0,0,,The Spirit Circuit.
+Dialogue: 5,1:09:04.35,1:09:07.63,Default,,0,0,0,,We, the nobodies, are pulling the strings.
 Dialogue: 5,1:09:08.02,1:09:10.06,Default,,0,0,0,,Using their own strength,
-Dialogue: 0,1:09:10.55,1:09:14.00,Default,,0,0,0,,we'll turn the power balance of this world on its head.
+Dialogue: 0,1:09:10.55,1:09:14.00,Default,,0,0,0,,we'll turn the order of this world on its head.
 Dialogue: 5,1:09:14.23,1:09:17.78,Default,,0,0,0,,Suniaster appears, and at this moment,
 Dialogue: 5,1:09:18.02,1:09:20.97,Default,,0,0,0,,we become the One and fix the world.
-Dialogue: 5,1:09:21.57,1:09:28.88,Default,,0,0,0,,The concentrated power will be tamed and then redirected to the core using Schwi's weaponry.
-Dialogue: 5,1:09:29.25,1:09:31.75,Default,,0,0,0,,Umweg; 32 units,
-Dialogue: 5,1:09:31.75,1:09:33.10,Default,,0,0,0,,according to calculations,
-Dialogue: 5,1:09:33.46,1:09:37.92,Default,,0,0,0,,are capable of concentrating enough\Npower for the crust to burst.
-Dialogue: 5,1:09:37.92,1:09:39.82,Default,,0,0,0,,And there are only nine left.
-Dialogue: 5,1:09:39.91,1:09:41.84,Default,,0,0,0,,Once everything is set up...
+Dialogue: 5,1:09:21.57,1:09:23.72,Default,,0,0,0,,To control the accumulated strikes,
+Dialogue: 0,1:09:24.23,1:09:28.73,Default,,0,0,0,,we'll use power redirecting devices that Schwi has in her arsenal.
+Dialogue: 5,1:09:29.25,1:09:31.75,Default,,0,0,0,,Umweg, 32 units,
+Dialogue: 5,1:09:31.75,1:09:33.10,Default,,0,0,0,,precisely synchronized,
+Dialogue: 5,1:09:33.46,1:09:37.92,Default,,0,0,0,,are capable of controlling the energy required to breaking the crust.
+Dialogue: 5,1:09:37.92,1:09:39.82,Default,,0,0,0,,There are only nine left.
+Dialogue: 5,1:09:39.91,1:09:41.84,Default,,0,0,0,,Once they're all set up…
 Dialogue: 5,1:09:42.26,1:09:43.46,Default,,0,0,0,,checkmate.
 Dialogue: 5,1:09:45.22,1:09:47.93,Default,,0,0,0,,Those fools will pierce the planet's core themselves,
 Dialogue: 5,1:09:47.93,1:09:51.02,Default,,0,0,0,,and we'll emerge victorious by snatching\Nthe Suniaster right under their noses.
 Dialogue: 5,1:09:52.10,1:09:54.23,Default,,0,0,0,,Without anyone dying.
-Dialogue: 5,1:09:55.12,1:09:57.72,Default,,0,0,0,,After all of this I wanna ask these so-called gods:
-Dialogue: 5,1:09:58.97,1:10:00.23,Default,,0,0,0,,Hey hey losers!
-Dialogue: 5,1:10:00.66,1:10:03.03,Default,,0,0,0,,Enjoying yourself down there?
+Dialogue: 5,1:09:55.12,1:09:57.72,Default,,0,0,0,,I just can't wait to ask them this.
+Dialogue: 5,1:09:58.97,1:10:00.23,Default,,0,0,0,,Hey, hey, losers…
+Dialogue: 5,1:10:00.66,1:10:03.03,Default,,0,0,0,,enjoying yourselves?
 Dialogue: 5,1:10:03.03,1:10:03.78,Default,,0,0,0,,Riku...
 Dialogue: 5,1:10:04.83,1:10:05.78,Default,,0,0,0,,Riku!
 Comment: 0,1:10:05.97,1:10:05.97,Default,,0,0,0,,Sync END
@@ -1281,13 +1282,13 @@ Dialogue: 5,1:12:16.43,1:12:17.77,Default,,0,0,0,,I'll always do.
 Dialogue: 5,1:12:34.45,1:12:35.41,Default,,0,0,0,,Riku.
 Dialogue: 5,1:12:36.49,1:12:37.45,Default,,0,0,0,,Forgive me.
 Dialogue: 5,1:12:39.62,1:12:42.54,Default,,0,0,0,,I'll be back.
-Dialogue: 5,1:12:44.84,1:12:47.21,Default,,0,0,0,,The Elves have the Áka Si Anse.
-Dialogue: 5,1:12:47.21,1:12:49.47,Default,,0,0,0,,The Dwarfs have their E-bomb.
+Dialogue: 5,1:12:44.84,1:12:47.21,Default,,0,0,0,,The Elves have their Áka Si Anse.
+Dialogue: 5,1:12:47.21,1:12:49.47,Default,,0,0,0,,The Dwarfs have their Ether-bomb.
 Dialogue: 5,1:12:49.47,1:12:50.97,Default,,0,0,0,,They're both small fries
 Dialogue: 5,1:12:50.97,1:12:53.09,Default,,0,0,0,,and yet challenging Lord Artosh.
 Dialogue: 5,1:12:53.09,1:12:54.68,Default,,0,0,0,,What stupidity! Nya!
 Dialogue: 5,1:12:56.72,1:12:57.72,Default,,0,0,0,,That hurt—
-Dialogue: 5,1:12:57.72,1:13:02.02,Default,,0,0,0,,You're the one stupid Azriel.\NBut I understand your impatience...
+Dialogue: 5,1:12:57.72,1:13:02.02,Default,,0,0,0,,You're the stupid one Azriel.\NBut I understand your impatience...
 Dialogue: 5,1:13:02.94,1:13:05.57,Default,,0,0,0,,Lord Artosh has been silent for some time,
 Dialogue: 5,1:13:05.57,1:13:07.48,Default,,0,0,0,,no one knows how much longer it will last.
 Dialogue: 5,1:13:09.74,1:13:11.86,Default,,0,0,0,,Rather boring, isn't it?
@@ -1300,7 +1301,7 @@ Dialogue: 5,1:13:37.56,1:13:41.69,Default,,0,0,0,,I observed faint readings of s
 Dialogue: 5,1:13:41.69,1:13:44.19,Default,,0,0,0,,And well, what a most unexpected\Nbounty it has yielded me.
 Dialogue: 5,1:13:47.36,1:13:50.15,Default,,0,0,0,,It's a pleasure to meet you, scrap.
 Dialogue: 5,1:13:58.87,1:14:04.46,Default,,0,0,0,,Warning: Hostile action against this unit\Nwill trigger appropriate counter measures.
-Dialogue: 5,1:14:04.87,1:14:08.67,Default,,0,0,0,,From a single Prüfer unit? Isn't that cute.
+Dialogue: 5,1:14:04.87,1:14:08.67,Default,,0,0,0,,From a single Prüfer unit? That's so cute.
 Dialogue: 5,1:14:09.50,1:14:14.38,Default,,0,0,0,,I've confirmed there's no cluster\Nreadings within a 100 km radius.
 Dialogue: 5,1:14:14.38,1:14:19.68,Default,,0,0,0,,Thus it should be a fine and easy\Nopportunity to catch a premium prey.
 Dialogue: 5,1:14:19.68,1:14:22.73,Default,,0,0,0,,Number 1: You must not kill.
@@ -1409,8 +1410,9 @@ Dialogue: 5,1:21:22.56,1:21:26.73,Default,,0,0,0,,Don't play by the rules.\NHave
 Dialogue: 5,1:21:26.73,1:21:30.57,Default,,0,0,0,,Make them drop their guard,\Ndeceive them without mercy.
 Dialogue: 5,1:21:30.86,1:21:34.46,Default,,0,0,0,,Pick irrational moves.\NMake them worry about every prediction.
 Dialogue: 5,1:21:36.26,1:21:40.04,Default,,0,0,0,,If you fall, drag them with you.
-Dialogue: 5,1:21:43.29,1:21:45.79,Default,,0,0,0,,I can't die, not yet!
-Dialogue: 5,1:21:45.79,1:21:48.46,Default,,0,0,0,,I cannot die yet!
+Dialogue: 5,1:21:43.29,1:21:44.48,Default,,0,0,0,,I can't die!
+Dialogue: 0,1:21:44.48,1:21:45.79,Default,,0,0,0,,Not yet!
+Dialogue: 5,1:21:45.79,1:21:48.46,Default,,0,0,0,,I can't die yet!
 Dialogue: 5,1:22:05.44,1:22:06.44,Default,,0,0,0,,Umweg!
 Dialogue: 5,1:22:25.46,1:22:28.46,Default,,0,0,0,,Finally, a workable mistake.
 Dialogue: 5,1:22:28.46,1:22:30.96,Default,,0,0,0,,You've caused me quite a surprising amount of effort.
