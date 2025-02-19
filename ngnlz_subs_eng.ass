@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1194
-Active Line: 1209
-Video Position: 100274
+Scroll Position: 1197
+Active Line: 1217
+Video Position: 100840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1193,7 +1193,6 @@ Dialogue: 5,1:07:20.46,1:07:21.53,Default,,0,0,0,,Almost over?
 Dialogue: 5,1:07:21.98,1:07:23.21,Default,,0,0,0,,How long is that?
 Dialogue: 5,1:07:24.12,1:07:26.36,Default,,0,0,0,,How much longer do I have to worry?
 Dialogue: 5,1:07:32.49,1:07:33.31,Default,,0,0,0,,Hey, Couron
-Comment: 0,1:07:33.76,1:07:33.86,Default,,0,0,0,,Translation END
 Dialogue: 5,1:07:34.61,1:07:37.38,Default,,0,0,0,,do you know what the gods are after in this war?
 Dialogue: 5,1:07:39.18,1:07:40.46,Default,,0,0,0,,The title of the One.
 Dialogue: 5,1:07:40.93,1:07:42.90,Default,,0,0,0,,Yeah, according to Schwi,
@@ -1239,14 +1238,15 @@ Dialogue: 5,1:09:33.46,1:09:37.92,Default,,0,0,0,,are capable of controlling the
 Dialogue: 5,1:09:37.92,1:09:39.82,Default,,0,0,0,,There are only nine left.
 Dialogue: 5,1:09:39.91,1:09:41.84,Default,,0,0,0,,Once they're all set up…
 Dialogue: 5,1:09:42.26,1:09:43.46,Default,,0,0,0,,checkmate.
-Dialogue: 5,1:09:45.22,1:09:47.93,Default,,0,0,0,,Those fools will pierce the planet's core themselves,
-Dialogue: 5,1:09:47.93,1:09:51.02,Default,,0,0,0,,and we'll emerge victorious by snatching\Nthe Suniaster right under their noses.
+Dialogue: 5,1:09:45.22,1:09:47.93,Default,,0,0,0,,They themselves will pierce through the planet,
+Dialogue: 5,1:09:47.93,1:09:51.02,Default,,0,0,0,,and deliver Suniaster into our hands.
 Dialogue: 5,1:09:52.10,1:09:54.23,Default,,0,0,0,,Without anyone dying.
-Dialogue: 5,1:09:55.12,1:09:57.72,Default,,0,0,0,,I just can't wait to ask them this.
+Dialogue: 5,1:09:55.12,1:09:57.72,Default,,0,0,0,,I just can't wait to ask them.
 Dialogue: 5,1:09:58.97,1:10:00.23,Default,,0,0,0,,Hey, hey, losers…
 Dialogue: 5,1:10:00.66,1:10:03.03,Default,,0,0,0,,enjoying yourselves?
-Dialogue: 5,1:10:03.03,1:10:03.78,Default,,0,0,0,,Riku...
+Dialogue: 5,1:10:03.03,1:10:03.78,Default,,0,0,0,,Riku?
 Dialogue: 5,1:10:04.83,1:10:05.78,Default,,0,0,0,,Riku!
+Comment: 0,1:10:05.86,1:10:05.86,Default,,0,0,0,,Translation END
 Comment: 0,1:10:05.97,1:10:05.97,Default,,0,0,0,,Sync END
 Dialogue: 5,1:10:12.92,1:10:13.62,Default,,0,0,0,,Riku!
 Dialogue: 5,1:10:18.48,1:10:21.25,Default,,0,0,0,,Have you told anyone why you're leaving?
