@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1197
-Active Line: 1217
-Video Position: 100840
+Scroll Position: 1230
+Active Line: 1252
+Video Position: 104609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1200,7 +1200,7 @@ Dialogue: 5,1:07:43.31,1:07:46.04,Default,,0,0,0,,it's something called the Suni
 Dialogue: 5,1:07:46.70,1:07:48.39,Default,,0,0,0,,Many Old-deus emerged,
 Dialogue: 5,1:07:48.73,1:07:52.68,Default,,0,0,0,,and in order for only one to rule, these wannabe gods established…
 Dialogue: 5,1:07:53.11,1:07:54.42,Default,,0,0,0,,a conceptual device.
-Dialogue: 5,1:07:54.75,1:07:56.05,Default,,0,0,0,,Conceptual device?
+Dialogue: 5,1:07:54.75,1:07:56.05,Default,,0,0,0,,A conceptual device?
 Dialogue: 5,1:07:57.24,1:07:59.52,Default,,0,0,0,,Where could something like that even be?
 Dialogue: 5,1:08:00.36,1:08:02.71,Default,,0,0,0,,Suniaster's requirement:
 Dialogue: 5,1:08:03.37,1:08:07.18,Default,,0,0,0,,It will manifest before the greatest power on the planet.
@@ -1217,7 +1217,7 @@ Dialogue: 5,1:08:34.24,1:08:37.13,Default,,0,0,0,,That's what we brought everyon
 Dialogue: 5,1:08:38.55,1:08:40.01,Default,,0,0,0,,Áka Si Anse,
 Dialogue: 5,1:08:40.50,1:08:41.37,Default,,0,0,0,,Ether-bomb,
 Dialogue: 5,1:08:41.99,1:08:42.86,Default,,0,0,0,,Heaven's Smite.
-Dialogue: 5,1:08:43.19,1:08:47.13,Default,,0,0,0,,All these enormous powers, gathered for one purpose...
+Dialogue: 5,1:08:43.19,1:08:47.13,Default,,0,0,0,,All these enormous powers, gathered for one purpose…
 Dialogue: 5,1:08:47.79,1:08:48.86,Default,,0,0,0,,to break through
 Dialogue: 5,1:08:49.46,1:08:50.40,Default,,0,0,0,,the planet.
 Dialogue: 5,1:08:51.22,1:08:52.07,Default,,0,0,0,,The planet?!
@@ -1247,41 +1247,41 @@ Dialogue: 5,1:10:00.66,1:10:03.03,Default,,0,0,0,,enjoying yourselves?
 Dialogue: 5,1:10:03.03,1:10:03.78,Default,,0,0,0,,Riku?
 Dialogue: 5,1:10:04.83,1:10:05.78,Default,,0,0,0,,Riku!
 Comment: 0,1:10:05.86,1:10:05.86,Default,,0,0,0,,Translation END
-Comment: 0,1:10:05.97,1:10:05.97,Default,,0,0,0,,Sync END
 Dialogue: 5,1:10:12.92,1:10:13.62,Default,,0,0,0,,Riku!
 Dialogue: 5,1:10:18.48,1:10:21.25,Default,,0,0,0,,Have you told anyone why you're leaving?
 Dialogue: 5,1:10:24.88,1:10:25.68,Default,,0,0,0,,Nobody.
-Dialogue: 5,1:10:26.36,1:10:28.83,Default,,0,0,0,,The colony must be in absolute panic.
-Dialogue: 5,1:10:29.95,1:10:32.54,Default,,0,0,0,,They shouldn't be left on their own for too long.
-Dialogue: 5,1:10:33.41,1:10:38.21,Default,,0,0,0,,What now?! You're the one who never came back!
-Dialogue: 5,1:10:38.21,1:10:40.00,Default,,0,0,0,,Never...
-Dialogue: 5,1:10:40.00,1:10:43.09,Default,,0,0,0,,Take care of Nonna and the others.
-Dialogue: 5,1:10:57.10,1:10:59.02,Default,,0,0,0,,Riku, just sleep.
-Dialogue: 5,1:10:59.48,1:11:00.65,Default,,0,0,0,,I can't.
-Dialogue: 5,1:11:00.65,1:11:03.24,Default,,0,0,0,,We have to hurry up with the rest of the Umweg.
-Dialogue: 5,1:11:03.24,1:11:03.99,Default,,0,0,0,,It's alright.
-Dialogue: 5,1:11:04.74,1:11:09.74,Default,,0,0,0,,The attack won't start anytime soon.\NYour predictions... were never wrong.
-Dialogue: 5,1:11:09.74,1:11:11.03,Default,,0,0,0,,But—
-Dialogue: 5,1:11:11.03,1:11:13.41,Default,,0,0,0,,You need some rest, and everything's going well.
-Dialogue: 5,1:11:14.54,1:11:17.25,Default,,0,0,0,,That's it, you rest for one day.
-Dialogue: 5,1:11:22.30,1:11:23.71,Default,,0,0,0,,You're right.
-Dialogue: 5,1:11:24.09,1:11:27.51,Default,,0,0,0,,I guess I will focus on recovering today.
-Dialogue: 5,1:11:27.51,1:11:28.47,Default,,0,0,0,,Yes.
-Dialogue: 5,1:11:30.80,1:11:31.51,Default,,0,0,0,,Schwi.
-Dialogue: 5,1:11:32.31,1:11:34.43,Default,,0,0,0,,I'm sorry for being such a burden.
-Dialogue: 5,1:11:35.93,1:11:39.02,Default,,0,0,0,,Riku, you move on your own. You are not a burden.
-Dialogue: 5,1:11:42.02,1:11:43.48,Default,,0,0,0,,So Schwi,
-Dialogue: 5,1:11:44.28,1:11:45.65,Default,,0,0,0,,I have a favor to ask you.
-Dialogue: 5,1:11:46.74,1:11:50.53,Default,,0,0,0,,Could you... hold my hand while I sleep?
-Dialogue: 5,1:11:55.54,1:11:58.21,Default,,0,0,0,,I will hold it all the time.
-Dialogue: 5,1:11:58.71,1:12:00.54,Default,,0,0,0,,Don't worry Riku.
-Dialogue: 5,1:12:05.09,1:12:10.30,Default,,0,0,0,,Schwi, thank you for coming into my life.
-Dialogue: 5,1:12:11.30,1:12:12.64,Default,,0,0,0,,Really.
-Dialogue: 5,1:12:13.68,1:12:15.18,Default,,0,0,0,,I love you so much.
-Dialogue: 5,1:12:16.43,1:12:17.77,Default,,0,0,0,,I'll always do.
-Dialogue: 5,1:12:34.45,1:12:35.41,Default,,0,0,0,,Riku.
-Dialogue: 5,1:12:36.49,1:12:37.45,Default,,0,0,0,,Forgive me.
-Dialogue: 5,1:12:39.62,1:12:42.54,Default,,0,0,0,,I'll be back.
+Dialogue: 5,1:10:26.56,1:10:28.83,Default,,0,0,0,,The colony must be in absolute panic.
+Dialogue: 5,1:10:30.02,1:10:32.26,Default,,0,0,0,,They shouldn't be left on their own for too long.
+Dialogue: 5,1:10:33.44,1:10:36.63,Default,,0,0,0,,What now?! You're the one who never came back!
+Dialogue: 5,1:10:38.35,1:10:38.91,Default,,0,0,0,,Never...
+Dialogue: 5,1:10:40.09,1:10:43.22,Default,,0,0,0,,Take care of Nonna and the others.
+Dialogue: 5,1:10:57.13,1:10:59.01,Default,,0,0,0,,Riku, just sleep.
+Dialogue: 5,1:10:59.51,1:11:00.44,Default,,0,0,0,,I can't.
+Dialogue: 5,1:11:00.73,1:11:02.94,Default,,0,0,0,,We have to hurry up with the rest of the Umweg.
+Dialogue: 5,1:11:03.40,1:11:04.23,Default,,0,0,0,,It's alright.
+Dialogue: 5,1:11:04.76,1:11:09.79,Default,,0,0,0,,The attack won't start anytime soon.\NYour predictions... were never wrong.
+Dialogue: 5,1:11:09.92,1:11:10.72,Default,,0,0,0,,But—
+Dialogue: 5,1:11:11.06,1:11:13.01,Default,,0,0,0,,You need some rest, and everything's going well.
+Dialogue: 5,1:11:14.62,1:11:16.78,Default,,0,0,0,,That's it, you rest for one day.
+Dialogue: 5,1:11:22.38,1:11:23.62,Default,,0,0,0,,You're right.
+Dialogue: 5,1:11:24.22,1:11:27.15,Default,,0,0,0,,I guess I will focus on recovering today.
+Dialogue: 5,1:11:27.68,1:11:28.28,Default,,0,0,0,,Yes.
+Dialogue: 5,1:11:30.98,1:11:31.63,Default,,0,0,0,,Schwi.
+Dialogue: 5,1:11:32.41,1:11:34.03,Default,,0,0,0,,I'm sorry for being such a burden.
+Dialogue: 5,1:11:35.92,1:11:39.04,Default,,0,0,0,,Riku, you move on your own. You are not a burden.
+Dialogue: 5,1:11:42.21,1:11:43.13,Default,,0,0,0,,So Schwi,
+Dialogue: 5,1:11:44.30,1:11:45.66,Default,,0,0,0,,I have a favor to ask you.
+Dialogue: 5,1:11:46.88,1:11:50.54,Default,,0,0,0,,Could you... hold my hand while I sleep?
+Dialogue: 5,1:11:55.73,1:11:57.61,Default,,0,0,0,,I will hold it all the time.
+Dialogue: 5,1:11:58.82,1:12:00.59,Default,,0,0,0,,Don't worry Riku.
+Dialogue: 5,1:12:05.16,1:12:10.31,Default,,0,0,0,,Schwi, thank you for coming into my life.
+Dialogue: 5,1:12:11.41,1:12:12.12,Default,,0,0,0,,Really.
+Dialogue: 5,1:12:13.78,1:12:14.70,Default,,0,0,0,,I love you so much.
+Dialogue: 5,1:12:16.58,1:12:17.90,Default,,0,0,0,,I'll always do.
+Dialogue: 5,1:12:34.48,1:12:35.15,Default,,0,0,0,,Riku.
+Dialogue: 5,1:12:36.52,1:12:37.68,Default,,0,0,0,,Forgive me.
+Dialogue: 5,1:12:39.60,1:12:42.04,Default,,0,0,0,,I'll be back.
+Comment: 0,1:12:43.03,1:12:43.11,Default,,0,0,0,,Sync END
 Dialogue: 5,1:12:44.84,1:12:47.21,Default,,0,0,0,,The Elves have their Áka Si Anse.
 Dialogue: 5,1:12:47.21,1:12:49.47,Default,,0,0,0,,The Dwarfs have their Ether-bomb.
 Dialogue: 5,1:12:49.47,1:12:50.97,Default,,0,0,0,,They're both small fries
