@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1236
-Active Line: 1255
-Video Position: 104609
+Scroll Position: 1251
+Active Line: 1265
+Video Position: 105252
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1284,17 +1284,18 @@ Dialogue: 5,1:12:34.48,1:12:35.15,Default,,0,0,0,,Riku,
 Dialogue: 5,1:12:36.52,1:12:37.68,Default,,0,0,0,,forgive me.
 Dialogue: 5,1:12:39.60,1:12:42.04,Default,,0,0,0,,I'll be back soon.
 Comment: 0,1:12:42.33,1:12:42.41,Default,,0,0,0,,Translation END
-Comment: 0,1:12:43.03,1:12:43.11,Default,,0,0,0,,Sync END
-Dialogue: 5,1:12:44.84,1:12:47.21,Default,,0,0,0,,The Elves with their Áka Si Anse.
-Dialogue: 5,1:12:47.21,1:12:49.47,Default,,0,0,0,,The Dwarfs with their Ether-bomb.
-Dialogue: 5,1:12:49.47,1:12:50.97,Default,,0,0,0,,They're both small fries
-Dialogue: 5,1:12:50.97,1:12:53.09,Default,,0,0,0,,and yet challenging Lord Artosh.
-Dialogue: 5,1:12:53.09,1:12:54.68,Default,,0,0,0,,What stupidity! Nya!
-Dialogue: 5,1:12:56.72,1:12:57.72,Default,,0,0,0,,That hurt—
-Dialogue: 5,1:12:57.72,1:13:02.02,Default,,0,0,0,,You're the stupid one Azriel.\NBut I understand your impatience...
-Dialogue: 5,1:13:02.94,1:13:05.57,Default,,0,0,0,,Lord Artosh has been silent for some time,
-Dialogue: 5,1:13:05.57,1:13:07.48,Default,,0,0,0,,no one knows how much longer it will last.
-Dialogue: 5,1:13:09.74,1:13:11.86,Default,,0,0,0,,Rather boring, isn't it?
+Dialogue: 5,1:12:44.97,1:12:47.21,Default,,0,0,0,,The Elves with their Áka Si Anse,
+Dialogue: 5,1:12:47.30,1:12:49.24,Default,,0,0,0,,the Dwarfs with their Ether-bomb,
+Dialogue: 5,1:12:49.62,1:12:51.08,Default,,0,0,0,,both wretched worms.
+Dialogue: 5,1:12:51.08,1:12:53.12,Default,,0,0,0,,To stand against Lord Artosh,
+Dialogue: 5,1:12:53.12,1:12:54.68,Default,,0,0,0,,you must be a total fool, nyan!
+Dialogue: 5,1:12:57.21,1:12:58.41,Default,,0,0,0,,Ouch, nyan!
+Dialogue: 5,1:12:57.75,1:12:59.33,Alt,,0,0,0,,You're the fool, Azriel!
+Dialogue: 0,1:12:59.84,1:13:02.14,Default,,0,0,0,,We can't afford to act foolishly either.
+Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Lord Artosh has been silent for some time,
+Dialogue: 5,1:13:05.65,1:13:07.22,Default,,0,0,0,,no one knows how much longer it will last.
+Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,Quite a bore, isn't it?
+Comment: 0,1:13:18.25,1:13:18.33,Default,,0,0,0,,Sync END
 Dialogue: 5,1:13:18.83,1:13:20.58,Default,,0,0,0,,Eight more.
 Dialogue: 5,1:13:21.71,1:13:26.04,Default,,0,0,0,,I have to acquire the Suniaster, I cannot let Riku die.
 Dialogue: 5,1:13:26.63,1:13:28.51,Default,,0,0,0,,Riku, just hold on.
