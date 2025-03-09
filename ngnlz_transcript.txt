@@ -1529,16 +1529,22 @@ I'll be back soon.
 
 
 Elves dōmei no Aka Si Anse.
-The Elves with Áka Si Anse.
+The Elves with their Áka Si Anse,
 
 Dwarves dōmei no suibaku.
-The Dwarves with Ether-bomb.
+the Dwarfs with their Ether-bomb…
 
 Docchi no zako mo
-Both wretched worms.
+What wretched worms.
 
-Artosh ni wa mukaou nante baka no kiwami. Nyan.
-To stand against Lord Artosh, one must be a total fool! Nyan!
+Artosh ni wa mukaou nante 
+If you stand against Lord Artosh, 
+
+baka no kiwami. Nyan.
+you must be a total fool, nyan!
+
+_
+Ouch, nyan!
 
 Baka wa omaeda Azriel.
 You're the fool, Azriel!
@@ -1547,10 +1553,10 @@ Kore de wa kochira mo hetanate wa ute.
 We can't afford to act recklessly now.
 
 Artosh-sama ga ki o matte ora rerunaraba,
-
+Lord Artosh decided to wait,
 
 wareware mo matsu shika arumai.
-
+then we must wait as well.
 
 Taikutsudegozaimasu ne?
 Quite a bore, isn't it?
