@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
-Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
+Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
+Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1257
+Scroll Position: 1263
 Active Line: 1267
-Video Position: 105355
+Video Position: 105536
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1291,50 +1291,51 @@ Dialogue: 5,1:12:53.14,1:12:54.68,Default,,0,0,0,,you must be a total fool, nyan
 Dialogue: 5,1:12:57.21,1:12:58.41,Default,,0,0,0,,Ouch, nyan!
 Dialogue: 5,1:12:57.75,1:12:59.33,Alt,,0,0,0,,You're the fool, Azriel!
 Dialogue: 0,1:12:59.84,1:13:02.30,Default,,0,0,0,,We can't afford to act recklessly now.
-Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Lord Artosh decided to wait,
+Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Lord Artosh decided to withhold,
 Dialogue: 5,1:13:05.65,1:13:07.22,Default,,0,0,0,,then we must wait as well.
-Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,Quite a bore, isn't it?
+Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,Utterly boring, is it not?
 Comment: 0,1:13:17.75,1:13:17.82,Default,,0,0,0,,Translation END
-Comment: 0,1:13:18.25,1:13:18.33,Default,,0,0,0,,Sync END
-Dialogue: 5,1:13:18.85,1:13:20.38,Default,,0,0,0,,Eight more.
-Dialogue: 5,1:13:21.73,1:13:25.67,Default,,0,0,0,,I have to acquire the Suniaster, I cannot let Riku die.
-Dialogue: 5,1:13:26.76,1:13:28.37,Default,,0,0,0,,Riku, just hold on.
-Dialogue: 5,1:13:28.88,1:13:29.63,Default,,0,0,0,,Oh my.
-Dialogue: 5,1:13:32.30,1:13:34.64,Default,,0,0,0,,Look what we found on this lovely day.
-Dialogue: 5,1:13:37.56,1:13:41.69,Default,,0,0,0,,I observed faint readings of spiritual\Nenergy so I came to investigate.
-Dialogue: 5,1:13:41.69,1:13:44.19,Default,,0,0,0,,And well, what a most unexpected\Nbounty it has yielded me.
-Dialogue: 5,1:13:47.36,1:13:50.15,Default,,0,0,0,,It's a pleasure to meet you, scrap.
-Dialogue: 5,1:13:58.87,1:14:04.46,Default,,0,0,0,,Warning: Hostile action against this unit\Nwill trigger appropriate counter measures.
-Dialogue: 5,1:14:04.87,1:14:08.67,Default,,0,0,0,,From a single Prüfer unit? That's so cute.
-Dialogue: 5,1:14:09.50,1:14:14.38,Default,,0,0,0,,I've confirmed there's no cluster\Nreadings within a 100 km radius.
-Dialogue: 5,1:14:14.38,1:14:19.68,Default,,0,0,0,,Thus it should be a fine and easy\Nopportunity to catch a premium prey.
-Dialogue: 5,1:14:19.68,1:14:22.73,Default,,0,0,0,,Number 1: You must not kill.
-Dialogue: 5,1:14:23.02,1:14:26.73,Default,,0,0,0,,Luckily for you. Ex-machina do not\Nunderstand the concept of death.
+Dialogue: 5,1:13:18.89,1:13:20.38,Default,,0,0,0,,Delay activation.
+Dialogue: 5,1:13:21.73,1:13:25.67,Default,,0,0,0,,If I could get the Suniaster faster, Riku won't die.
+Dialogue: 5,1:13:26.76,1:13:28.37,Default,,0,0,0,,Riku, please hold on!
+Dialogue: 5,1:13:28.90,1:13:29.88,Default,,0,0,0,,Oh my!
+Dialogue: 5,1:13:32.41,1:13:35.18,Default,,0,0,0,,Look what we found on this lovely day.
+Dialogue: 5,1:13:37.67,1:13:41.69,Default,,0,0,0,,I observed faint readings of spiritual\\Nenergy so I came to investigate.
+Dialogue: 5,1:13:41.69,1:13:44.65,Default,,0,0,0,,And well, what a most unexpected\Nbounty it has yielded me.
+Dialogue: 5,1:13:47.46,1:13:50.01,Default,,0,0,0,,It's a pleasure to meet you, scrap.
+Dialogue: 5,1:13:58.89,1:14:04.01,Default,,0,0,0,,Warning: Hostile action against this unit\Nwill trigger appropriate counter measures.
+Dialogue: 5,1:14:04.98,1:14:08.38,Default,,0,0,0,,From a single Prüfer unit? That's so cute.
+Dialogue: 5,1:14:09.62,1:14:14.18,Default,,0,0,0,,I've confirmed there's no cluster\Nreadings within a 100 km radius.
+Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,Thus it should be a fine and easy\Nopportunity to catch a premium prey.
+Dialogue: 5,1:14:19.82,1:14:22.79,Default,,0,0,0,,Number 1: You must not kill.
+Dialogue: 5,1:14:23.10,1:14:27.03,Default,,0,0,0,,Luckily for you. Ex-machina do not\Nunderstand the concept of death.
 Dialogue: 5,1:14:27.19,1:14:29.86,Default,,0,0,0,,Number 2: You must not let anyone die.
-Dialogue: 5,1:14:29.86,1:14:32.69,Default,,0,0,0,,Please refrain from unnecessary resist—
-Dialogue: 5,1:14:31.57,1:14:32.69,Alt,,0,0,0,,I refuse.
-Dialogue: 5,1:14:32.69,1:14:33.36,Default,,0,0,0,,Pardon?
-Dialogue: 5,1:14:33.90,1:14:35.49,Default,,0,0,0,,This unit has been abandoned.
-Dialogue: 5,1:14:35.49,1:14:36.78,Default,,0,0,0,,It has no worth.
-Dialogue: 5,1:14:36.78,1:14:41.41,Default,,0,0,0,,Number 6: Break any of these rules and you lose.
-Dialogue: 5,1:14:41.41,1:14:42.54,Default,,0,0,0,,Therefore,
-Dialogue: 5,1:14:43.87,1:14:45.83,Default,,0,0,0,,just let me leave.
-Dialogue: 5,1:14:48.00,1:14:51.76,Default,,0,0,0,,Impossible, an Ex-machina is begging\Nfor its life?
-Dialogue: 5,1:14:52.05,1:14:55.26,Default,,0,0,0,,And on top of that, it's a defect that\Nhas been abandoned by a cluster?
-Dialogue: 5,1:14:55.84,1:14:59.93,Default,,0,0,0,,You're the premium among the premiums!
-Dialogue: 5,1:15:01.85,1:15:03.35,Default,,0,0,0,,Numerically
-Dialogue: 5,1:15:03.35,1:15:05.85,Default,,0,0,0,,my chances of survival are
-Dialogue: 5,1:15:06.35,1:15:07.27,Default,,0,0,0,,zero.
-Dialogue: 5,1:15:08.73,1:15:09.86,Default,,0,0,0,,But,
-Dialogue: 5,1:15:11.19,1:15:13.92,Default,,0,0,0,,zero shall vanish from the probability theory.
-Dialogue: 5,1:15:14.94,1:15:24.16,Default,,0,0,0,,Laden: code 1673B743E1F255\NActivate: Lösen.
-Dialogue: 5,1:15:27.33,1:15:28.83,Default,,0,0,0,,Final warning.
-Dialogue: 5,1:15:29.42,1:15:33.05,Default,,0,0,0,,All armaments, fire power and combat maneuvers
-Dialogue: 5,1:15:34.67,1:15:36.55,Default,,0,0,0,,set to maximum output.
-Dialogue: 5,1:15:37.93,1:15:41.93,Default,,0,0,0,,Oh my. I knew the Ex-machinas learn to imitate the deadliest attack
-Dialogue: 5,1:15:41.93,1:15:44.89,Default,,0,0,0,,performed by an enemy.
-Dialogue: 5,1:15:46.06,1:15:49.15,Default,,0,0,0,,Have any of you died of laughter?
-Dialogue: 5,1:15:49.85,1:15:50.98,Default,,0,0,0,,Over-boost!
+Dialogue: 5,1:14:30.14,1:14:32.01,Default,,0,0,0,,Please refrain from unnecessary resist—
+Dialogue: 5,1:14:31.59,1:14:32.26,Alt,,0,0,0,,I refuse.
+Dialogue: 5,1:14:32.76,1:14:33.59,Default,,0,0,0,,Pardon?
+Dialogue: 5,1:14:34.09,1:14:35.35,Default,,0,0,0,,This unit has been abandoned.
+Dialogue: 5,1:14:35.57,1:14:36.46,Default,,0,0,0,,It has no worth.
+Dialogue: 5,1:14:36.92,1:14:40.89,Default,,0,0,0,,Number 6: Break any of these rules and you lose.
+Dialogue: 5,1:14:41.70,1:14:42.26,Default,,0,0,0,,Therefore,
+Dialogue: 5,1:14:43.99,1:14:45.61,Default,,0,0,0,,just let me leave.
+Dialogue: 5,1:14:48.07,1:14:51.52,Default,,0,0,0,,Impossible, an Ex-machina is begging\Nfor its life?
+Dialogue: 5,1:14:52.11,1:14:55.74,Default,,0,0,0,,And on top of that, it's a defect that\Nhas been abandoned by a cluster?
+Dialogue: 5,1:14:55.96,1:14:59.79,Default,,0,0,0,,You're the premium among the premiums!
+Dialogue: 5,1:15:01.98,1:15:03.15,Default,,0,0,0,,Numerically
+Dialogue: 5,1:15:03.50,1:15:06.11,Default,,0,0,0,,my chances of survival are
+Dialogue: 5,1:15:06.59,1:15:07.42,Default,,0,0,0,,zero.
+Dialogue: 5,1:15:08.86,1:15:09.53,Default,,0,0,0,,But,
+Dialogue: 5,1:15:11.33,1:15:13.86,Default,,0,0,0,,zero shall vanish from the probability theory.
+Dialogue: 5,1:15:15.03,1:15:21.74,Default,,0,0,0,,Laden: code 1673B743E1F255\NActivate: Lösen.
+Dialogue: 0,1:15:21.83,1:15:24.00,Default,,0,0,0,,
+Dialogue: 5,1:15:27.37,1:15:28.74,Default,,0,0,0,,Final warning.
+Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All armaments, fire power and combat maneuvers
+Dialogue: 5,1:15:34.71,1:15:36.47,Default,,0,0,0,,set to maximum output.
+Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh my. I knew the Ex-machinas learn to imitate the deadliest attack
+Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,performed by an enemy.
+Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Have any of you died of laughter?
+Dialogue: 5,1:15:49.94,1:15:51.02,Default,,0,0,0,,Over-boost!
+Comment: 0,1:15:51.74,1:15:51.83,Default,,0,0,0,,Sync END
 Dialogue: 5,1:16:05.37,1:16:07.00,Default,,0,0,0,,Asyut-Armor!
 Dialogue: 5,1:16:15.09,1:16:20.05,Default,,0,0,0,,Not very kind to the environment, scattering dead spirits like that.
 Dialogue: 5,1:16:20.05,1:16:21.05,Default,,0,0,0,,However,
