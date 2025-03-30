@@ -1562,76 +1562,88 @@ Taikutsudegozaimasu ne?
 Quite a bore, isn't it?
 
 Ato hakki.
-
+Delay activation.
 
 Suniaster sae te ni irereba, riku wa shinanai.
 
 
 Riku, Mattete ne.
+Riku, hold on!
 
+Oya!
+Oh my!
 
-Oya.
+Honjitsu wa hitori de o sanpo de gozaimasu ka?
+Are we taking a solitary stroll today?
 
+Biryōna seirei han'nō o mikaketa node, shirabete mimashitara
+I noticed a faint spiritual reaction, so I came to take a look.
 
-Honjitsu wa hitori de o sanpodegozaimasu ka?
-
-
-Biryōna seirei han'nō o mikaketanode, shirabete mimashitara
-
-
-omowanu shūkaku ga korogatte gozaimasu ne.
-
+omowanu shūkaku na korogatte gozaimasu ne.
+And what a wonderful bounty it turns out to be.
 
 Ga kigen-yō, scrap.
-
+Pleasure to meet you, scrap.
 
 Keikoku. Tōki to tekitai surunara sōō no taiō o jikkō suru.
+Warning: Any hostile action will result in appropriate counter measures.
 
-
-Prufer ikki de?Degozaimasu ka?
-
+Prufer ikki de? degozaimasu ka?
+From a single Prüfer, I presume?
 
 100-kiro inai ni cluster no han'nō wa nai to kakunin shite gozaimasu.
 
 
-Yueni puremiamuna nekku o ījī ni chōonba dekiru chansu ka to zonjimashite.
-
+Yueni puremiamu na nekku o ījī ni chōonba dekiru chansu ka to zonjimashite.
+Thus, I consider it a magnifique opportunité to pick up a premium head.
 
 Hitotsu. Dare mo koroshite wa naranai.
-
+1. No one can be killed.
 
 Saiwai ekusumakina ni wa shi no gainen mo nai kotodesushi.
-
+Fortunately, Ex-machinas don't possess the concept of death.
 
 Futatsu dare mo shina sete wa naranai.
-
+2. No one can be left to die.
 
 Dō ka mudanateikō wa-
-
+Please stand still and
 
 Kotowaru.
-
+I refuse.
 
 Hai?
+Pardon?
 
+Tōki wa haikki.
+This unit is abandoned.
 
-Tōki wa haiki. Kachi wanai. Muttsu jōki ni ihan suru issai wa haiboku to suru.
+Kachi wanai.
+It's worthless.
 
+Muttsu jōki ni ihan suru issai wa haiboku to suru.
+6: Breaking any of these rules results in a loss.
+
+Dakara,
+Therefore,
+
+minogashite hoshii.
+please, spare me.
 
 Masaka ekusumakina ga shi o osore kongan?
+No way, an Ex-machina is begging for its life?
 
-
-Shikamo renketsu kaijo no kekkan-hin?
-
+Shi– Shi– Shikamo renketsu kaijo no kekkan-hin?
+M– m– moreover, a defect discarded by a cluster?!
 
 Kore wa puremia-chū no puremiadegozaimasu yo!
-
+You're the premium among the premiums!
 
 Hi ga senryoku kōsatsu sanshutsu shōritsu. Zetsumu.
 
 
 Dakedo. Kakuritsu-ron ni zero wa nai.
-
+However, it's never truly a zero.
 
 Saishū kankoku.
 
