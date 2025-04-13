@@ -1535,10 +1535,10 @@ Dwarves dōmei no suibaku.
 the Dwarfs with their Ether-bomb…
 
 Docchi no zako mo
-What wretched worms.
+both wretched worms.
 
 Artosh ni wa mukaou nante 
-If you stand against Lord Artosh, 
+To stand against Lord Artosh,
 
 baka no kiwami. Nyan.
 you must be a total fool, nyan!
@@ -1550,22 +1550,22 @@ Baka wa omaeda Azriel.
 You're the fool, Azriel!
 
 Kore de wa kochira mo hetanate wa ute.
-We can't afford to act recklessly now.
+At this moment we can't afford any mistakes.
 
 Artosh-sama ga ki o matte ora rerunaraba,
-Lord Artosh decided to wait,
+If Lord Artosh refrains from acting,
 
 wareware mo matsu shika arumai.
 then we must wait as well.
 
 Taikutsudegozaimasu ne?
-Quite a bore, isn't it?
+Utterly boring, isn't it?
 
 Ato hakki.
-Delay activation.
+Idle mode.
 
 Suniaster sae te ni irereba, riku wa shinanai.
-
+I have to get this Suniaster, and Riku won't die.
 
 Riku, Mattete ne.
 Riku, hold on!
@@ -1574,10 +1574,10 @@ Oya!
 Oh my!
 
 Honjitsu wa hitori de o sanpo de gozaimasu ka?
-Are we taking a solitary stroll today?
+Are we having a solitary stroll today?
 
 Biryōna seirei han'nō o mikaketa node, shirabete mimashitara
-I noticed a faint spiritual reaction, so I came to take a look.
+A faint spiritual reaction caught my eye, so I came to take a look.
 
 omowanu shūkaku na korogatte gozaimasu ne.
 And what a wonderful bounty it turns out to be.
@@ -1586,40 +1586,40 @@ Ga kigen-yō, scrap.
 Pleasure to meet you, scrap.
 
 Keikoku. Tōki to tekitai surunara sōō no taiō o jikkō suru.
-Warning: Any hostile action will result in appropriate counter measures.
+Warning: Any hostile action will result in severe countermeasures.
 
 Prufer ikki de? degozaimasu ka?
-From a single Prüfer, I presume?
+From a single Prüfer, you say?
 
 100-kiro inai ni cluster no han'nō wa nai to kakunin shite gozaimasu.
-
+I've confirmed that there is no cluster activity within 100 km.
 
 Yueni puremiamu na nekku o ījī ni chōonba dekiru chansu ka to zonjimashite.
-Thus, I consider it a magnifique opportunité to pick up a premium head.
+Then, it's truly a magnifique opportunité to pick up a premium head.
 
 Hitotsu. Dare mo koroshite wa naranai.
-1. No one can be killed.
+1: No one can be killed.
 
 Saiwai ekusumakina ni wa shi no gainen mo nai kotodesushi.
-Fortunately, Ex-machinas don't possess the concept of death.
+Luckily, Ex-Machinas don’t even possess the concept of death.
 
 Futatsu dare mo shina sete wa naranai.
-2. No one can be left to die.
+2: No one can be left to die.
 
 Dō ka mudanateikō wa-
-Please stand still and
+Please, no futile–
 
 Kotowaru.
-I refuse.
+I refuse!
 
 Hai?
 Pardon?
 
 Tōki wa haikki.
-This unit is abandoned.
+This unit is disconnected,
 
 Kachi wanai.
-It's worthless.
+it's worthless.
 
 Muttsu jōki ni ihan suru issai wa haiboku to suru.
 6: Breaking any of these rules results in a loss.
@@ -1631,31 +1631,58 @@ minogashite hoshii.
 please, spare me.
 
 Masaka ekusumakina ga shi o osore kongan?
-No way, an Ex-machina is begging for its life?
+No way, an Ex-machina that begs for its life?
 
 Shi– Shi– Shikamo renketsu kaijo no kekkan-hin?
 M– m– moreover, a defect discarded by a cluster?!
 
 Kore wa puremia-chū no puremiadegozaimasu yo!
-You're the premium among the premiums!
+It's the premium among the premiums!
 
-Hi ga senryoku kōsatsu sanshutsu shōritsu. Zetsumu.
+Hi ga senryoku kōsatsu…
+Firepower comparison…
 
+sanshutsu shōritsu:
+chances of survival:
 
-Dakedo. Kakuritsu-ron ni zero wa nai.
-However, it's never truly a zero.
+Zetsumu.
+none.
+
+Dakedo,
+However,
+
+Kakuritsu-ron ni zero wa nai.
+they're never truly zero.
+
+_
+Laden: Code 1673B743E1F25 Script 3
+
+_
+Activate: Lösen.
 
 Saishū kankoku.
+Final warning.
 
+Zenbu sō senryoku senjutsu o otoshite
+All gear, armaments, maneuvers unrestricted.
 
-Zenbu sō senryoku senjutsu o otoshite inochigoi o kaishi suru.
+inochigoi o kaishi suru.
+Life preservation initiated.
 
+Oya. ekusumakina wa gekiha yōin o kaiseki shi, 
+Oh dear… Ex-machinas are said to analyze and replicate
 
-Hon'ya ekusumakina wa gekiha yōin o kaiseki shi, mohō surushi ~yuna no hazude gozaimasu ga.
-
+mohō surushi ~yuna no hazude gozaimasu ga.
+the techniques that were used against them.
 
 Moshiya donata ka wa rai korosa retanode.
+Could it be that any of you died from laughter?
 
+Over-boost!
+Over-boost!
+
+_
+Asyut-Armor!
 
 Reigai o maki chirasu to wa, kankyō ni yasashikunai kikaidegozaimasu ne.
 

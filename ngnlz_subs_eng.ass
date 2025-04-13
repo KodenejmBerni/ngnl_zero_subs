@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1276
-Active Line: 1290
-Video Position: 107703
+Scroll Position: 1303
+Active Line: 1323
+Video Position: 111489
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,7 +146,7 @@ Dialogue: 5,0:10:29.90,0:10:30.31,Default,,0,0,0,,Riku!
 Dialogue: 5,0:10:30.31,0:10:31.77,Default,,0,0,0,,Daddy!
 Dialogue: 5,0:10:32.11,0:10:33.19,Alt,,0,0,0,,Nonna!
 Dialogue: 5,0:10:32.44,0:10:36.36,Default,,0,0,0,,Riku, Aley, welcome back! Where's daddy?
-Dialogue: 5,0:10:36.36,0:10:40.62,Default,,100,100,0,,I want to show him the letter I wrote. Where's Daddy?
+Dialogue: 5,0:10:36.36,0:10:40.62,Default,,0,0,0,,I want to show him the letter I wrote. Where's Daddy?
 Dialogue: 5,0:10:39.28,0:10:41.49,Default,,0,0,0,,Listen to me, Nonna.
 Dialogue: 5,0:10:44.91,0:10:46.08,Default,,0,0,0,,Riku...
 Dialogue: 5,0:10:52.59,0:10:53.34,Default,,0,0,0,,Nonna,
@@ -165,10 +165,10 @@ Dialogue: 5,0:11:32.00,0:11:33.84,Default,,0,0,0,,That's not winning!
 Dialogue: 5,0:11:33.84,0:11:34.83,Default,,0,0,0,,It should be you!
 Dialogue: 5,0:11:35.30,0:11:37.30,Default,,0,0,0,,You're the one who should have died!
 Dialogue: 5,0:11:37.30,0:11:38.42,Default,,0,0,0,,Nonna!
-Dialogue: 5,0:11:53.61,0:11:56.89,Default,,0,0,0,,You two, better go take a bath.
-Dialogue: 5,0:11:57.19,0:11:58.57,Default,,0,0,0,,I'll dust myself off.
-Dialogue: 5,0:11:58.61,0:12:00.74,Default,,0,0,0,,No, take a bath.
-Dialogue: 5,0:12:00.74,0:12:02.95,Default,,0,0,0,,You guys stink.
+Dialogue: 5,0:11:53.61,0:11:56.89,Default,,0,0,0,,You two, go take a bath.
+Dialogue: 5,0:11:57.19,0:11:58.61,Default,,0,0,0,,I'll clean myself up.
+Dialogue: 5,0:11:58.61,0:12:00.74,Default,,0,0,0,,I said take a bath.
+Dialogue: 5,0:12:00.74,0:12:02.95,Default,,0,0,0,,You guys stink!
 Dialogue: 5,0:12:12.88,0:12:14.13,Default,,0,0,0,,So we could...
 Dialogue: 5,0:12:15.25,0:12:17.30,Default,,0,0,0,,So we could win?!
 Dialogue: 5,0:12:18.13,0:12:19.92,Default,,0,0,0,,Fucking hypocrite!
@@ -176,7 +176,7 @@ Dialogue: 5,0:12:21.59,0:12:23.80,Default,,0,0,0,,Ivan threw his life away!
 Dialogue: 5,0:12:24.51,0:12:26.51,Default,,0,0,0,,I told him to die!
 Dialogue: 5,0:12:28.97,0:12:30.35,Default,,0,0,0,,Say it!
 Dialogue: 5,0:12:30.35,0:12:35.48,Default,,0,0,0,,I killed him, because that's the only way for us to live!
-Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If that's how one stays alive,
+Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If that's how you stay alive,
 Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what comes next?
 Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far I need to go?
 Dialogue: 5,0:12:45.78,0:12:50.25,Default,,0,0,0,,Until I order half the village to bite the dust for the other half?
@@ -193,7 +193,7 @@ Dialogue: 5,0:13:32.79,0:13:35.25,Default,,0,0,0,,{\i1}Ivan's death won't be in 
 Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Ruins of an elvish city,
 Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}things you almost never come across.
 Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Staying sane in such a world...
-Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}could that really be called sanity?"
+Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}could that really be called sanity?
 Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}The Dwarves?
 Dialogue: 5,0:14:11.62,0:14:12.77,Default,,0,0,0,,{\i1}No.
 Dialogue: 5,0:14:13.20,0:14:15.10,Default,,0,0,0,,{\i1}The scale of this destruction...
@@ -1285,34 +1285,33 @@ Dialogue: 5,1:12:36.52,1:12:37.68,Default,,0,0,0,,forgive me.
 Dialogue: 5,1:12:39.60,1:12:42.04,Default,,0,0,0,,I'll be back soon.
 Dialogue: 5,1:12:44.97,1:12:47.21,Default,,0,0,0,,The Elves with their Áka Si Anse,
 Dialogue: 5,1:12:47.30,1:12:49.24,Default,,0,0,0,,the Dwarfs with their Ether-bomb…
-Dialogue: 5,1:12:49.62,1:12:50.76,Default,,0,0,0,,What wretched worms.
-Dialogue: 5,1:12:51.08,1:12:53.03,Default,,0,0,0,,If you stand against Lord Artosh,
+Dialogue: 5,1:12:49.62,1:12:50.76,Default,,0,0,0,,both wretched worms.
+Dialogue: 5,1:12:51.08,1:12:53.03,Default,,0,0,0,,To stand against Lord Artosh,
 Dialogue: 5,1:12:53.14,1:12:54.68,Default,,0,0,0,,you must be a total fool, nyan!
 Dialogue: 5,1:12:57.21,1:12:58.41,Default,,0,0,0,,Ouch, nyan!
 Dialogue: 5,1:12:57.75,1:12:59.33,Alt,,0,0,0,,You're the fool, Azriel!
-Dialogue: 0,1:12:59.84,1:13:02.30,Default,,0,0,0,,We can't afford to act recklessly now.
-Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Lord Artosh decided to withhold,
+Dialogue: 0,1:12:59.84,1:13:02.30,Default,,0,0,0,,At this moment we can't afford any mistakes.
+Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,If Lord Artosh refrains from acting,
 Dialogue: 5,1:13:05.65,1:13:07.22,Default,,0,0,0,,then we must wait as well.
-Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,Utterly boring, is it not?
-Comment: 0,1:13:17.75,1:13:17.82,Default,,0,0,0,,Translation END
-Dialogue: 5,1:13:18.89,1:13:20.38,Default,,0,0,0,,Inactive mode.
-Dialogue: 5,1:13:21.73,1:13:25.67,Default,,0,0,0,,I have to get that Suniaster, Riku can't die.
+Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,Utterly boring, isn't it?
+Dialogue: 5,1:13:18.89,1:13:20.38,Default,,0,0,0,,Idle mode.
+Dialogue: 5,1:13:21.73,1:13:25.67,Default,,0,0,0,,I have to get this Suniaster, and Riku won't die.
 Dialogue: 5,1:13:26.76,1:13:28.37,Default,,0,0,0,,Riku, hold on!
 Dialogue: 5,1:13:28.90,1:13:29.88,Default,,0,0,0,,Oh my!
-Dialogue: 5,1:13:32.41,1:13:35.18,Default,,0,0,0,,Are we taking a solitary stroll today?
-Dialogue: 5,1:13:37.67,1:13:41.69,Default,,0,0,0,,I noticed a faint spiritual reaction, so I came to take a look.
-Dialogue: 5,1:13:41.69,1:13:44.82,Default,,0,0,0,,And what a wonderful bounty it turns out to be.
+Dialogue: 5,1:13:32.41,1:13:35.18,Default,,0,0,0,,Are we having a solitary stroll today?
+Dialogue: 5,1:13:37.67,1:13:41.69,Default,,0,0,0,,A faint spiritual reaction caught my eye, so I came to take a look.
+Dialogue: 5,1:13:41.69,1:13:44.55,Default,,0,0,0,,And what a wonderful bounty it turns out to be.
 Dialogue: 5,1:13:47.46,1:13:50.01,Default,,0,0,0,,Pleasure to meet you, scrap.
 Dialogue: 5,1:13:58.89,1:14:04.01,Default,,0,0,0,,Warning: Any hostile action will result in severe countermeasures.
 Dialogue: 5,1:14:04.98,1:14:08.38,Default,,0,0,0,,From a single Prüfer, you say?
 Dialogue: 5,1:14:09.62,1:14:14.18,Default,,0,0,0,,I've confirmed that there is no cluster activity within 100 km.
-Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,Thus, it's truly a {\i1}magnifique opportunité{\i0} to pick up a premium head.
+Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,Then, it's truly a {\i1}magnifique opportunité{\i0} to pick up a premium head.
 Dialogue: 5,1:14:19.82,1:14:22.79,Default,,0,0,0,,1: No one can be killed.
 Dialogue: 5,1:14:23.10,1:14:27.03,Default,,0,0,0,,Luckily, Ex-Machinas don’t even possess the concept of death.
 Dialogue: 5,1:14:27.19,1:14:29.86,Default,,0,0,0,,2: No one can be left to die.
 Dialogue: 5,1:14:30.14,1:14:32.01,Default,,0,0,0,,Please, no futile–
-Dialogue: 5,1:14:31.59,1:14:32.26,Alt,,0,0,0,,I refuse.
-Dialogue: 5,1:14:32.76,1:14:33.59,Default,,0,0,0,,Pardon?
+Dialogue: 5,1:14:31.59,1:14:32.45,Alt,,0,0,0,,I refuse!
+Dialogue: 5,1:14:32.76,1:14:33.60,Default,,0,0,0,,Pardon?
 Dialogue: 5,1:14:34.09,1:14:35.57,Default,,0,0,0,,This unit is disconnected,
 Dialogue: 5,1:14:35.57,1:14:36.54,Default,,0,0,0,,it's worthless.
 Dialogue: 5,1:14:36.92,1:14:40.89,Default,,0,0,0,,6: Breaking any of these rules results in a loss.
@@ -1325,35 +1324,36 @@ Dialogue: 5,1:15:01.98,1:15:04.34,Default,,0,0,0,,Firepower comparison…
 Dialogue: 5,1:15:04.64,1:15:06.11,Default,,0,0,0,,chances of survival:
 Dialogue: 5,1:15:06.59,1:15:07.42,Default,,0,0,0,,none.
 Dialogue: 5,1:15:08.86,1:15:09.53,Default,,0,0,0,,However,
-Dialogue: 5,1:15:11.33,1:15:13.86,Default,,0,0,0,,it's never truly a zero.
+Dialogue: 5,1:15:11.33,1:15:13.86,Default,,0,0,0,,they're never truly zero.
 Dialogue: 5,1:15:15.03,1:15:21.74,Default,,0,0,0,,Laden: Code 1673B743E1F25 Script 3
 Dialogue: 0,1:15:21.83,1:15:24.00,Default,,0,0,0,,Activate: Lösen.
 Dialogue: 5,1:15:27.37,1:15:28.74,Default,,0,0,0,,Final warning.
-Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All armaments, fire power and combat maneuvers
-Dialogue: 5,1:15:34.71,1:15:36.47,Default,,0,0,0,,set to maximum output.
-Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh my. I knew the Ex-machinas learn to imitate the deadliest attack
-Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,performed by an enemy.
-Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Have any of you died of laughter?
+Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All gear, armaments, maneuvers unrestricted.
+Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Life preservation initiated.
+Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh dear… Ex-machinas are said to analyze and replicate
+Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the techniques that were used against them.
+Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that any of you died from laughter?
 Dialogue: 5,1:15:49.94,1:15:51.02,Default,,0,0,0,,Over-boost!
-Comment: 0,1:15:51.74,1:15:51.83,Default,,0,0,0,,Sync END
-Dialogue: 5,1:16:05.37,1:16:07.00,Default,,0,0,0,,Asyut-Armor!
-Dialogue: 5,1:16:15.09,1:16:20.05,Default,,0,0,0,,Zero regards for the environment, scattering dead spirits like that.
-Dialogue: 5,1:16:20.05,1:16:21.05,Default,,0,0,0,,However,
-Dialogue: 5,1:16:21.05,1:16:23.55,Default,,0,0,0,,did you think it would do anything to me?
-Dialogue: 5,1:16:23.72,1:16:26.11,Default,,0,0,0,,Of course I did not.
-Dialogue: 5,1:16:29.69,1:16:32.11,Default,,0,0,0,,Lösen: Enderpokryphen!
-Dialogue: 5,1:16:43.37,1:16:44.58,Default,,0,0,0,,Einsweg.
-Dialogue: 5,1:16:45.29,1:16:49.29,Default,,0,0,0,,With this jump I should be able to escape from a typical Flügel's detection range.
-Dialogue: 5,1:16:49.79,1:16:50.79,Default,,0,0,0,,Hopefully...
-Dialogue: 5,1:16:50.79,1:16:52.04,Default,,0,0,0,,Oh my!
-Dialogue: 5,1:16:52.67,1:16:55.04,Default,,0,0,0,,Where are we off to?
-Dialogue: 5,1:17:07.39,1:17:10.56,Default,,0,0,0,,Oh dear, I thought I was targeting the neck.
-Dialogue: 5,1:17:11.06,1:17:13.48,Default,,0,0,0,,Perhaps my aim was a little bit off.
-Dialogue: 5,1:17:15.19,1:17:20.07,Default,,0,0,0,,Obviously I do not expect a machine to have the slightest idea of intuition.
-Dialogue: 5,1:17:20.70,1:17:22.70,Default,,0,0,0,,I have a bad feeling about this.
-Dialogue: 5,1:17:22.70,1:17:25.10,Default,,0,0,0,,All I need from you is your head.
-Dialogue: 5,1:17:25.10,1:17:29.91,Default,,0,0,0,,The rest of you can rust in dirt like a mere pile of trash you are.
-Dialogue: 5,1:17:29.91,1:17:31.33,Default,,0,0,0,,Kein-Eintrag.
+Dialogue: 5,1:16:05.64,1:16:06.77,Default,,0,0,0,,Asyut-Armor!
+Comment: 0,1:16:13.81,1:16:13.90,Default,,0,0,0,,Translation END
+Dialogue: 5,1:16:15.16,1:16:20.14,Default,,0,0,0,,Zero regards for the environment, to scatter dead spirits so callously.
+Dialogue: 5,1:16:20.14,1:16:21.27,Default,,0,0,0,,Anyway,
+Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,was that supposed to do anything to me?
+Dialogue: 5,1:16:23.83,1:16:26.56,Default,,0,0,0,,Of course I did not.
+Dialogue: 5,1:16:29.83,1:16:31.88,Default,,0,0,0,,Lösen: Enderpokryphen!
+Dialogue: 5,1:16:43.37,1:16:44.48,Default,,0,0,0,,Einsweg.
+Dialogue: 5,1:16:45.39,1:16:49.10,Default,,0,0,0,,With this jump I should be able to escape from a typical Flügel's detection range.
+Dialogue: 5,1:16:49.88,1:16:50.66,Default,,0,0,0,,Hopefully...
+Dialogue: 5,1:16:50.80,1:16:52.03,Default,,0,0,0,,Oh my!
+Dialogue: 5,1:16:52.81,1:16:54.58,Default,,0,0,0,,Where are we off to?
+Dialogue: 5,1:17:07.58,1:17:10.24,Default,,0,0,0,,Oh dear, I thought I was targeting the neck.
+Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Perhaps my aim was a little bit off.
+Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,Obviously I do not expect a machine to have the slightest idea of intuition.
+Dialogue: 5,1:17:20.81,1:17:22.47,Default,,0,0,0,,I have a bad feeling about this.
+Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,All I need from you is your head.
+Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,The rest of you can rust in dirt like a mere pile of trash you are.
+Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
+Comment: 0,1:17:43.11,1:17:43.19,Default,,0,0,0,,Sync END
 Dialogue: 5,1:17:44.18,1:17:45.47,Default,,0,0,0,,Riku...
 Dialogue: 5,1:17:47.14,1:17:49.18,Default,,0,0,0,,I don't want to die.
 Dialogue: 5,1:17:49.18,1:17:50.14,Default,,0,0,0,,I can't die.

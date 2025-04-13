@@ -1,3 +1,4 @@
+=========================================================================
 Spójność słownictwa:
 Yuiitsushin no za - the title of the One
 Áka Si Anse
@@ -8,11 +9,13 @@ Seireikairo - the Spirit Circuit
 Umweg
 Prüfer
 
+=========================================================================
 Jibril languages swap:
 JP -> EN
 EN -> FR
 PL -> ?
 
+=========================================================================
 The Riku's rules:
 1. No one can be killed.
 2. No one can be left to die.
@@ -21,6 +24,10 @@ The Riku's rules:
 5. 
 6. Breaking any of these rules results in a loss.
 
+Used:
+* 1:14:19 - 1:14:40
+
+=========================================================================
 The Ten Caveats:
 1. 
 2. 
@@ -33,6 +40,10 @@ The Ten Caveats:
 9. 
 10. 
 
+Used:
+* 
+
+=========================================================================
 Translation ideas:
 0:26:45 - Schwi longs (yearns) to learn your heart
 0:26:49 - So now, when your heart tells you this
@@ -52,7 +63,7 @@ Translation ideas:
 1:24:15 - It was such a waste of tiiiiiime!
 1:24:53 - Daj mi chociaż raz (wygrać)!
 1:28:07 - If that is your wish
-1:28:11 - then so is mine.
+1:28:11 - then so it is mine.
 1:28:44 - … Who dared to lunch Heaven's Smite?!
 1:31:42 - we lived without purpose, let us die having one. 
 1:32:09 - it's yours.
