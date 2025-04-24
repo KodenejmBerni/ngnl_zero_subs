@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
-Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
+Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
+Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1303
-Active Line: 1323
-Video Position: 111489
+Video Zoom Percent: 0.500000
+Scroll Position: 1304
+Active Line: 1307
+Video Position: 109908
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1299,8 +1299,8 @@ Dialogue: 5,1:13:21.73,1:13:25.67,Default,,0,0,0,,I have to get this Suniaster, 
 Dialogue: 5,1:13:26.76,1:13:28.37,Default,,0,0,0,,Riku, hold on!
 Dialogue: 5,1:13:28.90,1:13:29.88,Default,,0,0,0,,Oh my!
 Dialogue: 5,1:13:32.41,1:13:35.18,Default,,0,0,0,,Are we having a solitary stroll today?
-Dialogue: 5,1:13:37.67,1:13:41.69,Default,,0,0,0,,A faint spiritual reaction caught my eye, so I came to take a look.
-Dialogue: 5,1:13:41.69,1:13:44.55,Default,,0,0,0,,And what a wonderful bounty it turns out to be.
+Dialogue: 5,1:13:37.67,1:13:41.69,Default,,0,0,0,,A faint spiritual reaction catches your eye, you come to take a look,
+Dialogue: 5,1:13:41.69,1:13:44.55,Default,,0,0,0,,and what a wonderful bounty it turns out to be.
 Dialogue: 5,1:13:47.46,1:13:50.01,Default,,0,0,0,,Pleasure to meet you, scrap.
 Dialogue: 5,1:13:58.89,1:14:04.01,Default,,0,0,0,,Warning: Any hostile action will result in severe countermeasures.
 Dialogue: 5,1:14:04.98,1:14:08.38,Default,,0,0,0,,From a single Prüfer, you say?
@@ -1319,7 +1319,7 @@ Dialogue: 5,1:14:41.70,1:14:42.26,Default,,0,0,0,,Therefore,
 Dialogue: 5,1:14:43.99,1:14:45.61,Default,,0,0,0,,please, spare me.
 Dialogue: 5,1:14:48.07,1:14:51.52,Default,,0,0,0,,No way, an Ex-machina that begs for its life?
 Dialogue: 5,1:14:52.11,1:14:55.74,Default,,0,0,0,,M– m– moreover, a defect discarded by a cluster?!
-Dialogue: 5,1:14:55.96,1:14:59.79,Default,,0,0,0,,It's the premium among the premiums!
+Dialogue: 5,1:14:55.96,1:14:59.79,Default,,0,0,0,,I– It's the premium among the premiums!
 Dialogue: 5,1:15:01.98,1:15:04.34,Default,,0,0,0,,Firepower comparison…
 Dialogue: 5,1:15:04.64,1:15:06.11,Default,,0,0,0,,chances of survival:
 Dialogue: 5,1:15:06.59,1:15:07.42,Default,,0,0,0,,none.
@@ -1329,28 +1329,28 @@ Dialogue: 5,1:15:15.03,1:15:21.74,Default,,0,0,0,,Laden: Code 1673B743E1F25 Scri
 Dialogue: 0,1:15:21.83,1:15:24.00,Default,,0,0,0,,Activate: Lösen.
 Dialogue: 5,1:15:27.37,1:15:28.74,Default,,0,0,0,,Final warning.
 Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All gear, armaments, maneuvers unrestricted.
-Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Life preservation initiated.
+Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Life preservation declared.
 Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh dear… Ex-machinas are said to analyze and replicate
 Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the techniques that were used against them.
-Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that any of you died from laughter?
+Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that one of you died from laughter?
 Dialogue: 5,1:15:49.94,1:15:51.02,Default,,0,0,0,,Over-boost!
 Dialogue: 5,1:16:05.64,1:16:06.77,Default,,0,0,0,,Asyut-Armor!
 Comment: 0,1:16:13.81,1:16:13.90,Default,,0,0,0,,Translation END
-Dialogue: 5,1:16:15.16,1:16:20.14,Default,,0,0,0,,Zero regards for the environment, to scatter dead spirits so callously.
+Dialogue: 5,1:16:15.16,1:16:20.14,Default,,0,0,0,,Scattering dead spirits like that…\NWhat an environmentally unfriendly machine.
 Dialogue: 5,1:16:20.14,1:16:21.27,Default,,0,0,0,,Anyway,
-Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,was that supposed to do anything to me?
-Dialogue: 5,1:16:23.83,1:16:26.56,Default,,0,0,0,,Of course I did not.
+Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,that was supposed to do anything to me?
+Dialogue: 5,1:16:23.83,1:16:26.56,Default,,0,0,0,,No way I’d think that.
 Dialogue: 5,1:16:29.83,1:16:31.88,Default,,0,0,0,,Lösen: Enderpokryphen!
 Dialogue: 5,1:16:43.37,1:16:44.48,Default,,0,0,0,,Einsweg.
-Dialogue: 5,1:16:45.39,1:16:49.10,Default,,0,0,0,,With this jump I should be able to escape from a typical Flügel's detection range.
-Dialogue: 5,1:16:49.88,1:16:50.66,Default,,0,0,0,,Hopefully...
-Dialogue: 5,1:16:50.80,1:16:52.03,Default,,0,0,0,,Oh my!
-Dialogue: 5,1:16:52.81,1:16:54.58,Default,,0,0,0,,Where are we off to?
-Dialogue: 5,1:17:07.58,1:17:10.24,Default,,0,0,0,,Oh dear, I thought I was targeting the neck.
-Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Perhaps my aim was a little bit off.
-Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,Obviously I do not expect a machine to have the slightest idea of intuition.
-Dialogue: 5,1:17:20.81,1:17:22.47,Default,,0,0,0,,I have a bad feeling about this.
-Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,All I need from you is your head.
+Dialogue: 5,1:16:45.39,1:16:49.10,Default,,0,0,0,,Currently, her detection range matches my leap distance.
+Dialogue: 5,1:16:49.88,1:16:50.82,Default,,0,0,0,,That means
+Dialogue: 5,1:16:50.82,1:16:52.03,Default,,0,0,0,,Oh my!
+Dialogue: 5,1:16:52.81,1:16:54.58,Default,,0,0,0,,Where are you off to?
+Dialogue: 5,1:17:07.58,1:17:10.34,Default,,0,0,0,,Wait… I was aiming for the neck.
+Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,My hand must have slipped…
+Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine would have anything like instinctive reflexes.
+Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting weird.
+Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will do.
 Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,The rest of you can rust in dirt like a mere pile of trash you are.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
 Comment: 0,1:17:43.11,1:17:43.19,Default,,0,0,0,,Sync END

@@ -1577,10 +1577,10 @@ Honjitsu wa hitori de o sanpo de gozaimasu ka?
 Are we having a solitary stroll today?
 
 Biryōna seirei han'nō o mikaketa node, shirabete mimashitara
-A faint spiritual reaction caught my eye, so I came to take a look.
+A faint spiritual reaction catches your eye, you come to take a look,
 
 omowanu shūkaku na korogatte gozaimasu ne.
-And what a wonderful bounty it turns out to be.
+and what a wonderful bounty it turns out to be.
 
 Ga kigen-yō, scrap.
 Pleasure to meet you, scrap.
@@ -1663,11 +1663,11 @@ Activate: Lösen.
 Saishū kankoku.
 Final warning.
 
-Zenbu sō senryoku senjutsu o otoshite
+Zen busō senryoku senjutsu o otoshite
 All gear, armaments, maneuvers unrestricted.
 
 inochigoi o kaishi suru.
-Life preservation initiated.
+Life preservation declared.
 
 Oya. ekusumakina wa gekiha yōin o kaiseki shi, 
 Oh dear… Ex-machinas are said to analyze and replicate
@@ -1676,7 +1676,7 @@ mohō surushi ~yuna no hazude gozaimasu ga.
 the techniques that were used against them.
 
 Moshiya donata ka wa rai korosa retanode.
-Could it be that any of you died from laughter?
+Could it be that one of you died from laughter?
 
 Over-boost!
 Over-boost!
@@ -1685,37 +1685,44 @@ _
 Asyut-Armor!
 
 Reigai o maki chirasu to wa, kankyō ni yasashikunai kikaidegozaimasu ne.
-
+To scatter dead spirits like that… What an environmentally unfriendly machine.
 
 Shikashi, kore de watashi o dōnika dekiru to.
-
+Anyway, that was supposed to do anything to me?
 
 Omotte iru hazu nai.
-
+I would never dare.
+No one’s that naive.
+As if anyone’s that naive.
+No way I’d think that.
 
 Kono mama furyūgeru no tanchi fukanō kyori made tōsō.
+Currently, her detection limit matches my leap distance.
 
+Kore de
+That means
 
-Kore de.
+Oya!
+Oh my!
 
+Dochira e ika rerunode?
+Where are you off to?
 
-Oya. Dochira e ika rerunode?
+Sate… kubi o neratta hazudesuga
+Hey… I was aiming for the neck.
 
-
-Sate, kubi o neratta hazudesuga
-
-
-Temoto ga kuruimashita ka?
-
+Temoto ga kuruimashita ka…
+My hand must have slipped…
 
 Masaka ki kai ni, kan nado to iu mono ga aru tomo omoemasenga.
-
+No way a machine would have anything like instinctive reflexes.
 
 Iyana yokan ga shimasu.
-
+This is getting weird.
 
 Kubi sae nokoreba yoinode.
-
+The head alone will do.
+I’m fine with just the head.
 
 Sorosoro tetsu-kuzurashiku, monoiwazu chi ni umoremashou ka?
 
