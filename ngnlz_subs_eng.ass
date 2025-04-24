@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1304
-Active Line: 1307
-Video Position: 109908
+Scroll Position: 1308
+Active Line: 1315
+Video Position: 111541
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1346,12 +1346,12 @@ Dialogue: 5,1:16:45.39,1:16:49.10,Default,,0,0,0,,Currently, her detection range
 Dialogue: 5,1:16:49.88,1:16:50.82,Default,,0,0,0,,That means
 Dialogue: 5,1:16:50.82,1:16:52.03,Default,,0,0,0,,Oh my!
 Dialogue: 5,1:16:52.81,1:16:54.58,Default,,0,0,0,,Where are you off to?
-Dialogue: 5,1:17:07.58,1:17:10.34,Default,,0,0,0,,Wait… I was aiming for the neck.
-Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,My hand must have slipped…
-Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine would have anything like instinctive reflexes.
-Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting weird.
+Dialogue: 5,1:17:07.58,1:17:10.34,Default,,0,0,0,,Darn… I was aiming for the neck.
+Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Could my hand have slipped?
+Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Nanything like instinctive reflexes. 
+Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting unsettling.
 Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will do.
-Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,The rest of you can rust in dirt like a mere pile of trash you are.
+Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,It's time for a pile of scrap\Nto fall silent and rust in the ground.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
 Comment: 0,1:17:43.11,1:17:43.19,Default,,0,0,0,,Sync END
 Dialogue: 5,1:17:44.18,1:17:45.47,Default,,0,0,0,,Riku...
