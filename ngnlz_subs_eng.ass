@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1311
-Active Line: 1324
-Video Position: 111829
+Video Zoom Percent: 0.500000
+Scroll Position: 1326
+Active Line: 1341
+Video Position: 113541
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1352,26 +1352,26 @@ Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting unsettling.
 Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will do.
 Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,Time for a pile of scrap\Nto fall silent and rust in the ground.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
-Comment: 0,1:17:42.43,1:17:42.54,Default,,0,0,0,,Translation END
-Comment: 0,1:17:43.11,1:17:43.19,Default,,0,0,0,,Sync END
-Dialogue: 5,1:17:44.18,1:17:45.47,Default,,0,0,0,,Riku...
-Dialogue: 5,1:17:47.14,1:17:49.18,Default,,0,0,0,,I don't want to die.
-Dialogue: 5,1:17:49.18,1:17:50.14,Default,,0,0,0,,I can't die!
-Dialogue: 5,1:17:51.02,1:17:53.23,Default,,0,0,0,,We cannot fail...
-Dialogue: 5,1:17:53.94,1:17:56.31,Default,,0,0,0,,because of me!
-Dialogue: 5,1:18:03.57,1:18:07.24,Default,,0,0,0,,All I can do now...
-Dialogue: 5,1:18:08.54,1:18:12.41,Default,,0,0,0,,All I can do for Riku is...
-Dialogue: 5,1:18:14.96,1:18:22.72,Default,,0,0,0,,Unit identification: ÜC207PR4F57T9.
-Dialogue: 5,1:18:22.72,1:18:26.52,Default,,0,0,0,,Eins, my analysis of the human heart has led to crucial conclusions.
-Dialogue: 5,1:18:26.52,1:18:28.43,Default,,0,0,0,,I'm requesting reconnection!
-Dialogue: 5,1:18:28.43,1:18:34.23,Default,,0,0,0,,Due to a long period of disconnection, your data is\Nsuspected to contain a large amount of critical errors.
-Dialogue: 5,1:18:34.23,1:18:35.81,Default,,0,0,0,,Your request has been rejected.
-Dialogue: 5,1:18:35.81,1:18:37.48,Default,,0,0,0,,Reasoning incorrect!
-Dialogue: 5,1:18:37.48,1:18:39.00,Default,,0,0,0,,Forward this to Einzig.
-Dialogue: 5,1:18:39.00,1:18:42.69,Default,,0,0,0,,All data requires to be sent for further analysis.
-Dialogue: 5,1:18:42.69,1:18:46.49,Default,,0,0,0,,I know you lack permissions to reject this!
-Dialogue: 5,1:18:47.45,1:18:50.49,Default,,0,0,0,,Eins... no, correction...
-Dialogue: 5,1:18:50.66,1:18:51.74,Default,,0,0,0,,you stubborn shithead!
+Dialogue: 5,1:17:44.32,1:17:45.43,Default,,0,0,0,,Riku...
+Dialogue: 5,1:17:47.24,1:17:48.96,Default,,0,0,0,,I don't want to die.
+Dialogue: 5,1:17:49.34,1:17:50.67,Default,,0,0,0,,I can't die!
+Dialogue: 5,1:17:51.09,1:17:53.19,Default,,0,0,0,,We cannot fail
+Dialogue: 5,1:17:54.03,1:17:56.02,Default,,0,0,0,,because of me!
+Dialogue: 5,1:18:03.65,1:18:07.09,Default,,0,0,0,,The only thing left for me…
+Dialogue: 5,1:18:08.66,1:18:12.53,Default,,0,0,0,,All I can do for Riku now…
+Comment: 0,1:18:12.80,1:18:12.89,Default,,0,0,0,,Translation END
+Dialogue: 5,1:18:15.15,1:18:22.75,Default,,0,0,0,,Unit identification: ÜC207PR4F57T9.
+Dialogue: 5,1:18:22.75,1:18:26.53,Default,,0,0,0,,Eins, my analysis of the human heart has led to crucial conclusions.
+Dialogue: 5,1:18:26.53,1:18:28.31,Default,,0,0,0,,I'm requesting reconnection!
+Dialogue: 5,1:18:28.50,1:18:34.10,Default,,0,0,0,,Due to a long period of disconnection, your data is\Nsuspected to contain a large amount of critical errors.
+Dialogue: 5,1:18:34.28,1:18:35.80,Default,,0,0,0,,Your request has been rejected.
+Dialogue: 5,1:18:35.80,1:18:37.32,Default,,0,0,0,,Reasoning incorrect!
+Dialogue: 5,1:18:37.58,1:18:39.26,Default,,0,0,0,,Forward this to Einzig.
+Dialogue: 5,1:18:39.26,1:18:42.74,Default,,0,0,0,,All data requires to be sent for further analysis.
+Dialogue: 5,1:18:42.74,1:18:46.00,Default,,0,0,0,,I know you lack permissions to reject this!
+Dialogue: 5,1:18:47.05,1:18:50.21,Default,,0,0,0,,Eins... no, correction...
+Dialogue: 5,1:18:50.74,1:18:52.00,Default,,0,0,0,,you stubborn shithead!
+Comment: 0,1:18:55.55,1:18:55.65,Default,,0,0,0,,Sync END
 Dialogue: 5,1:18:55.96,1:18:58.50,Default,,0,0,0,,Actually, I don't want to give this to anyone!
 Dialogue: 5,1:18:58.50,1:19:01.55,Default,,0,0,0,,I love Riku, I don't want to say goodbye.
 Dialogue: 5,1:19:01.55,1:19:03.17,Default,,0,0,0,,It's embarrassing...
