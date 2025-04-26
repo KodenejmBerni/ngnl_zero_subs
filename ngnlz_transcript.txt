@@ -1684,20 +1684,26 @@ Over-boost!
 _
 Asyut-Armor!
 
-Reigai o maki chirasu to wa, kankyō ni yasashikunai kikaidegozaimasu ne.
-To scatter dead spirits like that… What an environmentally unfriendly machine.
+Reigai o maki chirasu to wa, kankyō ni yasashikunai kikai de gozaimasu ne.
+Scattering dead spirits like that… What an environmentally unfriendly machine.
 
-Shikashi, kore de watashi o dōnika dekiru to.
-Anyway, that was supposed to do anything to me?
+Shikashi,
+Anyway,
+
+kore de watashi o dōnika dekiru to?
+that was supposed to stop me?
 
 Omotte iru hazu nai.
-I would never dare.
-No one’s that naive.
-As if anyone’s that naive.
-No way I’d think that.
+Never hoped for that.
+
+_
+Lösen: Enderpokryphen!
+
+_
+Einsweg.
 
 Kono mama furyūgeru no tanchi fukanō kyori made tōsō.
-Currently, her detection limit matches my leap distance.
+Currently, her detection range matches my leap distance.
 
 Kore de
 That means
@@ -1724,9 +1730,18 @@ Kubi sae nokoreba yoinode.
 The head alone will do.
 
 Sorosoro tetsu-kuzurashiku, monoiwazu chi ni umoremashou ka
-It's time for a pile of scrap to fall silent and rust in the ground.
+Time for a pile of scrap to fall silent and rust in the ground.
 
-Shinitakunai. Shinai.
+_
+Kein-Eintrag.
+
+Riku!
+Riku!
+
+Shinitakunai.
+
+
+Shinai.
 
 
 Schwi no sei de haibokunande.

@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1308
-Active Line: 1315
-Video Position: 111541
+Video Zoom Percent: 0.375000
+Scroll Position: 1311
+Active Line: 1324
+Video Position: 111829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1335,11 +1335,10 @@ Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the techniques that were used 
 Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that one of you died from laughter?
 Dialogue: 5,1:15:49.94,1:15:51.02,Default,,0,0,0,,Over-boost!
 Dialogue: 5,1:16:05.64,1:16:06.77,Default,,0,0,0,,Asyut-Armor!
-Comment: 0,1:16:13.81,1:16:13.90,Default,,0,0,0,,Translation END
 Dialogue: 5,1:16:15.16,1:16:20.14,Default,,0,0,0,,Scattering dead spirits like that…\NWhat an environmentally unfriendly machine.
 Dialogue: 5,1:16:20.14,1:16:21.27,Default,,0,0,0,,Anyway,
-Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,that was supposed to do anything to me?
-Dialogue: 5,1:16:23.83,1:16:26.56,Default,,0,0,0,,No way I’d think that.
+Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,that was supposed to stop me?
+Dialogue: 5,1:16:23.83,1:16:26.56,Default,,0,0,0,,Never hoped for that.
 Dialogue: 5,1:16:29.83,1:16:31.88,Default,,0,0,0,,Lösen: Enderpokryphen!
 Dialogue: 5,1:16:43.37,1:16:44.48,Default,,0,0,0,,Einsweg.
 Dialogue: 5,1:16:45.39,1:16:49.10,Default,,0,0,0,,Currently, her detection range matches my leap distance.
@@ -1348,15 +1347,16 @@ Dialogue: 5,1:16:50.82,1:16:52.03,Default,,0,0,0,,Oh my!
 Dialogue: 5,1:16:52.81,1:16:54.58,Default,,0,0,0,,Where are you off to?
 Dialogue: 5,1:17:07.58,1:17:10.34,Default,,0,0,0,,Darn… I was aiming for the neck.
 Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Could my hand have slipped?
-Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Nanything like instinctive reflexes. 
+Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Nanything like instinctive reflexes.
 Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting unsettling.
 Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will do.
-Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,It's time for a pile of scrap\Nto fall silent and rust in the ground.
+Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,Time for a pile of scrap\Nto fall silent and rust in the ground.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
+Comment: 0,1:17:42.43,1:17:42.54,Default,,0,0,0,,Translation END
 Comment: 0,1:17:43.11,1:17:43.19,Default,,0,0,0,,Sync END
 Dialogue: 5,1:17:44.18,1:17:45.47,Default,,0,0,0,,Riku...
 Dialogue: 5,1:17:47.14,1:17:49.18,Default,,0,0,0,,I don't want to die.
-Dialogue: 5,1:17:49.18,1:17:50.14,Default,,0,0,0,,I can't die.
+Dialogue: 5,1:17:49.18,1:17:50.14,Default,,0,0,0,,I can't die!
 Dialogue: 5,1:17:51.02,1:17:53.23,Default,,0,0,0,,We cannot fail...
 Dialogue: 5,1:17:53.94,1:17:56.31,Default,,0,0,0,,because of me!
 Dialogue: 5,1:18:03.57,1:18:07.24,Default,,0,0,0,,All I can do now...
