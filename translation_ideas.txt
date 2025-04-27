@@ -8,6 +8,20 @@ Shingeki - God's Smite
 Seireikairo - the Spirit Circuit
 Umweg
 Prüfer
+Übercluster 207 Prüfer 4F57T9
+
+=========================================================================
+Japanese punctuation:
+* Space (U+3000)
+　
+* Comma (U+3001)
+、
+* Full stop (U+3002)
+。
+* Exclamation (U+30C3)
+ッ
+* Long dash (U+30FC)
+ー
 
 =========================================================================
 Jibril languages swap:
@@ -56,8 +70,8 @@ Translation ideas:
 1:13:21 - I have to get Suniaster before Riku
 1:13:32 - Might someone be taking a solitary stroll today?
 1:14:48 - Can't be! …
-1:16:52 - Oh my. Where are we off to?
 1:16:15 - Zero (No) regard for the environment, scattering dead spirits like that.
+1:16:52 - Oh my. Where are we off to?
 1:19:16 - Stop giving me shit! Take those feelings and carry them on!
 1:24:11 - I used so much energy that I'm a brat again!
 1:24:15 - It was such a waste of tiiiiiime!

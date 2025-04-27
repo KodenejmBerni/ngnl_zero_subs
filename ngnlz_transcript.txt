@@ -1756,8 +1756,37 @@ The only thing left for me…
 Riku no tame ni dekiru koto…
 All I can do for Riku now…
 
+個体識別番号
+Kotai shikibetsu bangou:
+Identification number:
+
+Übercluster 207 Prüfer 4F57T9.
+*
+*
+
+Eins、再連結申請ッ
+Eins, sairenketsu shinsei!
+Eins, _
+
+心の解析完了。
+Kokoro no kaiseki kanryou.
 _
 
+同期再連結をッ
+Douki sairenketsu o!
+_
+
+永久連結解除除隊にある貴機のデータは
+Eikyuu renketsu kaijo jotai ni aru kiki no data wa
+_
+
+重大なエラー多いと判断
+Juudaina eraa ooi to handan.
+_
+
+申請を却下する
+Shinsei o kyakka suru.
+_
 
 Riku ga suki niku to hanaretakunai.
 

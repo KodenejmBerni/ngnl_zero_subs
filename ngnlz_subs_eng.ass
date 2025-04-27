@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1326
-Active Line: 1341
-Video Position: 113541
+Video Zoom Percent: 0.375000
+Scroll Position: 1324
+Active Line: 1334
+Video Position: 113068
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -287,8 +287,8 @@ Dialogue: 5,0:19:58.92,0:20:00.47,Default,,0,0,0,,What should I call you?
 Dialogue: 5,0:20:00.57,0:20:01.89,Default,,0,0,0,,Cannot comprehend.
 Dialogue: 5,0:20:01.89,0:20:03.93,Default,,0,0,0,,Your name. Do you have one?
 Dialogue: 5,0:20:03.93,0:20:05.22,Default,,0,0,0,,Understood.
-Dialogue: 5,0:20:05.22,0:20:06.95,Default,,0,0,0,,Registration number:
-Dialogue: 5,0:20:06.95,0:20:10.48,Default,,0,0,0,,ÜC207PR4F57T9.
+Dialogue: 5,0:20:05.22,0:20:06.95,Default,,0,0,0,,Identification number:
+Dialogue: 5,0:20:06.95,0:20:10.48,Default,,0,0,0,,Übercluster 207 Prüfer 4F57T9.
 Dialogue: 5,0:20:10.48,0:20:12.15,Default,,0,0,0,,That's your name?
 Dialogue: 5,0:20:12.15,0:20:14.73,Default,,0,0,0,,Useless, we need to go with something easier.
 Dialogue: 5,0:20:14.73,0:20:15.73,Default,,0,0,0,,Query:
@@ -1360,11 +1360,11 @@ Dialogue: 5,1:17:54.03,1:17:56.02,Default,,0,0,0,,because of me!
 Dialogue: 5,1:18:03.65,1:18:07.09,Default,,0,0,0,,The only thing left for me…
 Dialogue: 5,1:18:08.66,1:18:12.53,Default,,0,0,0,,All I can do for Riku now…
 Comment: 0,1:18:12.80,1:18:12.89,Default,,0,0,0,,Translation END
-Dialogue: 5,1:18:15.15,1:18:22.75,Default,,0,0,0,,Unit identification: ÜC207PR4F57T9.
+Dialogue: 5,1:18:15.15,1:18:22.75,Default,,0,0,0,,Identification number:\NÜbercluster 207 Prüfer 4F57T9.
 Dialogue: 5,1:18:22.75,1:18:26.53,Default,,0,0,0,,Eins, my analysis of the human heart has led to crucial conclusions.
 Dialogue: 5,1:18:26.53,1:18:28.31,Default,,0,0,0,,I'm requesting reconnection!
-Dialogue: 5,1:18:28.50,1:18:34.10,Default,,0,0,0,,Due to a long period of disconnection, your data is\Nsuspected to contain a large amount of critical errors.
-Dialogue: 5,1:18:34.28,1:18:35.80,Default,,0,0,0,,Your request has been rejected.
+Dialogue: 5,1:18:28.50,1:18:34.10,Default,,0,0,0,,Due to a long period of disconnection, your data is suspected to contain a large amount of critical errors.
+Dialogue: 5,1:18:34.28,1:18:35.80,Default,,0,0,0,,Request rejected.
 Dialogue: 5,1:18:35.80,1:18:37.32,Default,,0,0,0,,Reasoning incorrect!
 Dialogue: 5,1:18:37.58,1:18:39.26,Default,,0,0,0,,Forward this to Einzig.
 Dialogue: 5,1:18:39.26,1:18:42.74,Default,,0,0,0,,All data requires to be sent for further analysis.
