@@ -1788,6 +1788,30 @@ _
 Shinsei o kyakka suru.
 _
 
+申請却下拒否ッ
+Shinsei kyakka kyohi!
+_
+
+PrüferからEinzigへの
+Prüfer kara Einzig e no:
+_
+
+如何なる報告も解析 ken to _ はないはずッ
+ikanaru houkoku mo kaisekiken to _ wa nai hazu!
+_
+
+_ 強く申請ッ  _ッ
+_ tsuyoku shinsei! _!
+_
+
+Eins…ううん、訂正…
+Eins… uun, teisei…
+_
+
+分からず屋ッ
+wakarazuya!
+_
+
 Riku ga suki niku to hanaretakunai.
 
 
