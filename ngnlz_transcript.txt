@@ -1766,15 +1766,15 @@ Identification number:
 
 Eins、再連結申請ッ
 Eins, sairenketsu shinsei!
-Eins, _
+Eins, incorporation request.
 
 心の解析完了。
 Kokoro no kaiseki kanryou.
-_
+Heart analysis concluded.
 
 同期再連結をッ
-Douki sairenketsu o!
-_
+Douki – sairenketsu o!
+Resume synchronization!
 
 永久連結解除除隊にある貴機のデータは
 Eikyuu renketsu kaijo jotai ni aru kiki no data wa
@@ -1786,22 +1786,24 @@ _
 
 申請を却下する
 Shinsei o kyakka suru.
-_
+Request rejected.
 
 申請却下拒否ッ
 Shinsei kyakka kyohi!
-_
+Rejection refused.
 
 PrüferからEinzigへの
-Prüfer kara Einzig e no:
+Prüfer kara Einzig e no
 _
 
+// Check needed
 如何なる報告も解析 ken to _ はないはずッ
-ikanaru houkoku mo kaisekiken to _ wa nai hazu!
+ikanaru houkoku mo kaisekiken to Einzig wa nai hazu!
 _
 
-_ 強く申請ッ  _ッ
-_ tsuyoku shinsei! _!
+// Check needed
+_ 強く申請ッ  連結をッ
+_ tsuyoku shinsei! Renketsu o!
 _
 
 Eins…ううん、訂正…
@@ -1812,8 +1814,13 @@ _
 wakarazuya!
 _
 
-Riku ga suki niku to hanaretakunai.
+_
+Honto wa, dare ni mo watashitakunai!
+_
 
+_
+Riku ga suki, Riku to hanaretakunai!
+_
 
 Hazukashī.
 
