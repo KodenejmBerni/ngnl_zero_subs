@@ -1765,8 +1765,8 @@ Identification number:
 *
 
 Eins、再連結申請ッ
-Eins, sairenketsu shinsei!
-Eins, incorporation request.
+Eins, sairenketsu shinsei.
+Eins, integration request.
 
 心の解析完了。
 Kokoro no kaiseki kanryou.
@@ -1778,11 +1778,12 @@ Resume synchronization!
 
 永久連結解除除隊にある貴機のデータは
 Eikyuu renketsu kaijo jotai ni aru kiki no data wa
-_
+Prolonged disconnection of this unit implies that its data
+Due to prolonged disconnection, the unit is presumed
 
 重大なエラー多いと判断
 Juudaina eraa ooi to handan.
-_
+to contain numerous critical errors.
 
 申請を却下する
 Shinsei o kyakka suru.
@@ -1794,36 +1795,41 @@ Rejection refused.
 
 PrüferからEinzigへの
 Prüfer kara Einzig e no
-_
+Forward this to Einzig.
 
 // Check needed
 如何なる報告も解析 ken to _ はないはずッ
-ikanaru houkoku mo kaisekiken to Einzig wa nai hazu!
-_
+ikanaru houkoku mo kaiseki(ken to ana hijun) wa nai hazu!
+Your unit shouldn't have permissions to reject this!
 
 // Check needed
 _ 強く申請ッ  連結をッ
 _ tsuyoku shinsei! Renketsu o!
-_
+I firmly reapply for synchronization!
 
-Eins…ううん、訂正…
-Eins… uun, teisei…
-_
+Eins…
+*
+*
+
+ううん、訂正…
+uun, teisei…
+no, correction…
 
 分からず屋ッ
 wakarazuya!
-_
+you dense ass!
 
-_
+本当はッ　誰にも渡したくないッ
 Honto wa, dare ni mo watashitakunai!
-_
+I really don't want to give this to you!
 
-_
-Riku ga suki, Riku to hanaretakunai!
-_
+リクが好き、リクと離れたくない
+Riku ga suki, Riku to hanaretakunai.
+I love Riku, I don't want to leave him…
 
-Hazukashī.
-
+恥ずかしい　もん…
+Hazukashī mon…
+It's embarrassing…
 
 Riku ni moratta kakae kirenai hodo no erā.
 
