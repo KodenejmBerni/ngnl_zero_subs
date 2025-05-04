@@ -1778,8 +1778,7 @@ Resume synchronization!
 
 永久連結解除除隊にある貴機のデータは
 Eikyuu renketsu kaijo jotai ni aru kiki no data wa
-Prolonged disconnection of this unit implies that its data
-Due to prolonged disconnection, the unit is presumed
+Due to continuous disconnection, this unit is presumed
 
 重大なエラー多いと判断
 Juudaina eraa ooi to handan.
@@ -1791,7 +1790,7 @@ Request rejected.
 
 申請却下拒否ッ
 Shinsei kyakka kyohi!
-Rejection refused.
+Rejection refused!
 
 PrüferからEinzigへの
 Prüfer kara Einzig e no
@@ -1800,11 +1799,11 @@ Forward this to Einzig.
 // Check needed
 如何なる報告も解析 ken to _ はないはずッ
 ikanaru houkoku mo kaiseki(ken to ana hijun) wa nai hazu!
-Your unit shouldn't have permissions to reject this!
+Your unit should not have permissions to reject this!
 
 // Check needed
 _ 強く申請ッ  連結をッ
-_ tsuyoku shinsei! Renketsu o!
+(rigiza) tsuyoku shinsei! Renketsu o!
 I firmly reapply for synchronization!
 
 Eins…
