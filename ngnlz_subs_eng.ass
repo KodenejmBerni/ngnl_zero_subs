@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1345
-Active Line: 1356
-Video Position: 114577
+Video Zoom Percent: 0.750000
+Scroll Position: 1351
+Active Line: 1355
+Video Position: 114579
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1383,23 +1383,23 @@ Dialogue: 5,1:19:10.62,1:19:12.76,Default,,0,0,0,,I'm telling you to take it!
 Dialogue: 5,1:19:13.36,1:19:16.21,Default,,0,0,0,,Get the meaning of it, idiot!
 Dialogue: 5,1:19:16.21,1:19:18.15,Default,,0,0,0,,Stop giving me shit,
 Dialogue: 5,1:19:18.15,1:19:20.81,Default,,0,0,0,,and carry it on!
-Comment: 0,1:19:37.87,1:19:37.95,Default,,0,0,0,,Sync END
 Comment: 0,1:19:38.28,1:19:38.30,Default,,0,0,0,,Translation END
-Dialogue: 5,1:19:38.79,1:19:41.04,Default,,0,0,0,,As presumed, the unit is broken.
-Dialogue: 5,1:19:42.26,1:19:43.25,Default,,0,0,0,,I know.
-Dialogue: 5,1:19:43.25,1:19:47.05,Default,,0,0,0,,Inconsistent, unsettled and yet it manages to function.
-Dialogue: 5,1:19:47.05,1:19:48.18,Default,,0,0,0,,Anomaly.
-Dialogue: 5,1:19:48.18,1:19:49.14,Default,,0,0,0,,I know that too!
-Dialogue: 5,1:19:49.68,1:19:51.76,Default,,0,0,0,,It's impossible.
-Dialogue: 5,1:19:51.76,1:19:57.31,Default,,0,0,0,,That's the reality... the whole study of Riku's heart is the proof!
-Dialogue: 5,1:19:58.73,1:20:00.23,Default,,0,0,0,,Your unit
-Dialogue: 5,1:20:00.23,1:20:02.57,Default,,0,0,0,,is considered to contain valuable data.
-Dialogue: 5,1:20:04.32,1:20:08.99,Default,,0,0,0,,Reinitiating data synchronization.\NCompletion in 251 seconds.
-Dialogue: 5,1:20:08.99,1:20:12.08,Default,,0,0,0,,During this time, destruction to your unit is forbidden.
-Dialogue: 5,1:20:14.12,1:20:15.83,Default,,0,0,0,,Alles-Lösen.
-Dialogue: 5,1:20:16.00,1:20:19.00,Default,,0,0,0,,Forme — Algorithm for combating unknown foes:
-Dialogue: 5,1:20:19.00,1:20:19.60,Default,,0,0,0,,initiation.
-Dialogue: 5,1:20:22.42,1:20:25.05,Default,,0,0,0,,The zeal from the heart...
+Dialogue: 5,1:19:38.89,1:19:41.14,Default,,0,0,0,,As presumed, the unit is broken.
+Dialogue: 5,1:19:42.17,1:19:43.24,Default,,0,0,0,,I know.
+Dialogue: 5,1:19:43.42,1:19:47.09,Default,,0,0,0,,Inconsistent, unsettled and yet it manages to function.
+Dialogue: 5,1:19:47.09,1:19:48.16,Default,,0,0,0,,Anomaly.
+Dialogue: 5,1:19:48.16,1:19:49.77,Default,,0,0,0,,I know that too!
+Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,It's impossible.
+Dialogue: 5,1:19:51.84,1:19:57.14,Default,,0,0,0,,That's the reality... the whole study of Riku's heart is the proof!
+Dialogue: 5,1:19:58.80,1:20:00.42,Default,,0,0,0,,Your unit
+Dialogue: 5,1:20:00.42,1:20:02.56,Default,,0,0,0,,is considered to contain valuable data.
+Dialogue: 5,1:20:04.46,1:20:09.13,Default,,0,0,0,,Reinitiating data synchronization.\NCompletion in 251 seconds.
+Dialogue: 5,1:20:09.13,1:20:12.16,Default,,0,0,0,,During this time, destruction to your unit is forbidden.
+Dialogue: 5,1:20:14.27,1:20:15.79,Default,,0,0,0,,Alles-Lösen.
+Dialogue: 5,1:20:16.11,1:20:19.18,Default,,0,0,0,,Forme — Algorithm for combating unknown foes:
+Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,Initiation
+Comment: 0,1:20:22.35,1:20:22.39,Default,,0,0,0,,Sync END
+Dialogue: 5,1:20:22.55,1:20:25.05,Default,,0,0,0,,The zeal from the heart...
 Dialogue: 5,1:20:27.52,1:20:31.22,Default,,0,0,0,,Despite being a machine, I found my purpose.
 Dialogue: 5,1:20:32.02,1:20:33.92,Default,,0,0,0,,For this life
 Dialogue: 5,1:20:34.92,1:20:37.32,Default,,0,0,0,,to last 251 seconds more...

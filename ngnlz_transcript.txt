@@ -1862,35 +1862,83 @@ As presumed, the unit is broken.
 Shitte, ru.
 I know.
 
+矛盾し、破綻し、それでも稼働している。
+Mujun shi, hatan shi, soredemo kadou shite iru.
 _
-Mushi atanshi, soredemo kadō shite
+
+異常だ。
+Ijou da.
 _
 
 それも知ってる
-Kore mo shitteru!
+Sore mo shitteru!
+_
+
+不可能だ、あり得ない
+Fukanou da, arienai.
+_
+
+これが現実──リクにもらった心が示す事実。
+Kore ga genjitsu… Riku ni moratta kokoro ga shimesu jijitsu.
+_
+
+故に
+yue ni
+_
+
+貴重なサンプルデータと判断する。
+Kichou na sanpuru deeta to handan.
+_
+
+データ同期──開始
+Deeta douki – kaishi
+_
+
+同期完了まで251秒。
+Douki kanryou made 251-byou.
+
+その火力式の全壊を禁ずる
+Sonoka, kiki no zenkai o kinzuru.
+
+アーレス・レーゼン
+Alles-Lösen.
+*
+
+フォルメー対未知用戦闘アルゴリズム
+Forume – Tai michi-you sentou arugorizumu:
+_
+
+起動
+kidou.
 _
 
 _
-Kore ga genjitsu Riku ni moratta kokoro ga shimesu jijitsu.
+Kono omoi. Kokoro.
 _
 
 _
-
-
+Kikai ni umarete inochi o moratta.
 _
 
+_
+Sono subete 
+_
 
-Dōki kanryō made 251-byō. Sonoaida, kiki no zenkai o kinzuru.
+_
+kono 251-byō ni 
+_
 
+_
+kakeru.
+_
 
-Kono omoi. Kokoro. Kikai ni umarete inochi o moratta. Sono subete kono 251-byō ni kakeru.
+その大きな翼は、当てつけのつもりで？
+Sono o kina tsubasa wa, atetsuke no tsumori de?
+_
 
-
-Sono o ̄kina tsubasa wa, atetsuke no tsumori de?
-
-
+_ 上等でございます。
 Ningyō Fuse ga jōtōdegozaimasu
-
+_
 
 Schwi
 
