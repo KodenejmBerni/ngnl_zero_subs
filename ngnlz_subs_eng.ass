@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 1351
-Active Line: 1355
-Video Position: 114579
+Scroll Position: 1369
+Active Line: 1371
+Video Position: 115627
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1348,8 +1348,8 @@ Dialogue: 5,1:16:52.81,1:16:54.58,Default,,0,0,0,,Where are you off to?
 Dialogue: 5,1:17:07.58,1:17:10.34,Default,,0,0,0,,Darn… I was aiming for the neck.
 Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Could my hand have slipped?
 Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Nanything like instinctive reflexes.
-Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting unsettling.
-Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will do.
+Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting weird.
+Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will be enough.
 Dialogue: 5,1:17:25.41,1:17:29.86,Default,,0,0,0,,Time for a pile of scrap\Nto fall silent and rust in the ground.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
 Dialogue: 5,1:17:44.32,1:17:45.43,Default,,0,0,0,,Riku...
@@ -1364,58 +1364,61 @@ Dialogue: 0,1:18:16.77,1:18:22.75,Default,,0,0,0,,Übercluster 207 Prüfer 4F57T
 Dialogue: 5,1:18:22.75,1:18:24.98,Default,,0,0,0,,Eins, integration request.
 Dialogue: 0,1:18:24.98,1:18:26.53,Default,,0,0,0,,Heart analysis concluded.
 Dialogue: 5,1:18:26.53,1:18:28.31,Default,,0,0,0,,Resume synchronization!
-Dialogue: 5,1:18:28.50,1:18:31.96,Default,,0,0,0,,Due to continuous disconnection, this unit is presumed
+Dialogue: 5,1:18:28.50,1:18:31.96,Default,,0,0,0,,Due to continuous disconnection, the data is presumed
 Dialogue: 0,1:18:31.96,1:18:34.28,Default,,0,0,0,,to contain numerous critical errors.
 Dialogue: 5,1:18:34.28,1:18:35.80,Default,,0,0,0,,Request rejected.
 Dialogue: 5,1:18:35.80,1:18:37.32,Default,,0,0,0,,Rejection refused!
 Dialogue: 5,1:18:37.58,1:18:39.26,Default,,0,0,0,,Forward this to Einzig.
 Dialogue: 5,1:18:39.26,1:18:42.74,Default,,0,0,0,,Your unit should not have permissions to reject this!
-Dialogue: 5,1:18:42.74,1:18:46.00,Default,,0,0,0,,I firmly reapply for synchronization!
+Dialogue: 5,1:18:42.74,1:18:46.00,Default,,0,0,0,,I firmly reapply – synchronize!
 Dialogue: 5,1:18:47.05,1:18:48.49,Default,,0,0,0,,Eins...
 Dialogue: 0,1:18:48.49,1:18:50.18,Default,,0,0,0,,no, correction...
-Dialogue: 5,1:18:50.74,1:18:52.00,Default,,0,0,0,,you dense ass!
-Dialogue: 5,1:18:55.97,1:18:58.50,Default,,0,0,0,,I decided to never share this with anyone!
+Dialogue: 5,1:18:50.74,1:18:52.00,Default,,0,0,0,,you dense asshole!
+Dialogue: 5,1:18:55.97,1:18:58.50,Default,,0,0,0,,I meant to never share this with anyone!
 Dialogue: 5,1:18:58.50,1:19:01.35,Default,,0,0,0,,{\i1}I love Riku, I don’t want to part with him.{\i0}
 Dialogue: 5,1:19:01.35,1:19:03.20,Default,,0,0,0,,It's embarrassing…
 Dialogue: 5,1:19:03.20,1:19:06.37,Default,,0,0,0,,{\i1}All these contradictions I got from Riku…{\i0}
 Dialogue: 5,1:19:06.73,1:19:10.62,Default,,0,0,0,,All… all of this is mine alone!
 Dialogue: 5,1:19:10.62,1:19:12.76,Default,,0,0,0,,I'm telling you to take it!
-Dialogue: 5,1:19:13.36,1:19:16.21,Default,,0,0,0,,Get the meaning of it, idiot!
+Dialogue: 5,1:19:13.36,1:19:16.21,Default,,0,0,0,,Get what it means, idiot!
 Dialogue: 5,1:19:16.21,1:19:18.15,Default,,0,0,0,,Stop giving me shit,
 Dialogue: 5,1:19:18.15,1:19:20.81,Default,,0,0,0,,and carry it on!
-Comment: 0,1:19:38.28,1:19:38.30,Default,,0,0,0,,Translation END
 Dialogue: 5,1:19:38.89,1:19:41.14,Default,,0,0,0,,As presumed, the unit is broken.
 Dialogue: 5,1:19:42.17,1:19:43.24,Default,,0,0,0,,I know.
-Dialogue: 5,1:19:43.42,1:19:47.09,Default,,0,0,0,,Inconsistent, unsettled and yet it manages to function.
-Dialogue: 5,1:19:47.09,1:19:48.16,Default,,0,0,0,,Anomaly.
+Dialogue: 5,1:19:43.43,1:19:47.09,Default,,0,0,0,,Incoherent, ambiguous, and still operates.
+Dialogue: 5,1:19:47.12,1:19:48.16,Default,,0,0,0,,Abnormal.
 Dialogue: 5,1:19:48.16,1:19:49.77,Default,,0,0,0,,I know that too!
-Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,It's impossible.
-Dialogue: 5,1:19:51.84,1:19:57.14,Default,,0,0,0,,That's the reality... the whole study of Riku's heart is the proof!
-Dialogue: 5,1:19:58.80,1:20:00.42,Default,,0,0,0,,Your unit
-Dialogue: 5,1:20:00.42,1:20:02.56,Default,,0,0,0,,is considered to contain valuable data.
-Dialogue: 5,1:20:04.46,1:20:09.13,Default,,0,0,0,,Reinitiating data synchronization.\NCompletion in 251 seconds.
-Dialogue: 5,1:20:09.13,1:20:12.16,Default,,0,0,0,,During this time, destruction to your unit is forbidden.
+Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,Impossible to occur.
+Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,That's how it is.
+Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart I received from Riku is the proof!
+Dialogue: 5,1:19:58.81,1:20:00.44,Default,,0,0,0,,Your unit
+Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,is deemed to contain valuable data.
+Dialogue: 5,1:20:04.46,1:20:06.40,Default,,0,0,0,,Synchronization initiated.
+Dialogue: 0,1:20:06.40,1:20:09.12,Default,,0,0,0,,Completion in 251 seconds.
+Dialogue: 5,1:20:09.12,1:20:12.16,Default,,0,0,0,,For the duration, unit destruction is prohibited.
 Dialogue: 5,1:20:14.27,1:20:15.79,Default,,0,0,0,,Alles-Lösen.
-Dialogue: 5,1:20:16.11,1:20:19.18,Default,,0,0,0,,Forme — Algorithm for combating unknown foes:
+Dialogue: 5,1:20:16.11,1:20:19.26,Default,,0,0,0,,Forme – Algorithm against unknown enemies:
 Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,Initiation
-Comment: 0,1:20:22.35,1:20:22.39,Default,,0,0,0,,Sync END
-Dialogue: 5,1:20:22.55,1:20:25.05,Default,,0,0,0,,The zeal from the heart...
-Dialogue: 5,1:20:27.52,1:20:31.22,Default,,0,0,0,,Despite being a machine, I found my purpose.
-Dialogue: 5,1:20:32.02,1:20:33.92,Default,,0,0,0,,For this life
-Dialogue: 5,1:20:34.92,1:20:37.32,Default,,0,0,0,,to last 251 seconds more...
-Dialogue: 5,1:20:38.12,1:20:39.52,Default,,0,0,0,,I'm all in!
-Dialogue: 5,1:20:43.31,1:20:47.11,Default,,0,0,0,,Are you trying to imply something\Nwith those gorgeous wings of yours?
-Dialogue: 5,1:20:47.69,1:20:50.95,Default,,0,0,0,,A bit audacious, but brilliantly constructed my dear.
-Dialogue: 5,1:20:50.95,1:20:52.28,Default,,0,0,0,,Schwi.
-Dialogue: 5,1:20:52.28,1:20:52.99,Default,,0,0,0,,Pardon?
-Dialogue: 5,1:20:54.03,1:20:56.91,Default,,0,0,0,,It's a name,
-Dialogue: 5,1:20:56.91,1:20:58.54,Default,,0,0,0,,the one I have.
-Dialogue: 5,1:20:59.83,1:21:01.58,Default,,0,0,0,,A gift from Riku.
-Dialogue: 5,1:21:02.08,1:21:03.84,Default,,0,0,0,,Someone dear to me.
-Dialogue: 5,1:21:04.79,1:21:10.26,Default,,0,0,0,,Is that so? My name is Jibril.\NPleased to make your acquaintance.
-Dialogue: 5,1:21:10.26,1:21:11.13,Default,,0,0,0,,But I'm afraid
-Dialogue: 5,1:21:12.05,1:21:14.22,Default,,0,0,0,,it's time to say goodbye.
-Dialogue: 5,1:21:22.56,1:21:26.73,Default,,0,0,0,,Don't play by the rules.\NHave no shame.
+Comment: 0,1:20:22.48,1:20:22.50,Default,,0,0,0,,Translation END
+Dialogue: 5,1:20:22.58,1:20:24.73,Default,,0,0,0,,The zeal from the heart...
+Dialogue: 5,1:20:27.63,1:20:31.15,Default,,0,0,0,,Despite being a machine, I found my purpose.
+Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,For this life
+Dialogue: 5,1:20:35.05,1:20:37.40,Default,,0,0,0,,to last 251 seconds more...
+Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,I'm all in!
+Dialogue: 5,1:20:43.37,1:20:47.09,Default,,0,0,0,,Are those gigantic wings supposed to imply something?
+Dialogue: 5,1:20:47.87,1:20:50.78,Default,,0,0,0,,A bit audacious, but brilliantly constructed my dear.
+Dialogue: 5,1:20:51.06,1:20:52.23,Default,,0,0,0,,Schwi.
+Dialogue: 5,1:20:52.44,1:20:53.53,Default,,0,0,0,,Pardon?
+Dialogue: 5,1:20:54.14,1:20:56.69,Default,,0,0,0,,It's a name,
+Dialogue: 5,1:20:56.95,1:20:58.26,Default,,0,0,0,,the one I have.
+Dialogue: 5,1:20:59.97,1:21:01.41,Default,,0,0,0,,A gift from Riku.
+Dialogue: 5,1:21:02.26,1:21:03.64,Default,,0,0,0,,Someone dear to me.
+Dialogue: 5,1:21:04.83,1:21:08.09,Default,,0,0,0,,Is that so? My name is Jibril.
+Dialogue: 0,1:21:08.24,1:21:09.95,Default,,0,0,0,,Pleased to make your acquaintance.
+Dialogue: 5,1:21:10.29,1:21:11.46,Default,,0,0,0,,And now
+Dialogue: 5,1:21:12.14,1:21:14.26,Default,,0,0,0,,I bid you farewell.
+Comment: 0,1:21:22.37,1:21:22.43,Default,,0,0,0,,Sync END
+Dialogue: 5,1:21:22.56,1:21:26.73,Default,,0,0,0,,Don't play by their rules.\NHave no shame.
 Dialogue: 5,1:21:26.73,1:21:30.57,Default,,0,0,0,,Make them drop their guard,\Ndeceive them without mercy.
 Dialogue: 5,1:21:30.86,1:21:34.46,Default,,0,0,0,,Pick irrational moves.\NMake them worry about every prediction.
 Dialogue: 5,1:21:36.26,1:21:40.04,Default,,0,0,0,,If you fall, drag them with you.
@@ -1653,16 +1656,3 @@ Dialogue: 5,1:40:25.66,1:40:27.71,Default,,0,0,0,,But you can handle them. I kno
 Dialogue: 5,1:40:28.08,1:40:29.17,Default,,0,0,0,,I know you can!
 Dialogue: 5,1:40:43.64,1:40:44.56,Default,,0,0,0,,Now—
 Dialogue: 5,1:40:48.18,1:40:50.52,Default,,0,0,0,,Let's get this game started!
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"52229ca5-a261-4d82-80b8-c056f2ad0bf7"#2C"originalText"#3A"{\\pos(960#2C281)\\fs90\\blur4.5\\bord3.5\\3c&HB503C8&}Ten Pledges"}
-Data: 1,a-mo,e{"uuid"#3A"603209c3-1536-4da6-a3b6-cb35706b5058"#2C"originalText"#3A"{\\pos(960#2C461)\\3c&HB503C8&\\blur4}#231#3A All murder#2C war#2C and robbery is forbidden in this world."}
-Data: 2,a-mo,e{"uuid"#3A"6909754e-e9c3-4157-85f2-a84c1e041180"#2C"originalText"#3A"{\\pos(960#2C610)\\blur4\\3c&HB503C8&}#232#3A All conflict in this world will be resolved through games."}
-Data: 3,a-mo,e{"uuid"#3A"3ca4e0d6-0521-4d44-98f0-1c5c1e7010b2"#2C"originalText"#3A"{\\pos(960#2C766)\\3c&HB503C8&\\blur4}#233#3A In games#2C each player will bet something that they agree is of equal value."}
-Data: 4,a-mo,e{"uuid"#3A"90e1e29c-58d4-41d0-9e2b-93d803b4eea9"#2C"originalText"#3A"{\\pos(960#2C922)\\3c&HB503C8&\\blur4}#234#3A As long as it doesn't violate pledge three#2C anything may be bet#2C and any game may be played."}
-Data: 5,a-mo,e{"uuid"#3A"d7900f00-7dc4-471c-8c14-80a9011015eb"#2C"originalText"#3A"{\\pos(960#2C1066)\\blur4\\3c&HB503C8&}#235#3A The challenged party has the right to decide the rules of the game."}
-Data: 6,a-mo,e{"uuid"#3A"94c95954-9649-4ac4-87c6-1a2f6ee98c25"#2C"originalText"#3A"{\\pos(960#2C1126)\\3c&HB503C8&\\blur4}#236#3A Any bets made in accordance with the pledges must be upheld."}
-Data: 8,a-mo,e{"uuid"#3A"1a078ecf-b7fc-4840-a551-549798f267e2"#2C"originalText"#3A"{\\q2\\blur4\\3c&HB503C8&\\pos(960#2C1126)\\fad(0#2C1000)}#237#3A Conflicts between groups will be conducted by designated representatives with absolute authority."}
-Data: 11,a-mo,e{"uuid"#3A"15f1bc94-8219-40cd-804b-1f4ca437d111"#2C"originalText"#3A"{\\pos(960#2C1119)\\3c&HB503C8&\\blur4\\fad(0#2C300)}#238#3A Being caught cheating during a game is grounds for an instant loss."}
-Data: 13,a-mo,e{"uuid"#3A"65c92104-2c72-45c7-9bfb-498849c7c485"#2C"originalText"#3A"{\\3c&HB503C8&\\blur4\\fad(0#2C300)\\pos(960#2C1126)}#239#3A In the name of god#2C the previous rules may never be changed."}
-Data: 16,a-mo,e{"uuid"#3A"8b9db770-a71f-4484-a799-428f4c5b45f4"#2C"originalText"#3A"{\\pos(960#2C1129)\\blur4\\fad(0#2C1000)\\3c&HB503C8&}#2310#3A Let's all have fun and play together!"}

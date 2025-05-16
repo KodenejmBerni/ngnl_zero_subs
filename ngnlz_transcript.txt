@@ -1724,10 +1724,10 @@ Masaka ki kai ni, kan nado to iu mono ga aru tomo omoemasenga.
 No way a machine could have anything like instinctive reflexes.
 
 Iyana yokan ga shimasu.
-This is getting unsettling.
+This is getting weird.
 
 Kubi sae nokoreba yoinode.
-The head alone will do.
+The head alone will be enough.
 
 Sorosoro tetsu-kuzurashiku, monoiwazu chi ni umoremashou ka
 Time for a pile of scrap to fall silent and rust in the ground.
@@ -1816,15 +1816,15 @@ no, correction…
 
 分からず屋ッ
 wakarazuya!
-you dense ass!
+you dense asshole!
 
 本当はッ　誰にも渡したくないッ
 Honto wa, dare ni mo watashitakunai!
-I decided to never share this with anyone!
+I meant to never share this with anyone!
 
 リクが好き、リクと離れたくない
 Riku ga suki, Riku to hanaretakunai.
-I love Riku, I don’t want to part with him.
+I love Riku, I don’t want to leave him.
 
 恥ずかしい　もん…
 Hazukashī mon…
@@ -1845,6 +1845,7 @@ I'm telling you to take it!
 その意味わかってよ、バカ!
 Sono imi wakatte yo baka!
 Get the meaning of it, idiot!
+Get what that means, idiot!
 
 ゴチャゴチャ、言わないでッ
 Gochagocha, iwanai de
@@ -1864,53 +1865,59 @@ I know.
 
 矛盾し、破綻し、それでも稼働している。
 Mujun shi, hatan shi, soredemo kadou shite iru.
-_
+Incoherent, ambiguous, and still operates.
 
 異常だ。
 Ijou da.
-_
+Abnormal.
 
 それも知ってる
 Sore mo shitteru!
-_
+I know that too!
 
 不可能だ、あり得ない
 Fukanou da, arienai.
-_
+Impossible to occur.
 
-これが現実──リクにもらった心が示す事実。
-Kore ga genjitsu… Riku ni moratta kokoro ga shimesu jijitsu.
-_
+これが現実──
+Kore ga genjitsu.
+That's how it is.
+
+リクにもらった心が示す事実。
+Riku ni moratta kokoro ga shimesu jijitsu!
+The heart I received from Riku is the proof!
 
 故に
 yue ni
-_
+Your unit
 
 貴重なサンプルデータと判断する。
 Kichou na sanpuru deeta to handan.
-_
+is deemed to contain valuable data.
 
 データ同期──開始
 Deeta douki – kaishi
-_
+Synchronization initiated.
 
 同期完了まで251秒。
 Douki kanryou made 251-byou.
+Completion in 251 seconds.
 
 その火力式の全壊を禁ずる
 Sonoka, kiki no zenkai o kinzuru.
+For the duration, unit destruction is prohibited.
 
 アーレス・レーゼン
 Alles-Lösen.
 *
 
 フォルメー対未知用戦闘アルゴリズム
-Forume – Tai michi-you sentou arugorizumu:
-_
+Forme – Tai michi-you sentou arugorizumu:
+Forme – Algorithm against unknown enemies:
 
 起動
 kidou.
-_
+Initiation
 
 _
 Kono omoi. Kokoro.
@@ -1933,7 +1940,7 @@ kakeru.
 _
 
 その大きな翼は、当てつけのつもりで？
-Sono o kina tsubasa wa, atetsuke no tsumori de?
+Sono oukina tsubasa wa (ga), atetsuke no tsumori de?
 _
 
 _ 上等でございます。
