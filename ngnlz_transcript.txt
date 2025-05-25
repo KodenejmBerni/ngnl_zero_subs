@@ -1731,7 +1731,7 @@ The head alone will be enough.
 
 そろそろ鉄屑らしく、
 Sorosoro tetsu-kuzurashiku, 
-Let us make you a proper scrap
+Let's make you a proper scrap
 
 物言わず地に埋もれましょうか。
 monoiwazu chi ni umoremashou ka.
@@ -1777,21 +1777,21 @@ Identification number:
 *
 *
 
-Eins、再連結申請ッ
-Eins, sairenketsu shinsei.
-Eins, integration request.
+アインへ、再連結申請ッ
+Eins e, sairenketsu shinsei.
+To Eins: requesting reconnection.
 
 心の解析完了。
 Kokoro no kaiseki kanryou.
-Heart analysis concluded.
+Heart analysis completed.
 
 同期再連結をッ
 Douki – sairenketsu o!
-Resume synchronization!
+Initiate synchronization!
 
 永久連結解除除隊にある貴機のデータは
 Eikyuu renketsu kaijo jotai ni aru kiki no data wa
-Due to continuous disconnection, this unit is presumed
+Due to prolonged disconnection, your data is presumed
 
 重大なエラー多いと判断
 Juudaina eraa ooi to handan.
@@ -1803,21 +1803,25 @@ Request rejected.
 
 申請却下拒否ッ
 Shinsei kyakka kyohi!
-Rejection refused!
+Response rejected!
 
 PrüferからEinzigへの
 Prüfer kara Einzig e no
 Forward this to Einzig.
 
 // Check needed
-如何なる報告も解析 ken to _ はないはずッ
+如何なる報告も解析 (ken to _ ) はないはずッ
 ikanaru houkoku mo kaiseki(ken to ana hijun) wa nai hazu!
-Your unit should not have permissions to reject this!
+Your unit has no permissions to reject any reports!
 
 // Check needed
-_ 強く申請ッ  連結をッ
-(rigiza) tsuyoku shinsei! Renketsu o!
-I firmly reapply for synchronization!
+(稟議ぞ) 強く申請ッ
+(ringi zo) tsuyoku shinsei!
+Urgent reapplication!
+
+連結をッ
+Renketsu o!
+Synchronize!
 
 Eins…
 *
@@ -1845,7 +1849,7 @@ It's embarrassing…
 
 リクに貰った抱えきれない程のエラー。
 Riku ni moratta kakae kirenai hodo no erā…
-All these contradictions I got from Riku…
+All these contradictions I got from him…
 
 ずぶ…ずぶシュヴィだけのものだもん!
 Zubu… Zubu Schwi dake no monoda mon!
@@ -1870,7 +1874,7 @@ and carry it on!
 
 やはり貴機は壊れている
 Yahari kiki wa kowarete iru.
-As presumed, the unit is broken.
+The unit is clearly defective.
 
 知って、る
 Shitte, ru.
@@ -1878,7 +1882,7 @@ I know.
 
 矛盾し、破綻し、それでも稼働している。
 Mujun shi, hatan shi, soredemo kadou shite iru.
-Incoherent, ambiguous, and still operates.
+Ambiguous, incoherent, yet still functional.
 
 異常だ。
 Ijou da.
@@ -1894,11 +1898,11 @@ Impossible to occur.
 
 これが現実──
 Kore ga genjitsu.
-That's how it is.
+It's the truth…
 
 リクにもらった心が示す事実。
 Riku ni moratta kokoro ga shimesu jijitsu!
-The heart I received from Riku is the proof!
+The heart that Riku lent me is the proof!
 
 故に
 yue ni
@@ -1918,7 +1922,7 @@ Completion in 251 seconds.
 
 その火力式の全壊を禁ずる
 Sonoka, kiki no zenkai o kinzuru.
-For the duration, unit destruction is prohibited.
+During this time, destruction is prohibited.
 
 アーレス・レーゼン
 Alles-Lösen.
@@ -1953,15 +1957,16 @@ kakeru.
 _
 
 その大きな翼は、当てつけのつもりで？
-Sono oukina tsubasa wa (ga), atetsuke no tsumori de?
-_
+Sono oukina tsubasa wa, atetsuke no tsumori de?
+Are those giagantic wings some kind of jab?
 
-_ 上等でございます。
-Ningyō Fuse ga jōtōdegozaimasu
-_
+人形風情が上等でございます。
+Ningyō fusei ga… jōtō de gozaimasu.
+For a mere doll… quite remarkable.
 
 Schwi
-
+*
+*
 
 Hai?
 
