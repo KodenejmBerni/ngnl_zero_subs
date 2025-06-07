@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 1375
-Active Line: 1382
-Video Position: 116383
+Video Zoom Percent: 0.750000
+Scroll Position: 1376
+Active Line: 1389
+Video Position: 117059
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1392,33 +1392,33 @@ Dialogue: 5,1:19:47.12,1:19:48.16,Default,,0,0,0,,Abnormal.
 Dialogue: 5,1:19:48.16,1:19:49.77,Default,,0,0,0,,I know that too!
 Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,Impossible to occur.
 Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,It's the truth…
-Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart that Riku lent me is the proof!
+Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart that Riku gives me is the proof!
 Dialogue: 5,1:19:58.81,1:20:00.44,Default,,0,0,0,,Your unit
-Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,is deemed to contain valuable data.
+Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,contains valuable data.
 Dialogue: 5,1:20:04.46,1:20:06.40,Default,,0,0,0,,Synchronization initiated.
 Dialogue: 0,1:20:06.40,1:20:09.12,Default,,0,0,0,,Completion in 251 seconds.
 Dialogue: 5,1:20:09.12,1:20:12.16,Default,,0,0,0,,During this time, destruction is prohibited.
 Dialogue: 5,1:20:14.27,1:20:15.79,Default,,0,0,0,,Alles-Lösen.
-Dialogue: 5,1:20:16.11,1:20:19.26,Default,,0,0,0,,Forme – Algorithm against unpredictable threat:
-Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,Initiate.
-Comment: 0,1:20:22.48,1:20:22.50,Default,,0,0,0,,Translation END
+Dialogue: 5,1:20:16.11,1:20:19.26,Default,,0,0,0,,Forme – unpredictable threat protocol:
+Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,initiate.
 Dialogue: 5,1:20:22.58,1:20:24.73,Default,,0,0,0,,That urge, the heart…
-Dialogue: 5,1:20:27.62,1:20:31.15,Default,,0,0,0,,Being a machine, I received meaning.
-Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,For this life
-Dialogue: 5,1:20:35.05,1:20:37.40,Default,,0,0,0,,to last 251 seconds more...
-Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,I'm all in!
+Dialogue: 5,1:20:27.62,1:20:31.15,Default,,0,0,0,,Being a machine, I gained meaning.
+Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,And all of it
+Dialogue: 5,1:20:35.05,1:20:37.40,Default,,0,0,0,,in these 251 seconds
+Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,fulfills!
 Dialogue: 5,1:20:43.37,1:20:47.09,Default,,0,0,0,,Are those giagantic wings\Nsuppose to be a jab?
 Dialogue: 5,1:20:47.87,1:20:50.65,Default,,0,0,0,,For a mere puppet, quite impressive.
 Dialogue: 5,1:20:51.10,1:20:52.00,Default,,0,0,0,,Schwi.
 Dialogue: 5,1:20:52.45,1:20:53.39,Default,,0,0,0,,Pardon?
-Dialogue: 5,1:20:54.14,1:20:56.95,Default,,0,0,0,,I didn’t mention my name,
-Dialogue: 5,1:20:56.95,1:20:58.26,Default,,0,0,0,,so here it is.
+Dialogue: 5,1:20:54.14,1:20:56.98,Default,,0,0,0,,I didn’t mention my name,
+Dialogue: 5,1:20:56.98,1:20:58.26,Default,,0,0,0,,so here it is.
 Dialogue: 5,1:20:59.97,1:21:01.41,Default,,0,0,0,,A gift from Riku,
 Dialogue: 5,1:21:02.26,1:21:03.64,Default,,0,0,0,,my precious self.
 Dialogue: 5,1:21:04.83,1:21:08.24,Default,,0,0,0,,I see. My name is Jibril.
 Dialogue: 0,1:21:08.24,1:21:09.95,Default,,0,0,0,,Pleased to meet you.
 Dialogue: 5,1:21:10.29,1:21:11.46,Default,,0,0,0,,And now
 Dialogue: 5,1:21:12.14,1:21:14.26,Default,,0,0,0,,I bid you farewell.
+Comment: 0,1:21:22.32,1:21:22.36,Default,,0,0,0,,Translation END
 Comment: 0,1:21:22.37,1:21:22.43,Default,,0,0,0,,Sync END
 Dialogue: 5,1:21:22.56,1:21:26.73,Default,,0,0,0,,Don't play by their rules.\NHave no shame.
 Dialogue: 5,1:21:26.73,1:21:30.57,Default,,0,0,0,,Make them drop their guard,\Ndeceive them without mercy.
