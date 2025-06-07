@@ -1930,15 +1930,15 @@ Alles-Lösen.
 
 フォルメー対未知用戦闘アルゴリズム
 Forme – Tai michi-you sentou arugorizumu:
-Forme – Algorithm against unknown enemies:
+Forme – Algorithm against unpredictable threat:
 
 起動
 kidou.
-Initiation
+Initiate.
 
 この想い、心…
 Kono omoi, kokoro…
-_
+That urge, the heart…
 
 機械に生まれ、て…命を、貰った、
 Kikai ni umare, te… inochi o moratta,
@@ -1958,28 +1958,51 @@ _
 
 その大きな翼は、当てつけのつもりで？
 Sono oukina tsubasa wa, atetsuke no tsumori de?
-Are those giagantic wings some kind of jab?
+Are those giagantic wings suppose to be a jab?
 
 人形風情が上等でございます。
 Ningyō fusei ga… jōtō de gozaimasu.
-For a mere doll… quite remarkable.
+For a mere puppet, quite impressive.
 
 Schwi
 *
 *
 
-_
+はい?
 Hai?
 Pardon?
 
-Namae ittenakatta? Kore ga watashi. Riku ni moratta daijina watashi
+名前、言ってなかった。
+Namae, itte nakatta.
+I didn’t mention my name,
 
+それが私。
+Sore ga watashi.
+so here it is.
 
-Sa yōdesu ka? Watashi wa jiburīru dōzo o mishiri-oki o.
+リクにもらった、
+Riku ni moratta,
+A gift from Riku,
 
+大事な私。
+daijina watashi.
+my precious self.
 
-Soshite, sayōnaradegozai masu.
+さようですか。私はジブリール。
+Sayou desu ka. Watashi wa Jiburijru.
+I see. My name is Jibril.
 
+どうぞお見知りおきを
+Douzo omishiri oki o.
+Pleased to meet you.
+
+そして…
+Soshite…
+And now
+
+さようなら、でございます
+sayōnara de gozai masu.
+I bid you farewell.
 
 Aite no butai ni tatsu na.
 
