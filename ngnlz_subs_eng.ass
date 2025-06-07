@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1376
-Active Line: 1389
-Video Position: 117059
+Video Zoom Percent: 0.625000
+Scroll Position: 1382
+Active Line: 1390
+Video Position: 117072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1419,15 +1419,15 @@ Dialogue: 0,1:21:08.24,1:21:09.95,Default,,0,0,0,,Pleased to meet you.
 Dialogue: 5,1:21:10.29,1:21:11.46,Default,,0,0,0,,And now
 Dialogue: 5,1:21:12.14,1:21:14.26,Default,,0,0,0,,I bid you farewell.
 Comment: 0,1:21:22.32,1:21:22.36,Default,,0,0,0,,Translation END
-Comment: 0,1:21:22.37,1:21:22.43,Default,,0,0,0,,Sync END
-Dialogue: 5,1:21:22.56,1:21:26.73,Default,,0,0,0,,Don't play by their rules.\NHave no shame.
-Dialogue: 5,1:21:26.73,1:21:30.57,Default,,0,0,0,,Make them drop their guard,\Ndeceive them without mercy.
-Dialogue: 5,1:21:30.86,1:21:34.46,Default,,0,0,0,,Pick irrational moves.\NMake them worry about every prediction.
-Dialogue: 5,1:21:36.26,1:21:40.04,Default,,0,0,0,,If you fall, drag them with you.
-Dialogue: 5,1:21:43.29,1:21:44.48,Default,,0,0,0,,I can't die!
-Dialogue: 0,1:21:44.48,1:21:45.79,Default,,0,0,0,,Not yet!
-Dialogue: 5,1:21:45.79,1:21:48.46,Default,,0,0,0,,I can't die yet!
-Dialogue: 5,1:22:05.44,1:22:06.44,Default,,0,0,0,,Umweg!
+Dialogue: 5,1:21:22.84,1:21:26.87,Default,,0,0,0,,Don’t play by their rules,\Nleave them nothing to work with.
+Dialogue: 5,1:21:26.87,1:21:31.03,Default,,0,0,0,,Make them drop their guard,\Ndeceive them without mercy.
+Dialogue: 5,1:21:31.03,1:21:34.99,Default,,0,0,0,,Pick irrational moves.\NMake them worry about every prediction.
+Dialogue: 5,1:21:36.32,1:21:39.56,Default,,0,0,0,,If you fall, drag them with you.
+Dialogue: 5,1:21:43.35,1:21:44.48,Default,,0,0,0,,I can't die!
+Dialogue: 0,1:21:45.04,1:21:45.89,Default,,0,0,0,,Not yet!
+Dialogue: 5,1:21:45.89,1:21:48.26,Default,,0,0,0,,I can't die yet!
+Dialogue: 5,1:22:05.62,1:22:06.92,Default,,0,0,0,,Umweg!
+Comment: 0,1:22:24.72,1:22:24.75,Default,,0,0,0,,Sync END
 Dialogue: 5,1:22:25.46,1:22:28.46,Default,,0,0,0,,Finally, a workable mistake.
 Dialogue: 5,1:22:28.46,1:22:30.96,Default,,0,0,0,,You've caused me quite a surprising amount of effort.
 Dialogue: 5,1:22:33.05,1:22:34.34,Default,,0,0,0,,Mistake?

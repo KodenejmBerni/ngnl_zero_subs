@@ -1930,11 +1930,11 @@ Alles-Lösen.
 
 フォルメー対未知用戦闘アルゴリズム
 Forme – Tai michi-you sentou arugorizumu:
-Forme – Algorithm against unpredictable threat:
+Forme – unpredictable threat protocol:
 
 起動
 kidou.
-Initiate.
+initiate.
 
 この想い、心…
 Kono omoi, kokoro…
@@ -2004,23 +2004,37 @@ And now
 sayōnara de gozai masu.
 I bid you farewell.
 
-Aite no butai ni tatsu na.
+相手の舞台に立つな、
+Aite no butai ni tatsu na,
+Don’t play by their rules,
+
+主導権を絶対に渡すな
+Shudouken o zettai ni watasu na.
+leave them nothing to work with.
+
+相手を油断させろ、取るに足らぬ相手だと理解させろ
+Aite o yudan sasero, toru ni taranu aite da to rikai sasero.
+Make them feel confident, let them underestimate you.
+
+相手を警戒させろ、下手は打てぬ相手だと錯覚させろ
+Aite o keikai sasero, heta wa utenu aite da to sakkaku sasero
 
 
-Shudō-ken o zettai ni watasu na.
+今がダメなら…次に託して
+Ima ga dame nara. Tsugi ni takushite.
+If it fails… 
 
+死ねない！
+Shine nai!
+I can't die!
 
-Aite o yudan sa sero toru ni taranu aiteda to rikai sa sero.
+まだ、
+Mada,
+Not yet!
 
-
-Aite o keikai sa sero itadaite no aiteda to sakkaku sa sero.
-
-
-Ima ga damenara. Tsugini taku shite.
-
-
-Shine nai! Nada! Shine nai no!
-
+死ねないの！
+shinenai no!
+I can't die yet!
 
 Yōyaku isurashī misu o.
 
