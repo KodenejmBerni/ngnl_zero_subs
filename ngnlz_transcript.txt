@@ -1942,7 +1942,7 @@ That urge, the heart…
 
 機械に生まれ、て…命を、貰った、
 Kikai ni umare, te… inochi o moratta.
-Being a machine, I gained meaning.
+Born as a tool, I found meaning.
 
 その全て…
 Sono subete…
@@ -1954,7 +1954,7 @@ in these 251 seconds
 
 賭けるッ!!
 kakeru!
-fulfills!
+will emerge!
 
 その大きな翼は、当てつけのつもりで？
 Sono oukina tsubasa wa, atetsuke no tsumori de?
@@ -2006,23 +2006,28 @@ I bid you farewell.
 
 相手の舞台に立つな、
 Aite no butai ni tatsu na,
+Don’t let yourself be led,
 Don’t play by their rules,
+Stay away from their teritory.
+Don't fight on their terms
+Stay off their stage,
 
 主導権を絶対に渡すな
 Shudouken o zettai ni watasu na.
-leave them nothing to work with.
+never give up the initiative.
+Have no ounce of shame.
 
 相手を油断させろ、取るに足らぬ相手だと理解させろ
 Aite o yudan sasero, toru ni taranu aite da to rikai sasero.
-Make them feel confident, let them underestimate you.
+Make them reckless, let them dismiss you as a threat.
 
 相手を警戒させろ、下手は打てぬ相手だと錯覚させろ
-Aite o keikai sasero, heta wa utenu aite da to sakkaku sasero
-
+Aite o keikai sasero, heta wa utenu aite da to sakkaku sasero.
+Fill them with doubt, let them think they can't make a mistake.
 
 今がダメなら…次に託して
 Ima ga dame nara. Tsugi ni takushite.
-If it fails… 
+If you lose now… prepare for the next!
 
 死ねない！
 Shine nai!
@@ -2036,44 +2041,69 @@ Not yet!
 shinenai no!
 I can't die yet!
 
-Yōyaku isurashī misu o.
+ようやくミスらしいミスを…
+Youyaku misu rashii misu o…
+Finally a proper mistake…
 
-
-Tema o kake sasete kuremashita ne.
-
-
-Misu. Nani no kotodarou?
-
-
-Sayōdegozaimasu ka tetsu kuzu yobawari o shi nasai. Tekkai shimashou.
-
-
-Anatasama wa koko de kakujitsu ni nyū subeki kyōgi.
-
-
-Zenryoku ni ataisuru teki to handan itashimasu.
-
-
-Dōki kanryō.
-
-
+手間をかけさせてくれましたねぇ
+tema o kakesasete kuremashita nee.
 _
 
+ミス？何のこと、だろ…
+Misu. Nanno kotodarou?
+_
 
-Riku
+さようでございますか。鉄クズ呼ばわりを謝罪・撤回しましょう
+Sayou de gozaimasu ka. Tetsu kuzu yobawari o shazai, tekkai shimashou.
+_
 
+あなたさまは、ここで、確実に排すべき〝脅威〟
+Anatasama wa koko de kakujitsu ni hai subeki kyoui.
+_
 
+全力に値する敵と判断致します
+Zenryoku ni ataisuru teki to handan itashimasu.
+_
+
+同期、完了
+Douki kanryou.
+_
+
+このゲーム、
+Kono geemu,
+In this game
+
+シュヴィの勝ち…だよ
+Schwi no kachi dayo.
+victory goes to me.
+
+Lösen: Kein-Eintrag.
+*
+*
+
+Riku…
+*
+*
+
+ね… リク
 Ne, Riku,
+Hey, Riku…
 
+シュヴィ…やっと、わかった、よ……？
+Schwi… yatto wakatta yo.
+_
 
-Schwi yatto wakatta yo.
+シュヴィ…リクに会えて──本当に……幸せだよ
+Schwi riku ni aete, hontou ni shiawaseda yo.
+_
 
+次こそ…二度と離れないよ
+Tsugi koso… ni do to hanarenai yo.
+_
 
-Schwi riku ni aete. Hontōni shiawaseda yo.
-
-
-Tsugi koso. Nidoto hanarenai yo. Hontōni Aishiteruyo.
-
+ほんと、に…愛してる…よ
+Hontouni aishiteru yo.
+_
 
 Kubiwa-te ni hairazu, buhin wa keshitobi
 

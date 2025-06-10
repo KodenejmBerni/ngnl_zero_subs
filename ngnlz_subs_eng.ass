@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1382
-Active Line: 1390
-Video Position: 117072
+Video Zoom Percent: 0.750000
+Scroll Position: 1389
+Active Line: 1399
+Video Position: 118555
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,7 +74,7 @@ Dialogue: 5,0:03:30.19,0:03:33.81,Default,,0,0,0,,You just want to distract me, 
 Dialogue: 5,0:03:33.81,0:03:36.65,Default,,0,0,0,,Do whatever you want, please.
 Dialogue: 5,0:03:36.65,0:03:38.28,Default,,0,0,0,,Great! Let's get into it!
 Dialogue: 5,0:03:38.28,0:03:42.07,Default,,0,0,0,,It's an ancient myth that no one has ever heard before.
-Dialogue: 5,0:03:42.07,0:03:43.82,Default,,0,0,0,,I'm not listening, please.
+Dialogue: 5,0:03:42.07,0:03:43.82,Default,,0,0,0,,Not listening, please.
 Dialogue: 5,0:03:50.75,0:03:52.29,Default,,0,0,0,,So...
 Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,this story happened over six thousand years ago.
 Dialogue: 5,0:04:02.72,0:04:07.14,Default,,0,0,0,,The earth and sky were then ravaged by a cruel war.
@@ -91,7 +91,7 @@ Dialogue: 5,0:05:31.11,0:05:33.35,Default,,0,0,0,,We need to rely on our senses.
 Dialogue: 5,0:05:36.06,0:05:37.69,Default,,0,0,0,,Don't let your guard down.
 Dialogue: 5,0:05:37.69,0:05:38.86,Default,,0,0,0,,Riku!
 Dialogue: 5,0:05:38.86,0:05:40.73,Default,,0,0,0,,Come quick! There's a—
-Dialogue: 5,0:05:45.32,0:05:46.70,Default,,0,0,0,,This is...
+Dialogue: 5,0:05:45.32,0:05:46.70,Default,,0,0,0,,That's...
 Dialogue: 5,0:05:48.62,0:05:52.70,Default,,0,0,0,,A Dwarven world map! And it's very recent!
 Dialogue: 5,0:05:53.70,0:05:55.21,Default,,0,0,0,,That's not all.
 Dialogue: 5,0:05:55.71,0:05:59.75,Default,,0,0,0,,It shows the distribution of all forces. Even the Dwarves' strategy.
@@ -114,7 +114,7 @@ Dialogue: 5,0:07:32.76,0:07:33.80,Default,,0,0,0,,Die here.
 Dialogue: 5,0:07:34.14,0:07:35.31,Default,,0,0,0,,Aschieto.
 Dialogue: 5,0:07:35.68,0:07:37.06,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:07:43.90,0:07:46.11,Default,,0,0,0,,Take care of my kid.
-Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Riku, sorry for—
+Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Too bad, Riku.
 Dialogue: 5,0:07:57.08,0:08:01.25,Default,,0,0,0,,The bait is here! Get me Demonia!
 Dialogue: 5,0:08:40.29,0:08:43.67,Default,,0,0,0,,They say there used to be something called "the sun".
 Dialogue: 5,0:08:44.92,0:08:47.39,Default,,0,0,0,,It lit up the sky,
@@ -588,7 +588,7 @@ Dialogue: 5,0:32:15.58,0:32:18.20,Default,,0,0,0,,Also, I'm sitting here brushin
 Dialogue: 5,0:32:18.20,0:32:19.62,Default,,0,0,0,,That's not fair.
 Dialogue: 5,0:32:19.62,0:32:22.50,Default,,0,0,0,,Ehh, it takes forever by the way.
 Dialogue: 5,0:32:23.00,0:32:25.42,Default,,0,0,0,,There is a possibility to cut it.
-Dialogue: 5,0:32:25.65,0:32:27.46,Default,,0,0,0,,No, there's no need for that.
+Dialogue: 5,0:32:25.65,0:32:27.46,Default,,0,0,0,,No, there's no need.
 Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,Sometimes you really don’t grasp it.
 Dialogue: 5,0:33:06.69,0:33:07.63,Default,,0,0,0,,Riku,
 Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,I designed a compact telescope.
@@ -1402,10 +1402,10 @@ Dialogue: 5,1:20:14.27,1:20:15.79,Default,,0,0,0,,Alles-Lösen.
 Dialogue: 5,1:20:16.11,1:20:19.26,Default,,0,0,0,,Forme – unpredictable threat protocol:
 Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,initiate.
 Dialogue: 5,1:20:22.58,1:20:24.73,Default,,0,0,0,,That urge, the heart…
-Dialogue: 5,1:20:27.62,1:20:31.15,Default,,0,0,0,,Being a machine, I gained meaning.
-Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,And all of it
+Dialogue: 5,1:20:27.62,1:20:31.15,Default,,0,0,0,,Born as a tool, I found meaning.
+Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,And all of that
 Dialogue: 5,1:20:35.05,1:20:37.40,Default,,0,0,0,,in these 251 seconds
-Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,fulfills!
+Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,will emerge!
 Dialogue: 5,1:20:43.37,1:20:47.09,Default,,0,0,0,,Are those giagantic wings\Nsuppose to be a jab?
 Dialogue: 5,1:20:47.87,1:20:50.65,Default,,0,0,0,,For a mere puppet, quite impressive.
 Dialogue: 5,1:20:51.10,1:20:52.00,Default,,0,0,0,,Schwi.
@@ -1419,16 +1419,17 @@ Dialogue: 0,1:21:08.24,1:21:09.95,Default,,0,0,0,,Pleased to meet you.
 Dialogue: 5,1:21:10.29,1:21:11.46,Default,,0,0,0,,And now
 Dialogue: 5,1:21:12.14,1:21:14.26,Default,,0,0,0,,I bid you farewell.
 Comment: 0,1:21:22.32,1:21:22.36,Default,,0,0,0,,Translation END
-Dialogue: 5,1:21:22.84,1:21:26.87,Default,,0,0,0,,Don’t play by their rules,\Nleave them nothing to work with.
-Dialogue: 5,1:21:26.87,1:21:31.03,Default,,0,0,0,,Make them drop their guard,\Ndeceive them without mercy.
-Dialogue: 5,1:21:31.03,1:21:34.99,Default,,0,0,0,,Pick irrational moves.\NMake them worry about every prediction.
-Dialogue: 5,1:21:36.32,1:21:39.56,Default,,0,0,0,,If you fall, drag them with you.
+Dialogue: 5,1:21:22.84,1:21:26.87,Default,,0,0,0,,Stay off their stage,\Nnever give up the initiative.
+Dialogue: 5,1:21:26.87,1:21:31.03,Default,,0,0,0,,Make them reckless,\Nlet them dismiss you as a threat.
+Dialogue: 5,1:21:31.03,1:21:32.76,Default,,0,0,0,,Fill them with doubt,
+Dialogue: 5,1:21:32.76,1:21:34.99,Default,,0,0,0,,let them think they can't make a mistake.
+Dialogue: 5,1:21:36.32,1:21:39.37,Default,,0,0,0,,If you lose now… prepare for the next!
 Dialogue: 5,1:21:43.35,1:21:44.48,Default,,0,0,0,,I can't die!
 Dialogue: 0,1:21:45.04,1:21:45.89,Default,,0,0,0,,Not yet!
 Dialogue: 5,1:21:45.89,1:21:48.26,Default,,0,0,0,,I can't die yet!
 Dialogue: 5,1:22:05.62,1:22:06.92,Default,,0,0,0,,Umweg!
 Comment: 0,1:22:24.72,1:22:24.75,Default,,0,0,0,,Sync END
-Dialogue: 5,1:22:25.46,1:22:28.46,Default,,0,0,0,,Finally, a workable mistake.
+Dialogue: 5,1:22:25.46,1:22:28.46,Default,,0,0,0,,Finally a proper mistake…
 Dialogue: 5,1:22:28.46,1:22:30.96,Default,,0,0,0,,You've caused me quite a surprising amount of effort.
 Dialogue: 5,1:22:33.05,1:22:34.34,Default,,0,0,0,,Mistake?
 Dialogue: 5,1:22:35.13,1:22:37.14,Default,,0,0,0,,What do you mean by that?
