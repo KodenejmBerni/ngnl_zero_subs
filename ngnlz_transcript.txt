@@ -2006,24 +2006,25 @@ I bid you farewell.
 
 相手の舞台に立つな、
 Aite no butai ni tatsu na,
+Stay off their stage,
 Don’t let yourself be led,
 Don’t play by their rules,
-Stay away from their teritory.
-Don't fight on their terms
-Stay off their stage,
 
 主導権を絶対に渡すな
 Shudouken o zettai ni watasu na.
 never give up the initiative.
-Have no ounce of shame.
 
 相手を油断させろ、取るに足らぬ相手だと理解させろ
 Aite o yudan sasero, toru ni taranu aite da to rikai sasero.
 Make them reckless, let them dismiss you as a threat.
 
-相手を警戒させろ、下手は打てぬ相手だと錯覚させろ
-Aite o keikai sasero, heta wa utenu aite da to sakkaku sasero.
-Fill them with doubt, let them think they can't make a mistake.
+相手を警戒させろ、
+Aite o keikai sasero,
+Fill them with doubt,
+
+下手は打てぬ相手だと錯覚させろ
+heta wa utenu aite da to sakkaku sasero.
+let them think they can't make a mistake.
 
 今がダメなら…次に託して
 Ima ga dame nara. Tsugi ni takushite.
@@ -2043,35 +2044,49 @@ I can't die yet!
 
 ようやくミスらしいミスを…
 Youyaku misu rashii misu o…
-Finally a proper mistake…
+Finally… a proper mistake.
 
 手間をかけさせてくれましたねぇ
-tema o kakesasete kuremashita nee.
-_
+Tema o kakesasete kuremashita nee. 
+You really gave me a hassle.
 
-ミス？何のこと、だろ…
-Misu. Nanno kotodarou?
-_
+ミス？
+Misu. 
+Mistake?
 
-さようでございますか。鉄クズ呼ばわりを謝罪・撤回しましょう
-Sayou de gozaimasu ka. Tetsu kuzu yobawari o shazai, tekkai shimashou.
-_
+何のこと、だろ…
+Nanno koto daru…
+It's fine with me…
+
+さようでございますか。
+Sayou de gozaimasu ka.  
+Very well then.
+As you wish.
+
+鉄クズ呼ばわりを謝罪
+Tetsukuzu yobawari o shazai.
+Forgive me calling you scrap.
+
+撤回しましょう
+tekkai shimashou.
+Let's take that back.
 
 あなたさまは、ここで、確実に排すべき〝脅威〟
 Anatasama wa koko de kakujitsu ni hai subeki kyoui.
-_
+Beyond doubt, you're a threat that must be eliminated here.
 
 全力に値する敵と判断致します
 Zenryoku ni ataisuru teki to handan itashimasu.
-_
+An enemy worthy of my full power.
+I consider you an enemy worthy of the full extent of my power.
 
 同期、完了
 Douki kanryou.
-_
+Synchronization complete.
 
 このゲーム、
 Kono geemu,
-In this game
+In this game,
 
 シュヴィの勝ち…だよ
 Schwi no kachi dayo.
@@ -2086,8 +2101,8 @@ Riku…
 *
 
 ね… リク
-Ne, Riku,
-Hey, Riku…
+Ne, Riku
+Hey, Riku
 
 シュヴィ…やっと、わかった、よ……？
 Schwi… yatto wakatta yo.
