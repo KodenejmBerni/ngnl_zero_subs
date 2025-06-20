@@ -1507,12 +1507,12 @@ Ne teru aida.-Te nigitte kureru ka?
 When I'm sleeping… will you hold my hand?
 
 Zutto nigitteru. Anshin shite, Riku.
-All the time, don't worry, Riku.
+All the time, don't be afraid, Riku.
 
 Schwi, ore ni ai ni kitekurete, arigatou.
-Schwi, I'm so grateful that you're in my life.
+Schwi, I’m so grateful that you came into my life.
 
-Hontōni, aishiteruyo.
+Hontōni, aishiteru yo.
 I truly, love you.
 
 Korekara mo.
@@ -2043,8 +2043,8 @@ shinenai no!
 I can't die yet!
 
 ようやくミスらしいミスを…
-Youyaku misu rashii misu o…
-Finally… a proper mistake.
+Youyaku misu rashii misu o.
+Finally a proper mistake.
 
 手間をかけさせてくれましたねぇ
 Tema o kakesasete kuremashita nee. 
@@ -2056,29 +2056,30 @@ Mistake?
 
 何のこと、だろ…
 Nanno koto daru…
-It's fine with me…
+What are you talking about…
 
 さようでございますか。
-Sayou de gozaimasu ka.  
+Sayou de gozaimasu ka.
 Very well then.
 As you wish.
 
 鉄クズ呼ばわりを謝罪
 Tetsukuzu yobawari o shazai.
-Forgive me calling you scrap.
+Sorry for calling you scrap.
 
 撤回しましょう
 tekkai shimashou.
-Let's take that back.
+I take that back.
 
 あなたさまは、ここで、確実に排すべき〝脅威〟
 Anatasama wa koko de kakujitsu ni hai subeki kyoui.
-Beyond doubt, you're a threat that must be eliminated here.
+You lady, are a threat that must be eliminated at once.
 
 全力に値する敵と判断致します
 Zenryoku ni ataisuru teki to handan itashimasu.
 An enemy worthy of my full power.
 I consider you an enemy worthy of the full extent of my power.
+An enemy worthy of the full extent of my power.
 
 同期、完了
 Douki kanryou.
@@ -2101,33 +2102,50 @@ Riku…
 *
 
 ね… リク
-Ne, Riku
-Hey, Riku
+Ne, Riku…
+Hey, Riku…
 
-シュヴィ…やっと、わかった、よ……？
-Schwi… yatto wakatta yo.
-_
+シュヴィ…
+Schwi…
+*
 
-シュヴィ…リクに会えて──本当に……幸せだよ
-Schwi riku ni aete, hontou ni shiawaseda yo.
-_
+やっと、わかった、よ……？
+yatto wakatta yo?
+has understood at last.
 
-次こそ…二度と離れないよ
-Tsugi koso… ni do to hanarenai yo.
-_
+シュヴィ…
+Schwi…
+*
 
-ほんと、に…愛してる…よ
-Hontouni aishiteru yo.
-_
+リクに会えて──本当に……幸せだよ
+riku ni aete, hontou ni shiawaseda yo.
+is really blissful to have met you.
+
+次こそ…
+Tsugi koso…
+In the next one
+
+二度と離れないよ
+ni do to hanarenai yo.
+we'll never be apart.
+
+ほんと、に…
+Hontouni
+Know that
+
+愛してる…よ
+aishiteru yo.
+I trully love you.
 
 Kubiwa-te ni hairazu, buhin wa keshitobi
-
+I didn’t get the head… everything is shattered.
 
 Shikamo chikara o tsukatta sei de kono sugata.
+And that energy outburst turned me into a brat.
 
-
+これでは何一つ割に合わのおございますよぉ
 Korede wa nan hitotsu wariniawanai gozaimasu yo!
-
+All of that… ended up being completely pointless!
 
 
 01:24:30

@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1396
-Active Line: 1410
-Video Position: 119633
+Scroll Position: 1400
+Active Line: 1426
+Video Position: 121714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1275,11 +1275,11 @@ Dialogue: 5,1:11:44.30,1:11:45.66,Default,,0,0,0,,I have a favor to ask.
 Dialogue: 5,1:11:46.88,1:11:48.01,Default,,0,0,0,,When I'm sleeping…
 Dialogue: 0,1:11:49.10,1:11:50.59,Default,,0,0,0,,will you hold my hand?
 Dialogue: 5,1:11:55.73,1:11:57.61,Default,,0,0,0,,All the time,
-Dialogue: 5,1:11:58.82,1:12:00.59,Default,,0,0,0,,don't worry, Riku.
-Dialogue: 5,1:12:05.16,1:12:10.31,Default,,0,0,0,,Schwi, I'm so grateful that you're in my life.
+Dialogue: 5,1:11:58.82,1:12:00.59,Default,,0,0,0,,don't be afraid, Riku.
+Dialogue: 5,1:12:05.16,1:12:10.31,Default,,0,0,0,,Schwi, I’m so grateful that you came into my life.
 Dialogue: 5,1:12:11.41,1:12:12.12,Default,,0,0,0,,I truly
-Dialogue: 5,1:12:13.78,1:12:14.70,Default,,0,0,0,,love you
-Dialogue: 5,1:12:16.58,1:12:17.90,Default,,0,0,0,,and always will.
+Dialogue: 5,1:12:13.78,1:12:14.70,Default,,0,0,0,,love you.
+Dialogue: 5,1:12:16.58,1:12:17.90,Default,,0,0,0,,I always will.
 Dialogue: 5,1:12:34.48,1:12:35.15,Default,,0,0,0,,Riku,
 Dialogue: 5,1:12:36.52,1:12:37.68,Default,,0,0,0,,forgive me.
 Dialogue: 5,1:12:39.60,1:12:42.04,Default,,0,0,0,,I'll be back soon.
@@ -1427,33 +1427,33 @@ Dialogue: 5,1:21:43.35,1:21:44.48,Default,,0,0,0,,I can't die!
 Dialogue: 0,1:21:45.04,1:21:45.89,Default,,0,0,0,,Not yet!
 Dialogue: 5,1:21:45.89,1:21:48.26,Default,,0,0,0,,I can't die yet!
 Dialogue: 5,1:22:05.62,1:22:06.92,Default,,0,0,0,,Umweg!
-Comment: 0,1:22:24.36,1:22:24.40,Default,,0,0,0,,Translation END
-Dialogue: 5,1:22:25.52,1:22:27.98,Default,,0,0,0,,Finally… a proper mistake.
+Dialogue: 5,1:22:25.52,1:22:27.98,Default,,0,0,0,,Finally a proper mistake.
 Dialogue: 5,1:22:28.58,1:22:30.60,Default,,0,0,0,,You really gave me a hassle.
 Dialogue: 5,1:22:33.25,1:22:34.14,Default,,0,0,0,,Mistake?
-Dialogue: 5,1:22:35.22,1:22:37.14,Default,,0,0,0,,It's fine with me…
+Dialogue: 5,1:22:35.22,1:22:37.14,Default,,0,0,0,,What are you talking about…
 Dialogue: 5,1:22:40.38,1:22:42.04,Default,,0,0,0,,Very well then.
-Dialogue: 5,1:22:42.80,1:22:44.68,Default,,0,0,0,,Forgive me calling you scrap.
-Dialogue: 5,1:22:45.39,1:22:46.65,Default,,0,0,0,,Let's take that back.
-Dialogue: 5,1:22:47.52,1:22:50.81,Default,,0,0,0,,Beyond doubt, you're a threat that must be eliminated here.
-Dialogue: 5,1:22:51.48,1:22:54.20,Default,,0,0,0,,You are an enemy worthy of the full extent of my power.
+Dialogue: 5,1:22:42.80,1:22:44.68,Default,,0,0,0,,Sorry for calling you scrap.
+Dialogue: 5,1:22:45.39,1:22:46.65,Default,,0,0,0,,I take that back.
+Dialogue: 5,1:22:47.52,1:22:50.81,Default,,0,0,0,,You lady, are a threat that must be eliminated at once.
+Dialogue: 5,1:22:51.48,1:22:54.20,Default,,0,0,0,,An enemy worthy of the full extent of my power.
 Dialogue: 5,1:23:01.10,1:23:02.85,Default,,0,0,0,,Synchronization complete.
 Dialogue: 5,1:23:07.22,1:23:08.44,Default,,0,0,0,,In this game,
 Dialogue: 5,1:23:09.67,1:23:12.57,Default,,0,0,0,,victory goes to me.
 Dialogue: 5,1:23:13.32,1:23:15.71,Default,,0,0,0,,Lösen: Kein-Eintrag.
-Dialogue: 5,1:23:30.72,1:23:31.62,Default,,0,0,0,,Riku.
-Dialogue: 5,1:23:32.90,1:23:34.72,Default,,0,0,0,,Hey, Riku
-Dialogue: 5,1:23:35.74,1:23:36.86,Default,,0,0,0,,I...
-Dialogue: 5,1:23:37.39,1:23:38.95,Default,,0,0,0,,finally understand.
-Dialogue: 5,1:23:40.42,1:23:41.30,Default,,0,0,0,,I...
-Dialogue: 5,1:23:41.98,1:23:46.58,Default,,0,0,0,,am truly blissful to have met you.
-Dialogue: 5,1:23:48.35,1:23:49.42,Default,,0,0,0,,Next time,
+Dialogue: 5,1:23:30.72,1:23:31.62,Default,,0,0,0,,Riku…
+Dialogue: 5,1:23:32.90,1:23:34.72,Default,,0,0,0,,Hey, Riku…
+Dialogue: 5,1:23:35.74,1:23:37.39,Default,,0,0,0,,Schwi
+Dialogue: 5,1:23:37.39,1:23:38.95,Default,,0,0,0,,has at last understood.
+Dialogue: 5,1:23:40.42,1:23:41.98,Default,,0,0,0,,Schwi
+Dialogue: 5,1:23:41.98,1:23:46.58,Default,,0,0,0,,is really blissful to have met you.
+Dialogue: 5,1:23:48.35,1:23:50.22,Default,,0,0,0,,In the next one
 Dialogue: 5,1:23:50.22,1:23:51.94,Default,,0,0,0,,we'll never be apart.
-Dialogue: 5,1:23:53.62,1:23:54.69,Default,,0,0,0,,I truly
-Dialogue: 5,1:23:55.53,1:23:56.95,Default,,0,0,0,,love you.
-Dialogue: 5,1:24:06.11,1:24:10.02,Default,,0,0,0,,I didn't get her head... now the merchandise is gone.
-Dialogue: 5,1:24:11.70,1:24:15.42,Default,,0,0,0,,And I used so much energy,\Nthat I turned into this little thing.
-Dialogue: 5,1:24:15.88,1:24:21.48,Default,,0,0,0,,If it's like this... It was not worth any of this at all!
+Dialogue: 5,1:23:53.62,1:23:55.53,Default,,0,0,0,,Know that
+Dialogue: 5,1:23:55.53,1:23:56.95,Default,,0,0,0,,I trully love you.
+Dialogue: 5,1:24:06.11,1:24:10.02,Default,,0,0,0,,I didn't get the head... everything is shattered.
+Dialogue: 5,1:24:11.70,1:24:15.42,Default,,0,0,0,,And that energy outburst turned me into a brat.
+Dialogue: 5,1:24:15.88,1:24:21.48,Default,,0,0,0,,All of that… ended up being completely pointless!
+Comment: 0,1:24:35.94,1:24:35.98,Default,,0,0,0,,Translation END
 Comment: 0,1:24:36.08,1:24:36.10,Default,,0,0,0,,Sync END
 Dialogue: 5,1:24:36.46,1:24:38.01,Default,,0,0,0,,I thought—
 Dialogue: 5,1:24:38.01,1:24:43.72,Default,,0,0,0,,I thought I could win this time for sure.\NSo as long as I had Schwi and the others.
