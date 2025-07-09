@@ -2212,14 +2212,14 @@ Spieler Riku.
 
 誰だ…
 Dareda…
-_
+Who are you…
 
 名前はないが
 Namae wa nai ga.
 _
 
 アインツイヒと名乗ろう
-Aintsuihi to nanorou
+Einzig to nanorou
 _
 
 プライヤーシュヴィから、託された遺志を果たしに来た
@@ -2236,15 +2236,15 @@ _
 
 リクが決めたルール。
 Riku ga kimeta ruuru.
-_
+The rule you decided.
 
 道具の損失は敗北の条件に該当しない。
 Dougu no sonshitsu wa haiboku no jouken ni gaitou shinai.
-_
+The loss of a tool doesn't qualify as a condition for defeat.
 
 シュヴィの損失は該当しない。
 Schwi no sonshitsu wa gaitou shinai.
-_
+The loss of Schwi doesn't qualify.
 
 チェックだよ
 Chekku da yo
@@ -2254,17 +2254,21 @@ That’s a check, Riku.
 Ato wa, onegai
 Take care of the rest.
 
-Fuzui shi jōhō o teikyō suru
+付随し情報を提供する
+Fuzui shi jouhou o teikyou suru:
+Providing additional information:
 
+一つ、現在 Umweg 設置ポイントには他種族が集結しているため
+Hitotsu genzai Umweg setchi pointo ni wa ta shuzoku ga shūketsu shite iru tame
+_
 
-Hitotsu genzai Umwig setchi pointo ni wa ta shuzoku ga shūketsu shite iru tame
+我々が移動すれば Cluster を感知され 交戦となる確率が 98%.
+Wareware ga idou sureba Cluster o kanchi sare, kousen to naru kakuritsu ga 98-paasento
+_
 
-
-Wareware ga idō sureba Cluster o kanchi sa re, kōsen to naru kakuritsu ga 98-pāsento
-
-
-Shitagatte kadō dekiru Umweg sudeni setchi kanryō shite iru.
-
+従って稼働出来る Umweg 既に設置完了している
+Shitagatte kadou dekiru Umweg sudeni setchi kanryou shite iru.
+_
 
 24-Ki nomi to nari,-boshi Odzuki enerugī o shita e yūdō suru no wa fukanō to natta.
 
