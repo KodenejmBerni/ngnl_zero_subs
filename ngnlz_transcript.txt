@@ -1809,14 +1809,12 @@ PrüferからEinzigへの
 Prüfer kara Einzig e no
 Forward this to Einzig.
 
-// Check needed
-如何なる報告も解析 (ken to _ ) はないはずッ
-ikanaru houkoku mo kaiseki(ken to ana hijun) wa nai hazu!
+如何なる報告も解析検討の必要があるはず
+ikanaru houkoku mo kaiseki kentou no hitsuyou ga aru hazu!
 Your unit has no permissions to reject any reports!
 
-// Check needed
-(稟議ぞ) 強く申請ッ
-(ringi zo) tsuyoku shinsei!
+連結を強く申請!
+Renketsu o tsuyoku shinsei!
 Urgent reapplication!
 
 連結をッ
@@ -2247,8 +2245,8 @@ The loss of a tool doesn't qualify as a condition for defeat.
 Schwi no sonshitsu wa gaitou shinai.
 The loss of Schwi doesn't qualify.
 
-チェックだよ
-Chekku da yo
+チェックだよ、リク
+Chekku da yo, Riku.
 That’s a check, Riku.
 
 あとは、おねがい
@@ -2257,46 +2255,55 @@ Take care of the rest.
 
 付随し情報を提供する
 Fuzui shi jouhou o teikyou suru:
-Providing additional information:
+Providing supplementary information:
 
 一つ、現在 Umweg 設置ポイントには他種族が集結しているため
 Hitotsu genzai Umweg setchi pointo ni wa ta shuzoku ga shūketsu shite iru tame
 _
 
 我々が移動すれば Cluster を感知され 交戦となる確率が 98%.
-Wareware ga idou sureba Cluster o kanchi sare, kousen to naru kakuritsu ga 98-paasento
+wareware ga idou sureba Cluster o kanchi sare, kousen to naru kakuritsu ga 98-paasento
 _
 
 従って稼働出来る Umweg 既に設置完了している
 Shitagatte kadou dekiru Umweg sudeni setchi kanryou shite iru.
 _
 
-24-Ki nomi to nari,-boshi Odzuki enerugī o shita e yūdō suru no wa fukanō to natta.
+// Check needed
+二十四機、星 (...) 全エネルギーを下へ誘導するのは不可能となった.
+24-Ki nomi to nari, hoshi (...) zenenerugii o shita e yuudou suru no wa fukanou to natta.
+_
 
+ただし、南西方向への誘導は可能。
+Tadashi, nansei houkou e no yuudou wa kanou.
+_
 
-Tadashi, nansei hōkō e no yūdō wa kanō.
+二つ、我々 Ex-machina は受けた攻撃を解析し、模倣する兵装を展開可能。
+Futatsu, wareware ekusumakina wa uketa kougeki o kaiseki shi, mohou suru heisou o tenkai kanō.
 
+その武装持ち Spieler リクが星を穿つ、さすればスーニアスターはその手に顕現する。
+Sono busou mochi Spieler Riku ga hoshi o ugatsu-sa sureba Suniaster wa sono-te ni kengen suru.
+_
 
-Futatsu, wareware ekusumakina wa uketa kōgeki o kaiseki shi, mohō suru heisō o tenkai kanō.
+我ら Ex-machina 、心無き機械。
+Warera Ex-machina, kokoro naki kikai.
+_
 
+ただの道具。
+Tada no dougu.
+_
 
-Sono busō mochi Riku ga hoshi o ugatsu-sa sureba Suniaster wa sono-te ni kengen suru.
+命令に忠実に従い実行するのみ。
+Meirei ni chuujitsu ni shitagai jikkou suru nomi.
+_
 
+故に Spieler リク、
+Yueni Spieler Riku,
+_
 
-Warera ekusumakina kokoro naki kikai.
-
-
-Tada no dōgu.
-
-
-Meirei ni chūjitsu ni shitagai jikkō suru nomi.
-
-
-Yueni Spieler Riku.
-
-
-Senryaku o hosei suru meirei o.
-
+戦略を補正する、命令を。
+Senryaku o hosei suru, meirei o.
+_
 
 Rūru, tōku no sōshitsu. Fukuma renai
 
