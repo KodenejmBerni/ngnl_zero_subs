@@ -2142,52 +2142,59 @@ I didn’t get the head… everything is shattered.
 Shikamo chikara o tsukatta sei de kono sugata.
 And that energy outburst turned me into a brat.
 
-これでは何一つ割に合わのおございますよぉ
-Korede wa nan hitotsu wariniawanai gozaimasu yo!
-All of that… ended up being completely pointless!
+これでは
+Kore de wa
+All of that
 
+何一つ割に合わのおございますよぉ
+nani hitotsu wari ni awanai gozaimasu yoo!
+ended up being utterly pointless!
 
 01:24:30
 
-今度こそ…勝てると思った
-Kondo koso… kateru to omotta.
-I thought this one would be ours.
+今度こそ…
+Kondo koso…
+I really thought…
+
+勝てると思った
+kateru to omotta.
+we could win this…
 
 シュヴィと二人─みんなとなら
-Schwi to futari… Minna to nara…
-With Schwi… and the others…
+Schwi to futari… minna to nara…
+having Schwi… and the others.
 
 どこの神様が人間創ったか知らねえけど…
 Doko no kamisama ga ningen tsukutta ka shiranee kedo…
-I’ve no idea what kind of god created humans
+I don't know what god out there created us, but…
 
 なあ、頼むよ
 naa, tanomu yo.
-Hey, I'm begging you.
+hey… I'm begging you…
 
 たった一度だよ…
 Tatta ichido da yo…
-Just one time…
+just one time…
 
 たった一度の勝ちさえ許されないのかよ
 Tatta ichido no kachi sae yurusarenai no ka yo.
-Am I not alowed to win even one damn time?
+Can’t I win even one damn time?
 
 なあ、だったら…
 Naa, dattara…
-If that’s so…
+If… that’s so…
 
 だったらなんで俺に心なんてくれたあ！
 Dattara nande ore ni kokoro nante kuretaa!
-then what did you give me that heart for!
+what did you give me that heart for!
 
 シュヴィ…
 Schwi…
 *
 
-なんで…
-Nande…
-why…
+なんで?
+Nande?
+why?
 
 リクは…シュヴィが、死ぬまで……生きるの
 Riku wa… Schwi ga, shinu made ikiru no.
@@ -2198,8 +2205,8 @@ A, sou da na…
 Ah, right…
 
 シュヴィが死んだなら、いいだろう。
-Schwi ga shinda nara, ii darō.
-Now that Schwi is dead, it's fine.
+Schwi ga shinda nara, ii darou.
+If Schwi is dead, it's done.
 
 もうこのままさ…
 Mou kono mama sa…
@@ -2215,31 +2222,35 @@ Who are you…
 
 名前はないが
 Namae wa nai ga.
-_
+I have no name,
 
 アインツイヒと名乗ろう
 Einzig to nanorou
-_
+but they call me with Einzig.
 
-プライヤーシュヴィから、託された遺志を果たしに来た
-Puraiyaa Schwi kara, takusareta ishi o hatashi ni kita.
-_
+プライヤーシュヴィから託された遺志を、果たしに来た
+Player Schwi kara takusareta ishi o, hatashi ni kita.
+Player Schwi entrusted me with her will, which I've come to fulfill.
 
 シュヴィ…
 Schwi…
 *
 
 ルールその2 誰も死なせてはならない。
-Ruuru sono ni: dare mo shinasete wa naranai.
+Ruuru 2: dare mo shinasete wa naranai.
 _
 
 リクが決めたルール。
 Riku ga kimeta ruuru.
-The rule you decided.
+The rule set by Riku.
 
-道具の損失は敗北の条件に該当しない。
-Dougu no sonshitsu wa haiboku no jouken ni gaitou shinai.
-The loss of a tool doesn't qualify as a condition for defeat.
+道具の損失は
+Dougu no sonshitsu wa
+The loss of a tool
+
+敗北の条件に該当しない。
+haiboku no jouken ni gaitou shinai.
+doesn't qualify as a losing condition.
 
 シュヴィの損失は該当しない。
 Schwi no sonshitsu wa gaitou shinai.
@@ -2247,7 +2258,7 @@ The loss of Schwi doesn't qualify.
 
 チェックだよ、リク
 Chekku da yo, Riku.
-That’s a check, Riku.
+Check, Riku.
 
 あとは、おねがい
 Ato wa, onegai
@@ -2255,61 +2266,94 @@ Take care of the rest.
 
 付随し情報を提供する
 Fuzui shi jouhou o teikyou suru:
-Providing supplementary information:
+Providing additional information:
 
 一つ、現在 Umweg 設置ポイントには他種族が集結しているため
-Hitotsu genzai Umweg setchi pointo ni wa ta shuzoku ga shūketsu shite iru tame
-_
+1: genzai, Umweg setchi pointo ni wa ta shuzoku ga shuuketsu shite iru tame
+1: Currently, Umweg installation points have drawn the attention of several races,
 
-我々が移動すれば Cluster を感知され 交戦となる確率が 98%.
-wareware ga idou sureba Cluster o kanchi sare, kousen to naru kakuritsu ga 98-paasento
-_
+我々が移動すれば Cluster を感知され
+wareware ga idou sureba Cluster o kanchi sare,
+and any activity will lead to Cluster exposure,
 
-従って稼働出来る Umweg 既に設置完了している
-Shitagatte kadou dekiru Umweg sudeni setchi kanryou shite iru.
-_
+交戦となる確率が 98% 。
+kousen to naru kakuritsu ga 98%.
+resulting in combat with probability of 98%.
+
+従って稼働出来る Umweg は既に設置完了している
+Shitagatte, kadou dekiru Umweg wa sudeni setchi kanryou shite iru,
+Consequently, only the already deployed Umwegs are available for use,
 
 // Check needed
 二十四機、星 (...) 全エネルギーを下へ誘導するのは不可能となった.
 24-Ki nomi to nari, hoshi (...) zenenerugii o shita e yuudou suru no wa fukanou to natta.
-_
+with the amount of 24 being insufficient to redirect the energy down into the planet.
 
 ただし、南西方向への誘導は可能。
 Tadashi, nansei houkou e no yuudou wa kanou.
-_
+However, it's possible to direct it southwest.
 
-二つ、我々 Ex-machina は受けた攻撃を解析し、模倣する兵装を展開可能。
-Futatsu, wareware ekusumakina wa uketa kougeki o kaiseki shi, mohou suru heisou o tenkai kanō.
+二つ、我々 Ex-machina は受けた攻撃を解析し、
+2: wareware ekusumakina wa uketa kougeki o kaiseki shi
+2: We Ex-Machina, are able to process received damage
 
-その武装持ち Spieler リクが星を穿つ、さすればスーニアスターはその手に顕現する。
-Sono busou mochi Spieler Riku ga hoshi o ugatsu-sa sureba Suniaster wa sono-te ni kengen suru.
-_
+模倣する兵装を展開可能。
+mohou suru heisou o tenkai kanou.
+and deploy a weapon to replicate it.
+
+その武装持ち Spieler リクが星を穿つ、
+Sono busou mochi, Spieler Riku, ga hoshi o ugatsu
+Its wielder, Spieler Riku, shall pierce the planet,
+
+さすればスーニアスターはその手に顕現する。
+sa sureba Suniaster wa sono-te ni kengen suru.
+thereby manifesting the Suniaster in his hands.
 
 我ら Ex-machina 、心無き機械。
 Warera Ex-machina, kokoro naki kikai.
-_
+We are Ex-machina, machines bereft of heart…
 
 ただの道具。
 Tada no dougu.
-_
+mere tools.
 
 命令に忠実に従い実行するのみ。
 Meirei ni chuujitsu ni shitagai jikkou suru nomi.
-_
+Created solely to be used at another's discretion.
 
 故に Spieler リク、
 Yueni Spieler Riku,
-_
+And so, Spieler Riku,
 
-戦略を補正する、命令を。
-Senryaku o hosei suru, meirei o.
-_
+戦略を補正する、
+Senryaku o hosei suru,
+refine the strategy.
 
-Rūru, tōku no sōshitsu. Fukuma renai
+命令を。
+meirei o.
+Your orders.
 
+シュヴィ…
+Schwi…
+*
 
-Sore ga omae no negaida. Sō negau (tara).
+ルールに、道具の
+Rūru ni… dougu no
+The rules… don't include
 
+喪失は
+soushitsu wa
+the loss…
+
+含まれない。
+fukuma renai
+of a tool.
+
+Sore ga omae no negai dara.
+If that is what you wish…
+
+Sou negau tara.
+then so do I.
 
 Nya! Kawaī Nyan!
 
