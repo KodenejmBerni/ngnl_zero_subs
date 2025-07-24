@@ -1,8 +1,8 @@
 =========================================================================
 Spójność słownictwa:
 Yuiitsushin no za - the title of the One
-Áka Si Anse
-Zuibaku - Ether-bomb
+Áka Si Anse - アーカ・シ・アンセ
+Suibaku - 水爆 - Ether-bomb
 Tengeki - Heaven's Smite
 Shingeki - God's Smite
 Seireikairo - the Spirit Circuit
@@ -86,6 +86,7 @@ Translation ideas:
 0:51:42 - It's never truly a 0 or (a) 100.
 0:51:45 - It's all theory, after all.
 1:12:49 - What a (pathetic) joke.
+1:13:11 - ..., is it not?
 1:13:21 - I have to get Suniaster before Riku
 1:13:32 - Might someone be taking a solitary stroll today?
 1:14:48 - Can't be! …
