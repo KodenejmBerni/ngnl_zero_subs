@@ -2381,8 +2381,8 @@ Detecting multiple heat sources from behind!
 Kore wa—
 It's—
 
-なななんにゃぁぁぁ!?　今、誰が『天撃』を撃ったにゃ!?
-Naーnaーna— nannyaaa?! Ima, dare ga Tengeki o utta nya!
+なななんにゃぁぁぁ!?　今、誰が天撃を撃ったにゃ!?
+Naーnaーna— nannyaaa?! Ima, dare ga tengeki o utta nya!
 Wーwha— what the nyaa?! Who fired the Heaven's Smite, nyaa!
 
 アヴァント・ヘイムより先制攻撃を掛けり
@@ -2396,6 +2396,7 @@ Arm the hydrogen bombs!
 アーカ・シ・アンセ前段術式解放！
 Áka Si Anse zendan jutsushiki kaihou!
 Áka Si Anse, initiate startup phase!
+
 _
 Artosh sage. Dwarves kantai e.
 _
@@ -2405,58 +2406,76 @@ Avantheim kara no sensei kougeki?
 _
 
 違う…これは…
-Chigau kore wa
+Chigau… kore wa…
 _
 
-Nya, Nameta Mane shite kureru nya scrap.
+ナメた真似してくれるにゃぁ、スクラップ…
+Nameta mane shite kureru nyaa, sukurappu.
+_
 
 アルトシュ様？
 Artosh-sama?
 *
 
-Machiwabita zo waga tenteki yo.
+待ちわびたぞ、我が〝天敵〟よ。
+Machiwabita zo, waga "tenteki" yo.
+_
 
+なるほど、最強たる余に相対するは最弱たるは道理。
+Naruhodo, saikyou taru yo ni aitaisuru wa saijaku taru wa douri.
+_
 
-Machiwabita zo waga tenteki yo. Naruhodo, saikyōtaru ni ai taisuru wa saijaku taruga dōyō
+なあ〝猿〟？
+Naa, "saru"?
+Right, monkey?
 
+アヴァント・ヘイム背後から "天撃" を誰も殺さず発射、そうすれば…
+Avantheim haigo kara tengeki o dare mo korosazu hassha, sou sureba…
+_
 
-Na-sa
+11クラスター移動開始セットポイントへ。
+11 kurasutaa idou kaishi set point e.
+_
 
+直ぐにでも全火力の衝突がはじめる。
+Sugu ni demo zen-karyoku no shoutotsu ga hajimaru.
+_
 
-Āban to e imu haigo kara dengeki o dare mo korosazu hassha-sō sureba
+総員構えよ。
+Souin kamae yo.
+_
 
+相手はオールドデウス。人間如きの小賢しい作戦は簡単に見破るだろう。
+Aite wa Old-deus. Ningen gotoki no kozakashii sakusen wa kantan ni miyaburudarou.
+_
 
-11 Kurasutā idō kaishi setpoint e
+// Check needed
+それでも奴は全力潰しに来る。それが強者の (...) 。強者の道理だからだ。
+Soredemo yatsu wa zenryoku de tsubushi ni kuru. Sore ga kyousha no (ryuu e). Kyousha no douri dakara da
+_
 
+己が分際を弁えよ小賢しき塵芥ども。
+Onore ga bunzai o wakimae yo kozakashiki chiriakuta-domo.
+Know your place, you impudent specks of dust.
+_
 
-Sugu ni demo zen karyoku no shōtotsu ga hajimaru
+足掻け、藻掻け、地を這う虫けらが如何に群れようとも天に及ばぬと終に識れ
+Agake, mogake, chi o hau mushikera ga ika ni mureyoutomo ten ni oyobanu to tsuini shire.
+Struggle. Writhe. No matter how you swarm, worms crawling upon the earth — realize at last that you shall never reach the heavens.
+_
 
+// Check needed
+アーカ・シ・アンセ全弾 (威勢) 展開！
+Aka Si anse zen-dan isei tenkai!
+_
 
-Somui kamae.
+髄爆全弾射出！
+Zuibaku zen-dan shashutsu!
+_
 
-
-Aite wa ōrudo deusu. Ningengotoki no kozakashī sakusen wa kantan ni miyaburudarou.
-
-
-Soredemo yatsu wa zenryoku de tsubushi ni kuru. Sore ga tsuwamono no yu. Tsuwamono no dōridakarada
-
-
-Kono tabun sayō wa ekimae o
-
-
-Kōsaka shikichi riakutā tomo
-
-
-A kake mo gake-chi o hau mushi kera ga ikani mureyoutomo ten ni oyobanu to tsuini shire.
-
-
-Aka Si anse zen dansei tenkai
-
-
-Suibaku-sen-dan shashutsu
-
-
-Heaven's Strike
+神撃。
+Shingeki.
+God's Smite.
 
 
 Aka suibaku no chikara o yǐ Tte shite mo Artosh no shingeki o tomeru koto nado dekinai.
