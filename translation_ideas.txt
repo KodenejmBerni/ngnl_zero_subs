@@ -2,7 +2,7 @@
 Spójność słownictwa:
 Yuiitsushin no za - the title of the One
 Áka Si Anse - アーカ・シ・アンセ
-Suibaku - 髄爆 - Ether-bomb
+Zuibaku - 髄爆 - Ether-bomb
 Tengeki - 天撃 - Heaven's Smite
 Shingeki - God's Smite
 Seireikairo - the Spirit Circuit
@@ -11,6 +11,8 @@ Prüfer
 Übercluster 207 Prüfer 4F57T9
 Org. 0000: Stalemartyr
 Suniaster - スーニアスター
+Artosh - アルトシュ
+Dwarf - ドワーフ
 
 pertinacity
 

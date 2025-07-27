@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1484
-Active Line: 1496
-Video Position: 129113
+Video Zoom Percent: 0.750000
+Scroll Position: 1477
+Active Line: 1490
+Video Position: 128504
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1514,12 +1514,13 @@ Dialogue: 5,1:28:25.62,1:28:29.01,Default,,0,0,0,,But that scrap bag… what was
 Dialogue: 5,1:28:32.76,1:28:35.67,Default,,0,0,0,,Detecting multiple heat sources from behind!
 Dialogue: 5,1:28:35.67,1:28:36.24,Default,,0,0,0,,It's—
 Dialogue: 5,1:28:40.35,1:28:43.99,Default,,0,0,0,,Wーwha— what the nyaa?!\NWho fired the Heaven's Smite, nyaa!
-Dialogue: 5,1:28:44.87,1:28:49.22,Default,,0,0,0,,We've confirmed the preemptive strike originating\Nfrom Avant-Heim. Arm the hydrogen bombs!
-Dialogue: 5,1:28:51.03,1:28:53.61,Default,,0,0,0,,Áka Si Anse, initiate startup phase!
-Dialogue: 5,1:28:53.90,1:28:57.50,Default,,0,0,0,,Aim for Artosh to Starbord\Nand the Dwarfish fleet to the Port.
-Dialogue: 5,1:28:58.59,1:29:00.67,Default,,0,0,0,,A battle declaration from Avant-Heim.
-Dialogue: 5,1:29:01.56,1:29:03.76,Default,,0,0,0,,No... This is...
-Dialogue: 5,1:29:07.06,1:29:11.36,Default,,0,0,0,,Nya... Those piles of scrap are surely looking down on us.
+Dialogue: 5,1:28:44.87,1:28:47.76,Default,,0,0,0,,Preemptive strike detected from Avant Heim.
+Dialogue: 5,1:28:47.76,1:28:49.22,Default,,0,0,0,,Arm the hydrogen bombs!
+Dialogue: 5,1:28:51.03,1:28:53.61,Default,,0,0,0,,Áka Si Anse, initiate guidance phase!
+Dialogue: 5,1:28:53.90,1:28:57.50,Default,,0,0,0,,Starboard, Artosh. Port, the Dwarf fleet.
+Dialogue: 5,1:28:58.59,1:29:00.67,Default,,0,0,0,,Preemptive strike from Avantheim?
+Dialogue: 5,1:29:01.56,1:29:03.76,Default,,0,0,0,,No… this is…
+Dialogue: 5,1:29:07.06,1:29:11.36,Default,,0,0,0,,You dare to mess with us {\i1}nyaa{\i0}… scrap heaps!
 Dialogue: 5,1:29:27.62,1:29:29.55,Default,,0,0,0,,Artosh-sama?
 Dialogue: 5,1:29:30.21,1:29:32.99,Default,,0,0,0,,I've grown tired of this, my rivals.
 Dialogue: 5,1:29:33.75,1:29:39.38,Default,,0,0,0,,Although I don't like the idea,\Nbut I am now forced to treat you,

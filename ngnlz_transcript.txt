@@ -2386,8 +2386,8 @@ Naーnaーna— nannyaaa?! Ima, dare ga tengeki o utta nya!
 Wーwha— what the nyaa?! Who fired the Heaven's Smite, nyaa!
 
 アヴァント・ヘイムより先制攻撃を掛けり
-Avantheim yori sensei kougeki o kakeri.
-_
+Avantheim yori senseikougeki o kakeri.
+Preemptive strike detected from Avant Heim.
 
 水爆発射用意！
 Suibaku hassha youi!
@@ -2395,23 +2395,23 @@ Arm the hydrogen bombs!
 
 アーカ・シ・アンセ前段術式解放！
 Áka Si Anse zendan jutsushiki kaihou!
-Áka Si Anse, initiate startup phase!
+Áka Si Anse, initiate guidance phase!
 
-_
-Artosh sage. Dwarves kantai e.
-_
+右舷、アルトシュへ。左舷、ドワーフ艦隊へ。
+Ugen, Artosh e. Sagen, Dwarf kantai e.
+Starboard, Artosh. Port, the Dwarf fleet.
 
 アヴァント・ヘイムからの先制攻撃？
-Avantheim kara no sensei kougeki?
-_
+Avantheim kara no senseikougeki?
+Preemptive strike from Avantheim?
 
 違う…これは…
 Chigau… kore wa…
-_
+No… this is…
 
-ナメた真似してくれるにゃぁ、スクラップ…
-Nameta mane shite kureru nyaa, sukurappu.
-_
+ナメた真似してくれるにゃぁ…スクラップ！
+Nameta mane shite kureru nyaa… sukurappu!
+You dare to mess with us nyaa… scrap heaps!
 
 アルトシュ様？
 Artosh-sama?
