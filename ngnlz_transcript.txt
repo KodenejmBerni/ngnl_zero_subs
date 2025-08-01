@@ -2419,35 +2419,45 @@ Artosh-sama?
 
 待ちわびたぞ、我が〝天敵〟よ。
 Machiwabita zo, waga "tenteki" yo.
-_
+I've awaited you, my destined enemy.
 
 なるほど、最強たる余に相対するは最弱たるは道理。
 Naruhodo, saikyou taru yo ni aitaisuru wa saijaku taru wa douri.
-_
+Indeed, it's but natural for the strongest to be opposed by the weakest.
 
 なあ〝猿〟？
 Naa, "saru"?
 Right, monkey?
 
-アヴァント・ヘイム背後から "天撃" を誰も殺さず発射、そうすれば…
-Avantheim haigo kara tengeki o dare mo korosazu hassha, sou sureba…
-_
+アヴァント・ヘイム背後から "天撃" を誰も殺さず発射、
+Avantheim haigo kara, tengeki o dare mo korosazu hassha,
+An attack from behind Avant Heim was launched without killing anyone,
+
+そうすれば…
+sou sureba…
+and with it…
 
 11クラスター移動開始セットポイントへ。
-11 kurasutaa idou kaishi set point e.
-_
+Cluster 11 idou kaishi: set point e.
+Cluster 11 commencing relocation: set point.
 
 直ぐにでも全火力の衝突がはじめる。
-Sugu ni demo zen-karyoku no shoutotsu ga hajimaru.
-_
+…sugu ni demo zen-karyoku no shoutotsu ga hajimaru.
+…at any moment, the final clash of powers will begin.
 
-総員構えよ。
-Souin kamae yo.
-_
+総員、構えよ。
+Souin, kamae yo.
+All of you, form up.
+All units, form up.
 
-相手はオールドデウス。人間如きの小賢しい作戦は簡単に見破るだろう。
-Aite wa Old-deus. Ningen gotoki no kozakashii sakusen wa kantan ni miyaburudarou.
+相手はオールドデウス。
+Aite wa Old-deus.
+We face the Old-deus.
+
+人間如きの小賢しい作戦は簡単に見破るだろう。
+Ningen gotoki no kozakashii sakusen wa kantan ni miyaburudarou.
 _
+No human could go up with a plan that he won't see through.
 
 // Check needed
 それでも奴は全力潰しに来る。それが強者の (...) 。強者の道理だからだ。
@@ -2464,9 +2474,8 @@ Agake, mogake, chi o hau mushikera ga ika ni mureyoutomo ten ni oyobanu to tsuin
 Struggle. Writhe. No matter how you swarm, worms crawling upon the earth — realize at last that you shall never reach the heavens.
 _
 
-// Check needed
-アーカ・シ・アンセ全弾 (威勢) 展開！
-Aka Si anse zen-dan isei tenkai!
+アーカ・シ・アンセ全弾一斉展開！
+Aka Si anse zen-dan issei tenkai!
 _
 
 髄爆全弾射出！

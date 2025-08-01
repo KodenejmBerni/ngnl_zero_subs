@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 1477
-Active Line: 1490
-Video Position: 128504
+Scroll Position: 1486
+Active Line: 1498
+Video Position: 129271
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1522,16 +1522,15 @@ Dialogue: 5,1:28:58.59,1:29:00.67,Default,,0,0,0,,Preemptive strike from Avanthe
 Dialogue: 5,1:29:01.56,1:29:03.76,Default,,0,0,0,,No… this is…
 Dialogue: 5,1:29:07.06,1:29:11.36,Default,,0,0,0,,You dare to mess with us {\i1}nyaa{\i0}… scrap heaps!
 Dialogue: 5,1:29:27.62,1:29:29.55,Default,,0,0,0,,Artosh-sama?
-Dialogue: 5,1:29:30.21,1:29:32.99,Default,,0,0,0,,I've grown tired of this, my rivals.
-Dialogue: 5,1:29:33.75,1:29:39.38,Default,,0,0,0,,Although I don't like the idea,\Nbut I am now forced to treat you,
-Dialogue: 5,1:29:36.31,1:29:38.83,Default,,0,0,0,,the weakest, as an equal to the strongest there is.
+Dialogue: 5,1:29:30.21,1:29:32.99,Default,,0,0,0,,I've awaited you, my destined enemy.
+Dialogue: 5,1:29:33.75,1:29:39.38,Default,,0,0,0,,Indeed, it's but natural for the strongest to be opposed by the weakest.
 Dialogue: 5,1:29:42.18,1:29:44.33,Default,,0,0,0,,Right, monkey?
-Dialogue: 5,1:29:45.06,1:29:49.35,Default,,0,0,0,,The Heavens' Strike came from behind Avant-Heim.\NFired in a way so that no one was killed
-Dialogue: 0,1:29:49.35,1:29:51.49,Default,,0,0,0,,and as a result,
-Dialogue: 5,1:29:51.66,1:29:55.33,Default,,0,0,0,,Cluster 11 is now in motion and\Nheaded for the designated point.
-Dialogue: 5,1:29:55.58,1:29:58.76,Default,,0,0,0,,The clash of all powers are about to begin.
-Dialogue: 5,1:29:59.45,1:30:02.06,Default,,0,0,0,,Take your positions.
-Dialogue: 5,1:30:02.24,1:30:04.07,Default,,0,0,0,,We're going up against an Old Deus.
+Dialogue: 5,1:29:45.06,1:29:49.72,Default,,0,0,0,,An attack from behind Avant Heim was launched without killing anyone,
+Dialogue: 0,1:29:49.72,1:29:50.99,Default,,0,0,0,,and with it…
+Dialogue: 5,1:29:51.66,1:29:55.33,Default,,0,0,0,,Cluster 11 relocating: set point.
+Dialogue: 5,1:29:55.58,1:29:58.76,Default,,0,0,0,,…the final clash of powers will begin at any moment.
+Dialogue: 5,1:29:59.45,1:30:02.06,Default,,0,0,0,,All units, form up.
+Dialogue: 5,1:30:02.24,1:30:04.07,Default,,0,0,0,,We face the Old-deus.
 Dialogue: 5,1:30:05.07,1:30:08.46,Default,,0,0,0,,He will see right through whatever\Nplan we humans come up with.
 Dialogue: 5,1:30:09.41,1:30:12.00,Default,,0,0,0,,Even so, he will bring everything he has to wipe us out.
 Dialogue: 5,1:30:12.77,1:30:17.00,Default,,0,0,0,,That's how the strong think. It's how they do things.
@@ -1540,7 +1539,7 @@ Dialogue: 5,1:30:26.24,1:30:31.08,Default,,0,0,0,,You can struggle, but you will
 Dialogue: 5,1:30:31.11,1:30:34.85,Default,,0,0,0,,and writhe upon the earth.\NYou are no strength of the Heavens.
 Dialogue: 5,1:30:35.50,1:30:37.99,Default,,0,0,0,,Fire the Áka Si Anse. Maximum capacity!
 Dialogue: 5,1:30:38.32,1:30:40.43,Default,,0,0,0,,Launch the E-bomb!
-Dialogue: 5,1:30:41.14,1:30:42.39,Default,,0,0,0,,Heavens' Strike!
+Dialogue: 5,1:30:41.14,1:30:42.39,Default,,0,0,0,,God's Smite.
 Comment: 0,1:30:52.02,1:30:52.06,Default,,0,0,0,,Sync END
 Dialogue: 5,1:30:52.92,1:30:57.34,Default,,0,0,0,,Even the combined power of\Nthe Áka Si Anse and the E-bomb
 Dialogue: 5,1:30:57.34,1:31:00.47,Default,,0,0,0,,could not stop the enveloping\Nfury of Artosh's Heaven's Strike.
