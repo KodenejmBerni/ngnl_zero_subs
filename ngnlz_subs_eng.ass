@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1486
-Active Line: 1498
-Video Position: 129271
+Video Zoom Percent: 0.625000
+Scroll Position: 1474
+Active Line: 1482
+Video Position: 127379
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1530,10 +1530,11 @@ Dialogue: 0,1:29:49.72,1:29:50.99,Default,,0,0,0,,and with it…
 Dialogue: 5,1:29:51.66,1:29:55.33,Default,,0,0,0,,Cluster 11 relocating: set point.
 Dialogue: 5,1:29:55.58,1:29:58.76,Default,,0,0,0,,…the final clash of powers will begin at any moment.
 Dialogue: 5,1:29:59.45,1:30:02.06,Default,,0,0,0,,All units, form up.
-Dialogue: 5,1:30:02.24,1:30:04.07,Default,,0,0,0,,We face the Old-deus.
-Dialogue: 5,1:30:05.07,1:30:08.46,Default,,0,0,0,,He will see right through whatever\Nplan we humans come up with.
-Dialogue: 5,1:30:09.41,1:30:12.00,Default,,0,0,0,,Even so, he will bring everything he has to wipe us out.
-Dialogue: 5,1:30:12.77,1:30:17.00,Default,,0,0,0,,That's how the strong think. It's how they do things.
+Dialogue: 5,1:30:02.24,1:30:04.07,Default,,0,0,0,,We're up against the Old-deus.
+Dialogue: 5,1:30:05.07,1:30:08.53,Default,,0,0,0,,It should be a breeze to see through the petty plan of mere humans.
+Dialogue: 5,1:30:09.41,1:30:12.00,Default,,0,0,0,,And yet, he'll bring all his power to wipe us out.
+Dialogue: 5,1:30:12.77,1:30:14.62,Default,,0,0,0,,That's the custom of the mighty.
+Dialogue: 5,1:30:15.21,1:30:17.17,Default,,0,0,0,,That's how the mighty think.
 Dialogue: 5,1:30:19.06,1:30:25.36,Default,,0,0,0,,The foolish will not know if they are\Nworth less than the dirt in which they hide.
 Dialogue: 5,1:30:26.24,1:30:31.08,Default,,0,0,0,,You can struggle, but you will know that\Nno matter how many of you band together
 Dialogue: 5,1:30:31.11,1:30:34.85,Default,,0,0,0,,and writhe upon the earth.\NYou are no strength of the Heavens.

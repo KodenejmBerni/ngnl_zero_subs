@@ -2452,22 +2452,32 @@ All units, form up.
 
 相手はオールドデウス。
 Aite wa Old-deus.
-We face the Old-deus.
+We're up against the Old-deus.
 
 人間如きの小賢しい作戦は簡単に見破るだろう。
-Ningen gotoki no kozakashii sakusen wa kantan ni miyaburudarou.
-_
-No human could go up with a plan that he won't see through.
+Ningen gotoki no kozakashii sakusen wa kantan ni miyaburu darou.
+It should be a breeze to see through the petty plan of mere humans.
+
+それでも奴は全力潰しに来る。
+Soredemo yatsu wa zenryoku de tsubushi ni kuru.
+And yet, he'll bring all his power to wipe us out.
 
 // Check needed
-それでも奴は全力潰しに来る。それが強者の (...) 。強者の道理だからだ。
-Soredemo yatsu wa zenryoku de tsubushi ni kuru. Sore ga kyousha no (ryuu e). Kyousha no douri dakara da
-_
+それが強者の (旧弊) 。
+Sore ga kyousha no (kyuuhei).
+That's the custom of the mighty.
+
+強者の道理だからだ。
+Kyousha no douri dakara da.
+That's how the mighty think.
 
 己が分際を弁えよ小賢しき塵芥ども。
 Onore ga bunzai o wakimae yo kozakashiki chiriakuta-domo.
 Know your place, you impudent specks of dust.
 _
+
+the strongest
+the mightiest
 
 足掻け、藻掻け、地を這う虫けらが如何に群れようとも天に及ばぬと終に識れ
 Agake, mogake, chi o hau mushikera ga ika ni mureyoutomo ten ni oyobanu to tsuini shire.

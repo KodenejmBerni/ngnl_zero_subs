@@ -13,6 +13,7 @@ Org. 0000: Stalemartyr
 Suniaster - スーニアスター
 Artosh - アルトシュ
 Dwarf - ドワーフ
+Avant Heim - アヴァント・ヘイム
 
 pertinacity
 
@@ -105,8 +106,10 @@ Translation ideas:
 1:28:07 - If that is your wish
 1:28:11 - then so it is mine.
 1:28:44 - … Who dared to lunch Heaven's Smite?!
+1:30:12 - That's the old custom of the mighty.
 1:31:42 - we lived without purpose, let us die having one. 
 1:32:09 - it's yours.
 1:33:34 - possesed by Schwi's feelings.
+1:33:36 - How dare you
 1:34:12 - I would like a next time with us "playing together"
 1:34:50 - Take the (this) Suniaster! Anyone!
