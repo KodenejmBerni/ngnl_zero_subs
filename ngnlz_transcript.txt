@@ -2370,12 +2370,12 @@ Hisabi da ni kon'na Jibu-chan to kotaimen dekita tte iu no ni.
 It's been so long since I was able to see my Jibi like this!
 
 スクラップ如きが何を企んでるにゃ？
-Sukurappu gotokiga… nani o takuran deru nya…
-But that scrap bag… what was it up to, nyaa…
+Sukurappu gotokiga… nani o takuran deru nya?
+But that scrap… what was it up to, nyaa?
 
 後方に複数の熱源をキャッチ！
 Kouhou ni fukusuu no netsugen o kyacchi!
-Detecting multiple heat sources from behind!
+Multiple heat sources detected at the rear!
 
 これは—
 Kore wa—
@@ -2391,7 +2391,7 @@ Preemptive strike detected from Avant Heim.
 
 水爆発射用意！
 Suibaku hassha youi!
-Arm the hydrogen bombs!
+Arm the Ether-bombs!
 
 アーカ・シ・アンセ前段術式解放！
 Áka Si Anse zendan jutsushiki kaihou!
@@ -2439,24 +2439,23 @@ and with it…
 
 11クラスター移動開始セットポイントへ。
 Cluster 11 idou kaishi: set point e.
-Cluster 11 commencing relocation: set point.
+Cluster 11 relocating: set point.
 
 直ぐにでも全火力の衝突がはじめる。
 …sugu ni demo zen-karyoku no shoutotsu ga hajimaru.
-…at any moment, the final clash of powers will begin.
+…the final clash of powers will begin at any moment.
 
 総員、構えよ。
 Souin, kamae yo.
-All of you, form up.
 All units, form up.
 
 相手はオールドデウス。
 Aite wa Old-deus.
-We're up against the Old-deus.
+We face the Old-deus.
 
 人間如きの小賢しい作戦は簡単に見破るだろう。
 Ningen gotoki no kozakashii sakusen wa kantan ni miyaburu darou.
-It should be a breeze to see through the petty plan of mere humans.
+The petty plan of mere humans will be a breeze for him to see through.
 
 それでも奴は全力潰しに来る。
 Soredemo yatsu wa zenryoku de tsubushi ni kuru.
@@ -2473,24 +2472,24 @@ That's how the mighty think.
 
 己が分際を弁えよ小賢しき塵芥ども。
 Onore ga bunzai o wakimae yo kozakashiki chiriakuta-domo.
-Know your place, you impudent specks of dust.
-_
+You should know your place, you insolent specks of filth.
 
-the strongest
-the mightiest
+足掻け、藻掻け、
+Agake, mogake,
+Flounder, writhe,
 
-足掻け、藻掻け、地を這う虫けらが如何に群れようとも天に及ばぬと終に識れ
-Agake, mogake, chi o hau mushikera ga ika ni mureyoutomo ten ni oyobanu to tsuini shire.
-Struggle. Writhe. No matter how you swarm, worms crawling upon the earth — realize at last that you shall never reach the heavens.
-_
+地を這う虫けらが如何に群れようとも天に及ばぬと終に識れ
+chi o hau mushikera ga ikani mureyoutomo ten ni oyobanu to tsuini shire.
+and find out at last that no amount of crawling worms shall ever match the heavens.
 
-アーカ・シ・アンセ全弾一斉展開！
-Aka Si anse zen-dan issei tenkai!
-_
+// Check needed
+アーカ・シ・アンセ全弾 (一斉) 展開！
+Áka Si Anse zen-dan (issei) tenkai!
+Áka Si Anse, full salvo launch!
 
 髄爆全弾射出！
-Zuibaku zen-dan shashutsu!
-_
+Zuibaku, zen-dan shashutsu!
+Ether-bomb, full-force strike!
 
 神撃。
 Shingeki.
