@@ -2495,57 +2495,86 @@ Ether-bomb, full-force strike!
 Shingeki.
 God's Smite.
 
-
-Aka suibaku no chikara o yǐ Tte shite mo Artosh no shingeki o tomeru koto nado dekinai.
-
-
-Subete no enerugī ga butsukari shūsoku shi
-
-
-Konoyo no shūen o tsugeru hikari to naru.
-
-
-Soshite...
-
-
-Sore tte iku?
-
-
-Sono enerugī o.
-
-
-Warera wa kikai. Kokoro naki dōgu
-
-
-Inochi naku iki.
-
-
-Inochi arite ikou.
-
-
-Aus
-
-
-Jawohl!
-
-
+アーカ・シ・アンセ、髄爆の力を以ってしても、
+Áka Si Anse, Zuibaku no chikara o motte shite mo,
 _
 
+アルトシュの神撃を止めることなどできない。
+Artosh no shingeki o tomeru koto nado dekinai.
+_
 
-Losen
+全てのエネルギーがぶつかり、収束し、
+Subete no enerugii ga butsukari, shuusoku shi,
+_
 
+この世の祝言を告げる光となる。
+kono yo no shuugen o tsugeru hikari to naru.
+_
 
-Sore jā.
+そして…
+Soshite…
+And then…
 
+それって行く？
+Sore tte iku?
+Is that moving?
 
+そのエネルギーを…
+Sono enerugii o…
+all that energy…
+
+我らは機械、心無き道具。
+Warera wa kikai, kokoro naki dougu.
+We are machines, tools bereft of heart.
+
+命無く往き、
+Inochi naku iki,
+Having marched without life,
+
+命在りて逝こう。
+inochi arite ikou.
+we die having one.
+
+Aus.
+*
+*
+
+Jawohl!
+*
+*
+
+11クラスタ4807機の投入により、模倣、再現設計成功、同期します
+Cluster 11, 4807-ki no tounyuu ni yori, mohou, saigen sekkei seikou, douki shimasu.
+_
+
+Lösen:
+*
+*
+
+// Check needed
+オリジン (0000): 真典星殺し、ステイルマーター、
+Origin (0000): shinden hoshigoroshi, Stalemartyr,
+_
+
+託します。
+takushimasu.
+it's yours.
+
+_
+Sore jaa.
+_
+
+_
 Kore hikiwake.
+_
 
-
+_
 Stale-mate
+_
 
-
+_
 Warui ne. Kamisama tama.
-
+_
 
 Suniaster
 

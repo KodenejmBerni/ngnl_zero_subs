@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1471
-Active Line: 1490
-Video Position: 128202
+Scroll Position: 1506
+Active Line: 1528
+Video Position: 132710
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1546,15 +1546,18 @@ Dialogue: 5,1:30:52.92,1:30:57.34,Default,,0,0,0,,Even the combined power of\Nth
 Dialogue: 5,1:30:57.34,1:31:00.47,Default,,0,0,0,,could not stop the enveloping\Nfury of Artosh's Heaven's Strike.
 Dialogue: 5,1:31:01.56,1:31:05.19,Default,,0,0,0,,All of that energy will collide\Nand build into a raging blaze,
 Dialogue: 5,1:31:05.69,1:31:08.40,Default,,0,0,0,,becoming a brilliant light that\Nsignals the end of this world.
-Dialogue: 5,1:31:13.65,1:31:14.61,Default,,0,0,0,,And then.
-Dialogue: 5,1:31:26.75,1:31:28.38,Default,,0,0,0,,It's turning away.
-Dialogue: 5,1:31:33.80,1:31:35.67,Default,,0,0,0,,All that energy.
-Dialogue: 5,1:31:37.05,1:31:40.97,Default,,0,0,0,,We are machines, tools bereft of heart.
-Dialogue: 5,1:31:40.97,1:31:45.14,Default,,0,0,0,,We have lived here, yet never were alive.\NLet us die having lived!
-Dialogue: 5,1:31:46.14,1:31:48.65,Default,,0,0,0,,Aus. Jawohl!
+Dialogue: 5,1:31:13.65,1:31:14.61,Default,,0,0,0,,And then…
+Dialogue: 5,1:31:26.75,1:31:28.38,Default,,0,0,0,,Is that moving?
+Dialogue: 5,1:31:33.80,1:31:35.67,Default,,0,0,0,,all that energy…
+Dialogue: 5,1:31:37.05,1:31:41.05,Default,,0,0,0,,We are machines, tools bereft of heart.
+Dialogue: 5,1:31:41.05,1:31:43.01,Default,,0,0,0,,Having marched without life,
+Dialogue: 5,1:31:43.01,1:31:45.16,Default,,0,0,0,,we die having one.
+Dialogue: 5,1:31:46.14,1:31:47.61,Default,,0,0,0,,Aus.
+Dialogue: 5,1:31:47.61,1:31:48.65,Default,,0,0,0,,Jawohl!
 Dialogue: 5,1:31:51.77,1:31:59.66,Default,,0,0,0,,Cluster 11 has incorporated 4807 units. And\Ncalculated aberration and replication, synchronizing.
 Dialogue: 5,1:32:00.20,1:32:01.03,Default,,0,0,0,,Lösen:
-Dialogue: 5,1:32:03.62,1:32:09.88,Default,,0,0,0,,Org. 0000: Stalemartyr. This is for you.
+Dialogue: 5,1:32:03.62,1:32:08.30,Default,,0,0,0,,Org. 0000: Stalemartyr,
+Dialogue: 5,1:32:08.30,1:32:09.55,Default,,0,0,0,,it's yours.
 Dialogue: 5,1:32:20.84,1:32:22.18,Default,,0,0,0,,Okay then.
 Dialogue: 5,1:32:23.76,1:32:25.47,Default,,0,0,0,,That makes this a draw.
 Dialogue: 5,1:32:26.18,1:32:27.98,Default,,0,0,0,,A Stale-mate.
