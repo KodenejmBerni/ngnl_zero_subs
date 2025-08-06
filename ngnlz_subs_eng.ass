@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
 Scroll Position: 1506
-Active Line: 1528
-Video Position: 132710
+Active Line: 1512
+Video Position: 130741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1541,27 +1541,27 @@ Dialogue: 5,1:30:35.50,1:30:37.99,Default,,0,0,0,,Áka Si Anse, full salvo launc
 Dialogue: 5,1:30:38.32,1:30:40.43,Default,,0,0,0,,Ether-bomb, full-force strike!
 Dialogue: 5,1:30:41.14,1:30:42.39,Default,,0,0,0,,God's Smite.
 Comment: 0,1:30:51.88,1:30:51.91,Default,,0,0,0,,Translation END
-Comment: 0,1:30:52.02,1:30:52.06,Default,,0,0,0,,Sync END
-Dialogue: 5,1:30:52.92,1:30:57.34,Default,,0,0,0,,Even the combined power of\Nthe Áka Si Anse and the E-bomb
-Dialogue: 5,1:30:57.34,1:31:00.47,Default,,0,0,0,,could not stop the enveloping\Nfury of Artosh's Heaven's Strike.
-Dialogue: 5,1:31:01.56,1:31:05.19,Default,,0,0,0,,All of that energy will collide\Nand build into a raging blaze,
-Dialogue: 5,1:31:05.69,1:31:08.40,Default,,0,0,0,,becoming a brilliant light that\Nsignals the end of this world.
-Dialogue: 5,1:31:13.65,1:31:14.61,Default,,0,0,0,,And then…
-Dialogue: 5,1:31:26.75,1:31:28.38,Default,,0,0,0,,Is that moving?
-Dialogue: 5,1:31:33.80,1:31:35.67,Default,,0,0,0,,all that energy…
-Dialogue: 5,1:31:37.05,1:31:41.05,Default,,0,0,0,,We are machines, tools bereft of heart.
-Dialogue: 5,1:31:41.05,1:31:43.01,Default,,0,0,0,,Having marched without life,
-Dialogue: 5,1:31:43.01,1:31:45.16,Default,,0,0,0,,we die having one.
-Dialogue: 5,1:31:46.14,1:31:47.61,Default,,0,0,0,,Aus.
-Dialogue: 5,1:31:47.61,1:31:48.65,Default,,0,0,0,,Jawohl!
-Dialogue: 5,1:31:51.77,1:31:59.66,Default,,0,0,0,,Cluster 11 has incorporated 4807 units. And\Ncalculated aberration and replication, synchronizing.
-Dialogue: 5,1:32:00.20,1:32:01.03,Default,,0,0,0,,Lösen:
-Dialogue: 5,1:32:03.62,1:32:08.30,Default,,0,0,0,,Org. 0000: Stalemartyr,
-Dialogue: 5,1:32:08.30,1:32:09.55,Default,,0,0,0,,it's yours.
-Dialogue: 5,1:32:20.84,1:32:22.18,Default,,0,0,0,,Okay then.
-Dialogue: 5,1:32:23.76,1:32:25.47,Default,,0,0,0,,That makes this a draw.
-Dialogue: 5,1:32:26.18,1:32:27.98,Default,,0,0,0,,A Stale-mate.
-Dialogue: 5,1:32:30.35,1:32:32.36,Default,,0,0,0,,Sorry, all you so called Gods.
+Dialogue: 5,1:30:52.98,1:30:57.47,Default,,0,0,0,,Even the combined power of\Nthe Áka Si Anse and the E-bomb
+Dialogue: 5,1:30:57.47,1:31:00.40,Default,,0,0,0,,could not stop the enveloping\Nfury of Artosh's Heaven's Strike.
+Dialogue: 5,1:31:01.63,1:31:05.19,Default,,0,0,0,,All of that energy will collide\Nand build into a raging blaze,
+Dialogue: 5,1:31:05.77,1:31:08.59,Default,,0,0,0,,becoming a brilliant light that\Nsignals the end of this world.
+Dialogue: 5,1:31:13.69,1:31:15.07,Default,,0,0,0,,And then…
+Dialogue: 5,1:31:26.84,1:31:28.59,Default,,0,0,0,,Is that moving?
+Dialogue: 5,1:31:33.89,1:31:35.83,Default,,0,0,0,,all that energy…
+Dialogue: 5,1:31:37.20,1:31:41.05,Default,,0,0,0,,We are machines, tools bereft of heart.
+Dialogue: 5,1:31:41.05,1:31:43.00,Default,,0,0,0,,Having marched without life,
+Dialogue: 5,1:31:43.00,1:31:45.16,Default,,0,0,0,,we die having one.
+Dialogue: 5,1:31:46.24,1:31:47.61,Default,,0,0,0,,Aus.
+Dialogue: 5,1:31:47.61,1:31:48.77,Default,,0,0,0,,Jawohl!
+Dialogue: 5,1:31:51.86,1:31:59.66,Default,,0,0,0,,Cluster 11 has incorporated 4807 units. And\Ncalculated aberration and replication, synchronizing.
+Dialogue: 5,1:32:00.32,1:32:01.01,Default,,0,0,0,,Lösen:
+Dialogue: 5,1:32:03.69,1:32:08.36,Default,,0,0,0,,Org. 0000: Stalemartyr,
+Dialogue: 5,1:32:08.36,1:32:09.56,Default,,0,0,0,,it's yours.
+Dialogue: 5,1:32:20.99,1:32:22.33,Default,,0,0,0,,Alright,
+Dialogue: 5,1:32:24.02,1:32:25.47,Default,,0,0,0,,that makes it a draw…
+Dialogue: 5,1:32:26.35,1:32:28.00,Default,,0,0,0,,a stalemate.
+Dialogue: 5,1:32:30.46,1:32:32.86,Default,,0,0,0,,So sorry, all you gods.
+Comment: 0,1:33:07.63,1:33:07.65,Default,,0,0,0,,Sync END
 Dialogue: 5,1:33:08.35,1:33:10.14,Default,,0,0,0,,The Suniaster.
 Dialogue: 5,1:33:14.69,1:33:18.57,Default,,0,0,0,,How many people have died for this moment?
 Dialogue: 5,1:33:19.11,1:33:20.86,Default,,0,0,0,,Schwi's comrades.

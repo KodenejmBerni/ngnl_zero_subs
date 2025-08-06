@@ -2560,21 +2560,22 @@ _
 takushimasu.
 it's yours.
 
-_
-Sore jaa.
-_
+それじゃ…
+Sore jaa…
+Well then…
 
-_
-Kore hikiwake.
-_
+これで引き分け。
+kore de hikiwake.
+that makes it a draw.
 
-_
-Stale-mate
-_
+ステイルメイトだ。
+Stale-mate da.
+A stalemate.
 
-_
-Warui ne. Kamisama tama.
-_
+悪いね、神さまども。
+Warui ne, kamisama domo.
+So sorry, all you gods.
+
 
 Suniaster
 
