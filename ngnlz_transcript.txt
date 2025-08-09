@@ -2497,19 +2497,21 @@ God's Smite.
 
 アーカ・シ・アンセ、髄爆の力を以ってしても、
 Áka Si Anse, Zuibaku no chikara o motte shite mo,
+Áka Si Anse, even combined with the power of Zuibaku,
 _
 
 アルトシュの神撃を止めることなどできない。
 Artosh no shingeki o tomeru koto nado dekinai.
+could conquer with that Artosh’s Godly Smite.
 _
 
 全てのエネルギーがぶつかり、収束し、
 Subete no enerugii ga butsukari, shuusoku shi,
-_
+All that energy collided, converged,
 
 この世の祝言を告げる光となる。
 kono yo no shuugen o tsugeru hikari to naru.
-_
+becoming the light heralding the end of this world.
 
 そして…
 Soshite…
@@ -2518,10 +2520,11 @@ And then…
 それって行く？
 Sore tte iku?
 Is that moving?
+It's moving?
 
 そのエネルギーを…
 Sono enerugii o…
-all that energy…
+That energy…
 
 我らは機械、心無き道具。
 Warera wa kikai, kokoro naki dougu.
@@ -2552,9 +2555,9 @@ Lösen:
 *
 
 // Check needed
-オリジン (0000): 真典星殺し、ステイルマーター、
-Origin (0000): shinden hoshigoroshi, Stalemartyr,
-_
+オリジン (アインウンヌァー): 真典星殺し、ステイルマーター、
+Origin (ainunnuaa): shinden hoshigoroshi, Stalemartyr,
+Origin 0000: 
 
 託します。
 takushimasu.
