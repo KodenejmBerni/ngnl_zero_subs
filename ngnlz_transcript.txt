@@ -2498,35 +2498,30 @@ God's Smite.
 アーカ・シ・アンセ、髄爆の力を以ってしても、
 Áka Si Anse, Zuibaku no chikara o motte shite mo,
 Áka Si Anse, even with the power of the Ether-Bomb,
-_
 
 アルトシュの神撃を止めることなどできない。
 Artosh no shingeki o tomeru koto nado dekinai.
-could never compare to the Godly Smite of Artosh.
-could never stand against the Godly Smite of Artosh.
-could never hope to match the Godly Smite of Artosh.
-_
+was but a shadow before the Godly Smite of Artosh.
 
 全てのエネルギーがぶつかり、収束し、
-Subete no enerugii ga butsukari, shuusoku shi,
-All that energy collided, converged,
+Subete no enerugii ga butsukari… shuusoku shi…
+All that energy collided… merged…
 
 この世の祝言を告げる光となる。
 kono yo no shuugen o tsugeru hikari to naru.
-becoming the light heralding the end of this world.
+becoming the light heralding the demise of this world.
 
 そして…
 Soshite…
-And then…
+Then…
 
-それって行く？
-Sore tte iku?
-Is that moving?
-It's moving?
+それていく？
+Sorete iku?
+It's moving away?
 
 そのエネルギーを…
 Sono enerugii o…
-That energy…
+that energy…
 
 我らは機械、心無き道具。
 Warera wa kikai, kokoro naki dougu.
@@ -2534,7 +2529,7 @@ We are machines, tools bereft of heart.
 
 命無く往き、
 Inochi naku iki,
-Having marched without life,
+Having lived without life,
 
 命在りて逝こう。
 inochi arite ikou.
@@ -2558,8 +2553,8 @@ Lösen:
 
 // Check needed
 オリジン (アインウンヌァー): 真典星殺し、ステイルマーター、
-Origin (ainunnuaa): shinden hoshigoroshi, Stalemartyr,
-Origin 0000: 
+Origin 0000: shinden hoshigoroshi – Stalemartyr,
+Origin 0000: The Reaper of Planets – Stalemartyr,
 
 託します。
 takushimasu.
@@ -2567,19 +2562,19 @@ it's yours.
 
 それじゃ…
 Sore jaa…
-Well then…
+Alright,
 
 これで引き分け。
 kore de hikiwake.
-that makes it a draw.
+that makes it a draw…
 
 ステイルメイトだ。
 Stale-mate da.
-A stalemate.
+a stalemate.
 
 悪いね、神さまども。
 Warui ne, kamisama domo.
-So sorry, all you gods.
+So sorry, oh mighty gods.
 
 
 Suniaster

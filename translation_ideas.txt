@@ -1,5 +1,6 @@
 =========================================================================
-Spójność słownictwa:
+Consistency of terms:
+
 Yuiitsushin no za - the title of the One
 Áka Si Anse - アーカ・シ・アンセ
 Zuibaku - 髄爆 - Ether-bomb
@@ -20,6 +21,7 @@ pertinacity
 
 =========================================================================
 Japanese punctuation:
+
 * Space (U+3000)
 　
 * Comma (U+3001)
@@ -28,17 +30,23 @@ Japanese punctuation:
 。
 * Exclamation (U+30C3)
 ッ
-* Long dash (U+30FC)
+* Prolonging dash (U+30FC)
 ー
+* Em dash (U+2014)
+—
+* En dash (U+2013)
+–
 
 =========================================================================
 Jibril languages swap:
+
 JP -> EN
 EN -> FR
 PL -> ?
 
 =========================================================================
 The Riku's rules:
+
 1. No one can be killed.
 2. No one can be left to die.
 3. 
@@ -52,6 +60,7 @@ Used:
 
 =========================================================================
 The Ten Caveats:
+
 1. 
 2. 
 3. 
@@ -68,6 +77,7 @@ Used:
 
 =========================================================================
 Translation ideas:
+
 0:19:30 - Arrived.
 0:21:03 - według Cb to dobry pomysł bym tam weszedł i oznajmij że mam młodszą siostrę?
 0:21:33 - Is this… a joke?
