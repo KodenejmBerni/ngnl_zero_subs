@@ -2569,7 +2569,7 @@ takushimasu.
 it's yours.
 
 それじゃ…
-Sore jaa…
+Sore jaa,
 Alright,
 
 これで引き分け。
@@ -2584,48 +2584,88 @@ a stalemate.
 Warui ne, kamisama domo.
 Pardon me, oh mighty gods.
 
+スーニアスター
+Suniaster…
+*
 
-Suniaster
+この瞬間のために何人が死んだ？
+Kono shunkan no tame ni nan-nin ga shinda?
+_
 
+シュヴィの仲間。
+Schwi no nakama.
+_
 
-Shunkan no tame ni nanijin ga shinda?
+命あるヤツら。
+Inochi aru yatsura.
+_
 
+いったい
+Ittai—
+_
 
-Schwi no nakama
+何人に死ねと告げた
+nan-nin ni shine to tsugeta?!
+_
 
+自分自身までペテンにかけて！
+Jibun jishin made peten ni kakete
+_
 
-Inochi aru yatsu.
+シュヴィの思いさえだしにして！
+Schwi no omoi sae dashi ni shite!
+_
 
+これの…
+Kore no…
+_
 
-(Hittai) Nan'ni ni shine to tsugeta
+これの…
+kore no…
+_
 
+どこが引き分けなんだー？！
+doko ga hikiwake nan da?!
+_
 
-Jibun jishin made ku dete ni kakete
+Schwi!
+*
+*
 
+ごめんなシュヴィ。
+Gomenna Schwi.
+_
 
-Schwi no omoi sai-dashi ni shite.
+また負けたよ
+Mata maketa yo
+_
 
+なあ シュヴィ
+Na Schwi
+_
 
-Kore no, kore no Dakara hikiwakena nda?!
+もし俺とお前
+moshi ore to omae
+_
 
+２人で１人だったらさ
+Futari de hitori dattara sa
+_
 
-Schwi
+次こそ勝ちたいな、シュヴィ…
+Tsugi koso kachitai na, Schwi…
+_
 
+今度こそ 誰も死なない
+Kondo koso dare mo shinanai
 
-Gomen'na Schwi
+そんなゲームで
+Sonna geemu de
+_
 
-
-Gomen'na shubi. Mata maketa yo
-
-
-Na Schwi, moshi ore to omae, 2-ri de hitoridattara sa,-ji koso kachitai na,
-
-
-Schwi kondokoso daremoshiranai, son'na gēmu de.
-
-
-Omoikara umareru no ga Kaminara.
-
+思いから生まれるのが神なら
+Omoi kara umareru no ga kami nara
+_
 
 Gēmu no kamisama. Gomi mitaina kono i no shitaga. Subete sagete umaretehajimete inoru. Tanomu yo!
 
