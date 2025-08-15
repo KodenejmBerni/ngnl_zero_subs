@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1513
-Active Line: 1524
-Video Position: 132153
+Scroll Position: 1516
+Active Line: 1535
+Video Position: 133987
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1540,7 +1540,6 @@ Dialogue: 5,1:30:28.28,1:30:34.85,Default,,0,0,0,,and find out at last that no a
 Dialogue: 5,1:30:35.50,1:30:37.99,Default,,0,0,0,,Áka Si Anse, full salvo launch!
 Dialogue: 5,1:30:38.32,1:30:40.43,Default,,0,0,0,,Ether-bomb, full-force strike!
 Dialogue: 5,1:30:41.14,1:30:42.39,Default,,0,0,0,,God's Smite.
-Comment: 0,1:30:51.88,1:30:51.91,Default,,0,0,0,,Translation END
 Dialogue: 5,1:30:52.98,1:30:57.47,Default,,0,0,0,,Áka Si Anse, even with the power of the Ether-Bomb,
 Dialogue: 5,1:30:57.47,1:31:00.40,Default,,0,0,0,,was but a shadow before the Godly Smite of Artosh.
 Dialogue: 5,1:31:01.63,1:31:05.77,Default,,0,0,0,,All that energy collided… merged…
@@ -1548,19 +1547,22 @@ Dialogue: 5,1:31:05.77,1:31:08.59,Default,,0,0,0,,becoming the light heralding t
 Dialogue: 5,1:31:13.69,1:31:15.07,Default,,0,0,0,,Then…
 Dialogue: 5,1:31:26.84,1:31:28.59,Default,,0,0,0,,It's moving away?
 Dialogue: 5,1:31:33.89,1:31:35.83,Default,,0,0,0,,that energy…
-Dialogue: 5,1:31:37.20,1:31:41.05,Default,,0,0,0,,We are machines, tools bereft of heart.
+Dialogue: 5,1:31:37.20,1:31:41.05,Default,,0,0,0,,We are the machines, tools bereft of heart.
 Dialogue: 5,1:31:41.05,1:31:43.00,Default,,0,0,0,,Having lived without life,
 Dialogue: 5,1:31:43.00,1:31:45.16,Default,,0,0,0,,we die having one.
 Dialogue: 5,1:31:46.24,1:31:47.61,Default,,0,0,0,,Aus.
 Dialogue: 5,1:31:47.61,1:31:48.77,Default,,0,0,0,,Jawohl!
-Dialogue: 5,1:31:51.86,1:31:59.66,Default,,0,0,0,,Cluster 11 has incorporated 4807 units. And\Ncalculated aberration and replication, synchronizing.
+Dialogue: 5,1:31:51.86,1:31:55.54,Default,,0,0,0,,Cluster 11 – contribution from 4807 units.
+Dialogue: 5,1:31:55.54,1:31:58.51,Default,,0,0,0,,Copying, layout reproduction completed,
+Dialogue: 5,1:31:58.51,1:31:59.66,Default,,0,0,0,,synchronizing.
 Dialogue: 5,1:32:00.32,1:32:01.01,Default,,0,0,0,,Lösen:
-Dialogue: 5,1:32:03.69,1:32:08.36,Default,,0,0,0,,Origin 0000:\NThe Reaper of Planets – Stalemartyr,
+Dialogue: 5,1:32:03.69,1:32:08.36,Default,,0,0,0,,Origin 0000:\NThe reaper of planets – Stalemartyr,
 Dialogue: 5,1:32:08.36,1:32:09.56,Default,,0,0,0,,it's yours.
 Dialogue: 5,1:32:20.99,1:32:22.33,Default,,0,0,0,,Alright,
 Dialogue: 5,1:32:24.02,1:32:26.35,Default,,0,0,0,,that makes it a draw…
 Dialogue: 5,1:32:26.35,1:32:28.00,Default,,0,0,0,,a stalemate.
-Dialogue: 5,1:32:30.46,1:32:32.86,Default,,0,0,0,, So sorry, oh mighty gods.
+Dialogue: 5,1:32:30.46,1:32:32.86,Default,,0,0,0,,Pardon me, oh mighty gods.
+Comment: 0,1:33:07.22,1:33:07.25,Default,,0,0,0,,Translation END
 Comment: 0,1:33:07.63,1:33:07.65,Default,,0,0,0,,Sync END
 Dialogue: 5,1:33:08.35,1:33:10.14,Default,,0,0,0,,The Suniaster.
 Dialogue: 5,1:33:14.69,1:33:18.57,Default,,0,0,0,,How many people have died for this moment?

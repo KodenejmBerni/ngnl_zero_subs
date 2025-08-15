@@ -2525,7 +2525,7 @@ that energy…
 
 我らは機械、心無き道具。
 Warera wa kikai, kokoro naki dougu.
-We are machines, tools bereft of heart.
+We are the machines, tools bereft of heart.
 
 命無く往き、
 Inochi naku iki,
@@ -2543,9 +2543,17 @@ Jawohl!
 *
 *
 
-11クラスタ4807機の投入により、模倣、再現設計成功、同期します
-Cluster 11, 4807-ki no tounyuu ni yori, mohou, saigen sekkei seikou, douki shimasu.
-_
+11クラスタ4807機の投入により、
+Cluster 11 – 4807-ki no tounyuu ni yori.
+Cluster 11 – contribution from 4807 units.
+
+模倣、再現設計成功、
+mohou, saigen sekkei seikou,
+Copying, layout reproduction completed,
+
+同期します
+douki shimasu.
+synchronizing.
 
 Lösen:
 *
@@ -2574,7 +2582,7 @@ a stalemate.
 
 悪いね、神さまども。
 Warui ne, kamisama domo.
-So sorry, oh mighty gods.
+Pardon me, oh mighty gods.
 
 
 Suniaster
