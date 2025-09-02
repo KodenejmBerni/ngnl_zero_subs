@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
-Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
+Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
+Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.375000
 Scroll Position: 1557
-Active Line: 1567
-Video Position: 136800
+Active Line: 1574
+Video Position: 137501
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1591,20 +1591,22 @@ Dialogue: 5,1:34:29.80,1:34:31.50,Default,,0,0,0,,If you deem
 Dialogue: 5,1:34:31.50,1:34:34.68,Default,,0,0,0,,a wretched loser taking the Grail an abomination!
 Dialogue: 5,1:34:34.68,1:34:37.72,Default,,0,0,0,,If you deem these hands too stained in blood!
 Dialogue: 5,1:34:38.27,1:34:39.62,Default,,0,0,0,,Please!
-Dialogue: 5,1:34:39.62,1:34:43.59,Default,,0,0,0,,At least tell me that what we've done meant something!
+Dialogue: 5,1:34:39.62,1:34:41.24,Default,,0,0,0,,At least tell me
+Dialogue: 5,1:34:41.24,1:34:43.59,Default,,0,0,0,,that what we've done meant something!
 Dialogue: 5,1:34:43.93,1:34:45.52,Default,,0,0,0,,I don’t care who!
 Dialogue: 5,1:34:45.52,1:34:48.03,Default,,0,0,0,,Anyone who can end this cursed war!
 Dialogue: 5,1:34:49.73,1:34:52.12,Default,,0,0,0,,Take that Suniaster!
 Dialogue: 5,1:34:52.77,1:34:54.00,Default,,0,0,0,,Anyone!
 Dialogue: 0,1:35:05.67,1:35:09.12,Default,,0,0,0,,Knew it… you were really there.
-Dialogue: 5,1:35:10.45,1:35:11.31,Default,,0,0,0,,Hey.
-Dialogue: 5,1:35:11.68,1:35:13.33,Default,,0,0,0,,Let's play another game.
-Dialogue: 5,1:35:14.30,1:35:16.55,Default,,0,0,0,,This time I'll show you that we can win.\NTogether with Schwi.
-Dialogue: 5,1:35:18.60,1:35:20.24,Default,,0,0,0,,This time I'll show you that we can win.\NTogether with Schwi.
-Dialogue: 5,1:35:21.31,1:35:22.60,Default,,0,0,0,,Count on it.
-Dialogue: 5,1:35:34.93,1:35:39.24,Default,,0,0,0,,When I was a child, I thought the\Nworld was a much, much simpler place.
-Dialogue: 5,1:35:40.51,1:35:42.02,Default,,0,0,0,,It isn't that there are no unbeatable challenges,
-Dialogue: 5,1:35:42.67,1:35:46.64,Default,,0,0,0,,but that hard work is something that will\Nbe rewarded and that anything was possible.
+Dialogue: 5,1:35:10.45,1:35:13.33,Default,,0,0,0,,Hey, let's play one more round…
+Dialogue: 5,1:35:14.30,1:35:16.55,Default,,0,0,0,,in this one you'll see us win!
+Dialogue: 5,1:35:18.60,1:35:20.24,Default,,0,0,0,,Together with Schwi,
+Dialogue: 5,1:35:21.31,1:35:22.60,Default,,0,0,0,,we've got it.
+Dialogue: 5,1:35:34.93,1:35:36.64,Default,,0,0,0,,When I was a child,
+Dialogue: 5,1:35:36.64,1:35:39.41,Default,,0,0,0,,I thought the world was much simpler.
+Dialogue: 5,1:35:40.51,1:35:42.14,Default,,0,0,0,,There were no battle you couldn't win,
+Dialogue: 5,1:35:42.67,1:35:44.92,Default,,0,0,0,,every effort was rewarded,
+Dialogue: 5,1:35:45.05,1:35:46.80,Default,,0,0,0,,and everything was possible.
 Dialogue: 5,1:35:48.30,1:35:51.11,Default,,0,0,0,,I thought I was seeing the world with clear eyes.
 Dialogue: 5,1:35:53.02,1:35:54.03,Default,,0,0,0,,Maybe I was.
 Comment: 0,1:36:06.41,1:36:06.43,Default,,0,0,0,,Sync END
