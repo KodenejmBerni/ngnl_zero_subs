@@ -2696,9 +2696,13 @@ If you deem these hands too stained in blood!
 Onegaida!
 Please!
 
-せめて俺たちに何か意味があったと言ってくれ！
-Semete oretachi ni nanika imi ga atta to itte kure!
-At least tell me that what we've done meant something!
+せめて俺たちに
+Semete oretachi ni
+At least tell me
+
+何か意味があったと言ってくれ！
+nanika imi ga atta to itte kure!
+that what we've done meant something!
 
 誰でもいいから
 Daredemo ii kara!
@@ -2722,11 +2726,11 @@ Knew it… you were really there.
 
 なあ またゲームしようぜ
 Naa, mata geemu shiyou ze
-Hey, let's play one more round…
+Hey, let's have one more game.
 
 今度こそ勝ってみせるからさ
 Kondo koso katte miseru kara sa.
-in this one you'll see us win!
+This time victory will be ours!
 
 シュヴィと２人で
 Schwi to futari de,
@@ -2734,11 +2738,11 @@ Together with Schwi,
 
 絶対に
 zettai ni.
-we've got it.
+it's certain.
 
 子供のころ
 Kodomo no koro,
-As a child,
+When I was a child,
 
 世界は もっと単純だと思っていた
 sekai wa motto tanjun da to omotte ita.
@@ -2746,23 +2750,23 @@ I thought the world was much simpler.
 
 勝てない勝負はなく
 Katenai shoubu wa naku.
-There were no battle you couldn't win,
+That no battle is unwinnable,
 
 努力は報われるもので
 Doryoku wa muku wareru mono de,
-every effort was rewarded,
+every effort is rewarded,
 
 全ては可能だと
 subete wa kanou da to.
-and everything was possible.
+and everything is possible.
 
 曇りなき眼で世界を見て思った
 Kumorinaki manako de sekai o mite omotta.
-_
+I looked through eyes untried by reality.
 
 あれは…
 Are wa…
-_
+And well…
 
 Checkmate.
 
