@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1575
-Active Line: 1580
-Video Position: 138272
+Scroll Position: 1578
+Active Line: 1587
+Video Position: 138786
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1612,11 +1612,11 @@ Comment: 0,1:36:06.19,1:36:06.22,Default,,0,0,0,,Translation END
 Dialogue: 5,1:36:07.08,1:36:08.32,Default,,0,0,0,,Checkmate
 Dialogue: 5,1:36:09.23,1:36:10.94,Default,,0,0,0,,isn’t it, Riku?
 Dialogue: 5,1:36:14.29,1:36:17.01,Default,,0,0,0,,If things are going well,
-Dialogue: 5,1:36:17.01,1:36:20.68,Default,,0,0,0,,do you think you\Ncould move the white rook to E6 for me
-Dialogue: 5,1:36:20.68,1:36:21.90,Default,,0,0,0,,…Couronne Dola?
+Dialogue: 5,1:36:17.01,1:36:20.68,Default,,0,0,0,,do you think you\Ncould move the white rook to E6 for me?
+Dialogue: 5,1:36:20.68,1:36:21.90,Default,,0,0,0,,Couronne Dola,
 Dialogue: 5,1:36:22.41,1:36:23.79,Default,,0,0,0,,I mean—
-Dialogue: 5,1:36:23.79,1:36:24.92,Default,,0,0,0,,Sister.
-Dialogue: 5,1:36:25.73,1:36:28.67,Default,,0,0,0,,I'll leave the rest to you.
+Dialogue: 5,1:36:23.79,1:36:24.92,Default,,0,0,0,,Sister,
+Dialogue: 5,1:36:25.73,1:36:28.67,Default,,0,0,0,,I leave everything to you.
 Dialogue: 5,1:36:29.44,1:36:32.37,Default,,0,0,0,,Thank you so much. For everything until now.
 Dialogue: 5,1:36:33.89,1:36:37.01,Default,,0,0,0,,Hey, Riku, Schwi.
 Dialogue: 5,1:36:37.56,1:36:40.15,Default,,0,0,0,,You two did something truly incredible.
