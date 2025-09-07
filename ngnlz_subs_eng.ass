@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1556
+Scroll Position: 1575
 Active Line: 1580
-Video Position: 138256
+Video Position: 138272
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1609,27 +1609,28 @@ Dialogue: 5,1:35:45.05,1:35:46.80,Default,,0,0,0,,and everything is possible.
 Dialogue: 5,1:35:48.30,1:35:51.11,Default,,0,0,0,,I looked through eyes untried by reality.
 Dialogue: 5,1:35:53.02,1:35:54.03,Default,,0,0,0,,And well…
 Comment: 0,1:36:06.19,1:36:06.22,Default,,0,0,0,,Translation END
-Comment: 0,1:36:06.41,1:36:06.43,Default,,0,0,0,,Sync END
-Dialogue: 5,1:36:06.99,1:36:08.32,Default,,0,0,0,,Checkmate.
-Dialogue: 5,1:36:09.24,1:36:11.16,Default,,0,0,0,,Right, Riku?
-Dialogue: 5,1:36:14.16,1:36:19.58,Default,,0,0,0,,If things are going well, do you think you\Ncould move the white rook to E6 for me?
-Dialogue: 5,1:36:20.58,1:36:22.34,Default,,0,0,0,,Couronne Dola.
-Dialogue: 5,1:36:22.34,1:36:23.09,Default,,0,0,0,,Or, I mean—
-Dialogue: 5,1:36:23.71,1:36:24.76,Default,,0,0,0,,Big Sis.
-Dialogue: 5,1:36:25.59,1:36:28.68,Default,,0,0,0,,I'll leave the rest to you.
-Dialogue: 5,1:36:29.26,1:36:32.47,Default,,0,0,0,,Thank you so much. For everything until now.
-Dialogue: 5,1:36:33.72,1:36:37.10,Default,,0,0,0,,Hey, Riku, Schwi.
-Dialogue: 5,1:36:37.52,1:36:40.27,Default,,0,0,0,,You two did something truly incredible.
-Dialogue: 5,1:36:40.85,1:36:43.57,Default,,0,0,0,,You put an end to the eternal war.
-Dialogue: 5,1:36:44.82,1:36:45.78,Default,,0,0,0,,And yet—
-Dialogue: 5,1:36:47.65,1:36:49.28,Default,,0,0,0,,Isn't it strange?
-Dialogue: 5,1:36:50.07,1:36:53.49,Default,,0,0,0,,Why is it that I feel so— Why do I—
-Dialogue: 5,1:36:54.12,1:36:58.00,Default,,0,0,0,,Why do I feel so frustrated?
-Dialogue: 5,1:37:01.67,1:37:04.04,Default,,0,0,0,,It's because the game isn't over yet.
-Dialogue: 5,1:37:05.17,1:37:08.05,Default,,0,0,0,,That may very well be check, but it's not checkmate.
-Dialogue: 5,1:37:09.80,1:37:11.05,Default,,0,0,0,,But from the looks of this,
-Dialogue: 5,1:37:12.18,1:37:15.14,Default,,0,0,0,,you've brought the game to a perpetual check.
-Dialogue: 5,1:37:17.35,1:37:21.31,Default,,0,0,0,,This is a first... That you have drawn with me.
+Dialogue: 5,1:36:07.08,1:36:08.32,Default,,0,0,0,,Checkmate
+Dialogue: 5,1:36:09.23,1:36:10.94,Default,,0,0,0,,isn’t it, Riku?
+Dialogue: 5,1:36:14.29,1:36:17.01,Default,,0,0,0,,If things are going well,
+Dialogue: 5,1:36:17.01,1:36:20.68,Default,,0,0,0,,do you think you\Ncould move the white rook to E6 for me
+Dialogue: 5,1:36:20.68,1:36:21.90,Default,,0,0,0,,…Couronne Dola?
+Dialogue: 5,1:36:22.41,1:36:23.79,Default,,0,0,0,,I mean—
+Dialogue: 5,1:36:23.79,1:36:24.92,Default,,0,0,0,,Sister.
+Dialogue: 5,1:36:25.73,1:36:28.67,Default,,0,0,0,,I'll leave the rest to you.
+Dialogue: 5,1:36:29.44,1:36:32.37,Default,,0,0,0,,Thank you so much. For everything until now.
+Dialogue: 5,1:36:33.89,1:36:37.01,Default,,0,0,0,,Hey, Riku, Schwi.
+Dialogue: 5,1:36:37.56,1:36:40.15,Default,,0,0,0,,You two did something truly incredible.
+Dialogue: 5,1:36:40.96,1:36:43.47,Default,,0,0,0,,You put an end to the eternal war.
+Dialogue: 5,1:36:44.85,1:36:46.11,Default,,0,0,0,,And yet—
+Dialogue: 5,1:36:47.68,1:36:49.10,Default,,0,0,0,,Isn't it strange?
+Dialogue: 5,1:36:50.13,1:36:53.42,Default,,0,0,0,,Why is it that I feel so— Why do I—
+Dialogue: 5,1:36:54.31,1:36:57.76,Default,,0,0,0,,Why do I feel so frustrated?
+Dialogue: 5,1:37:01.84,1:37:04.35,Default,,0,0,0,,It's because the game isn't over yet.
+Dialogue: 5,1:37:05.27,1:37:07.93,Default,,0,0,0,,That may very well be check, but it's not checkmate.
+Dialogue: 5,1:37:09.98,1:37:11.41,Default,,0,0,0,,But from the looks of this,
+Dialogue: 5,1:37:12.31,1:37:14.88,Default,,0,0,0,,you've brought the game to a perpetual check.
+Dialogue: 5,1:37:17.45,1:37:21.06,Default,,0,0,0,,This is a first... That you have drawn with me.
+Comment: 0,1:37:26.13,1:37:26.18,Default,,0,0,0,,Sync END
 Dialogue: 5,1:37:26.57,1:37:28.57,Default,,0,0,0,,Created by no one.
 Dialogue: 5,1:37:28.57,1:37:30.78,Default,,0,0,0,,Wished for by no one.
 Dialogue: 5,1:37:30.99,1:37:32.95,Default,,0,0,0,,Prayed for by no one.
