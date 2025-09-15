@@ -2650,7 +2650,7 @@ If you and I
 
 ２人で１人だったらさ
 Futari de hitori dattara sa
-could only have a chance
+could only be together
 
 次こそ勝ちたいな、シュヴィ…
 Tsugi koso kachitai na, Schwi…
@@ -2769,20 +2769,20 @@ Are wa…
 And well…
 
 チェックメイト
-Checkmate.
-Checkmate
+Checkmate,
+*
 
 だね リク？
 Da ne Riku?
-isn’t it, Riku?
+right, Riku?
 
 もし全てうまくいったら―
-Moshi subete umaku ittara,
-If everything goes well
+Moshi… subete umaku ittara,
+In case… everything works out,
 
 白いルークをｅの６に動かしてくれるか？
-Shiroi rūku o Īno shikkusu ugokashite kureru?
-Can you move the white rook to E6 for me?
+shiroi ruuku o ii no shikkusu ugokashite kureru?
+can you move the white rook to E6 for me?
 
 コローネ･ドーラ…
 Couronne Dola,
@@ -2798,19 +2798,19 @@ Sister,
 
 次を… あとを任せるよ
 tsugi o… ato o makaseru yo.
-The rest… I leave in your hands.
+the rest… I leave in your hands.
 
 今まで ありがとうな
 Ima made arigatou na.
 Thanks for everything up until now.
 
-ねえ リク シュヴィちゃん…
-Ne Riku Schwi-chan…
-Hey, Riku, Schwi…
+ねえ リク シュヴィちゃん、
+Ne Riku Schwi-chan,
+Hey Riku, Schwi,
 
 ２人は本当にすごいことをしたんだよ
 Futari wa hontou ni sugoi koto o shita nda yo.
-you two did something truly incredible.
+you two really did something incredible.
 
 永遠の戦争を終わらせたんだよ
 Eien no sensou o owara seta nda yo.
@@ -2818,39 +2818,40 @@ You put an end to the eternal war.
 
 なのに…
 Nano ni—
-And yet—
+And still—
 
-おかしいよね？
-Okashii yo ne?
-Weird, isn’t it?
+おかしいよね
+Okashii yo ne.
+it's weird.
 
 どうしてかな… お姉ちゃん…
 Doushite ka na… oneechan…
-How can… your sister…
+Why for your sister…
 
 どうして こんなに悔しいのかな
 Doushite konna ni kuyashii no ka na?
-Why can’t she come to terms with it?!
+Why does this feel so unbearable?!
 
 ゲームはまだ終わってないからだよ
 Geemu wa mada owattenai kara da yo
-The game isn’t over yet!
+The game isn’t over yet.
 
 チェックメイトじゃなくて、チェックだよ
 Checkmate janakute check da yo
-It’s not checkmate, just check.
+It’s not checkmate. It's check.
 
 でも これじゃあ…
-Demo korejaa.
-But with that
+Demo korejaa…
+But this…
 
 パーペチュアル･チェックに持ち込まれたね
 Perpetual check ni mochikomareta ne.
-_
+puts us in a perpetual check.
 
 初めてだね、僕と引き分けたの
-Hajimete da ne boku to hikiwaketa no.
-_
+Hajimete da ne boku to hikiwaketa no!
+It’s the first time you’ve drawn with me!
+
 
 Darenimo tsukura rezu.
 
