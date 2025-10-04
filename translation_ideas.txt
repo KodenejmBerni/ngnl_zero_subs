@@ -1,7 +1,7 @@
 =========================================================================
 Consistency of terms:
 
-Yuiitsushin no za - the title of the One
+Yuiitsushin no za - the title of the One (The Sole God)
 Áka Si Anse - アーカ・シ・アンセ
 Zuibaku - 髄爆 - Ether-bomb
 Tengeki - 天撃 - Heaven's Smite
@@ -17,8 +17,16 @@ Artosh - アルトシュ
 Dwarf - ドワーフ
 Avant Heim - アヴァント・ヘイム
 Couronne Dola - コローネ･ドーラ
+Ixseed - イクシード
+Jibril - ジブリール
 
 pertinacity
+
+=========================================================================
+Generations of pledge keywords:
+
+アシエイト		-> アッシエント		-> アッシェンテ
+Ashieito	-> Aschiento	-> Aschente
 
 =========================================================================
 Japanese punctuation:
@@ -43,16 +51,26 @@ Jibril languages swap:
 
 JP -> EN
 EN -> FR
-PL -> ?
 
 =========================================================================
 The Riku's rules:
 
+誰も殺してはならない
 1. No one can be killed.
+
+誰も死なせてはならない
 2. No one can be left to die.
+
+誰にも悟られてはならない
 3. 
+
+如何なる手も不正ではない
 4. 
+
+奴らのルールなど知ったことではない
 5. 
+
+上記に違反する一切は、敗北とする
 6. Breaking any of these rules results in a loss.
 
 Used:
@@ -60,7 +78,7 @@ Used:
 * 1:26:14
 
 =========================================================================
-The Ten Caveats:
+The Ten Covenants:
 
 1. 
 2. 
@@ -97,8 +115,12 @@ Translation ideas:
 0:43:15 - the thinking of a stupid, ignorant brat.
 0:43:22 - That was the way to go!
 0:43:35 - These are correct eyes.
-0:47:05 - They have turned this world into their game. / This world have been turned into their game. / This world has been turned into their game. / This world was turned into the game. / This world is nothing more than a game.
+0:47:05 - They turned this world into their game. / They have turned this world into their game. / This world have been turned into their game. / This world has been turned into their game. / This world was turned into the game. / This world is nothing more than a game.
 0:47:24 - …go for a victory!
+0:48:56 - For such a badass life, I will gladly die!
+0:49:08 - Let only the participants stay
+0:49:24 - Ehh, we're sorry you overestemated us.
+0:49:46 - One hell of an elite representation of fools, isn’t it?!
 0:51:14 - Passing off as random factors…
 0:51:36 - Probability theory is a strained interpretation.
 0:51:40 - Anything can happen. 

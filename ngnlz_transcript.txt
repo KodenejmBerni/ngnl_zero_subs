@@ -2852,142 +2852,233 @@ puts us in a perpetual check.
 Hajimete da ne boku to hikiwaketa no!
 It’s the first time you’ve drawn with me!
 
+誰にも作られず
+Dare ni mo tsukurare zu.
+Created by no one.
 
-Darenimo tsukura rezu.
+誰にも望まれず
+Dare ni mo nozomare zu.
+Wished for by no one.
 
+誰にも願われず
+Dare ni mo nozomare zu.
+Pleaded for by no one.
 
-Dare mo nozoma rezu.
+ただ己の意志で、獣から二足で立ち上がり―
+Tada onore no ishi de, kemono kara nisoku de tachiagari.
+Solely by its own effort, it rose from beast to walking on two legs.
 
+知性を手にした名もなき種族
+Chisei o te ni shita na mo naki shuzoku
+A nameless race that attained intelligence —
 
-Darenimo negawa rezu.
+人間
+ningen.
+humans.
 
+君たちに 唯一神として名を与える
+Kimitachi ni yuiitsu-shin to shite na o ataeru.
+And unto you, the Sole God shall bestow a name.
 
-Tada, onore no ishi de kemono karade tachiagari
+“イマニティ”と
+Imaniti to.
+Immanity.
 
+そして…
+Soshite…
+And so…
 
-Tada, ore no ishi de kemono karade tachiagari. Chisei o te ni shita na mo naki shuzoku ningen.
+知性ありしと自称するイクシードよ！
+Chisei arishi to jishou suru Exceed yo!
+All ye who claim yourself sentient! Ixseed!
 
+亡き遺志 アシエイトを継いで
+Naki ishi Ashieito o tsuide.
+For the dead, taking up Ashieito…
+By Ashieito, the will of the dead,
 
-Kimitachi ni yuiitsu shin to shite na o ataeru. Imaniti to.
+種族の同意アッシエントをなし
+Shuzoku no dōi Aschiento o nashi.
+and against the living, embracing Aschiento…
 
+十の盟約に基づく
+Juu no meiyaku ni motozuku,
+now by the Ten Covenants,
 
-Soshite,
+アッシェンテをいざ仰げ
+Aschente o iza aoge!
+you all shall obey Aschente!
 
+今日 この日 世界は変わった！
+Kyou kono hi sekai wa kawatta!
+As of this day, the world is forever changed!
 
-Chisei arishi to jishō suru Exceed yo!
-
-
-Shi (zuku) no dōi.
-
-
-(Naki-seki Aschiento o tsuide shuzoku no dōi).
-
-
-Aschiento nashi, 10 no meiyaku ni motodzuku Aschiente o iza aoge.
-
-
-Kyō kono Ni~Tsu, sekai wa kawatta.
-
-
-Sā, gēmu o tsudzukeyou!
-
+さあ ゲームを続けよう！
+Saa, geemu o tsuzukeyou!
+Now… let the game go on!
 
 
 01:38:25
 
+その話…
+Sono hanashi…
+That story…
 
-Sod hadashi doko made uso de doko made majidesu?
+どこまでウソで どこまでマジです？
+Doko made uso de doko made maji desu?
+What of it was a lie and what was true?
 
+そりゃあ ホントに全部 話したら 語られない神話じゃ なくなっちゃうでしょ?
+Soryaa hontoni zenbu hanashitara katara renai shinwa janaku natchaudesho?
+Well, if I were to tell you everything, it wouldn't be an unspoken myth anymore, would it?
 
-Sorya hontōni zenbu hanashitara katara renai shinwa janaku natchaudesho?
+やっぱり お前 いけ好かねえです
+Yappari omae ikesukanee desu.
+You're a jerk for real.
 
+でも なでるのうめえから許すです
+Demo… naderu no umee kara yurusu desu.
+But… you pet well, so I forgive you.
 
-Yappari omae ikesukanaidesu.
+Izuna!
+*
+*
 
+Izuna!
+*
+*
 
-Demo mazeru no umaikara yurusudesu.
+Sora, Shiro, Steph.
+*
+*
 
+あー もう！どこ行ってたんだよ？
+Aa mou! Doko itteta nda yo?
+Oh, come on! Where on earth have you been?
 
-Izuna
+世の中には怪しい人もいるんだぞ！
+Yo no naka ni wa ayashii hito mo iru nda zo!
+There's so many clingy weirdos out there!
 
+にぃみたいなのとか。
+Nii mitai na no toka.
+Clingy like a brother.
 
-Izuna
+白みたいなのとか。
+Shiro mitai na no toka.
+Clingy like a Shiro.
 
+勝ち逃げしやがったです。
+Kachi-nige shiyagatta desu.
+Bastard ran off before the rematch.
 
-Sora Shiro Steph
+いづなさん ダメですわよ
+Izuna-san dame desu wayo.
+Izuna, that's not okay.
 
+こういう怪しい人たちがいるんですのよ—
+Kouiu ayashii hito-tachi ga irun desu no yo—
+There really are weirdos like these two out there—
 
-Mō doko itta nda yo? Yononakani wa ayashī hito mo iru nda zo!
+あんぎゃー！何するんですのー！
+Ankyaa! Nani suru ndesu no!
+Eeek! The heck was that?!
 
+なんだ　この文字？
+Nanda kono moji?
+What’s this writing?
 
-Onii - chan mitaina no boku? Shiro mitaina no boku
+Jibril!
+*
+*
 
+はーい はいはーい！
+Haai hai haai!
+Yees, yes, yes!
 
-Kachi nigeshiya gatte desu.
-
-
-Izumino-san damedesu wa yo. Kōiu ayashī hito-tachi ga iru ndesu no yo
-
-
-Ania, nani surunde suno.
-
-
-Nanda kono ji?
-
-
-Hai hai hai.
-
-
+読めるか？
 Yomeru ka?
+Can you read this?
 
+イマニティ語が統一される前の言語でございますね
+Immanity-go ga touitsu sareru mae no gengo de gozaimasu ne.
+Looks like Immanitian from before the unification…
 
-Imaniti-go ga tōitsu sa reru mae no gengodegozaimasu ne.
+よく考えたら大体 こいつのせいじゃねえかです
+Yoku kangaetara, daitai koitsu no sei ja nee ka, desu?
+Come to think of it, it's all her fault, isn't it?
 
+Couronne Dola, Riku Dola, Schwi Dola.
+*
+*
 
-Yoku kangaetara daitai koitsu no sei jane~e ka tte.
+Couronne Dola?
+*
+*
 
+エルキア建国の女王ですわ
+Elkia kenkokuno joō desu wa.
+_
 
-Eru kea kenkoku no jō-ōdesu.
+生涯 泣いた姿を見た者はなく 知性と笑顔にあふれた才女
+Shougai naita sugata o mita mono wa naku, chisei to egao ni afureta saijo.
+_
 
+ドーラ家の誇りですわ
+Dola-ke no hokori desu wa.
+_
 
-Shōgai naita sugata o mita mono wa naku, chisei to egao ni afureta saijo.
+あと２人は？
+Ato futari wa?
+_
 
+さあ… 存じ上げませんが
+Saa… zonji agemasen ga
+_
 
-Dora no hokoridesu wa
+シュヴィ… あれは イマニティでは ございませんでしたし…
+Schwi… are wa Immaniti de wa gozaimasen deshita shi.
+_
 
+いづな 知ってる気がする… です
+Izuna shitteru ki ga suru… desu.
+_
 
-Ato 2-ri wa?
+たぶん…
+Tabun…
+Perhaps…
 
+世界なんてさ 本当は単純なものなんだよ
+Sekai nante sa, hontou wa tanjun na mono nan da yo.
+_
 
-Sō zonjiagemasen ka?
+彼が感じたとおりに
+Kare ga kanjita touri ni
+_
 
+せっかく僕が作った単純なゲーム
+Sekka​ku boku ga tsukutta tanjun na geimu.
+_
 
-Schwi, are wa Immanitide wagozaimasendeshitashi.
+ややこしく して いる 連中 を
+Yayakoshiku shite iru renchuu o.
+_
 
+君たちなら やれるよね
+Kimitachinara yareru yo ne
+_
 
-Izuna shitteru ki ga suru ttedesu.
+だから…
+dakara…
+_
 
+さあ…
+Saa…
+_
 
-Tabun.
-
-
-Sekai nante sa, hontōwa tanjun'na monona nda yo.
-
-
-Kare ga kanjita to uri ni
-
-
-Sekkaku boku ga tsukutta tanjun'na gēmu.
-
-
-Yayakoshiku shite iru renchū o. Kimitachinara yareru yo ne, dakara.
-
-
-Saa.
-
-
-Sā. Gemu o Hajimeyou!
-
+ゲームを始めよう
+Geimu o hajimeyou!
+_
 
 
 END
