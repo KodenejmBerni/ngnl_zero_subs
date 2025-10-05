@@ -3017,8 +3017,8 @@ Couronne Dola?
 *
 
 エルキア建国の女王ですわ
-Elkia kenkokuno joō desu wa.
-_
+Elkia kenkoku no joō desu wa.
+The founding queen of Elkia.
 
 生涯 泣いた姿を見た者はなく 知性と笑顔にあふれた才女
 Shougai naita sugata o mita mono wa naku, chisei to egao ni afureta saijo.
@@ -3026,27 +3026,31 @@ _
 
 ドーラ家の誇りですわ
 Dola-ke no hokori desu wa.
-_
+The pride of the Dola family.
 
 あと２人は？
 Ato futari wa?
-_
+And the other two?
 
 さあ… 存じ上げませんが
-Saa… zonji agemasen ga
-_
+Saa… zonji agemasen ga.
+Well… I don’t really know.
 
-シュヴィ… あれは イマニティでは ございませんでしたし…
-Schwi… are wa Immaniti de wa gozaimasen deshita shi.
+Schwi…
+*
+*
+
+あれは イマニティでは ございませんでしたし…
+are wa Immaniti de wa gozaimasen deshita shi.
 _
 
 いづな 知ってる気がする… です
 Izuna shitteru ki ga suru… desu.
-_
+Izuna has heard that name before.
 
 たぶん…
 Tabun…
-Perhaps…
+I think…
 
 世界なんてさ 本当は単純なものなんだよ
 Sekai nante sa, hontou wa tanjun na mono nan da yo.
