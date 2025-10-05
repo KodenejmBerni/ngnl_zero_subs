@@ -3078,11 +3078,11 @@ _
 
 さあ…
 Saa…
-_
+Alright…
 
 ゲームを始めよう
 Geimu o hajimeyou!
-_
+let the game begin!
 
 
 END
