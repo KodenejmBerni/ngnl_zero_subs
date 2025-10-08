@@ -2888,6 +2888,7 @@ Immanity.
 Soshite…
 And so…
 
+// Monologue needs correction
 知性ありしと自称するイクシードよ！
 Chisei arishi to jishou suru Exceed yo!
 All ye who claim yourself sentient! Ixseed!
@@ -2934,7 +2935,7 @@ Well, if I were to tell you everything, it wouldn't be an unspoken myth anymore,
 
 やっぱり お前 いけ好かねえです
 Yappari omae ikesukanee desu.
-You're a jerk for real.
+You really can be a jerk.
 
 でも なでるのうめえから許すです
 Demo… naderu no umee kara yurusu desu.
@@ -3002,7 +3003,7 @@ Can you read this?
 
 イマニティ語が統一される前の言語でございますね
 Immanity-go ga touitsu sareru mae no gengo de gozaimasu ne.
-Looks like Immanitian from before the unification…
+Immanity languae from before the unification, hmm?
 
 よく考えたら大体 こいつのせいじゃねえかです
 Yoku kangaetara, daitai koitsu no sei ja nee ka, desu?
@@ -3022,7 +3023,7 @@ The founding queen of Elkia.
 
 生涯 泣いた姿を見た者はなく 知性と笑顔にあふれた才女
 Shougai naita sugata o mita mono wa naku, chisei to egao ni afureta saijo.
-_
+Never in her life was she seen to cry. A brilliant woman full of wit and joy.
 
 ドーラ家の誇りですわ
 Dola-ke no hokori desu wa.
@@ -3041,8 +3042,8 @@ Schwi…
 *
 
 あれは イマニティでは ございませんでしたし…
-are wa Immaniti de wa gozaimasen deshita shi.
-_
+are wa Immaniti de wa gozaimasen deshita shi…
+Well that thing couldn't be the part of Immanity…
 
 いづな 知ってる気がする… です
 Izuna shitteru ki ga suru… desu.
@@ -3053,28 +3054,28 @@ Tabun…
 I think…
 
 世界なんてさ 本当は単純なものなんだよ
-Sekai nante sa, hontou wa tanjun na mono nan da yo.
-_
+Sekai nante sa… hontou wa tanjun na mono nan da yo.
+The world itself… indeed is a simple thing.
 
 彼が感じたとおりに
 Kare ga kanjita touri ni
-_
+Exactly as he thought.
 
 せっかく僕が作った単純なゲーム
 Sekka​ku boku ga tsukutta tanjun na geimu.
-_
+Thus, I strove to make a simple game.
 
 ややこしく して いる 連中 を
 Yayakoshiku shite iru renchuu o.
-_
+All those guys complicating it…
 
-君たちなら やれるよね
-Kimitachinara yareru yo ne
-_
+君たち なら やれるよね
+Kimitachi nara yareru yo ne
+you can handle them, don't you?
 
-だから…
-dakara…
-_
+だから！
+dakara!
+I bet!
 
 さあ…
 Saa…
