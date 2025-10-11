@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1642
-Active Line: 1654
-Video Position: 144331
+Video Zoom Percent: 0.375000
+Scroll Position: 1639
+Active Line: 1655
+Video Position: 152478
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1629,7 +1629,6 @@ Dialogue: 5,1:37:05.27,1:37:07.93,Default,,0,0,0,,It’s not checkmate. It's che
 Dialogue: 5,1:37:09.98,1:37:11.41,Default,,0,0,0,,But this…
 Dialogue: 5,1:37:12.31,1:37:14.88,Default,,0,0,0,,puts us in a perpetual check.
 Dialogue: 5,1:37:17.45,1:37:21.06,Default,,0,0,0,,It’s the first time you’ve drawn with me!
-Comment: 0,1:37:25.61,1:37:25.66,Default,,0,0,0,,Translation END
 Dialogue: 5,1:37:26.70,1:37:28.25,Default,,0,0,0,,Created by no one.
 Dialogue: 5,1:37:28.78,1:37:30.36,Default,,0,0,0,,Wished for by no one.
 Dialogue: 5,1:37:31.07,1:37:32.85,Default,,0,0,0,,Pleaded for by no one.
@@ -1646,7 +1645,6 @@ Dialogue: 5,1:38:03.72,1:38:05.43,Default,,0,0,0,,now by the Ten Covenants,
 Dialogue: 5,1:38:05.43,1:38:07.31,Default,,0,0,0,,you all shall obey Aschente!
 Dialogue: 5,1:38:08.08,1:38:10.95,Default,,0,0,0,,As of this day, the world is forever changed!
 Dialogue: 5,1:38:12.49,1:38:15.10,Default,,0,0,0,,Now… let the game go on!
-Comment: 0,1:38:26.09,1:38:26.14,Default,,0,0,0,,Sync END
 Dialogue: 5,1:38:27.27,1:38:29.07,Default,,0,0,0,,About that story…
 Dialogue: 5,1:38:29.07,1:38:31.57,Default,,0,0,0,,what of it was a lie\Nand what was true?
 Dialogue: 5,1:38:31.57,1:38:37.25,Default,,0,0,0,,Well, if I were to tell you everything, it wouldn't be an unspoken myth anymore, right?
