@@ -15,10 +15,9 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1624
-Active Line: 1650
-Video Position: 147922
+Video Zoom Percent: 0.500000
+Active Line: 25
+Video Position: 3400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,31 +29,31 @@ Style: Credits,Fontin Sans Rg,37,&H00FCFEF9,&H000000FF,&H008F00BB,&HBE7B33A4,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:13.14,0:00:14.06,Default,,0,0,0,,{\i1}When I was a child,
-Dialogue: 5,0:00:14.98,0:00:17.31,Default,,0,0,0,,{\i1}the world was simple for me.
-Dialogue: 5,0:00:19.03,0:00:20.38,Default,,0,0,0,,{\i1}Nothing was unbeatable
-Dialogue: 5,0:00:21.31,0:00:25.27,Default,,0,0,0,,{\i1}and hard work was always meant to be rewarded.
+Dialogue: 5,0:00:14.98,0:00:17.31,Default,,0,0,0,,{\i1}the world was much simpler for me.
+Dialogue: 5,0:00:19.03,0:00:20.38,Default,,0,0,0,,{\i1}Nothing was unbeatable,
+Dialogue: 5,0:00:21.31,0:00:23.80,Default,,0,0,0,,{\i1}every effort was rewarded,
+Dialogue: 5,0:00:23.83,0:00:25.27,Default,,0,0,0,,{\i1}and everything was possible.
 Dialogue: 5,0:00:34.42,0:00:36.14,Default,,0,0,0,,{\i1}The world was clear:
-Dialogue: 5,0:00:37.08,0:00:39.69,Default,,0,0,0,,{\i1}you win, lose or it's a draw.
-Dialogue: 5,0:00:44.35,0:00:45.85,Default,,0,0,0,,{\i1}Better moves!
-Dialogue: 5,0:00:46.24,0:00:47.95,Default,,0,0,0,,{\i1}More efficient tactics!
-Dialogue: 5,0:00:48.36,0:00:50.29,Default,,0,0,0,,{\i1}I want a superior strategy!
-Dialogue: 5,0:00:51.50,0:00:53.53,Default,,0,0,0,,{\i1}Even if you lose this time,
-Dialogue: 5,0:00:54.65,0:00:56.79,Default,,0,0,0,,{\i1}you have another chance next time.
+Dialogue: 5,0:00:37.08,0:00:39.69,Default,,0,0,0,,{\i1}win, loss… or draw.
+Dialogue: 5,0:00:44.35,0:00:45.85,Default,,0,0,0,,{\i1}More precise moves!
+Dialogue: 5,0:00:46.24,0:00:47.95,Default,,0,0,0,,{\i1}More superior strategies!
+Dialogue: 5,0:00:48.36,0:00:50.29,Default,,0,0,0,,{\i1}More refined tactics!
+Dialogue: 5,0:00:51.50,0:00:53.53,Default,,0,0,0,,{\i1}Even if your opponent is overwhelming,
+Dialogue: 5,0:00:54.65,0:00:56.76,Default,,0,0,0,,{\i1}you just prepare to win the next one.
 Dialogue: 5,0:01:00.91,0:01:02.57,Default,,0,0,0,,{\i1}Stupid, ignorant brat.
 Dialogue: 5,0:01:29.73,0:01:32.29,Default,,0,0,0,,{\i1}That's how I thought.
-Dialogue: 5,0:01:37.67,0:01:39.16,Default,,0,0,0,,{\i1}A childish delusion,
+Dialogue: 5,0:01:37.67,0:01:39.16,Default,,0,0,0,,{\i1}It was all a childish delusion,
 Dialogue: 5,0:01:40.28,0:01:42.12,Default,,0,0,0,,{\i1}a pathetic world of games.
 Dialogue: 5,0:01:45.02,0:01:45.83,Default,,0,0,0,,{\i1}The truth is
 Dialogue: 5,0:01:46.80,0:01:47.72,Default,,0,0,0,,{\i1}this world
-Dialogue: 5,0:01:48.72,0:01:50.85,Default,,0,0,0,,{\i1}is nothing like it.
-Dialogue: 5,0:01:51.53,0:01:53.06,Default,,0,0,0,,{\i1}It's coincidental,
-Dialogue: 5,0:01:53.83,0:01:54.60,Default,,0,0,0,,{\i1}unreasonable,
-Dialogue: 5,0:01:55.37,0:01:56.10,Default,,0,0,0,,{\i1}absurd,
-Dialogue: 5,0:01:57.09,0:01:58.66,Default,,0,0,0,,{\i1}and doesn't have any meaning.
-Dialogue: 5,0:02:10.08,0:02:10.79,Default,,0,0,0,,{\i1}Nevertheless...
-Dialogue: 5,0:02:17.37,0:02:17.90,Default,,0,0,0,,{\i1}Next time...
-Dialogue: 5,0:02:20.73,0:02:21.77,Default,,0,0,0,,{\i1}Next time for sure...
-Comment: 0,0:02:21.77,0:02:23.77,Default,,0,0,0,,2nd Sync END
+Dialogue: 5,0:01:48.72,0:01:50.85,Default,,0,0,0,,{\i1}is just a chaos without any obligations.
+Dialogue: 5,0:01:51.53,0:01:53.06,Default,,0,0,0,,{\i1}Filled only with coincidences…
+Dialogue: 5,0:01:53.83,0:01:56.10,Default,,0,0,0,,{\i1}unreasonable, absurd…
+Dialogue: 5,0:01:57.09,0:01:58.66,Default,,0,0,0,,{\i1}not even having meaning.
+Dialogue: 5,0:02:10.08,0:02:10.79,Default,,0,0,0,,{\i1}Even so…
+Dialogue: 5,0:02:17.37,0:02:17.90,Default,,0,0,0,,{\i1}The next…
+Dialogue: 5,0:02:20.73,0:02:21.77,Default,,0,0,0,,{\i1}The next one…
+Comment: 0,0:02:21.77,0:02:23.77,Default,,0,0,0,,INTEGRATION TEST
 Dialogue: 0,0:02:37.05,0:02:40.34,TS/Pledges,,0,0,0,,{\pos(960,878)\fad(300,0)\fscx70\fscy70\t(0,300,\fscx100\fscy100)\bord4\blur7\fnA-OTF Jun Pro 34-Kami\3c&HAF02E2&}Elkia
 Dialogue: 5,0:02:38.38,0:02:40.07,Default,,0,0,0,,Why?
 Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win?!

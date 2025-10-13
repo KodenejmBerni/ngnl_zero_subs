@@ -39,7 +39,11 @@ Japanese punctuation:
 、
 * Full stop (U+3002)
 。
-* Exclamation (U+30C3)
+* Exclamation (U+FF01)
+！
+* Question (U+FF1F)
+？
+* Order (U+30C3)
 ッ
 * Prolonging dash (U+30FC)
 ー
