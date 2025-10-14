@@ -15,9 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 25
-Video Position: 3400
+Video Zoom Percent: 0.625000
+Scroll Position: 9
+Active Line: 26
+Video Position: 3766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,24 +54,23 @@ Dialogue: 5,0:01:57.09,0:01:58.66,Default,,0,0,0,,{\i1}not even having meaning.
 Dialogue: 5,0:02:10.08,0:02:10.79,Default,,0,0,0,,{\i1}Even so…
 Dialogue: 5,0:02:17.37,0:02:17.90,Default,,0,0,0,,{\i1}The next…
 Dialogue: 5,0:02:20.73,0:02:21.77,Default,,0,0,0,,{\i1}The next one…
-Comment: 0,0:02:21.77,0:02:23.77,Default,,0,0,0,,INTEGRATION TEST
+Comment: 0,0:02:21.77,0:02:23.77,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 0,0:02:37.05,0:02:40.34,TS/Pledges,,0,0,0,,{\pos(960,878)\fad(300,0)\fscx70\fscy70\t(0,300,\fscx100\fscy100)\bord4\blur7\fnA-OTF Jun Pro 34-Kami\3c&HAF02E2&}Elkia
-Dialogue: 5,0:02:38.38,0:02:40.07,Default,,0,0,0,,Why?
+Dialogue: 5,0:02:38.38,0:02:40.07,Default,,0,0,0,,Why?!
 Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win?!
 Dialogue: 5,0:02:47.10,0:02:51.81,Default,,0,0,0,,Not to brag, but I've only lost once in my entire life.
-Dialogue: 5,0:02:57.99,0:03:00.20,Default,,0,0,0,,The sixth of the ten pledges:
-Dialogue: 0,0:02:59.45,0:03:07.16,TS/Pledges,,0,0,0,,{\alpha&H00&\fad(500,0)\3c&HEC5AF2&\blur4\pos(1046,200)}#6: Any bets made in accordance with the pledges must be upheld.
-Dialogue: 5,0:03:00.20,0:03:04.08,Default,,0,0,0,,"Any bets made in accordance with the pledges must be upheld."
+Dialogue: 5,0:02:58.07,0:03:00.28,Default,,0,0,0,,The Ten Covenants, Rule Six:
+Dialogue: 5,0:03:00.28,0:03:04.08,Default,,0,0,0,,{\i1}“A wager made under a Solemn Oath \Nis absolutely binding.”
 Dialogue: 5,0:03:04.08,0:03:08.54,Default,,0,0,0,,One of the absolute laws laid down by the One True God.
 Dialogue: 5,0:03:08.54,0:03:09.87,Default,,0,0,0,,I'll crush you...
-Dialogue: 5,0:03:09.87,0:03:12.17,Default,,0,0,0,,Next time I'll definitely crush you!
-Dialogue: 5,0:03:12.63,0:03:15.21,Default,,0,0,0,,Next time, huh?
+Dialogue: 5,0:03:09.87,0:03:12.17,Default,,0,0,0,,In the next one I'll absolutely crush you!
+Dialogue: 5,0:03:12.63,0:03:15.21,Default,,0,0,0,,“In the next one”, hm?
 Dialogue: 5,0:03:15.21,0:03:18.67,Default,,0,0,0,,If you couldn’t beat them, you don’t stand a chance against me.
 Dialogue: 5,0:03:19.38,0:03:22.05,Default,,0,0,0,,Sora and Shiro? You know them?
 Dialogue: 5,0:03:23.60,0:03:27.31,Default,,0,0,0,,Alright, during the next game I'll tell you an interesting story.
 Dialogue: 5,0:03:27.77,0:03:30.19,Default,,0,0,0,,For the snack I just got.
 Dialogue: 5,0:03:30.19,0:03:33.81,Default,,0,0,0,,You just want to distract me, please.
-Dialogue: 5,0:03:33.81,0:03:36.65,Default,,0,0,0,,Do whatever you want, please.
+Dialogue: 5,0:03:33.81,0:03:36.65,Default,,0,0,0,,You can do whatever you want, please.
 Dialogue: 5,0:03:36.65,0:03:38.28,Default,,0,0,0,,Great! Let's get into it!
 Dialogue: 5,0:03:38.28,0:03:42.07,Default,,0,0,0,,It's an ancient myth that no one has ever heard before.
 Dialogue: 5,0:03:42.07,0:03:43.82,Default,,0,0,0,,Not listening, please.
@@ -80,7 +80,7 @@ Dialogue: 5,0:04:02.72,0:04:07.14,Default,,0,0,0,,The earth and sky were then ra
 Dialogue: 5,0:04:09.39,0:04:13.15,Default,,0,0,0,,As time passes, no one remembers it anymore.
 Dialogue: 5,0:04:15.56,0:04:16.83,Default,,0,0,0,,And yet,
 Dialogue: 5,0:04:17.28,0:04:20.44,Default,,0,0,0,,it's a story I will never forget.
-Dialogue: 5,0:04:49.43,0:04:50.68,Default,,0,0,0,,It's a big one.
+Dialogue: 5,0:04:49.43,0:04:50.68,Default,,0,0,0,,That's a big one.
 Dialogue: 5,0:04:56.81,0:04:59.69,Default,,0,0,0,,Black ash is falling, hurry up.
 Dialogue: 5,0:05:17.50,0:05:18.50,Default,,0,0,0,,Ivan?
 Dialogue: 5,0:05:18.50,0:05:19.75,Default,,0,0,0,,It's okay.
@@ -113,7 +113,7 @@ Dialogue: 5,0:07:32.76,0:07:33.80,Default,,0,0,0,,Die here.
 Dialogue: 5,0:07:34.14,0:07:35.31,Default,,0,0,0,,Aschieto.
 Dialogue: 5,0:07:35.68,0:07:37.06,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:07:43.90,0:07:46.11,Default,,0,0,0,,Take care of my kid.
-Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Too bad, Riku.
+Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Too bad, Riku…
 Dialogue: 5,0:07:57.08,0:08:01.25,Default,,0,0,0,,The bait is here! Get me Demonia!
 Dialogue: 5,0:08:40.29,0:08:43.67,Default,,0,0,0,,They say there used to be something called "the sun".
 Dialogue: 5,0:08:44.92,0:08:47.39,Default,,0,0,0,,It lit up the sky,
@@ -168,18 +168,18 @@ Dialogue: 5,0:11:53.61,0:11:56.89,Default,,0,0,0,,You two, go take a bath.
 Dialogue: 5,0:11:57.19,0:11:58.61,Default,,0,0,0,,I'll clean myself up.
 Dialogue: 5,0:11:58.61,0:12:00.74,Default,,0,0,0,,I said take a bath.
 Dialogue: 5,0:12:00.74,0:12:02.95,Default,,0,0,0,,You guys stink!
-Dialogue: 5,0:12:12.88,0:12:14.13,Default,,0,0,0,,So we could...
+Dialogue: 5,0:12:12.88,0:12:14.13,Default,,0,0,0,,So we could—
 Dialogue: 5,0:12:15.25,0:12:17.30,Default,,0,0,0,,So we could win?!
 Dialogue: 5,0:12:18.13,0:12:19.92,Default,,0,0,0,,Fucking hypocrite!
 Dialogue: 5,0:12:21.59,0:12:23.80,Default,,0,0,0,,Ivan threw his life away!
 Dialogue: 5,0:12:24.51,0:12:26.51,Default,,0,0,0,,I told him to die!
-Dialogue: 5,0:12:28.97,0:12:30.35,Default,,0,0,0,,Say it!
+Dialogue: 5,0:12:28.97,0:12:30.35,Default,,0,0,0,,Say it loud!
 Dialogue: 5,0:12:30.35,0:12:35.48,Default,,0,0,0,,I killed him, because that's the only way for us to live!
 Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If that's how you stay alive,
 Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what comes next?
 Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far I need to go?
 Dialogue: 5,0:12:45.78,0:12:50.25,Default,,0,0,0,,Until I order half the village to bite the dust for the other half?
-Dialogue: 5,0:12:50.25,0:12:52.50,Default,,0,0,0,,Or until I no longer give a fuck?!
+Dialogue: 5,0:12:50.25,0:12:52.50,Default,,0,0,0,,Or until I lose the fucking count?!
 Dialogue: 5,0:12:55.00,0:12:57.00,Default,,0,0,0,,When will this end?
 Dialogue: 5,0:12:57.75,0:12:59.63,Default,,0,0,0,,How long will I have to
 Dialogue: 5,0:13:00.26,0:13:03.13,Default,,0,0,0,,keep lying myself like this?!
@@ -1350,7 +1350,7 @@ Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Na
 Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting weird.
 Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will be enough.
 Dialogue: 5,1:17:25.41,1:17:27.54,Default,,0,0,0,,Let's make you a proper scrap
-Dialogue: 0,1:17:27.54,1:17:30.01,Default,,0,0,0,,that silently rusts in the dirt.
+Dialogue: 0,1:17:27.54,1:17:30.01,Default,,0,0,0,,silently rusting in the dirt.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
 Dialogue: 5,1:17:44.32,1:17:45.43,Default,,0,0,0,,Riku...
 Dialogue: 5,1:17:47.24,1:17:48.96,Default,,0,0,0,,I don't want to die.
@@ -1386,17 +1386,17 @@ Dialogue: 5,1:19:16.21,1:19:18.15,Default,,0,0,0,,Stop giving me shit,
 Dialogue: 5,1:19:18.15,1:19:20.81,Default,,0,0,0,,and carry it on!
 Dialogue: 5,1:19:38.89,1:19:41.14,Default,,0,0,0,,The unit is clearly defective.
 Dialogue: 5,1:19:42.17,1:19:43.24,Default,,0,0,0,,I know.
-Dialogue: 5,1:19:43.43,1:19:47.09,Default,,0,0,0,,Ambiguous, incoherent, yet still functional.
+Dialogue: 5,1:19:43.43,1:19:47.09,Default,,0,0,0,,Ambiguous, incoherent, but still functional.
 Dialogue: 5,1:19:47.12,1:19:48.16,Default,,0,0,0,,Abnormal.
 Dialogue: 5,1:19:48.16,1:19:49.77,Default,,0,0,0,,I know that too!
 Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,Impossible to occur.
-Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,It's the truth…
-Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart that Riku gives me is the proof!
+Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,That's the truth!
+Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart I've got from Riku is the proof!
 Dialogue: 5,1:19:58.81,1:20:00.44,Default,,0,0,0,,Your unit
 Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,contains valuable data.
 Dialogue: 5,1:20:04.46,1:20:06.40,Default,,0,0,0,,Synchronization initiated.
 Dialogue: 0,1:20:06.40,1:20:09.12,Default,,0,0,0,,Completion in 251 seconds.
-Dialogue: 5,1:20:09.12,1:20:12.16,Default,,0,0,0,,During this time, destruction is prohibited.
+Dialogue: 5,1:20:09.12,1:20:12.16,Default,,0,0,0,,During the process, destruction is prohibited.
 Dialogue: 5,1:20:14.27,1:20:15.79,Default,,0,0,0,,Alles-Lösen.
 Dialogue: 5,1:20:16.11,1:20:19.26,Default,,0,0,0,,Forme – unpredictable threat protocol:
 Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,initiate.
@@ -1411,7 +1411,7 @@ Dialogue: 5,1:20:51.10,1:20:52.00,Default,,0,0,0,,Schwi.
 Dialogue: 5,1:20:52.45,1:20:53.39,Default,,0,0,0,,Pardon?
 Dialogue: 5,1:20:54.14,1:20:56.98,Default,,0,0,0,,I didn’t mention my name,
 Dialogue: 5,1:20:56.98,1:20:58.26,Default,,0,0,0,,so here it is.
-Dialogue: 5,1:20:59.97,1:21:01.41,Default,,0,0,0,,A gift from Riku,
+Dialogue: 5,1:20:59.97,1:21:01.41,Default,,0,0,0,,A gift from Riku…
 Dialogue: 5,1:21:02.26,1:21:03.64,Default,,0,0,0,,my precious self.
 Dialogue: 5,1:21:04.83,1:21:08.24,Default,,0,0,0,,I see. My name is Jibril.
 Dialogue: 0,1:21:08.24,1:21:09.95,Default,,0,0,0,,Pleased to meet you.
@@ -1518,7 +1518,7 @@ Dialogue: 5,1:28:51.03,1:28:53.61,Default,,0,0,0,,Áka Si Anse, initiate guidanc
 Dialogue: 5,1:28:53.90,1:28:57.50,Default,,0,0,0,,Starboard, Artosh. Port, the Dwarf fleet.
 Dialogue: 5,1:28:58.59,1:29:00.67,Default,,0,0,0,,Preemptive strike from Avantheim?
 Dialogue: 5,1:29:01.56,1:29:03.76,Default,,0,0,0,,No… this is…
-Dialogue: 5,1:29:07.06,1:29:11.36,Default,,0,0,0,,You dare to mess with us nyaa… scrap heaps!
+Dialogue: 5,1:29:07.06,1:29:11.36,Default,,0,0,0,,You dare to mess with us nyaa? Scrap heaps?!
 Dialogue: 5,1:29:27.62,1:29:29.55,Default,,0,0,0,,Artosh-sama?
 Dialogue: 5,1:29:30.21,1:29:32.99,Default,,0,0,0,,I've awaited you, my destined enemy.
 Dialogue: 5,1:29:33.75,1:29:39.38,Default,,0,0,0,,Indeed, it's but natural for the strongest to be opposed by the weakest.
@@ -1543,11 +1543,11 @@ Dialogue: 5,1:30:52.98,1:30:57.47,Default,,0,0,0,,Áka Si Anse, even with the po
 Dialogue: 5,1:30:57.47,1:31:00.40,Default,,0,0,0,,was but a shadow before the Godly Smite of Artosh.
 Dialogue: 5,1:31:01.63,1:31:05.77,Default,,0,0,0,,All that energy collided… merged…
 Dialogue: 5,1:31:05.77,1:31:08.59,Default,,0,0,0,,becoming the light heralding the demise of this world.
-Dialogue: 5,1:31:13.69,1:31:15.07,Default,,0,0,0,,Then…
+Dialogue: 5,1:31:13.69,1:31:15.07,Default,,0,0,0,,And then…
 Dialogue: 5,1:31:26.84,1:31:28.59,Default,,0,0,0,,It's moving away?
 Dialogue: 5,1:31:33.89,1:31:35.83,Default,,0,0,0,,that energy…
-Dialogue: 5,1:31:37.20,1:31:41.05,Default,,0,0,0,,We are the machines, tools bereft of heart.
-Dialogue: 5,1:31:41.05,1:31:43.00,Default,,0,0,0,,Having lived without life,
+Dialogue: 5,1:31:37.20,1:31:41.05,Default,,0,0,0,,We are machines, tools bereft of heart.
+Dialogue: 5,1:31:41.05,1:31:43.00,Default,,0,0,0,,Living without life,
 Dialogue: 5,1:31:43.00,1:31:45.16,Default,,0,0,0,,we die having one.
 Dialogue: 5,1:31:46.24,1:31:47.61,Default,,0,0,0,,Aus.
 Dialogue: 5,1:31:47.61,1:31:48.77,Default,,0,0,0,,Jawohl!
@@ -1582,50 +1582,50 @@ Dialogue: 5,1:34:05.17,1:34:08.24,Default,,0,0,0,,to win in the next one, Schwi�
 Dialogue: 5,1:34:09.01,1:34:12.22,Default,,0,0,0,,In the game where no one has to die.
 Dialogue: 5,1:34:14.03,1:34:16.43,Default,,0,0,0,,If a wish were to bring forth a god…
 Dialogue: 5,1:34:20.26,1:34:22.01,Default,,0,0,0,,God of Games!
-Dialogue: 5,1:34:22.32,1:34:24.34,Default,,0,0,0,,Even if my life means nothing,
+Dialogue: 5,1:34:22.32,1:34:24.34,Default,,0,0,0,,Even if my life is worth nothing,
 Dialogue: 5,1:34:24.74,1:34:27.56,Default,,0,0,0,,I offer all of it in prayer for the first time!
 Dialogue: 0,1:34:27.98,1:34:29.15,Default,,0,0,0,,I beg you!
 Dialogue: 5,1:34:29.80,1:34:31.50,Default,,0,0,0,,If you deem
 Dialogue: 5,1:34:31.50,1:34:34.68,Default,,0,0,0,,a wretched loser taking the Grail an abomination!
 Dialogue: 5,1:34:34.68,1:34:37.72,Default,,0,0,0,,If you deem these hands too stained in blood!
 Dialogue: 5,1:34:38.27,1:34:39.62,Default,,0,0,0,,Please!
-Dialogue: 5,1:34:39.62,1:34:41.24,Default,,0,0,0,,Tell me at least
+Dialogue: 5,1:34:39.62,1:34:41.24,Default,,0,0,0,,Tell us at least
 Dialogue: 5,1:34:41.24,1:34:43.59,Default,,0,0,0,,that what we've done meant something!
 Dialogue: 5,1:34:43.93,1:34:45.52,Default,,0,0,0,,I don’t care who!
 Dialogue: 5,1:34:45.52,1:34:48.03,Default,,0,0,0,,Anyone who can end this cursed war!
 Dialogue: 5,1:34:49.73,1:34:52.12,Default,,0,0,0,,Take that Suniaster!
 Dialogue: 5,1:34:52.77,1:34:54.00,Default,,0,0,0,,Anyone!
 Dialogue: 0,1:35:05.67,1:35:09.12,Default,,0,0,0,,Knew it… you were really there.
-Dialogue: 5,1:35:10.45,1:35:13.33,Default,,0,0,0,,Hey, let's have one more game.
+Dialogue: 5,1:35:10.45,1:35:13.33,Default,,0,0,0,,Hey, let's play one more game.
 Dialogue: 5,1:35:14.30,1:35:16.55,Default,,0,0,0,,In this one we’ll show you we can win.
 Dialogue: 5,1:35:18.60,1:35:20.24,Default,,0,0,0,,Together with Schwi,
 Dialogue: 5,1:35:21.31,1:35:22.60,Default,,0,0,0,,it's certain.
 Dialogue: 5,1:35:34.93,1:35:36.64,Default,,0,0,0,,When I was a child,
 Dialogue: 5,1:35:36.64,1:35:39.41,Default,,0,0,0,,I thought the world was much simpler.
-Dialogue: 5,1:35:40.51,1:35:42.14,Default,,0,0,0,,That no battle is unwinnable,
-Dialogue: 5,1:35:42.67,1:35:44.92,Default,,0,0,0,,every effort is rewarded,
-Dialogue: 5,1:35:45.05,1:35:46.80,Default,,0,0,0,,and everything is possible.
+Dialogue: 5,1:35:40.51,1:35:42.14,Default,,0,0,0,,Nothing was unbeatable,
+Dialogue: 5,1:35:42.67,1:35:44.92,Default,,0,0,0,,every effort was rewarded,
+Dialogue: 5,1:35:45.05,1:35:46.80,Default,,0,0,0,,and everything was possible.
 Dialogue: 5,1:35:48.30,1:35:51.11,Default,,0,0,0,,I looked through eyes untried by reality.
 Dialogue: 5,1:35:53.02,1:35:54.03,Default,,0,0,0,,And well…
 Dialogue: 5,1:36:07.08,1:36:08.32,Default,,0,0,0,,Checkmate,
 Dialogue: 5,1:36:09.23,1:36:10.94,Default,,0,0,0,,right, Riku?
-Dialogue: 5,1:36:14.29,1:36:17.01,Default,,0,0,0,,In case… everything works out,
+Dialogue: 5,1:36:14.29,1:36:17.01,Default,,0,0,0,,If— everything works out,
 Dialogue: 5,1:36:17.01,1:36:20.68,Default,,0,0,0,,can you move the white rook to E6 for me?
 Dialogue: 5,1:36:20.68,1:36:22.41,Default,,0,0,0,,Couronne Dola,
 Dialogue: 5,1:36:22.41,1:36:23.79,Default,,0,0,0,,I mean—
-Dialogue: 5,1:36:23.79,1:36:25.16,Default,,0,0,0,,Sister,
+Dialogue: 5,1:36:23.79,1:36:25.16,Default,,0,0,0,,sister,
 Dialogue: 5,1:36:25.73,1:36:28.67,Default,,0,0,0,,the rest… I leave in your hands.
 Dialogue: 5,1:36:29.44,1:36:32.37,Default,,0,0,0,,Thanks for everything up until now.
 Dialogue: 5,1:36:33.89,1:36:37.56,Default,,0,0,0,,Hey Riku, Schwi,
 Dialogue: 5,1:36:37.56,1:36:40.96,Default,,0,0,0,,you two really did something incredible.
 Dialogue: 5,1:36:40.96,1:36:43.72,Default,,0,0,0,,You put an end to the eternal war.
-Dialogue: 5,1:36:44.85,1:36:46.11,Default,,0,0,0,,And still—
-Dialogue: 5,1:36:47.68,1:36:49.29,Default,,0,0,0,,it's weird.
-Dialogue: 5,1:36:50.13,1:36:53.42,Default,,0,0,0,,Why for your sister…
-Dialogue: 5,1:36:54.31,1:36:57.76,Default,,0,0,0,,Why does this feel so unbearable?!
+Dialogue: 5,1:36:44.85,1:36:46.11,Default,,0,0,0,,And yet—
+Dialogue: 5,1:36:47.68,1:36:49.29,Default,,0,0,0,,weird, isn't it?
+Dialogue: 5,1:36:50.13,1:36:53.42,Default,,0,0,0,,Why… for your sister…
+Dialogue: 5,1:36:54.31,1:36:57.76,Default,,0,0,0,,Why is it so unbearable?!
 Dialogue: 5,1:37:01.84,1:37:04.35,Default,,0,0,0,,The game isn’t over yet.
 Dialogue: 5,1:37:05.27,1:37:07.93,Default,,0,0,0,,It’s not checkmate. It's check.
-Dialogue: 5,1:37:09.98,1:37:11.41,Default,,0,0,0,,But this…
+Dialogue: 5,1:37:09.98,1:37:11.41,Default,,0,0,0,,But that…
 Dialogue: 5,1:37:12.31,1:37:14.88,Default,,0,0,0,,puts us in a perpetual check.
 Dialogue: 5,1:37:17.45,1:37:21.06,Default,,0,0,0,,It’s the first time you’ve drawn with me!
 Dialogue: 5,1:37:26.70,1:37:28.25,Default,,0,0,0,,Created by no one.
@@ -1641,7 +1641,7 @@ Dialogue: 5,1:37:53.51,1:37:56.90,Default,,0,0,0,,All you who claim yourself sen
 Dialogue: 5,1:37:57.92,1:38:00.57,Default,,0,0,0,,For the dead, taking over Ashieito.
 Dialogue: 5,1:38:00.57,1:38:03.72,Default,,0,0,0,,With the unity of races, leaving Aschiento.
 Dialogue: 5,1:38:03.72,1:38:05.43,Default,,0,0,0,,Upon the Ten Covenants,
-Dialogue: 5,1:38:05.43,1:38:07.31,Default,,0,0,0,,you all now obey Aschente!
+Dialogue: 5,1:38:05.43,1:38:07.31,Default,,0,0,0,,you all shall obey Aschente!
 Dialogue: 5,1:38:08.08,1:38:10.95,Default,,0,0,0,,As of this day, the world is forever changed!
 Dialogue: 5,1:38:12.49,1:38:15.10,Default,,0,0,0,,Now… let the game go on!
 Dialogue: 5,1:38:27.27,1:38:29.07,Default,,0,0,0,,About that story…

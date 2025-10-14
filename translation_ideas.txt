@@ -21,6 +21,7 @@ Ixseed - イクシード
 Jibril - ジブリール
 Elkia - エルキア
 Immanity - イマニティ
+Ten Covenants - 十の盟約
 
 pertinacity
 
@@ -61,22 +62,22 @@ EN -> FR
 =========================================================================
 The Riku's rules:
 
-誰も殺してはならない
+【一つ】 誰も殺してはならない
 1. No one can be killed.
 
-誰も死なせてはならない
+【二つ】 誰も死なせてはならない
 2. No one can be left to die.
 
-誰にも悟られてはならない
+【三つ】 誰にも悟られてはならない
 3. 
 
-如何なる手も不正ではない
+【四つ】 如何なる手も不正ではない
 4. 
 
-奴らのルールなど知ったことではない
+【五つ】 奴らのルールなど知ったことではない
 5. 
 
-上記に違反する一切は、敗北とする
+【六つ】 上記に違反する一切は、敗北とする
 6. Breaking any of these rules results in a loss.
 
 Used:
@@ -86,23 +87,49 @@ Used:
 =========================================================================
 The Ten Covenants:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+【一つ】 この世界におけるあらゆる殺傷、戦争、略奪を禁ずる
+1. Kono sekai ni okeru arayuru sasshou, sensou, ryakudatsu o kinzuru.
+1. All bloodshed, war, and robbery are forbidden in this world.
+
+【二つ】 争いは全てゲームによる勝敗で解決するものとする
+2. Arasoi wa subete geimu ni yoru shouhai de kaiketsu suru mono to suru.
+2. All conflicts shall be resolved by the outcome of games.
+
+【三つ】 ゲームには、相互が対等と判断したものを賭けて行われる
+3. Geimu ni wa, sougo ga taitou to handan shita mono o kakete okonawareru.
+3. In games, both parties wager what they consider of equal value.
+
+【四つ】 「三」に反しない限り、ゲーム内容、賭けるものは一切を問わない
+4. ‘San’ ni hanshinai kagiri, gēmu naiyō, kakeru mono wa issai o towanai.
+4. If Rule Three is upheld, there are no restrictions on the game or the stakes.
+
+【五つ】 ゲーム内容は、挑まれたほうが決定権を有する
+5. Geimu naiyou wa, idomareta hou ga ketteiken o yuusuru.
+5. The rules of the game are determined by the challenged party.
+
+【六つ】 "盟約に誓って"行われた賭けは、絶対遵守される
+6. "Meiyaku ni chikatte" okonawareta kake wa, zettai junshu sareru.
+6. A wager made under a solemn oath is absolutely binding.
+
+【七つ】 集団における争いは、全権代理者をたてるものとする
+7.
+
+【八つ】 ゲームの中の不正発覚は、敗北と見なす
+8.
+
+【九つ】 以上をもって神の名のもと絶対不変のルールとする
+9.
+
+【十】 みんななかよくプレイしましょう
+10.
 
 Used:
-* 
+* 0:02:59
 
 =========================================================================
 Translation ideas:
 
+0:13:47 - To keep your guts
 0:19:30 - Arrived.
 0:21:03 - według Cb to dobry pomysł bym tam weszedł i oznajmij że mam młodszą siostrę?
 0:21:33 - Is this… a joke?
