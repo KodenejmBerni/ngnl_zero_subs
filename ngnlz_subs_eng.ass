@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 9
-Active Line: 26
-Video Position: 3766
+Scroll Position: 81
+Active Line: 91
+Video Position: 12857
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,83 +29,83 @@ Style: Credits,Fontin Sans Rg,37,&H00FCFEF9,&H000000FF,&H008F00BB,&HBE7B33A4,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:00:13.14,0:00:14.06,Default,,0,0,0,,{\i1}When I was a child,
-Dialogue: 5,0:00:14.98,0:00:17.31,Default,,0,0,0,,{\i1}the world was much simpler for me.
-Dialogue: 5,0:00:19.03,0:00:20.38,Default,,0,0,0,,{\i1}Nothing was unbeatable,
-Dialogue: 5,0:00:21.31,0:00:23.80,Default,,0,0,0,,{\i1}every effort was rewarded,
-Dialogue: 5,0:00:23.83,0:00:25.27,Default,,0,0,0,,{\i1}and everything was possible.
-Dialogue: 5,0:00:34.42,0:00:36.14,Default,,0,0,0,,{\i1}The world was clear:
-Dialogue: 5,0:00:37.08,0:00:39.69,Default,,0,0,0,,{\i1}win, loss… or draw.
-Dialogue: 5,0:00:44.35,0:00:45.85,Default,,0,0,0,,{\i1}More precise moves!
-Dialogue: 5,0:00:46.24,0:00:47.95,Default,,0,0,0,,{\i1}More superior strategies!
-Dialogue: 5,0:00:48.36,0:00:50.29,Default,,0,0,0,,{\i1}More refined tactics!
+Dialogue: 5,0:00:13.14,0:00:14.98,Default,,0,0,0,,{\i1}When I was a child,
+Dialogue: 5,0:00:14.98,0:00:17.79,Default,,0,0,0,,{\i1}the world was much simpler for me.
+Dialogue: 5,0:00:19.03,0:00:21.31,Default,,0,0,0,,{\i1}Nothing was unbeatable,
+Dialogue: 5,0:00:21.31,0:00:23.83,Default,,0,0,0,,{\i1}every effort was rewarded,
+Dialogue: 5,0:00:23.83,0:00:25.92,Default,,0,0,0,,{\i1}and everything was possible.
+Dialogue: 5,0:00:34.42,0:00:37.08,Default,,0,0,0,,{\i1}The world was clear:
+Dialogue: 5,0:00:37.08,0:00:39.71,Default,,0,0,0,,{\i1}win, loss… or draw.
+Dialogue: 5,0:00:44.35,0:00:46.24,Default,,0,0,0,,{\i1}More precise moves!
+Dialogue: 5,0:00:46.24,0:00:48.36,Default,,0,0,0,,{\i1}More superior strategies!
+Dialogue: 5,0:00:48.36,0:00:50.65,Default,,0,0,0,,{\i1}More refined tactics!
 Dialogue: 5,0:00:51.50,0:00:53.53,Default,,0,0,0,,{\i1}Even if your opponent is overwhelming,
-Dialogue: 5,0:00:54.65,0:00:56.76,Default,,0,0,0,,{\i1}you just prepare to win the next one.
-Dialogue: 5,0:01:00.91,0:01:02.57,Default,,0,0,0,,{\i1}Stupid, ignorant brat.
-Dialogue: 5,0:01:29.73,0:01:32.29,Default,,0,0,0,,{\i1}That's how I thought.
-Dialogue: 5,0:01:37.67,0:01:39.16,Default,,0,0,0,,{\i1}It was all a childish delusion,
+Dialogue: 5,0:00:54.65,0:00:57.08,Default,,0,0,0,,{\i1}you just prepare to win the next one.
+Dialogue: 5,0:01:00.91,0:01:02.53,Default,,0,0,0,,{\i1}Stupid, ignorant brat.
+Dialogue: 5,0:01:29.73,0:01:32.51,Default,,0,0,0,,{\i1}That's how I thought.
+Dialogue: 5,0:01:37.67,0:01:40.28,Default,,0,0,0,,{\i1}It was all a childish delusion,
 Dialogue: 5,0:01:40.28,0:01:42.12,Default,,0,0,0,,{\i1}a pathetic world of games.
-Dialogue: 5,0:01:45.02,0:01:45.83,Default,,0,0,0,,{\i1}The truth is
-Dialogue: 5,0:01:46.80,0:01:47.72,Default,,0,0,0,,{\i1}this world
-Dialogue: 5,0:01:48.72,0:01:50.85,Default,,0,0,0,,{\i1}is just a chaos without any obligations.
-Dialogue: 5,0:01:51.53,0:01:53.06,Default,,0,0,0,,{\i1}Filled only with coincidences…
-Dialogue: 5,0:01:53.83,0:01:56.10,Default,,0,0,0,,{\i1}unreasonable, absurd…
-Dialogue: 5,0:01:57.09,0:01:58.66,Default,,0,0,0,,{\i1}not even having meaning.
-Dialogue: 5,0:02:10.08,0:02:10.79,Default,,0,0,0,,{\i1}Even so…
-Dialogue: 5,0:02:17.37,0:02:17.90,Default,,0,0,0,,{\i1}The next…
-Dialogue: 5,0:02:20.73,0:02:21.77,Default,,0,0,0,,{\i1}The next one…
-Comment: 0,0:02:21.77,0:02:23.77,Default,,0,0,0,,TRANSCRIPT END
+Dialogue: 5,0:01:45.02,0:01:46.27,Default,,0,0,0,,{\i1}The truth is
+Dialogue: 5,0:01:46.80,0:01:48.15,Default,,0,0,0,,{\i1}this world
+Dialogue: 5,0:01:48.78,0:01:51.53,Default,,0,0,0,,{\i1}is just a chaos without any obligations.
+Dialogue: 5,0:01:51.53,0:01:53.83,Default,,0,0,0,,{\i1}Filled only with coincidences…
+Dialogue: 5,0:01:53.83,0:01:56.25,Default,,0,0,0,,{\i1}unreasonable, absurd…
+Dialogue: 5,0:01:57.09,0:01:58.77,Default,,0,0,0,,{\i1}not even having meaning.
+Dialogue: 5,0:02:10.08,0:02:10.91,Default,,0,0,0,,{\i1}Even so…
+Dialogue: 5,0:02:17.37,0:02:18.06,Default,,0,0,0,,{\i1}The next…
+Dialogue: 5,0:02:20.73,0:02:21.82,Default,,0,0,0,,{\i1}The next one…
 Dialogue: 0,0:02:37.05,0:02:40.34,TS/Pledges,,0,0,0,,{\pos(960,878)\fad(300,0)\fscx70\fscy70\t(0,300,\fscx100\fscy100)\bord4\blur7\fnA-OTF Jun Pro 34-Kami\3c&HAF02E2&}Elkia
 Dialogue: 5,0:02:38.38,0:02:40.07,Default,,0,0,0,,Why?!
-Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win?!
+Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win, please?!
 Dialogue: 5,0:02:47.10,0:02:51.81,Default,,0,0,0,,Not to brag, but I've only lost once in my entire life.
 Dialogue: 5,0:02:58.07,0:03:00.28,Default,,0,0,0,,The Ten Covenants, Rule Six:
-Dialogue: 5,0:03:00.28,0:03:04.08,Default,,0,0,0,,{\i1}“A wager made under a Solemn Oath \Nis absolutely binding.”
-Dialogue: 5,0:03:04.08,0:03:08.54,Default,,0,0,0,,One of the absolute laws laid down by the One True God.
+Dialogue: 5,0:03:00.28,0:03:04.08,Default,,0,0,0,,{\i1}“A wager made under a solemn oath \Nis absolutely binding.”
+Dialogue: 5,0:03:04.08,0:03:08.54,Default,,0,0,0,,The absolute law of Disboard, created by the Only God.
 Dialogue: 5,0:03:08.54,0:03:09.87,Default,,0,0,0,,I'll crush you...
-Dialogue: 5,0:03:09.87,0:03:12.17,Default,,0,0,0,,In the next one I'll absolutely crush you!
+Dialogue: 5,0:03:09.87,0:03:12.17,Default,,0,0,0,,In the next one I'll crush you, please!
 Dialogue: 5,0:03:12.63,0:03:15.21,Default,,0,0,0,,“In the next one”, hm?
-Dialogue: 5,0:03:15.21,0:03:18.67,Default,,0,0,0,,If you couldn’t beat them, you don’t stand a chance against me.
-Dialogue: 5,0:03:19.38,0:03:22.05,Default,,0,0,0,,Sora and Shiro? You know them?
+Dialogue: 5,0:03:15.21,0:03:18.67,Default,,0,0,0,,If you couldn’t beat them,\Nyou don’t stand a chance against me.
+Dialogue: 5,0:03:19.38,0:03:22.05,Default,,0,0,0,,Sora and Shiro… you know them?
 Dialogue: 5,0:03:23.60,0:03:27.31,Default,,0,0,0,,Alright, during the next game I'll tell you an interesting story.
 Dialogue: 5,0:03:27.77,0:03:30.19,Default,,0,0,0,,For the snack I just got.
-Dialogue: 5,0:03:30.19,0:03:33.81,Default,,0,0,0,,You just want to distract me, please.
+Dialogue: 5,0:03:30.19,0:03:33.81,Default,,0,0,0,,You just want to distract Izuna, please.
 Dialogue: 5,0:03:33.81,0:03:36.65,Default,,0,0,0,,You can do whatever you want, please.
-Dialogue: 5,0:03:36.65,0:03:38.28,Default,,0,0,0,,Great! Let's get into it!
-Dialogue: 5,0:03:38.28,0:03:42.07,Default,,0,0,0,,It's an ancient myth that no one has ever heard before.
+Dialogue: 5,0:03:36.65,0:03:38.28,Default,,0,0,0,,Alright, let's do it!
+Dialogue: 5,0:03:38.28,0:03:42.07,Default,,0,0,0,,It's a myth that was never meant to be told to anyone.
 Dialogue: 5,0:03:42.07,0:03:43.82,Default,,0,0,0,,Not listening, please.
-Dialogue: 5,0:03:50.75,0:03:52.29,Default,,0,0,0,,So...
-Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,this story happened over six thousand years ago.
+Dialogue: 5,0:03:50.75,0:03:52.29,Default,,0,0,0,,Well…
+Dialogue: 5,0:03:52.29,0:03:55.92,Default,,0,0,0,,this story happened over 6000 years ago.
 Dialogue: 5,0:04:02.72,0:04:07.14,Default,,0,0,0,,The earth and sky were then ravaged by a cruel war.
 Dialogue: 5,0:04:09.39,0:04:13.15,Default,,0,0,0,,As time passes, no one remembers it anymore.
-Dialogue: 5,0:04:15.56,0:04:16.83,Default,,0,0,0,,And yet,
-Dialogue: 5,0:04:17.28,0:04:20.44,Default,,0,0,0,,it's a story I will never forget.
+Dialogue: 5,0:04:15.56,0:04:17.28,Default,,0,0,0,,And yet,
+Dialogue: 5,0:04:17.28,0:04:20.44,Default,,0,0,0,,it's a story I could never forget.
 Dialogue: 5,0:04:49.43,0:04:50.68,Default,,0,0,0,,That's a big one.
 Dialogue: 5,0:04:56.81,0:04:59.69,Default,,0,0,0,,Black ash is falling, hurry up.
 Dialogue: 5,0:05:17.50,0:05:18.50,Default,,0,0,0,,Ivan?
 Dialogue: 5,0:05:18.50,0:05:19.75,Default,,0,0,0,,It's okay.
 Dialogue: 5,0:05:26.43,0:05:28.00,Default,,0,0,0,,How's the compass?
-Dialogue: 5,0:05:28.80,0:05:31.11,Default,,0,0,0,,Too much black dust around.
-Dialogue: 5,0:05:31.11,0:05:33.35,Default,,0,0,0,,We need to rely on our senses.
+Dialogue: 5,0:05:28.80,0:05:31.37,Default,,0,0,0,,Too much black dust around.
+Dialogue: 5,0:05:31.37,0:05:33.35,Default,,0,0,0,,We need to rely on our senses.
 Dialogue: 5,0:05:36.06,0:05:37.69,Default,,0,0,0,,Don't let your guard down.
 Dialogue: 5,0:05:37.69,0:05:38.86,Default,,0,0,0,,Riku!
-Dialogue: 5,0:05:38.86,0:05:40.73,Default,,0,0,0,,Come quick! There's a—
+Dialogue: 5,0:05:38.86,0:05:40.73,Default,,0,0,0,,Come here! That's amaz—
 Dialogue: 5,0:05:45.32,0:05:46.70,Default,,0,0,0,,That's...
-Dialogue: 5,0:05:48.62,0:05:52.70,Default,,0,0,0,,A Dwarven world map! And it's very recent!
+Dialogue: 5,0:05:48.62,0:05:50.91,Default,,0,0,0,,A dwarven map of the whole world!
+Dialogue: 5,0:05:50.91,0:05:52.70,Default,,0,0,0,,And it's the latest version!
 Dialogue: 5,0:05:53.70,0:05:55.21,Default,,0,0,0,,That's not all.
-Dialogue: 5,0:05:55.71,0:05:59.75,Default,,0,0,0,,It shows the distribution of all forces. Even the Dwarves' strategy.
+Dialogue: 5,0:05:55.71,0:05:59.75,Default,,0,0,0,,It shows the forces of all races, and the Dwarves' strategy.
 Dialogue: 5,0:06:01.63,0:06:03.38,Default,,0,0,0,,Ivan, Aley,
-Dialogue: 5,0:06:03.38,0:06:06.01,Default,,0,0,0,,compare it to ours, make corrections.
-Dialogue: 5,0:06:06.01,0:06:07.64,Default,,0,0,0,,I'll take care of this one.
-Dialogue: 5,0:06:07.64,0:06:08.76,Default,,0,0,0,,Aschieto!
-Dialogue: 5,0:06:24.19,0:06:26.99,Default,,0,0,0,,A message... from the Dwarves?
-Dialogue: 5,0:06:31.53,0:06:32.74,Default,,0,0,0,,Fusion...
-Dialogue: 5,0:06:32.74,0:06:34.04,Default,,0,0,0,,detonation?
-Dialogue: 5,0:06:36.29,0:06:39.50,Default,,0,0,0,,How much of this world do they plan to destroy?!
+Dialogue: 5,0:06:03.38,0:06:06.01,Default,,0,0,0,,compare it with ours, make corrections.
+Dialogue: 5,0:06:06.01,0:06:07.64,Default,,0,0,0,,I'll decipher the strategy map.
+Dialogue: 5,0:06:07.64,0:06:08.76,Default,,0,0,0,,Ashieito!
+Dialogue: 5,0:06:24.19,0:06:26.99,Default,,0,0,0,,A dwarves’… transmission?
+Dialogue: 5,0:06:31.53,0:06:32.74,Default,,0,0,0,,Fusion?
+Dialogue: 5,0:06:32.74,0:06:34.04,Default,,0,0,0,,Detonation?!
+Dialogue: 5,0:06:36.29,0:06:39.50,Default,,0,0,0,,How much of this world do they want to destroy?!
 Dialogue: 5,0:06:45.09,0:06:46.06,Default,,0,0,0,,We're outta here!
-Dialogue: 5,0:06:46.72,0:06:49.47,Default,,0,0,0,,Aley, it uses spiritual energy. Leave it.
+Dialogue: 5,0:06:46.72,0:06:49.47,Default,,0,0,0,,Aley, everything that runs on spirits stays!
 Dialogue: 5,0:06:49.47,0:06:50.30,Default,,0,0,0,,But—!
-Dialogue: 5,0:06:50.30,0:06:52.10,Default,,0,0,0,,You wanna die, just say so.
+Dialogue: 5,0:06:50.30,0:06:52.10,Default,,0,0,0,,You wanna die, just tell me.
 Dialogue: 5,0:06:53.51,0:06:54.52,Default,,0,0,0,,Fuck!
 Dialogue: 5,0:07:29.97,0:07:30.80,Default,,0,0,0,,Ivan,
 Dialogue: 5,0:07:30.80,0:07:31.97,Default,,0,0,0,,this is an order.
@@ -118,8 +118,9 @@ Dialogue: 5,0:07:57.08,0:08:01.25,Default,,0,0,0,,The bait is here! Get me Demon
 Dialogue: 5,0:08:40.29,0:08:43.67,Default,,0,0,0,,They say there used to be something called "the sun".
 Dialogue: 5,0:08:44.92,0:08:47.39,Default,,0,0,0,,It lit up the sky,
 Dialogue: 5,0:08:48.00,0:08:50.55,Default,,0,0,0,,turning all of it blue.
-Dialogue: 5,0:08:51.22,0:08:52.57,Default,,0,0,0,,A fairy tale
-Dialogue: 5,0:08:52.57,0:08:55.01,Default,,0,0,0,,to lift people's spirits.
+Dialogue: 5,0:08:51.22,0:08:52.57,Default,,0,0,0,,A myth…
+Dialogue: 5,0:08:52.57,0:08:55.01,Default,,0,0,0,,An unbelievable fairy tale.
+Comment: 0,0:08:56.22,0:08:56.29,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:08:56.80,0:08:59.43,Default,,0,0,0,,Gods and their creations
 Dialogue: 5,0:08:59.43,0:09:07.48,Default,,0,0,0,,burned the earth, choking the heavens with soot and raining down the ashes of dead spirits.
 Dialogue: 5,0:09:12.28,0:09:13.32,Default,,0,0,0,,Riku!

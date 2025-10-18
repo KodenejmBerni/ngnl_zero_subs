@@ -13,6 +13,7 @@ Lösen - レーセン
 Übercluster 207 Prüfer 4F57T9
 Stalemartyr - ステイルマーター
 Suniaster - スーニアスター
+Ivan - イワン
 Artosh - アルトシュ
 Dwarf - ドワーフ
 Avant Heim - アヴァント・ヘイム
@@ -112,7 +113,7 @@ The Ten Covenants:
 6. A wager made under a solemn oath is absolutely binding.
 
 【七つ】 集団における争いは、全権代理者をたてるものとする
-7.
+7. 
 
 【八つ】 ゲームの中の不正発覚は、敗北と見なす
 8.
