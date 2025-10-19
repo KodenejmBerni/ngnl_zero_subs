@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 81
-Active Line: 91
-Video Position: 12857
+Scroll Position: 80
+Active Line: 97
+Video Position: 13473
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,26 +107,27 @@ Dialogue: 5,0:06:46.72,0:06:49.47,Default,,0,0,0,,Aley, everything that runs on 
 Dialogue: 5,0:06:49.47,0:06:50.30,Default,,0,0,0,,But—!
 Dialogue: 5,0:06:50.30,0:06:52.10,Default,,0,0,0,,You wanna die, just tell me.
 Dialogue: 5,0:06:53.51,0:06:54.52,Default,,0,0,0,,Fuck!
-Dialogue: 5,0:07:29.97,0:07:30.80,Default,,0,0,0,,Ivan,
-Dialogue: 5,0:07:30.80,0:07:31.97,Default,,0,0,0,,this is an order.
-Dialogue: 5,0:07:32.76,0:07:33.80,Default,,0,0,0,,Die here.
-Dialogue: 5,0:07:34.14,0:07:35.31,Default,,0,0,0,,Aschieto.
+Dialogue: 5,0:07:30.11,0:07:30.94,Default,,0,0,0,,Ivan,
+Dialogue: 5,0:07:30.94,0:07:31.97,Default,,0,0,0,,this is an order.
+Dialogue: 5,0:07:32.83,0:07:33.80,Default,,0,0,0,,Die here.
+Dialogue: 5,0:07:34.14,0:07:35.31,Default,,0,0,0,,Ashieito.
 Dialogue: 5,0:07:35.68,0:07:37.06,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:07:43.90,0:07:46.11,Default,,0,0,0,,Take care of my kid.
 Dialogue: 5,0:07:49.49,0:07:51.07,Default,,0,0,0,,Too bad, Riku…
 Dialogue: 5,0:07:57.08,0:08:01.25,Default,,0,0,0,,The bait is here! Get me Demonia!
-Dialogue: 5,0:08:40.29,0:08:43.67,Default,,0,0,0,,They say there used to be something called "the sun".
-Dialogue: 5,0:08:44.92,0:08:47.39,Default,,0,0,0,,It lit up the sky,
-Dialogue: 5,0:08:48.00,0:08:50.55,Default,,0,0,0,,turning all of it blue.
-Dialogue: 5,0:08:51.22,0:08:52.57,Default,,0,0,0,,A myth…
-Dialogue: 5,0:08:52.57,0:08:55.01,Default,,0,0,0,,An unbelievable fairy tale.
-Comment: 0,0:08:56.22,0:08:56.29,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:08:56.80,0:08:59.43,Default,,0,0,0,,Gods and their creations
-Dialogue: 5,0:08:59.43,0:09:07.48,Default,,0,0,0,,burned the earth, choking the heavens with soot and raining down the ashes of dead spirits.
+Dialogue: 5,0:08:40.29,0:08:43.67,Default,,0,0,0,,There once was a thing called the Sun.
+Dialogue: 5,0:08:44.92,0:08:48.00,Default,,0,0,0,,White flames lit the heavens,
+Dialogue: 5,0:08:48.00,0:08:50.55,Default,,0,0,0,,and the sky was clear and blue.
+Dialogue: 5,0:08:51.22,0:08:52.57,Default,,0,0,0,,Days of old…
+Dialogue: 5,0:08:52.57,0:08:55.01,Default,,0,0,0,,A story out of a fairy tale.
+Dialogue: 5,0:08:57.03,0:09:01.69,Default,,0,0,0,,The gods, along with their creations,\Nwaged the eternal war,
+Dialogue: 5,0:09:01.69,0:09:05.30,Default,,0,0,0,,burning the earth, choking the heavens with soot,
+Dialogue: 5,0:09:05.30,0:09:07.61,Default,,0,0,0,,flooding the world with deadly ashes.
 Dialogue: 5,0:09:12.28,0:09:13.32,Default,,0,0,0,,Riku!
-Dialogue: 5,0:09:16.62,0:09:18.37,Default,,0,0,0,,These ashes...
-Dialogue: 5,0:09:19.30,0:09:21.35,Default,,0,0,0,,are the most merciful option,
-Dialogue: 5,0:09:21.79,0:09:23.26,Default,,0,0,0,,I guess.
+Dialogue: 5,0:09:16.73,0:09:18.25,Default,,0,0,0,,These ashes…
+Dialogue: 5,0:09:19.17,0:09:21.35,Default,,0,0,0,,offer the only mercy,
+Dialogue: 5,0:09:21.90,0:09:23.17,Default,,0,0,0,,I guess.
+Comment: 0,0:09:44.19,0:09:44.29,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:09:45.10,0:09:47.44,Default,,0,0,0,,No-n-na!
 Dialogue: 5,0:09:48.48,0:09:48.98,Default,,0,0,0,,Here.
 Dialogue: 5,0:09:49.02,0:09:52.40,Default,,0,0,0,,Whoa! That's my name? It says Nonna?
