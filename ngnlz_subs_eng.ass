@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 80
-Active Line: 97
-Video Position: 13473
+Scroll Position: 123
+Active Line: 141
+Video Position: 17548
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,10 +98,10 @@ Dialogue: 5,0:06:01.63,0:06:03.38,Default,,0,0,0,,Ivan, Aley,
 Dialogue: 5,0:06:03.38,0:06:06.01,Default,,0,0,0,,compare it with ours, make corrections.
 Dialogue: 5,0:06:06.01,0:06:07.64,Default,,0,0,0,,I'll decipher the strategy map.
 Dialogue: 5,0:06:07.64,0:06:08.76,Default,,0,0,0,,Ashieito!
-Dialogue: 5,0:06:24.19,0:06:26.99,Default,,0,0,0,,A dwarves’… transmission?
-Dialogue: 5,0:06:31.53,0:06:32.74,Default,,0,0,0,,Fusion?
-Dialogue: 5,0:06:32.74,0:06:34.04,Default,,0,0,0,,Detonation?!
-Dialogue: 5,0:06:36.29,0:06:39.50,Default,,0,0,0,,How much of this world do they want to destroy?!
+Dialogue: 5,0:06:24.19,0:06:26.99,Default,,0,0,0,,{\i1}A dwarves’… transmission?
+Dialogue: 5,0:06:31.53,0:06:32.74,Default,,0,0,0,,{\i1}Fusion?
+Dialogue: 5,0:06:32.74,0:06:34.04,Default,,0,0,0,,{\i1}Detonation?!
+Dialogue: 5,0:06:36.29,0:06:39.50,Default,,0,0,0,,{\i1}How much of this world do they want to destroy?!
 Dialogue: 5,0:06:45.09,0:06:46.06,Default,,0,0,0,,We're outta here!
 Dialogue: 5,0:06:46.72,0:06:49.47,Default,,0,0,0,,Aley, everything that runs on spirits stays!
 Dialogue: 5,0:06:49.47,0:06:50.30,Default,,0,0,0,,But—!
@@ -127,49 +127,50 @@ Dialogue: 5,0:09:12.28,0:09:13.32,Default,,0,0,0,,Riku!
 Dialogue: 5,0:09:16.73,0:09:18.25,Default,,0,0,0,,These ashes…
 Dialogue: 5,0:09:19.17,0:09:21.35,Default,,0,0,0,,offer the only mercy,
 Dialogue: 5,0:09:21.90,0:09:23.17,Default,,0,0,0,,I guess.
-Comment: 0,0:09:44.19,0:09:44.29,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:09:45.10,0:09:47.44,Default,,0,0,0,,No-n-na!
-Dialogue: 5,0:09:48.48,0:09:48.98,Default,,0,0,0,,Here.
-Dialogue: 5,0:09:49.02,0:09:52.40,Default,,0,0,0,,Whoa! That's my name? It says Nonna?
-Dialogue: 5,0:09:51.82,0:09:54.49,Alt,,0,0,0,,I want one too, Couronne!
-Dialogue: 5,0:09:54.49,0:09:56.20,Default,,0,0,0,,I was first!
-Dialogue: 5,0:09:55.40,0:09:56.20,Alt,,0,0,0,,Sure,
-Dialogue: 5,0:09:56.20,0:09:57.49,Default,,0,0,0,,one at a time.
-Dialogue: 5,0:09:57.49,0:09:59.91,Default,,0,0,0,,Couronne! They're back.
+Dialogue: 5,0:09:45.25,0:09:47.44,Default,,0,0,0,,No-n-na.
+Dialogue: 5,0:09:48.62,0:09:49.69,Default,,0,0,0,,Here.
+Dialogue: 5,0:09:49.99,0:09:53.01,Default,,0,0,0,,That's my name? It says Nonna?
+Dialogue: 5,0:09:52.05,0:09:54.75,Alt,,0,0,0,,Unfair! Teach me that too, Couron!
+Dialogue: 5,0:09:54.40,0:09:55.91,Default,,0,0,0,,Me first!
+Dialogue: 5,0:09:55.53,0:09:57.59,Alt,,0,0,0,,Sure, one at a time.
+Dialogue: 5,0:09:57.59,0:09:59.91,Default,,0,0,0,,Couron! They're back.
 Dialogue: 5,0:10:02.70,0:10:03.95,Default,,0,0,0,,Riku!
 Dialogue: 5,0:10:08.63,0:10:11.30,Default,,0,0,0,,Riku, thank goodness.
-Dialogue: 5,0:10:11.30,0:10:12.38,Default,,0,0,0,,Couronne...
-Dialogue: 5,0:10:14.09,0:10:18.43,Default,,0,0,0,,Hey, you're late! You want to give me a heart attack?
-Dialogue: 5,0:10:18.43,0:10:21.81,Default,,0,0,0,,Moreover, how many times have I told you to call me sis?
+Dialogue: 5,0:10:11.30,0:10:12.38,Default,,0,0,0,,Couron…
+Dialogue: 5,0:10:14.43,0:10:16.22,Default,,0,0,0,,You're damn late!
+Dialogue: 5,0:10:16.22,0:10:18.43,Default,,0,0,0,,How long did you want me to worry?!
+Dialogue: 5,0:10:18.43,0:10:21.81,Default,,0,0,0,,Besides, I keep telling you to call me sis, got it?!
 Dialogue: 5,0:10:21.81,0:10:23.60,Default,,0,0,0,,We tried to hurry.
 Dialogue: 5,0:10:29.15,0:10:29.90,Default,,0,0,0,,About Ivan—
 Dialogue: 5,0:10:29.90,0:10:30.31,Default,,0,0,0,,Riku!
 Dialogue: 5,0:10:30.31,0:10:31.77,Default,,0,0,0,,Daddy!
 Dialogue: 5,0:10:32.11,0:10:33.19,Alt,,0,0,0,,Nonna!
 Dialogue: 5,0:10:32.44,0:10:36.36,Default,,0,0,0,,Riku, Aley, welcome back! Where's daddy?
-Dialogue: 5,0:10:36.36,0:10:40.62,Default,,0,0,0,,I want to show him the letter I wrote. Where's Daddy?
-Dialogue: 5,0:10:39.28,0:10:41.49,Default,,0,0,0,,Listen to me, Nonna.
-Dialogue: 5,0:10:44.91,0:10:46.08,Default,,0,0,0,,Riku...
+Dialogue: 5,0:10:36.36,0:10:39.37,Default,,0,0,0,,Hey, look! I drew this by myself!
+Dialogue: 5,0:10:39.37,0:10:40.55,Default,,0,0,0,,Where's daddy?
+Dialogue: 5,0:10:39.98,0:10:41.49,Default,,0,0,0,,Nonna, listen—
+Dialogue: 5,0:10:44.91,0:10:46.08,Default,,0,0,0,,Riku…
 Dialogue: 5,0:10:52.59,0:10:53.34,Default,,0,0,0,,Nonna,
 Dialogue: 5,0:10:59.68,0:11:01.01,Default,,0,0,0,,your dad
 Dialogue: 5,0:11:01.51,0:11:03.15,Default,,0,0,0,,won't be coming home.
-Dialogue: 5,0:11:07.39,0:11:09.19,Default,,0,0,0,,W-why?
-Dialogue: 5,0:11:11.40,0:11:12.23,Default,,0,0,0,,Because he died.
+Dialogue: 5,0:11:07.39,0:11:09.19,Default,,0,0,0,,W–hy?
+Dialogue: 5,0:11:11.40,0:11:12.23,Default,,1000,0,0,,He died.
 Dialogue: 5,0:11:13.73,0:11:14.48,Default,,0,0,0,,You're lying!
-Dialogue: 5,0:11:15.65,0:11:16.69,Default,,0,0,0,,It's not a lie.
-Dialogue: 5,0:11:16.69,0:11:21.24,Default,,0,0,0,,You're lying! Daddy promised me he'd come back!
-Dialogue: 5,0:11:21.24,0:11:24.83,Default,,0,0,0,,Humans were supposed to win in the end!
+Dialogue: 5,0:11:15.83,0:11:16.69,Default,,0,0,0,,It's not a lie.
+Dialogue: 5,0:11:16.69,0:11:21.24,Default,,0,0,0,,You're lying! Daddy promised he'd come back!
+Dialogue: 5,0:11:21.24,0:11:24.83,Default,,0,0,0,,He said humans would win in the end!
 Dialogue: 5,0:11:24.83,0:11:25.89,Default,,0,0,0,,We will win.
-Dialogue: 5,0:11:27.50,0:11:30.00,Default,,0,0,0,,He sacrificed everything he could
-Dialogue: 5,0:11:30.75,0:11:32.00,Default,,0,0,0,,so we could win.
+Dialogue: 5,0:11:27.50,0:11:30.00,Default,,0,0,0,,He sacrificed everything he could,
+Dialogue: 5,0:11:30.75,0:11:32.00,Default,,0,0,0,,so we all could win.
 Dialogue: 5,0:11:32.00,0:11:33.84,Default,,0,0,0,,That's not winning!
 Dialogue: 5,0:11:33.84,0:11:34.83,Default,,0,0,0,,It should be you!
 Dialogue: 5,0:11:35.30,0:11:37.30,Default,,0,0,0,,You're the one who should have died!
 Dialogue: 5,0:11:37.30,0:11:38.42,Default,,0,0,0,,Nonna!
 Dialogue: 5,0:11:53.61,0:11:56.89,Default,,0,0,0,,You two, go take a bath.
-Dialogue: 5,0:11:57.19,0:11:58.61,Default,,0,0,0,,I'll clean myself up.
+Dialogue: 5,0:11:57.19,0:11:58.61,Default,,0,0,0,,I’ll wipe myself.
 Dialogue: 5,0:11:58.61,0:12:00.74,Default,,0,0,0,,I said take a bath.
-Dialogue: 5,0:12:00.74,0:12:02.95,Default,,0,0,0,,You guys stink!
+Dialogue: 5,0:12:00.74,0:12:02.95,Default,,0,0,0,,You guys stink as hell!
+Comment: 0,0:12:11.89,0:12:11.93,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:12:12.88,0:12:14.13,Default,,0,0,0,,So we could—
 Dialogue: 5,0:12:15.25,0:12:17.30,Default,,0,0,0,,So we could win?!
 Dialogue: 5,0:12:18.13,0:12:19.92,Default,,0,0,0,,Fucking hypocrite!
