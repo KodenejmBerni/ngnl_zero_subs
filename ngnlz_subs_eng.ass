@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 123
-Active Line: 141
-Video Position: 17548
+Scroll Position: 149
+Active Line: 168
+Video Position: 20384
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,32 +170,33 @@ Dialogue: 5,0:11:53.61,0:11:56.89,Default,,0,0,0,,You two, go take a bath.
 Dialogue: 5,0:11:57.19,0:11:58.61,Default,,0,0,0,,I’ll wipe myself.
 Dialogue: 5,0:11:58.61,0:12:00.74,Default,,0,0,0,,I said take a bath.
 Dialogue: 5,0:12:00.74,0:12:02.95,Default,,0,0,0,,You guys stink as hell!
-Comment: 0,0:12:11.89,0:12:11.93,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:12:12.88,0:12:14.13,Default,,0,0,0,,So we could—
 Dialogue: 5,0:12:15.25,0:12:17.30,Default,,0,0,0,,So we could win?!
 Dialogue: 5,0:12:18.13,0:12:19.92,Default,,0,0,0,,Fucking hypocrite!
-Dialogue: 5,0:12:21.59,0:12:23.80,Default,,0,0,0,,Ivan threw his life away!
+Dialogue: 5,0:12:21.59,0:12:23.80,Default,,0,0,0,,I made him threw his life away!
 Dialogue: 5,0:12:24.51,0:12:26.51,Default,,0,0,0,,I told him to die!
 Dialogue: 5,0:12:28.97,0:12:30.35,Default,,0,0,0,,Say it loud!
-Dialogue: 5,0:12:30.35,0:12:35.48,Default,,0,0,0,,I killed him, because that's the only way for us to live!
-Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If that's how you stay alive,
-Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what comes next?
-Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far I need to go?
-Dialogue: 5,0:12:45.78,0:12:50.25,Default,,0,0,0,,Until I order half the village to bite the dust for the other half?
-Dialogue: 5,0:12:50.25,0:12:52.50,Default,,0,0,0,,Or until I lose the fucking count?!
+Dialogue: 5,0:12:30.35,0:12:31.94,Default,,0,0,0,,You killed him!
+Dialogue: 5,0:12:32.03,0:12:35.48,Default,,0,0,0,,Sacrificed him\N“so others could live a little longer”!
+Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If this continues…
+Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what's next?
+Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far will this go?
+Dialogue: 5,0:12:45.78,0:12:50.25,Default,,0,0,0,,Until I throw away 999 lives for the sake of 1001?
+Dialogue: 5,0:12:50.25,0:12:52.50,Default,,0,0,0,,Or until I'm the only one left?!
 Dialogue: 5,0:12:55.00,0:12:57.00,Default,,0,0,0,,When will this end?
-Dialogue: 5,0:12:57.75,0:12:59.63,Default,,0,0,0,,How long will I have to
-Dialogue: 5,0:13:00.26,0:13:03.13,Default,,0,0,0,,keep lying myself like this?!
-Dialogue: 5,0:13:09.52,0:13:12.02,Default,,0,0,0,,{\i1}Everyone born into this world
-Dialogue: 5,0:13:12.89,0:13:16.94,Default,,0,0,0,,{\i1}wants their life to mean anything.
+Dialogue: 5,0:12:57.75,0:12:59.63,Default,,0,0,0,,How much longer
+Dialogue: 5,0:13:00.26,0:13:03.13,Default,,0,0,0,,do we have to live like trash?!
+Dialogue: 5,0:13:09.52,0:13:12.02,Default,,0,0,0,,{\i1}No one born into this world
+Dialogue: 5,0:13:12.89,0:13:16.94,Default,,0,0,0,,{\i1}could accept a death that bears no meaning.
 Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just like a reason to live,
-Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart requires a meaning in death
-Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to accept this reality.
+Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart needs a meaning in death
+Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to deal with reality.
 Dialogue: 5,0:13:32.79,0:13:35.25,Default,,0,0,0,,{\i1}Ivan's death won't be in vain.
-Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Ruins of an elvish city,
+Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Intelligence from the ruins of an elvish city…
 Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}things you almost never come across.
-Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Staying sane in such a world...
-Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}could that really be called sanity?
+Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Being able to stay sane in a world like this…
+Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}can that… really be called sanity?
+Comment: 0,0:14:07.35,0:14:07.41,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}The Dwarves?
 Dialogue: 5,0:14:11.62,0:14:12.77,Default,,0,0,0,,{\i1}No.
 Dialogue: 5,0:14:13.20,0:14:15.10,Default,,0,0,0,,{\i1}The scale of this destruction...
