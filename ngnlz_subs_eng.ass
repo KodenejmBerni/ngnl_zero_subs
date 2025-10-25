@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 149
-Active Line: 168
-Video Position: 20384
+Scroll Position: 170
+Active Line: 192
+Video Position: 23594
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -177,7 +177,7 @@ Dialogue: 5,0:12:21.59,0:12:23.80,Default,,0,0,0,,I made him threw his life away
 Dialogue: 5,0:12:24.51,0:12:26.51,Default,,0,0,0,,I told him to die!
 Dialogue: 5,0:12:28.97,0:12:30.35,Default,,0,0,0,,Say it loud!
 Dialogue: 5,0:12:30.35,0:12:31.94,Default,,0,0,0,,You killed him!
-Dialogue: 5,0:12:32.03,0:12:35.48,Default,,0,0,0,,Sacrificed him\N“so others could live a little longer”!
+Dialogue: 5,0:12:32.03,0:12:35.48,Default,,0,0,0,,Sacrificed him so others could live a little longer!
 Dialogue: 5,0:12:38.68,0:12:40.86,Default,,0,0,0,,If this continues…
 Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what's next?
 Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far will this go?
@@ -192,39 +192,41 @@ Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just like a reason to liv
 Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart needs a meaning in death
 Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to deal with reality.
 Dialogue: 5,0:13:32.79,0:13:35.25,Default,,0,0,0,,{\i1}Ivan's death won't be in vain.
-Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Intelligence from the ruins of an elvish city…
+Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Knowledge from the ruins of an elvish city…
 Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}things you almost never come across.
 Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Being able to stay sane in a world like this…
 Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}can that… really be called sanity?
-Comment: 0,0:14:07.35,0:14:07.41,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:14:08.91,0:14:10.53,Default,,0,0,0,,{\i1}The Dwarves?
-Dialogue: 5,0:14:11.62,0:14:12.77,Default,,0,0,0,,{\i1}No.
-Dialogue: 5,0:14:13.20,0:14:15.10,Default,,0,0,0,,{\i1}The scale of this destruction...
-Dialogue: 5,0:14:15.58,0:14:17.31,Default,,0,0,0,,{\i1}definitely the Flügels.
-Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}What a huge one...
-Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}My imagination?
+Dialogue: 5,0:14:09.07,0:14:10.51,Default,,0,0,0,,{\i1}The Dwarves?
+Dialogue: 5,0:14:11.52,0:14:12.77,Default,,0,0,0,,{\i1}No.
+Dialogue: 5,0:14:13.23,0:14:15.64,Default,,0,0,0,,{\i1}This kind of destruction…
+Dialogue: 5,0:14:15.64,0:14:17.31,Default,,0,0,0,,{\i1}the Flügels.
+Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}What a massive structure…
+Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}My imagination…?
+Dialogue: 0,0:15:13.84,0:15:14.97,Default,,0,0,0,,No!
 Dialogue: 5,0:15:35.24,0:15:36.79,Default,,0,0,0,,{\i1}Ex-machina?!
-Dialogue: 5,0:15:36.79,0:15:37.62,Default,,0,0,0,,Examination.
-Dialogue: 5,0:15:37.62,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
-Dialogue: 5,0:15:41.92,0:15:42.95,Default,,0,0,0,,{\i1}Stay calm.
-Dialogue: 5,0:15:43.38,0:15:46.25,Default,,0,0,0,,{\i1}This thing always operates as part of a collective.
-Dialogue: 5,0:15:46.25,0:15:48.63,Default,,0,0,0,,{\i1}It shares consciousness with a cluster,
-Dialogue: 5,0:15:48.63,0:15:51.22,Default,,0,0,0,,{\i1}so others must be nearby.
-Dialogue: 5,0:15:51.22,0:15:52.30,Default,,0,0,0,,{\i1}That means—
-Dialogue: 5,0:15:52.30,0:15:53.07,Default,,0,0,0,,Conclusion.
-Dialogue: 5,0:15:53.85,0:15:59.14,Default,,0,0,0,,{\i1}If I make any hostile moves,\Nall the Ex-machinas will see me as a threat.
-Dialogue: 5,0:15:59.81,0:16:01.44,Default,,0,0,0,,{\i1}I must not resist.
-Dialogue: 5,0:16:05.19,0:16:08.69,Default,,0,0,0,,Onii-chan I cannot resist you.\NMake a woman out of me.
+Dialogue: 5,0:15:36.79,0:15:37.61,Default,,0,0,0,,Examination.
+Dialogue: 5,0:15:37.61,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
+Dialogue: 5,0:15:41.95,0:15:43.10,Default,,0,0,0,,{\i1}Calm down.
+Dialogue: 5,0:15:43.57,0:15:46.39,Default,,0,0,0,,{\i1}These things always act in groups.
+Dialogue: 5,0:15:46.39,0:15:48.63,Default,,0,0,0,,{\i1}They share a common consciousness.
+Dialogue: 5,0:15:48.63,0:15:51.01,Default,,0,0,0,,{\i1}The cluster must be nerby.
+Dialogue: 5,0:15:51.37,0:15:52.48,Default,,0,0,0,,{\i1}Which means—
+Dialogue: 5,0:15:52.48,0:15:53.51,Default,,0,0,0,,Conclusion.
+Dialogue: 5,0:15:54.05,0:15:59.14,Default,,0,0,0,,{\i1}If I make any hostile moves,\Nall Ex-machinas will se me as a threat.
+Dialogue: 5,0:16:00.19,0:16:01.37,Default,,0,0,0,,{\i1}I must not resist.
+Dialogue: 5,0:16:05.39,0:16:07.31,Default,,0,0,0,,Onii-chan, I can't hold it.
+Dialogue: 5,0:16:07.31,0:16:08.69,Default,,0,0,0,,Make a woman out of me.
 Dialogue: 5,0:16:09.11,0:16:09.70,Default,,0,0,0,,Huh?
-Dialogue: 5,0:16:16.95,0:16:18.04,Default,,0,0,0,,Error:
-Dialogue: 5,0:16:19.29,0:16:20.54,Default,,0,0,0,,Cannot
-Dialogue: 5,0:16:20.54,0:16:21.12,Default,,0,0,0,,comprehend.
-Dialogue: 5,0:16:21.42,0:16:23.88,Default,,0,0,0,,{\i1}I am the one who cannot comprehend!
-Dialogue: 5,0:16:23.88,0:16:25.38,Default,,0,0,0,,Conjecture:
-Dialogue: 5,0:16:25.38,0:16:28.21,Default,,0,0,0,,This scenario doesn't bring you satisfaction?
-Dialogue: 5,0:16:28.84,0:16:30.67,Default,,0,0,0,,Something like this?
+Dialogue: 5,0:16:17.11,0:16:18.19,Default,,0,0,0,,Error:
+Dialogue: 5,0:16:19.46,0:16:20.59,Default,,0,0,0,,Cannot
+Dialogue: 5,0:16:20.59,0:16:21.49,Default,,0,0,0,,comprehend.
+Dialogue: 5,0:16:21.49,0:16:24.05,Default,,0,0,0,,{\i1}I cannot fucking comprehend!
+Comment: 0,0:16:24.05,0:16:24.05,Default,,0,0,0,,TRANSCRIPT END
+Dialogue: 5,0:16:24.05,0:16:25.52,Default,,0,0,0,,Conjecture:
+Dialogue: 5,0:16:25.52,0:16:28.21,Default,,0,0,0,,That scenario doesn't satisfy you?
+Dialogue: 5,0:16:29.04,0:16:30.67,Default,,0,0,0,,Something like this?
 Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo who gets excited by you guys.
-Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Query: Who are "you guys"?
+Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Doubt: Who are “you guys”?
 Dialogue: 5,0:16:37.51,0:16:38.97,Default,,0,0,0,,Don't play dumb.
 Dialogue: 5,0:16:38.97,0:16:41.48,Default,,0,0,0,,All of this gets sent to that cluster.
 Dialogue: 5,0:16:41.86,0:16:42.77,Default,,0,0,0,,Negative.
