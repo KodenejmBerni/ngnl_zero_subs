@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 170
-Active Line: 192
-Video Position: 23594
+Video Zoom Percent: 0.750000
+Scroll Position: 189
+Active Line: 205
+Video Position: 24277
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -224,17 +224,17 @@ Dialogue: 5,0:16:21.49,0:16:24.05,Default,,0,0,0,,{\i1}I cannot fucking comprehe
 Comment: 0,0:16:24.05,0:16:24.05,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:16:24.05,0:16:25.52,Default,,0,0,0,,Conjecture:
 Dialogue: 5,0:16:25.52,0:16:28.21,Default,,0,0,0,,That scenario doesn't satisfy you?
-Dialogue: 5,0:16:29.04,0:16:30.67,Default,,0,0,0,,Something like this?
-Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,I'm not a weirdo who gets excited by you guys.
-Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Doubt: Who are “you guys”?
+Dialogue: 5,0:16:29.10,0:16:30.67,Default,,0,0,0,,Forgive me,
+Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,but I'm not a weirdo who gets excited when you lot are watching.
+Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Doubt: Who are “you lot”?
 Dialogue: 5,0:16:37.51,0:16:38.97,Default,,0,0,0,,Don't play dumb.
-Dialogue: 5,0:16:38.97,0:16:41.48,Default,,0,0,0,,All of this gets sent to that cluster.
+Dialogue: 5,0:16:38.97,0:16:41.48,Default,,0,0,0,,All of this is being sent to that cluster.
 Dialogue: 5,0:16:41.86,0:16:42.77,Default,,0,0,0,,Negative.
 Dialogue: 5,0:16:42.77,0:16:45.76,Default,,0,0,0,,This unit has been disengaged from the cluster.
 Dialogue: 5,0:16:46.11,0:16:47.61,Default,,0,0,0,,Disengaged?
-Dialogue: 5,0:16:48.44,0:16:49.94,Default,,0,0,0,,Are you alone?
-Dialogue: 5,0:16:49.94,0:16:51.23,Default,,0,0,0,,Correct.
-Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then...
+Dialogue: 5,0:16:48.44,0:16:49.94,Default,,0,0,0,,You're alone?
+Dialogue: 5,0:16:49.94,0:16:51.23,Default,,0,0,0,,Affirmative.
+Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then…
 Dialogue: 5,0:16:54.07,0:16:59.32,Default,,0,0,0,,what does some stray Ex-machina want from someone like me?
 Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,May I even ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
@@ -278,7 +278,7 @@ Dialogue: 5,0:18:58.15,0:18:59.03,Default,,0,0,0,,Clarification:
 Dialogue: 5,0:18:59.03,0:19:01.24,Default,,0,0,0,,You accept the game request?
 Dialogue: 5,0:19:01.24,0:19:03.74,Default,,0,0,0,,Yeah, indeed.
 Dialogue: 5,0:19:03.99,0:19:05.50,Default,,0,0,0,,Except I propose
-Dialogue: 5,0:19:06.45,0:19:09.50,Default,,0,0,0,,much better win conditions for you.
+Dialogue: 5,0:19:06.45,0:19:09.50,Default,,0,0,0,,even better win conditions for you.
 Dialogue: 5,0:19:29.98,0:19:31.44,Default,,0,0,0,,We have arrived.
 Dialogue: 5,0:19:32.56,0:19:38.03,Default,,0,0,0,,Hey, you seriously didn't use any spiritual energy for that?
 Dialogue: 5,0:19:38.03,0:19:39.20,Default,,0,0,0,,Correct.
