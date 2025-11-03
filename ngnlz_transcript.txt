@@ -825,13 +825,13 @@ All of this is being sent to that cluster.
 Hitei.
 Negative.
 
-当機はクラスタから連結解除されている
-_
-_
+当機はクラスタから連結解除されている。
+Touki wa cluster kara renketsu kaijo sarete iru.
+This unit has been disconnected from the cluster.
 
 連結解除？
-_
-_
+Renketsu kaijo?
+Disconnected?
 
 単独ってことか？
 Tandoku tte koto ka?
@@ -846,8 +846,60 @@ Affirmative.
 
 
 それで…
+Sorede…
+Then…
+
+そのさまよえるエクスマキナが人間の俺になんの用ですかって？
+sono samayoeru Ex-machina ga ningen no ore ni nan no you desu ka tte?
+what does some stray Ex-machina want from a human like me?
+
+聞いてもいいのかな？
+Kiite mo ii no kana?
+May I even ask?
+
+回答:
+Kaitou:
+Response:
+
+人間が交わす独自言語を解析する。
+ningen ga kawasu dokujigengo o kaiseki suru.
+To analyze the 
+
+心という独自言語。
+Kokoro to iu dokujigengo.
 _
+
+心？
+Kokoro?
+The heart?
+
+理由:
+Riyuu:
+Reasoning:
+
+当機は心の存在に関して調査。
+Touki wa kokoro no sonzai ni kanshite chousa.
+The unit investigated the nature of the heart.
+
+解析の実行過程において
+Kaiseki no jikkou katei ni oite
+During the course of the analysis
+
+論理破綻を多発し 破棄された
+ronri hatan o tahatsu shi, haki sareta.
+numerous logical errors occured, causing a disconection.
 _
+
+以後単独で観察を続けている。
+Igo tandoku de kansatsu o tsudzukete iru.
+Further observation proceeded independently.
+
+観察ね？
+Kansatsu, ne?
+Observation, huh?
+
+
+
 
 
 ...
