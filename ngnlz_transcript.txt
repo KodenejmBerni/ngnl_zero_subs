@@ -901,18 +901,19 @@ Are you planning to analyze the heart and then return with everything to that cl
 Youkyuu:
 Demand:
 
-肌を重ねる、皮膚組織接触を用いた 独自言語は―
+肌を重ねる、皮膚組織接触を用いた独自言語は
 Hada o kasaneru, hifu soshiki sesshoku o mochii ta dokuji gengo wa
 Body adhesion, utilizing the inner language via surface contact
 _
 
-心を交わす行為と推定
+心を交わす行為と推定。
 kokoro o kawasu koui to suitei.
 is presumed to exchange the heart.
 
-当機と生殖行為を.
+当機と生殖行為を。
 Touki to seishoku koui o.
 Procreate with this unit.
+_
 
 断る。
 Kotowaru.
@@ -924,16 +925,15 @@ Alternative:
 
 当機を欲望のまま蹂躙して問題ない。
 Touki o yokubou no mama juurin shite mondai nai.
-You may take advantage of this unit.
+It’s fine to violate this unit as you please.
 
 穴、ない けど。
 Ana, nai kedo.
-However, there’s no orifice.
+However, there's no orifice.
 
-しねえよ ってか ねえのか！
+しねえよ！ってか、ねえのかよ！
 Shinee yo! Tte ka… nee no ka yo?!
-I said! Wait… there's no what?!
-_
+I won't! Don’t you get it?!
 
 レーゼン:
 Lösen:
@@ -943,21 +943,17 @@ Lösen:
 Yuugi
 Primary
 
-エアスト
+エアスト:
 easuto:
 game:
 
-チェス
+チェス。
 Chess.
 *
 
-勝負:
-Shoubu:
-Contest:
-
-ゲームを申し込む
-geimu o moushikomu
-Participation in a game.
+勝負: ゲームを申し込む。
+Shoubu: geimu o moushikomu.
+Dare: Participation in a game.
 
 条件:
 Jouken:

@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 204
-Active Line: 224
-Video Position: 25521
+Scroll Position: 210
+Active Line: 227
+Video Position: 25949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -235,7 +235,7 @@ Dialogue: 5,0:16:46.11,0:16:47.61,Default,,0,0,0,,Disengaged?
 Dialogue: 5,0:16:48.44,0:16:49.94,Default,,0,0,0,,You're alone?
 Dialogue: 5,0:16:49.94,0:16:51.23,Default,,0,0,0,,Affirmative.
 Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then…
-Dialogue: 5,0:16:54.07,0:16:59.32,Default,,0,0,0,,what does some stray Ex-machina want from someone like me?
+Dialogue: 5,0:16:54.07,0:16:59.32,Default,,0,0,0,,what does some stray Ex-machina want from a human like me?
 Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,May I even ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
 Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the inner language of humans.
@@ -253,15 +253,14 @@ Dialogue: 5,0:17:35.45,0:17:37.74,Default,,0,0,0,,is presumed to exchange the he
 Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,Procreate with this unit.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
 Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Alternative:
-Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit.
-Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, no orifice present.
-Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,Rather die! Wait, there's no what?!
+Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,It’s fine to violate this unit as you please.
+Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, there's no orifice.
+Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,I won't! Don’t you get it?!
 Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen:
 Dialogue: 5,0:18:06.52,0:18:07.94,Default,,0,0,0,,Primary
 Dialogue: 5,0:18:07.94,0:18:09.69,Default,,0,0,0,,game:
 Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,Chess.
-Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
-Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
+Dialogue: 5,0:18:13.28,0:18:16.28,Default,,0,0,0,,Dare: Participation in a game.
 Dialogue: 5,0:18:16.28,0:18:17.24,Default,,0,0,0,,Conditions:
 Dialogue: 5,0:18:17.24,0:18:22.37,Default,,0,0,0,,If this unit wins, it shall be taken to the colony and procreation shall occur.
 Dialogue: 5,0:18:28.50,0:18:30.94,Default,,0,0,0,,Of all things, chess?
