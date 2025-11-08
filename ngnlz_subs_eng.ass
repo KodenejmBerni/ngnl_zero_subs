@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 189
-Active Line: 205
-Video Position: 24277
+Video Zoom Percent: 0.625000
+Scroll Position: 204
+Active Line: 224
+Video Position: 25521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -212,7 +212,7 @@ Dialogue: 5,0:15:46.39,0:15:48.63,Default,,0,0,0,,{\i1}They share a common consc
 Dialogue: 5,0:15:48.63,0:15:51.01,Default,,0,0,0,,{\i1}The cluster must be nerby.
 Dialogue: 5,0:15:51.37,0:15:52.48,Default,,0,0,0,,{\i1}Which means—
 Dialogue: 5,0:15:52.48,0:15:53.51,Default,,0,0,0,,Conclusion.
-Dialogue: 5,0:15:54.05,0:15:59.14,Default,,0,0,0,,{\i1}If I make any hostile moves,\Nall Ex-machinas will se me as a threat.
+Dialogue: 5,0:15:54.05,0:15:59.14,Default,,0,0,0,,{\i1}If I make any hostile moves,\Nall Ex-machinas will see me as a threat.
 Dialogue: 5,0:16:00.19,0:16:01.37,Default,,0,0,0,,{\i1}I must not resist.
 Dialogue: 5,0:16:05.39,0:16:07.31,Default,,0,0,0,,Onii-chan, I can't hold it.
 Dialogue: 5,0:16:07.31,0:16:08.69,Default,,0,0,0,,Make a woman out of me.
@@ -238,27 +238,28 @@ Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then…
 Dialogue: 5,0:16:54.07,0:16:59.32,Default,,0,0,0,,what does some stray Ex-machina want from someone like me?
 Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,May I even ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
-Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the unique fervor of humans.
-Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The fervor of the heart.
+Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the inner language of humans.
+Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The inner language called the heart.
 Dialogue: 5,0:17:08.96,0:17:10.26,Default,,0,0,0,,The heart?
 Dialogue: 5,0:17:10.26,0:17:11.47,Default,,0,0,0,,Reasoning:
-Dialogue: 5,0:17:11.47,0:17:19.77,Default,,0,0,0,,Deeper investigation generated many logical errors, causing this unit to be disassociated.
-Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation has been conducted independently.
+Dialogue: 5,0:17:11.47,0:17:14.60,Default,,0,0,0,,The unit investigated the nature of the heart.
+Dialogue: 5,0:17:14.60,0:17:19.77,Default,,0,0,0,,During the analysis, it repeatedly encountered logical collapses and was disconnected.
+Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation proceeded independently.
 Dialogue: 5,0:17:22.48,0:17:23.94,Default,,0,0,0,,Observation, huh?
-Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,Are you planning to analyze the heart and then return with everything to that cluster?
-Dialogue: 5,0:17:29.82,0:17:31.28,Default,,0,0,0,,Demand:
-Dialogue: 5,0:17:31.28,0:17:35.41,Default,,0,0,0,,It is postulated that direct dermo-contact
-Dialogue: 5,0:17:35.41,0:17:37.74,Default,,0,0,0,,leads to heart stimulation.
-Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,I request a procreation.
+Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,Are you planning to analyze the heart and return with everything to that cluster?
+Dialogue: 5,0:17:29.82,0:17:31.41,Default,,0,0,0,,Demand:
+Dialogue: 5,0:17:31.41,0:17:35.45,Default,,0,0,0,,Body adhesion, utilizing the inner language via surface contact,
+Dialogue: 5,0:17:35.45,0:17:37.74,Default,,0,0,0,,is presumed to exchange the heart.
+Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,Procreate with this unit.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
-Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Adjustment:
-Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit in the village.
-Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, there's no orifice.
-Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,That's not the point!
+Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Alternative:
+Dialogue: 5,0:17:44.41,0:17:47.50,Default,,0,0,0,,You may take advantage of this unit.
+Dialogue: 5,0:17:49.00,0:17:50.46,Default,,0,0,0,,However, no orifice present.
+Dialogue: 5,0:17:50.46,0:17:53.01,Default,,0,0,0,,Rather die! Wait, there's no what?!
 Dialogue: 5,0:18:02.27,0:18:03.00,Default,,0,0,0,,Lösen:
-Dialogue: 5,0:18:06.52,0:18:07.62,Default,,0,0,0,,Primary
-Dialogue: 5,0:18:07.94,0:18:09.37,Default,,0,0,0,,game:
-Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,chess.
+Dialogue: 5,0:18:06.52,0:18:07.94,Default,,0,0,0,,Primary
+Dialogue: 5,0:18:07.94,0:18:09.69,Default,,0,0,0,,game:
+Dialogue: 5,0:18:09.69,0:18:10.80,Default,,0,0,0,,Chess.
 Dialogue: 5,0:18:13.28,0:18:14.49,Default,,0,0,0,,Request:
 Dialogue: 5,0:18:14.49,0:18:16.28,Default,,0,0,0,,Participation in the game.
 Dialogue: 5,0:18:16.28,0:18:17.24,Default,,0,0,0,,Conditions:

@@ -863,11 +863,11 @@ Response:
 
 人間が交わす独自言語を解析する。
 ningen ga kawasu dokujigengo o kaiseki suru.
-To analyze the 
+To analyze the inner language of humans.
 
 心という独自言語。
 Kokoro to iu dokujigengo.
-_
+The inner language called the heart.
 
 心？
 Kokoro?
@@ -881,14 +881,9 @@ Reasoning:
 Touki wa kokoro no sonzai ni kanshite chousa.
 The unit investigated the nature of the heart.
 
-解析の実行過程において
-Kaiseki no jikkou katei ni oite
-During the course of the analysis
-
-論理破綻を多発し 破棄された
-ronri hatan o tahatsu shi, haki sareta.
-numerous logical errors occured, causing a disconection.
-_
+解析の実行過程において論理破綻を多発し、破棄された。
+Kaiseki no jikkou katei ni oite ronri hatan o tahatsu shi, haki sareta.
+During the analysis, it repeatedly encountered logical collapses and was disconnected.
 
 以後単独で観察を続けている。
 Igo tandoku de kansatsu o tsudzukete iru.
@@ -897,6 +892,84 @@ Further observation proceeded independently.
 観察ね？
 Kansatsu, ne?
 Observation, huh?
+
+自力で心の解析をして― クラスタに 戻してもらおうって魂胆か？
+Jiriki de kokoro no kaiseki o shite　kurasuta ni modashite moraou tte kontan ka?
+Are you planning to analyze the heart and then return with everything to that cluster?
+
+要求:
+Youkyuu:
+Demand:
+
+肌を重ねる、皮膚組織接触を用いた 独自言語は―
+Hada o kasaneru, hifu soshiki sesshoku o mochii ta dokuji gengo wa
+Body adhesion, utilizing the inner language via surface contact
+_
+
+心を交わす行為と推定
+kokoro o kawasu koui to suitei.
+is presumed to exchange the heart.
+
+当機と生殖行為を.
+Touki to seishoku koui o.
+Procreate with this unit.
+
+断る。
+Kotowaru.
+I refuse.
+
+代案:
+Daian:
+Alternative:
+
+当機を欲望のまま蹂躙して問題ない。
+Touki o yokubou no mama juurin shite mondai nai.
+You may take advantage of this unit.
+
+穴、ない けど。
+Ana, nai kedo.
+However, there’s no orifice.
+
+しねえよ ってか ねえのか！
+Shinee yo! Tte ka… nee no ka yo?!
+I said! Wait… there's no what?!
+_
+
+レーゼン:
+Lösen:
+*
+
+遊戯
+Yuugi
+Primary
+
+エアスト
+easuto:
+game:
+
+チェス
+Chess.
+*
+
+勝負:
+Shoubu:
+Contest:
+
+ゲームを申し込む
+geimu o moushikomu
+Participation in a game.
+
+条件:
+Jouken:
+Conditions:
+
+当機が勝てば 当機を持ち帰り 生殖行為の実践を要求
+
+
+
+
+
+
 
 
 
