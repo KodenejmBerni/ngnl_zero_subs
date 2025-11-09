@@ -867,11 +867,11 @@ To analyze the inner language of humans.
 
 心という独自言語。
 Kokoro to iu dokujigengo.
-The inner language called the heart.
+The inner language called ‘heart’.
 
 心？
 Kokoro?
-The heart?
+Heart?
 
 理由:
 Riyuu:
@@ -879,11 +879,11 @@ Reasoning:
 
 当機は心の存在に関して調査。
 Touki wa kokoro no sonzai ni kanshite chousa.
-The unit investigated the nature of the heart.
+The unit investigated the possession of the heart.
 
 解析の実行過程において論理破綻を多発し、破棄された。
 Kaiseki no jikkou katei ni oite ronri hatan o tahatsu shi, haki sareta.
-During the analysis, it repeatedly encountered logical collapses and was disconnected.
+During the process of analysis, logical collapses recurred, and it was discarded.
 
 以後単独で観察を続けている。
 Igo tandoku de kansatsu o tsudzukete iru.
@@ -895,7 +895,7 @@ Observation, huh?
 
 自力で心の解析をして― クラスタに 戻してもらおうって魂胆か？
 Jiriki de kokoro no kaiseki o shite　kurasuta ni modashite moraou tte kontan ka?
-Are you planning to analyze the heart and then return with everything to that cluster?
+Are you planning to analyze the heart and return with everything to that cluster?
 
 要求:
 Youkyuu:
@@ -903,17 +903,16 @@ Demand:
 
 肌を重ねる、皮膚組織接触を用いた独自言語は
 Hada o kasaneru, hifu soshiki sesshoku o mochii ta dokuji gengo wa
-Body adhesion, utilizing the inner language via surface contact
-_
+‘Becoming one’, utilization of the inner language via surface contact,
+
 
 心を交わす行為と推定。
 kokoro o kawasu koui to suitei.
-is presumed to exchange the heart.
+is presumed to share the heart.
 
 当機と生殖行為を。
 Touki to seishoku koui o.
 Procreate with this unit.
-_
 
 断る。
 Kotowaru.
@@ -925,15 +924,17 @@ Alternative:
 
 当機を欲望のまま蹂躙して問題ない。
 Touki o yokubou no mama juurin shite mondai nai.
-It’s fine to violate this unit as you please.
+You can take advantage of this unit as you please.
 
 穴、ない けど。
 Ana, nai kedo.
 However, there's no orifice.
+_
 
 しねえよ！ってか、ねえのかよ！
 Shinee yo! Tte ka… nee no ka yo?!
 I won't! Don’t you get it?!
+_
 
 レーゼン:
 Lösen:
@@ -953,18 +954,87 @@ Chess.
 
 勝負: ゲームを申し込む。
 Shoubu: geimu o moushikomu.
-Dare: Participation in a game.
+Contest: Participation in a game.
 
 条件:
 Jouken:
 Conditions:
 
-当機が勝てば 当機を持ち帰り 生殖行為の実践を要求
+当機が勝てば、当機を持ち帰り、生殖行為の実践を要求。
+Touki ga kateba, touki o mochikaeri, seishoku koui no jissen o youkyuu.
+If this unit wins, you take it home, and the act of procreation is demanded.
+
+よりによってチェスだと？
+Yori ni yotte chesu da to?
+Of all things, chess?
+
+機械種族演算機を相手に勝ち目ないだろ。
+Kikai shuzoku enzanki o aite ni kachime nai daro.
+There’s no way to win against a race of walking calculators.
+
+でも
+Demo
+But
+
+もし…
+moshi…
+what if…
+
+俺が勝ったら？
+Ore ga kattara?
+I manage to win?
+
+回答:
+Kaitou:
+Answer:
+
+当機を持ち帰り、
+Touki o mochikaeri,
+You take this unit home,
+
+生殖行為の実践を許可。
+seishoku koui no jissen o kyoka.
+and the act of procreation is permitted.
+
+どっちも変わんねえよ！
+Docchi mo kawannee yo!
+There's no difference!
+
+まあいい、どのみちこのまま逃がしてはもらえねえだろうから。
+Maa ii, donomichi kono mama nigashite wa moraenee darou kara.
+Eh whatever, you won't just let me walk away anyway.
+
+言うとおりにしてやるよ。
+Iu touri ni shite yaru yo.
+Let's have it your way.
+
+結論:
+Ketsuron:
+Conclusion:
+
+条件に従いゲームを実行。
+Jouken ni shitagai geimu o jikkou.
+You accept the game request.
+
+ああ 勝負は１回。
+Aa, shoubu wa ikkai.
+Yeah, let's play once.
+
+ただし条件は
+Tadashi jouken wa
+_
+
+ちょっとばかし変更してもらうぞ
+Chotto bakashi henkou shite morau zo.
+_
 
 
+00:19:25
 
 
-
+到着。
+Touchaku.
+Arrived.
 
 
 
