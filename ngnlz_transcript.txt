@@ -1108,13 +1108,9 @@ Won’t do, we need to give you something normal.
 Shitsumon:
 Question:
 
-当機が勝利した際の条件は
-Touki ga shouri shita sai no jouken wa
-The condition for the unit’s victory
-
-心が解析できるまでリクのそばにいること。
-kokoro ga kaiseki dekiru made Riku no soba ni iru koto.
-was to stay by Riku until the heart was analyzed.
+当機が勝利した際の条件は心が解析できるまでリクのそばにいること。
+Touki ga shouri shita sai no jouken wa kokoro ga kaiseki dekiru made Riku no soba ni iru koto.
+The condition for the unit’s victory was to stay by Riku until the heart was analyzed.
 
 機械であることを隠す必要はある？
 Kikai de aru koto o kakusu hitsuyou wa aru?
@@ -1130,7 +1126,6 @@ If you're to stay by me, you need to pretend to be human.
 
 質問: 名前は自由設定か？
 Shitsumon:　Namae wa jiyuu settei ka?
-Question: Can the name be chosen freely?
 Question: Is the name set arbitrarily?
 
 好きにしろ。
@@ -1147,7 +1142,7 @@ I'm called Schwarzer.
 
 長い、難解、名前っぽくない、
 Nagai, nankai, namae-ppokunai, 
-Long, weird, not like a name. 
+Long, weird, not like a name.
 
 ３Ｎで却下。
 3N de kyakka.

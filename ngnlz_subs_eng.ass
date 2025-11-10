@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 262
-Active Line: 284
-Video Position: 30229
+Scroll Position: 255
+Active Line: 283
+Video Position: 30201
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -296,7 +296,7 @@ Dialogue: 5,0:20:05.22,0:20:06.95,Default,,0,0,0,,Identification number:
 Dialogue: 5,0:20:06.95,0:20:10.57,Default,,0,0,0,,Übercluster 207 Prüfer 4F57T9.
 Dialogue: 5,0:20:10.57,0:20:12.15,Default,,0,0,0,,That's a name?
 Dialogue: 5,0:20:12.15,0:20:14.73,Default,,0,0,0,,Won’t do, we need to give you something normal.
-Dialogue: 5,0:20:14.73,0:20:15.73,Default,,0,0,0,,Query:
+Dialogue: 5,0:20:14.73,0:20:15.73,Default,,0,0,0,,Question:
 Dialogue: 5,0:20:15.73,0:20:21.49,Default,,0,0,0,,The condition for the unit’s victory\Nwas to stay by Riku until the heart was analyzed.
 Dialogue: 5,0:20:21.49,0:20:23.91,Default,,0,0,0,,Is hiding being a machine necessary?
 Dialogue: 5,0:20:23.91,0:20:28.54,Default,,0,0,0,,I’ve told you, ‘heart’ is unspoken words that come from mutual understanding.
