@@ -1022,11 +1022,11 @@ Yeah, let's play once.
 
 ただし条件は
 Tadashi jouken wa
-_
+But we're making
 
-ちょっとばかし変更してもらうぞ
+ちょっとばかし変更してもらうぞ。
 Chotto bakashi henkou shite morau zo.
-_
+a little change to the winning conditions.
 
 
 00:19:25
@@ -1035,6 +1035,161 @@ _
 到着。
 Touchaku.
 Arrived.
+
+な-なあ その機動力ホントに精霊使ってないんだな？
+N-na, sono kidouryoku honto　ni seirei tsukattenai n da na?
+H-hey, you really didn't use any spirits for that?
+
+肯定。
+Koutei.
+Affirmative.
+
+精霊を使用すれば 55,782秒 短縮できた。
+Seirei o shiyou sureba　55,782 byou tanshuku dekita.
+Utilizing spiritual energy would have saved 55.782 seconds.
+
+補足:
+Hosaku:
+Addendum:
+
+当機は解析体、通称プリューファ。
+Touki wa kaisekitai, tsuushou Prüfer.
+This unit is an analysis model – Prüfer.
+
+エクスマキナ全機の平均以下の性能。
+Ex-machina zenki no heikin ika no seinou.
+It performs below the average of other Ex-machinas.
+
+こんなデタラメ種族どもが戦争すりゃ、
+Konna detarame shuzoku-domo ga sensou surya,
+If a bunch of such absurd races wage war,
+
+そりゃ世界も滅ぶよな。
+sorya sekai mo horobu yo na.
+no wonder the world has gone to hell.
+
+
+00:19:58
+
+
+なんて呼べばいい？
+Nante yobeba ii?
+What should I call you?
+
+理解不能。
+Rikai funou.
+Cannot comprehend.
+
+名前だよ。ないのか？
+Namae da yo. Nai no ka?
+Your name. Don’t you have one?
+
+理解。
+Rikai.
+Understood.
+
+個体識別番号:
+Kotai shikibetsu bangou:
+Identification number:
+
+ユーバクラスタ ツヴァイ ヌル ズィーベン プリューファ フィーア エフ フンフ ズィーベン テー ノイン
+Übercluster 207 Prüfer 4F57T9.
+*
+
+それが名前か？
+Sore ga namae ka?
+That's a name?
+
+ダメだ、もっと人間らしい名前にしろ。
+Dame da, motto ningen rashii namae ni shiro.
+Won’t do, we need to give you something normal.
+
+質問:
+Shitsumon:
+Question:
+
+当機が勝利した際の条件は
+Touki ga shouri shita sai no jouken wa
+The condition for the unit’s victory
+
+心が解析できるまでリクのそばにいること。
+kokoro ga kaiseki dekiru made Riku no soba ni iru koto.
+was to stay by Riku until the heart was analyzed.
+
+機械であることを隠す必要はある？
+Kikai de aru koto o kakusu hitsuyou wa aru?
+Is hiding being a machine necessary?
+
+心ってのは 相互理解から感じ取る 言外の言葉だっつったろ。
+Kokoro tte no wa, sōgo rikai kara kanjitoru gengai no kotoba da ttsuttaro.
+I’ve told you, ‘heart’ is unspoken words that come from mutual understanding.
+
+俺と一緒に生活するからには人間を装え。
+Ore to issho ni seikatsu suru kara ni wa, ningen o yoso e.
+If you're to stay by me, you need to pretend to be human.
+
+質問: 名前は自由設定か？
+Shitsumon:　Namae wa jiyuu settei ka?
+Question: Can the name be chosen freely?
+Question: Is the name set arbitrarily?
+
+好きにしろ。
+Suki ni shiro.
+Suit yourself.
+
+返答:
+Hentou:
+Answer:
+
+シュヴァルツァーと名乗る。
+Schwarzer to nanoru.
+I'm called Schwarzer.
+
+長い、難解、名前っぽくない、
+Nagai, nankai, namae-ppokunai, 
+Long, weird, not like a name. 
+
+３Ｎで却下。
+3N de kyakka.
+Three ‘no’s.
+
+“シュヴィ”だな。
+Schwi da na.
+We'll take Schwi.
+
+不可解: 自由設定を訂正された。
+Fukakai: Jiyuu settei o teisei sareta.
+Incoherence: Arbitrary parameter corrected.
+
+入る前にその口調直るか？
+Hairu mae ni sono kuchou naoru ka?
+Can you fix the way you talk?
+
+ラーデン: 模倣人格 アインス ゼクス アインス ヌル。
+Laden: Mohou jinkaku 1610.
+Laden: Adopting personality 1610.
+
+お兄ちゃんこれでいいかなー？
+Onii-chan, kore de ii ka na?
+Onii-chan, is this better?
+
+却下！
+Kyakka!
+Hell no!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
