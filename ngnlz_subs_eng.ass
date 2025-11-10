@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 255
-Active Line: 283
-Video Position: 30201
+Scroll Position: 267
+Active Line: 284
+Video Position: 30229
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -287,7 +287,6 @@ Dialogue: 5,0:19:46.20,0:19:49.04,Default,,0,0,0,,This unit is an analysis model
 Dialogue: 5,0:19:49.04,0:19:51.75,Default,,0,0,0,,It performs below the average of other Ex-machinas.
 Dialogue: 5,0:19:51.75,0:19:55.21,Default,,0,0,0,,If a bunch of such absurd races wage war,
 Dialogue: 5,0:19:55.21,0:19:57.96,Default,,0,0,0,,no wonder the world has gone to hell.
-Comment: 0,0:19:58.43,0:19:58.49,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:19:58.92,0:20:00.47,Default,,0,0,0,,What should I call you?
 Dialogue: 5,0:20:00.57,0:20:01.89,Default,,0,0,0,,Cannot comprehend.
 Dialogue: 5,0:20:01.89,0:20:03.93,Default,,0,0,0,,Your name. Don’t you have one?
@@ -313,6 +312,7 @@ Dialogue: 5,0:20:48.60,0:20:51.39,Default,,0,0,0,,Can you fix the way you talk?
 Dialogue: 5,0:20:51.39,0:20:54.98,Default,,0,0,0,,Laden: Adopting personality 1610.
 Dialogue: 5,0:20:57.20,0:20:59.61,Default,,0,0,0,,Onii-chan, is this better?
 Dialogue: 5,0:20:59.61,0:21:00.28,Default,,0,0,0,,Hell no!
+Comment: 0,0:21:00.49,0:21:00.54,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:21:00.78,0:21:03.91,Default,,0,0,0,,Retort: It was the result of high-cost computation.
 Dialogue: 5,0:21:03.91,0:21:08.74,Default,,0,0,0,,Am I supposed to walk in there and say I have a sister out of nowhere?
 Dialogue: 5,0:21:08.74,0:21:11.79,Default,,0,0,0,,Request: Provide optimal scenario.
