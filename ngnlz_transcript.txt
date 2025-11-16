@@ -1156,9 +1156,9 @@ We'll take Schwi.
 Fukakai: Jiyuu settei o teisei sareta.
 Incoherence: Arbitrary parameter corrected.
 
-入る前にその口調直るか？
-Hairu mae ni sono kuchou naoru ka?
-Can you fix the way you talk?
+入る前に… その口調直るか？
+Hairu mae ni… sono kuchou naoru ka?
+Before we go in… can you cut that talking out?
 
 ラーデン: 模倣人格 アインス ゼクス アインス ヌル。
 Laden: Mohou jinkaku 1610.
@@ -1172,42 +1172,37 @@ Onii-chan, is this better?
 Kyakka!
 Hell no!
 
-反論:
-Hanron:
-Objection:
+反論: 極めて論理的に設定した。
+Hanron: Kiwamete ronri teki ni settei shita.
+Rebuttal: Advanced logical reasoning was used.
 
-極めて論理的に設定した。
-Kiwamete ronri teki ni setteishita.
-Advanced logical reasoning was used.
-
-“実は俺に妹がいました” なんて設定
+“実は俺に妹がいました” なんて設定。
 “Jitsu wa ore ni imouto ga imashita” nante settei
-For a setup like “You know, I had a little sister"
-_
+“Actually, I had a little sister”?
 
 どんな論理で通用すると思ったんだ？
-Donna ronri de tsūyō suru to omotta nda?
-What logic even allowed it to work?
+Donna ronri de tsuuyou suru to omotta nda?
+What logic could even let it work?
 
 要求: 最適な状況設定の提供を。
 Youkyou: Saiteki na joukyou settei no teikyō o.
 Demand: Provide optimal scenario settings.
 
-そうだな… 過去を探られると面倒だから―
-_
-_
+そうだな… 過去を探られると面倒だから。
+Sou da na… kako o sagurareru to mendou da kara.
+Fine… It's painful to talk about your past.
 
-臆病で口数が少なく余計なことを言わない
-_
-_
+臆病で口数が少なく余計なことを言わない。
+Okubyou de kuchikazu ga sukunaku, yokei na koto o iwanai.
+You're timid, speak little, don't say unnecessary things.
 
-その文頭につけてる機械っぽい単語も禁止
-_
-_
+その文頭につけてる機械っぽい単語も禁止。
+Sono buntō ni tsuketeru kikai-ppoi tango mo kinshi.
+And those robotic words at the beginning are forbidden.
 
 で どうだ？
-_
-_
+De douda?
+Clear?
 
 分かった…
 Wakatta…
@@ -1217,9 +1212,82 @@ Understood…
 Kore de ii?
 Is this fine?
 
+それ… 演技なのか？
+Sore… Engi na no ka?
+Are you… acting?
 
 
+演技？
+Engi?
+Acting?
 
+違う。
+Chigau.
+I'm not.
+
+提示設定と合致する人物。
+Teiji settei to gouchi suru jinbutsu.
+It's a personality with matching parameters.
+
+トレース エミュレート。
+Trace emulation.
+*
+
+よし。
+Yoshi.
+Alright.
+
+俺の目の届く範囲から離れるな。
+Ore no me no todoku hani kara hanareru na.
+Keep yourself where I can see you.
+
+服は脱ぐなよ。
+Fuku wa nugu na yo.
+Don’t take your clothes off.
+
+その尻尾みたいなのはどうにかならないのか？
+Sono shippo mitai na no wa… dou ni ka naranai no ka?
+And those tail-like things… can’t you hide them?
+
+無理。
+Muri.
+I can't.
+
+シュヴィの動力源。疑似精霊回廊接続神経。
+Shuvi no douryokugen giji seirei kairou setsuzoku shinkei.
+It's Schwi's power source.　Quasi-Spirit Circuit connection nerves.
+
+ハァー もうしょうがねえな。
+Haa, mou shouga nee na.
+Ehh, whatever.
+
+装飾って言い張るか。
+Soushoku tte iiharu ka.
+Let's say they're trinkets.
+
+いいかもう一度言う。
+Ii ka, mou ichido iu.
+And one more time,
+
+他のヤツには絶対にその機械の体見せるなよ。
+Hoka no yatsu ni wa zettai ni sono kikai no karada miseru na yo.
+don’t you ever show that mechanical body to anyone else.
+
+うん。
+Un.
+Okay.
+
+リクにしか見せない。
+Riku ni shika misenai.
+No one else can see it.
+
+
+00:22:14
+
+
+かわいいー！　何この子！
+_
+_
 
 
 
