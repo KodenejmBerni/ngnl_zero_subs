@@ -1418,7 +1418,8 @@ Ore ni sou iu shumi wa nee.
 I'm not into that.
 
 じゃあ、どんな姿が好き？
-Then, what are you into?
+Jaa, donna sugata ga suki?
+So, what kind of form spurs you?
 
 お前さ…
 Omae sa…
@@ -1426,11 +1427,11 @@ Listen…
 
 好きって どういう意味か 分かって言ってんのか？
 ‘Suki’ tte dou iu imi ka wakatte ittеn no ka?
-Do you even know what ‘being stirred’ means?
+Do you even know what it means to be spurred?
 
 リクの“好き”を知りたい。
 Riku no… ‘suki’ o shiritai.
-I'd like to learn… about 'being stirred'.
+I want to learn what it means to Riku.
 
 言外の言葉を読むことでしか理解できない。
 Gengai no kotoba o yomu koto de shika rikai dekinai.
@@ -1439,6 +1440,128 @@ You can only learn it through what is unspoken.
 それが心だと言ったはずだが？
 Sore ga kokoro da to itta hazu da ga?
 I already told you, didn’t I?
+
+じゃあ…
+Jaa…
+Then…
+
+ゲームしよ。
+Geimu shi yo?
+let's play a game.
+
+断る。
+Kotowaru.
+I refuse.
+
+あのときはしかたなくだ。
+Ano toki wa shikatanaku da.
+I had no choice back then.
+
+ゲームなんて無意味なもんに費やす時間はねえよ。
+Geimu nante muimina mono ni tsuiyasu jikan wa nee yo.
+I don't have time to waste on pointless games.
+
+無意味じゃない… なら？
+Muimi ja nai… nara?
+What if they weren’t pointless?
+
+シュヴィに勝てば
+Shuvi ni kateba
+If Schwi loses
+
+リクが望む情報開示する。
+Riku ga nozomu jouhou kaiji suru.
+she will share any information Riku desires.
+
+例えば,
+Tatoeba,
+For example,
+
+大戦が始まった理由
+taisen ga hajimatta riyuu
+the reason behind the Great War
+
+終結する要因など。
+shuuketsu suru youin nado.
+and the conditions for its end.
+
+くだらねえ。
+Kudara nee.
+Absurd.
+
+たかが人間の身で、
+Takaga ningen no mi de,
+As a mere human,
+
+んなもん興味もなけりゃ知る必要もない。
+nna mon kyoumi mo nakerya shiru hitsuyou mo nai.
+I couldn't care less about it.
+
+俺が欲しいものがあるとすれば…
+Ore ga hoshii mono ga aru to sureba…
+If there's something I want…
+
+今日を生き延びるすべ。
+kyou o ikinobiru sube
+it's to survive the day.
+
+それだけだ。
+Sore dake da.
+That's it.
+
+お前を連れてきた本当の目的だ。
+Omae wo tsurete kita hontou no mokuteki da.
+This is the real reason I brought you with me.
+
+エクスマキナが有する知識、数学、設計技術。
+Ex-machina ga yuusuru chishiki, suugaku, sekkei gijutsu.
+Ex-machina’s knowledge, maths, engineering.
+
+俺が勝てばそれを頂くぞ。
+ore ga kateba, sore o itadaku zo.
+that's what I want if I win.
+
+分かった。
+Wakatta.
+Okay.
+
+現在の
+Genzai no
+Current
+
+惑星環境。
+wakusei kankyō.
+conditions.
+
+人間がまだ生き残ってるの。
+Ningen ga mada ikinokotteru no
+_
+
+異常。
+ijou.
+_
+
+エクスマキナの解析でも
+Ex-machina no kaiseki demo
+_
+
+理由は不明。
+riyuu wa fumei.
+_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ...

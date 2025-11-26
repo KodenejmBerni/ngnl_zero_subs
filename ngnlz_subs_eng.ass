@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 330
-Active Line: 346
-Video Position: 33974
+Scroll Position: 351
+Active Line: 361
+Video Position: 35340
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -369,30 +369,30 @@ Dialogue: 5,0:23:09.82,0:23:10.81,Default,,0,0,0,,Put better?
 Dialogue: 5,0:23:10.81,0:23:12.12,Default,,0,0,0,,Eh, whatever…
 Dialogue: 5,0:23:12.12,0:23:16.79,Default,,0,0,0,,To begin with, wasn’t there a slightly more mature form to take?
 Dialogue: 5,0:23:16.79,0:23:18.87,Default,,0,0,0,,All the more if trying to seduce me.
-Dialogue: 5,0:23:19.92,0:23:22.79,Default,,0,0,0,,That… was meant to appeal to Riku.
+Dialogue: 5,0:23:19.92,0:23:22.79,Default,,0,0,0,,That was meant to appeal to Riku.
 Dialogue: 5,0:23:22.89,0:23:24.96,Default,,0,0,0,,I'm not into that.
-Dialogue: 5,0:23:25.51,0:23:28.42,Default,,0,0,0,,Then… what are you stirred by?
+Dialogue: 5,0:23:25.51,0:23:28.42,Default,,0,0,0,,So, what kind of form spurs you?
 Dialogue: 5,0:23:28.42,0:23:29.55,Default,,0,0,0,,Listen…
-Dialogue: 5,0:23:29.55,0:23:32.72,Default,,0,0,0,,Do you even know what ‘being stirred’ means?
-Dialogue: 5,0:23:34.10,0:23:36.65,Default,,0,0,0,,I want to learn… about 'being stirred'.
+Dialogue: 5,0:23:29.55,0:23:32.72,Default,,0,0,0,,Do you even know what it means to be spurred?
+Dialogue: 5,0:23:34.10,0:23:36.65,Default,,0,0,0,,I want to learn what it means to Riku.
 Dialogue: 5,0:23:36.98,0:23:40.44,Default,,0,0,0,,You can only learn it through what is unspoken.
 Dialogue: 5,0:23:40.44,0:23:42.81,Default,,0,0,0,,I already told you, didn’t I?
 Dialogue: 5,0:23:43.11,0:23:44.37,Default,,0,0,0,,Then
 Dialogue: 5,0:23:45.40,0:23:47.36,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:23:47.61,0:23:48.99,Default,,0,0,0,,I refuse.
-Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,That was the only time.
-Dialogue: 5,0:23:51.91,0:23:54.87,Default,,0,0,0,,I find games pointless and a waste of time.
-Dialogue: 5,0:23:55.70,0:23:58.10,Default,,0,0,0,,What if it wasn't pointless?
-Dialogue: 5,0:23:58.75,0:24:00.58,Default,,0,0,0,,I can bet
-Dialogue: 5,0:24:00.58,0:24:03.63,Default,,0,0,0,,all the information you desire.
+Dialogue: 5,0:23:49.61,0:23:51.91,Default,,0,0,0,,I had no choice back then.
+Dialogue: 5,0:23:51.91,0:23:54.87,Default,,0,0,0,,I don't have time to waste on pointless games.
+Dialogue: 5,0:23:55.70,0:23:58.10,Default,,0,0,0,,What if they weren’t pointless?
+Dialogue: 5,0:23:58.75,0:24:00.58,Default,,0,0,0,,If Schwi loses
+Dialogue: 5,0:24:00.58,0:24:03.63,Default,,0,0,0,,she will share any information Riku desires.
 Dialogue: 5,0:24:03.88,0:24:05.38,Default,,0,0,0,,For example,
 Dialogue: 5,0:24:05.38,0:24:07.80,Default,,0,0,0,,the reason behind the Great War
 Dialogue: 5,0:24:07.80,0:24:10.01,Default,,0,0,0,,and what it takes to end it.
-Dialogue: 5,0:24:12.89,0:24:14.14,Default,,0,0,0,,Give me a break.
-Dialogue: 5,0:24:14.51,0:24:19.43,Default,,0,0,0,,As a mere human, I couldn't care less about it.
-Dialogue: 5,0:24:19.43,0:24:21.90,Default,,0,0,0,,The only thing I need to know
-Dialogue: 5,0:24:24.46,0:24:26.69,Default,,0,0,0,,is how to stay alive.
-Dialogue: 5,0:24:26.69,0:24:28.03,Default,,0,0,0,,That's it.
+Dialogue: 5,0:24:12.89,0:24:14.14,Default,,0,0,0,,Absurd.
+Dialogue: 5,0:24:14.51,0:24:18.83,Default,,0,0,0,,As a mere human, I couldn't care less about it.
+Dialogue: 5,0:24:19.56,0:24:22.06,Default,,0,0,0,,If there's something I want…
+Dialogue: 5,0:24:24.67,0:24:26.78,Default,,0,0,0,,it's to survive the day.
+Dialogue: 5,0:24:26.78,0:24:28.03,Default,,0,0,0,,That's it.
 Dialogue: 5,0:24:31.11,0:24:33.70,Default,,0,0,0,,That's why I brought you with me.
 Dialogue: 5,0:24:34.24,0:24:39.12,Default,,0,0,0,,Ex Machina’s engineering tech, knowledge, maths
 Dialogue: 5,0:24:39.83,0:24:41.83,Default,,0,0,0,,that's what I want if I win.
