@@ -1527,35 +1527,105 @@ Okay.
 
 現在の
 Genzai no
-Current
+In the current
 
 惑星環境。
 wakusei kankyō.
-conditions.
+world conditions
 
 人間がまだ生き残ってるの。
 Ningen ga mada ikinokotteru no
-_
+the existence of humans is
 
 異常。
 ijou.
-_
+an error.
 
 エクスマキナの解析でも
 Ex-machina no kaiseki demo
-_
+The reasoning of Ex-machina
+Ex-machina's reasoning
 
 理由は不明。
 riyuu wa fumei.
-_
+fails to explain it.
 
+生物的に脆弱、
+seibutsuteki ni zeijaku,
+Biologically fragile,
 
+文明的に未熟、
+bunmeiteki ni mijuku,
+civilizationally primitive,
 
+精霊運用もできない、なのに…
+seirei unyou mo dekinai, nano ni…
+unable to utilize spirits, and yet…
 
+生き残っている。
+ikinosotteiru.
+keep trudging.
 
+理由があるはず、
+Riyuu ga aru hazu,
+There must be a reason,
 
+生き残る
+ikinokoru
+a factor
 
+因子がある。
+inshi ga aru.
+to live on.
 
+その因子が
+Sono inshi ga
+That factor
+
+心
+kokoro
+is presumed
+
+と推測。
+to suisoku.
+to be the heart.
+
+シュヴィは それが知り—
+Schwi wa sore ga shiri—
+Schwi wants to—
+
+なあ
+Naa
+Hey
+
+てめえ ふざけてんの？
+Temee fuzaketen no?
+Are you mocking me?
+
+リク？
+Riku?
+*
+
+好き勝手放題戦争しといて。
+Sukikatte houdai sensou shitoite.
+You slaughter us as you like.
+
+俺らの全てを奪い続けて。
+Orera no subete o ubai tsudzukete.
+You rob us of everything we have.
+
+何を言うかと思えば？
+Nani o iu ka to omoeba?
+And what do you have to say?
+
+“ねえねえ人間、なんでまだ生きてんの？”
+“Nee nee ningen, nande mada ikiten no?
+“Hey hey humans, why do you still exist?”
+“Hey humans, why are you still alive?”
+
+“心の中 教えてよ”ってか
+“Kokoro no naka, oshiete yo” tte ka.
+"Let me see what's in your heart."
 
 
 

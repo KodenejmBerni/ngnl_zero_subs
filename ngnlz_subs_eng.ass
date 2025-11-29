@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 351
-Active Line: 361
-Video Position: 35340
+Scroll Position: 379
+Active Line: 393
+Video Position: 37081
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -389,38 +389,38 @@ Dialogue: 5,0:24:03.88,0:24:05.38,Default,,0,0,0,,For example,
 Dialogue: 5,0:24:05.38,0:24:07.80,Default,,0,0,0,,the reason behind the Great War
 Dialogue: 5,0:24:07.80,0:24:10.01,Default,,0,0,0,,and what it takes to end it.
 Dialogue: 5,0:24:12.89,0:24:14.14,Default,,0,0,0,,Absurd.
-Dialogue: 5,0:24:14.51,0:24:18.83,Default,,0,0,0,,As a mere human, I couldn't care less about it.
-Dialogue: 5,0:24:19.56,0:24:22.06,Default,,0,0,0,,If there's something I want…
+Dialogue: 5,0:24:14.51,0:24:18.83,Default,,0,0,0,,As a mere human, I couldn't care less about such stuff.
+Dialogue: 5,0:24:19.56,0:24:22.06,Default,,0,0,0,,If there’s anything I wish for…
 Dialogue: 5,0:24:24.67,0:24:26.78,Default,,0,0,0,,it's to survive the day.
 Dialogue: 5,0:24:26.78,0:24:28.03,Default,,0,0,0,,That's it.
-Dialogue: 5,0:24:31.11,0:24:33.70,Default,,0,0,0,,That's why I brought you with me.
-Dialogue: 5,0:24:34.24,0:24:39.12,Default,,0,0,0,,Ex Machina’s engineering tech, knowledge, maths
+Dialogue: 5,0:24:31.11,0:24:33.70,Default,,0,0,0,,That's is the real reason I brought you with me.
+Dialogue: 5,0:24:34.24,0:24:39.12,Default,,0,0,0,,Ex-machina’s knowledge, maths, engineering
 Dialogue: 5,0:24:39.83,0:24:41.83,Default,,0,0,0,,that's what I want if I win.
-Dialogue: 5,0:24:43.96,0:24:45.29,Default,,0,0,0,,Okay.
-Dialogue: 5,0:24:46.70,0:24:47.87,Default,,0,0,0,,Given
-Dialogue: 5,0:24:48.96,0:24:50.87,Default,,0,0,0,,the state of the world...
-Dialogue: 5,0:24:51.30,0:24:53.89,Default,,0,0,0,,The existence of humans in it is
-Dialogue: 5,0:24:54.68,0:24:55.90,Default,,0,0,0,,an anomaly.
-Dialogue: 5,0:24:56.60,0:24:59.10,Default,,0,0,0,,Logical reasoning
+Dialogue: 5,0:24:43.96,0:24:45.29,Default,,0,0,0,,Understood.
+Dialogue: 5,0:24:46.70,0:24:47.87,Default,,0,0,0,,In the current
+Dialogue: 5,0:24:48.96,0:24:50.87,Default,,0,0,0,,world conditions
+Dialogue: 5,0:24:51.30,0:24:53.89,Default,,0,0,0,,the existence of humans is
+Dialogue: 5,0:24:54.68,0:24:55.90,Default,,0,0,0,,an error.
+Dialogue: 5,0:24:56.60,0:24:59.10,Default,,0,0,0,,Ex-machina's reasoning
 Dialogue: 5,0:24:59.10,0:25:00.91,Default,,0,0,0,,fails to explain it.
-Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,As a life form you are weak.
-Dialogue: 5,0:25:04.73,0:25:06.67,Default,,0,0,0,,Your civilization is primitive.
-Dialogue: 5,0:25:06.67,0:25:09.55,Default,,0,0,0,,You cannot utilize spiritual power, and yet
-Dialogue: 5,0:25:10.07,0:25:11.77,Default,,0,0,0,,you resist.
-Dialogue: 5,0:25:12.74,0:25:14.65,Default,,0,0,0,,There must be a reason,
-Dialogue: 5,0:25:14.99,0:25:16.70,Default,,0,0,0,,a stimulus,
-Dialogue: 5,0:25:16.70,0:25:18.10,Default,,0,0,0,,a factor.
-Dialogue: 5,0:25:18.79,0:25:20.38,Default,,0,0,0,,I think that factor
-Dialogue: 5,0:25:20.75,0:25:22.26,Default,,0,0,0,,resides
-Dialogue: 5,0:25:22.46,0:25:24.45,Default,,0,0,0,,in the human heart.
-Dialogue: 5,0:25:24.45,0:25:26.88,Default,,0,0,0,,That's what I want to—
+Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,Biologically fragile,
+Dialogue: 5,0:25:04.73,0:25:06.67,Default,,0,0,0,,civilizationally primitive,
+Dialogue: 5,0:25:06.67,0:25:09.55,Default,,0,0,0,,unable to utilize spirits, and yet…
+Dialogue: 5,0:25:10.13,0:25:11.77,Default,,0,0,0,,keep trudging.
+Dialogue: 5,0:25:12.83,0:25:14.99,Default,,0,0,0,,There must be a reason,
+Dialogue: 5,0:25:14.99,0:25:16.81,Default,,0,0,0,,a factor
+Dialogue: 5,0:25:16.81,0:25:18.10,Default,,0,0,0,,to live on.
+Dialogue: 5,0:25:18.77,0:25:20.87,Default,,0,0,0,,That factor
+Dialogue: 5,0:25:20.87,0:25:22.63,Default,,0,0,0,,is presumed
+Dialogue: 5,0:25:22.63,0:25:24.45,Default,,0,0,0,,to be the heart.
+Dialogue: 5,0:25:24.68,0:25:26.88,Default,,0,0,0,,Schwi wants to—
 Dialogue: 5,0:25:26.88,0:25:27.88,Default,,0,0,0,,Hey
-Dialogue: 5,0:25:29.71,0:25:31.34,Default,,0,0,0,,Don't mock me.
+Dialogue: 5,0:25:29.71,0:25:31.34,Default,,0,0,0,,Are you mocking me?
 Dialogue: 5,0:25:32.17,0:25:33.09,Default,,0,0,0,,Riku?
-Dialogue: 5,0:25:33.09,0:25:35.55,Default,,0,0,0,,You slaughter us as you like.
-Dialogue: 5,0:25:35.55,0:25:37.68,Default,,0,0,0,,You rob us of everything we have.
+Dialogue: 5,0:25:33.09,0:25:35.66,Default,,0,0,0,,You slaughter us as you like.
+Dialogue: 5,0:25:35.66,0:25:37.68,Default,,0,0,0,,You rob us of everything we have.
 Dialogue: 5,0:25:37.68,0:25:39.47,Default,,0,0,0,,And what do you have to say?
-Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,"Hey humans, why do you guys still exist?"
+Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,“Hey hey humans, why do you still exist?”
 Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let me see what's in your heart."
 Dialogue: 5,0:25:46.58,0:25:47.18,Default,,0,0,0,,Yeah?!
 Dialogue: 5,0:25:47.18,0:25:48.31,Default,,0,0,0,,You wanna know
