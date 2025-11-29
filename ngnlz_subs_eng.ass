@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 379
+Scroll Position: 378
 Active Line: 393
-Video Position: 37081
+Video Position: 37321
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -422,13 +422,12 @@ Dialogue: 5,0:25:35.66,0:25:37.68,Default,,0,0,0,,You rob us of everything we ha
 Dialogue: 5,0:25:37.68,0:25:39.47,Default,,0,0,0,,And what do you have to say?
 Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,“Hey hey humans, why do you still exist?”
 Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let me see what's in your heart."
-Dialogue: 5,0:25:46.58,0:25:47.18,Default,,0,0,0,,Yeah?!
-Dialogue: 5,0:25:47.18,0:25:48.31,Default,,0,0,0,,You wanna know
-Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,what comes from my heart
-Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,since the very day I was born?!
+Dialogue: 5,0:25:46.58,0:25:48.31,Default,,0,0,0,,So let me tell you!
+Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,What I feel
+Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,haven't changed since the moment I was born!
 Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Fuck every single one of you!
-Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you know how many have died because of you?
-Dialogue: 5,0:26:00.66,0:26:02.21,Default,,0,0,0,,How many you've killed?
+Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you have any idea how many died because of you?!
+Dialogue: 5,0:26:00.66,0:26:02.21,Default,,0,0,0,,How many you've killed?!
 Dialogue: 5,0:26:02.21,0:26:03.87,Default,,0,0,0,,How many—
 Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many you made me kill...
 Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, you're crying.
