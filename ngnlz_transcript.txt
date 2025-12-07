@@ -1628,22 +1628,19 @@ And what do you have to say?
 
 いいよ 教えてやるよ！
 Ii yo oshiete yaru yo!
-So let me tell you!
-_
+Fine! Let me tell you!
 
 俺の気持ちはな
 Ore no kimochi wa na
 What I feel
-_
 
 生まれたときから一寸たりとも変わっちゃいねえ！
 umareta toki kara issun taritomo kawacchai nee!
 haven't changed since the moment I was born!
-_
 
 てめえら全員くたばりやがれだ！
 Temeera zenin, kutabari yagare da!
-_
+Rot in hell every single one of you!
 
 てめえらのせいで何人死んだか分かるか？！
 Temeera no sei de nannin shinda ka wakaru ka?!
@@ -1659,9 +1656,67 @@ Hom many—
 
 あと何人俺に殺させれば…
 Ato nannin ore ni korosaseru ba…
+How many will you make me kill…
+
+リク 泣かせた。
+Riku, nakaseta.
+Riku, I made you cry.
+
+なら、
+nara,
+Therefore,
+
+シュヴィひどいこと言った。
+Schwi hidoi koto itta.
+Schwi said something cruel,
+
+…と 推測
+to suisoku.
+presumably.
+
+リクの心は
+Riku no kokoro wa
+Riku’s heart
+
+“シュヴィを殺したい”と 
+Schwi o koroshitai to
 _
 
+把握。
+haaku.
+_
 
+ここに刺すだけ、
+Koko ni sasu dake,
+If stabbed here,
+
+シュヴィ
+Schwi
+*
+
+死ぬ。
+shinu.
+dies.
+
+死ぬ？　
+Shinu?
+Dies?
+
+生物じゃない…
+Seibutsu janai…
+I am not alive…
+
+永久停止
+Eikyuuteishi
+_
+
+修復不能
+Shuufukufunou
+_
+
+全損
+zenson
+_
 
 
 
