@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 378
+Scroll Position: 388
 Active Line: 393
-Video Position: 37321
+Video Position: 37081
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -422,25 +422,24 @@ Dialogue: 5,0:25:35.66,0:25:37.68,Default,,0,0,0,,You rob us of everything we ha
 Dialogue: 5,0:25:37.68,0:25:39.47,Default,,0,0,0,,And what do you have to say?
 Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,“Hey hey humans, why do you still exist?”
 Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let me see what's in your heart."
-Dialogue: 5,0:25:46.58,0:25:48.31,Default,,0,0,0,,So let me tell you!
+Dialogue: 5,0:25:46.58,0:25:48.31,Default,,0,0,0,,Fine! Let me tell you!
 Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,What I feel
 Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,haven't changed since the moment I was born!
-Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Fuck every single one of you!
+Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Rot in hell, every single one of you!
 Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you have any idea how many died because of you?!
 Dialogue: 5,0:26:00.66,0:26:02.21,Default,,0,0,0,,How many you've killed?!
 Dialogue: 5,0:26:02.21,0:26:03.87,Default,,0,0,0,,How many—
-Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many you made me kill...
-Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, you're crying.
-Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore
-Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,I must have said something terrible
-Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,or hurtful.
-Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Your heart
-Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill me.
+Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many will you make me kill…
+Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, I made you cry.
+Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore,
+Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,Schwi said something cruel,
+Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,I… presume.
+Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Riku’s heart
+Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill Schwi.
 Dialogue: 5,0:26:26.73,0:26:27.94,Default,,0,0,0,,I see.
-Dialogue: 5,0:26:29.44,0:26:30.86,Default,,0,0,0,,If you just
-Dialogue: 5,0:26:30.86,0:26:32.19,Default,,0,0,0,,stab me here,
-Dialogue: 5,0:26:32.86,0:26:34.16,Default,,0,0,0,,Schwi
-Dialogue: 5,0:26:34.16,0:26:35.31,Default,,0,0,0,,dies.
+Dialogue: 5,0:26:29.61,0:26:32.19,Default,,0,0,0,,If stabbed here,
+Dialogue: 5,0:26:32.86,0:26:34.07,Default,,0,0,0,,Schwi
+Dialogue: 5,0:26:34.07,0:26:35.31,Default,,0,0,0,,dies.
 Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Dies?
 Dialogue: 5,0:26:36.91,0:26:38.91,Default,,0,0,0,,I am not alive…
 Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A shutdown,
