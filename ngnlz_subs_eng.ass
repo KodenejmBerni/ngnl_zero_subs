@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 388
-Active Line: 393
-Video Position: 37081
+Scroll Position: 452
+Active Line: 469
+Video Position: 39805
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -429,11 +429,11 @@ Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Rot in hell, every single one 
 Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you have any idea how many died because of you?!
 Dialogue: 5,0:26:00.66,0:26:02.21,Default,,0,0,0,,How many you've killed?!
 Dialogue: 5,0:26:02.21,0:26:03.87,Default,,0,0,0,,How many—
-Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many will you make me kill…
+Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many will you make me kill?
 Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, I made you cry.
 Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore,
 Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,Schwi said something cruel,
-Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,I… presume.
+Dialogue: 5,0:26:16.76,0:26:18.89,Default,,0,0,0,,I presume.
 Dialogue: 5,0:26:21.39,0:26:23.93,Default,,0,0,0,,Riku’s heart
 Dialogue: 5,0:26:23.93,0:26:26.73,Default,,0,0,0,,wants to kill Schwi.
 Dialogue: 5,0:26:26.73,0:26:27.94,Default,,0,0,0,,I see.
@@ -444,9 +444,9 @@ Dialogue: 5,0:26:35.61,0:26:36.91,Default,,0,0,0,,Dies?
 Dialogue: 5,0:26:36.91,0:26:38.91,Default,,0,0,0,,I am not alive…
 Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A shutdown,
 Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,a permanent
-Dialogue: 5,0:26:43.24,0:26:44.58,Default,,0,0,0,,termination.
-Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi wants to know your heart.
-Dialogue: 5,0:26:49.04,0:26:53.59,Default,,0,0,0,,So now, that your heart desires it,
+Dialogue: 5,0:26:43.24,0:26:44.83,Default,,0,0,0,,cessation.
+Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi wants to learn Riku's heart.
+Dialogue: 5,0:26:49.04,0:26:53.95,Default,,0,0,0,,So now, if this is what Riku's heart desires,
 Dialogue: 5,0:26:53.95,0:26:55.35,Default,,0,0,0,,do you
 Dialogue: 5,0:26:55.35,0:26:57.00,Default,,0,0,0,,kill Schwi?
 Dialogue: 5,0:27:01.14,0:27:02.01,Default,,0,0,0,,Chad

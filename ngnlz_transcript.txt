@@ -1656,7 +1656,7 @@ Hom many—
 
 あと何人俺に殺させれば…
 Ato nannin ore ni korosaseru ba…
-How many will you make me kill…
+How many will you make me kill?
 
 リク 泣かせた。
 Riku, nakaseta.
@@ -1680,11 +1680,11 @@ Riku’s heart
 
 “シュヴィを殺したい”と 
 Schwi o koroshitai to
-_
+wants to kill Schwi.
 
 把握。
 haaku.
-_
+I see.
 
 ここに刺すだけ、
 Koko ni sasu dake,
@@ -1706,20 +1706,277 @@ Dies?
 Seibutsu janai…
 I am not alive…
 
-永久停止
-Eikyuuteishi
-_
+永久停止、
+Eikyuuteishi,
+A shutdown,
 
 修復不能
-Shuufukufunou
+shuufukufunou
+a permanent
+
+全損。
+zenson.
+cessation.
+
+シュヴィリクの心知りたい。
+Schwi Riku no kokoro shiritai.
+Schwi wants to learn Riku's heart.
+
+だから、リクの心がそうしたいなら、
+Dakara, Riku no kokoro soushitai nara,
+So now, if this is what Riku's heart desires,
+
+シュヴィ 
+Schwi
+do you
+
+殺してくれる？
+Koroshite kureru?
+kill Schwi?
+
+チャド
+Chad
+*
+
+アントン
+Anton
+*
+
+エルマー
+Elmer
+*
+
+コリー
+Cory
+*
+
+デール
+Dale
+*
+
+シリス
+Siris
+*
+
+エド
+Ed
+*
+
+ダレル
+Darrell
+*
+
+デイヴ
+Dave
+*
+
+ラークス
+Laks
+*
+
+ヴィン
+Vin
+*
+
+エリック
+Eric
+*
+
+チャーリー
+Charlie
+*
+
+リク？
+Riku?
+*
+
+トムスン
+Thomson
+*
+
+シンタ
+Shinta
+*
+
+ヤン
+Yann
+*
+
+ザザ
+Zaza
+*
+
+ザルゴ
+Zargo
+*
+
+クレイ
+Clay
+*
+
+ゴロー
+Goro
+*
+
+ピーター
+Peter
+*
+
+アーサー
+Arthur
+*
+
+モルグ
+Morg
+*
+
+キミー
+Kimmy
+*
+
+ダット
+Datt
+*
+
+セロ
+Ceril
+*
+
+ヴィジー
+Vigi
+*
+
+ヴォリー
+Volly
+*
+
+ケン
+Ken
+*
+
+サベッジ
+Savage
+*
+
+リロイ
+Leroy
+*
+
+ポポ
+Popo
+*
+
+クートン
+Couthon
+*
+
+リト
+Lut
+*
+
+シグレ
+Shigure
+*
+
+シャオ
+Shao
+*
+
+ウルフ
+Ulf
+*
+
+バルト
+Balto
+*
+
+アッソー
+Asso
+*
+
+ケンウッド
+Kenwood
+*
+
+ペイル
+Peyl
+*
+
+アハド
+Ahad
+*
+
+ハウンド
+Hound
+*
+
+バルロフ
+Balrof
+*
+
+マサシ
+Masashi
+*
+
+メメガン
+Memegan
+*
+
+カリム！
+Karim!
+*
+
+イワン！
+Ivan!
+*
+
+48人。
+Yonjuu hachi nin.
+Forty-eight.
+
+全部俺が死ねと命じてきたヤツだよ。
+Zenbu ore ga shine to meijite kita yatsu da yo.
 _
 
-全損
-zenson
+確かに大戦のせいで大勢が死んだ
+Tashika ni taisen no sei de ouzei ga shinda
 _
 
-シュヴィ リクの心 知りたい
-Schwi 
+ホコリでも払うかのように殺されてきた
+Hokori demo harau ka no you ni korosarete kita
+_
+
+でも
+demo
+_
+
+彼らに死ねと…
+Karera ni shine to
+_
+
+そう告げたのは！
+Sou tsugeta no wa!
+_
+
+リク？
+Riku?
+*
+
+
+00:28:30
+
+
+リク？
+Riku?
+*
+
+起きてる？
+Okiteru?
+You awake?
+
+
+
+
 
 
 
