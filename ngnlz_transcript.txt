@@ -1411,7 +1411,7 @@ All the more if trying to seduce me.
 
 これ リクの好みの姿。
 Kore… Riku no konomi no sugata.
-That… was meant to stir to Riku.
+That… was meant to appeal to Riku.
 
 俺に そういう趣味はねえ。
 Ore ni sou iu shumi wa nee.
@@ -1441,9 +1441,9 @@ You can only learn it through what is unspoken.
 Sore ga kokoro da to itta hazu da ga?
 I already told you, didn’t I?
 
-じゃあ…
-Jaa…
-Then…
+じゃあ
+Jaa
+Then
 
 ゲームしよ。
 Geimu shi yo?
@@ -1483,23 +1483,19 @@ the reason behind the Great War
 
 終結する要因など。
 shuuketsu suru youin nado.
-and the conditions for its end.
+and what it takes to end it.
 
 くだらねえ。
 Kudara nee.
 Absurd.
 
-たかが人間の身で、
-Takaga ningen no mi de,
-As a mere human,
-
-んなもん興味もなけりゃ知る必要もない。
-nna mon kyoumi mo nakerya shiru hitsuyou mo nai.
-I couldn't care less about it.
+たかが人間の身で、んなもん興味もなけりゃ知る必要もない。
+Takaga ningen no mi de, nna mon kyoumi mo nakerya shiru hitsuyou mo nai.
+As a mere human, I couldn't care less about such stuff.
 
 俺が欲しいものがあるとすれば…
 Ore ga hoshii mono ga aru to sureba…
-If there's something I want…
+If there’s anything I wish for…
 
 今日を生き延びるすべ。
 kyou o ikinobiru sube
@@ -1511,11 +1507,11 @@ That's it.
 
 お前を連れてきた本当の目的だ。
 Omae wo tsurete kita hontou no mokuteki da.
-This is the real reason I brought you with me.
+That's is the real reason I brought you with me.
 
 エクスマキナが有する知識、数学、設計技術。
 Ex-machina ga yuusuru chishiki, suugaku, sekkei gijutsu.
-Ex-machina’s knowledge, maths, engineering.
+Ex-machina’s knowledge, maths, engineering
 
 俺が勝てばそれを頂くぞ。
 ore ga kateba, sore o itadaku zo.
@@ -1523,7 +1519,7 @@ that's what I want if I win.
 
 分かった。
 Wakatta.
-Okay.
+Understood.
 
 現在の
 Genzai no
@@ -1640,7 +1636,7 @@ haven't changed since the moment I was born!
 
 てめえら全員くたばりやがれだ！
 Temeera zenin, kutabari yagare da!
-Rot in hell every single one of you!
+Rot in hell, every single one of you!
 
 てめえらのせいで何人死んだか分かるか？！
 Temeera no sei de nannin shinda ka wakaru ka?!
@@ -1652,7 +1648,7 @@ How many you've killed?!
 
 何人—
 Nannin—
-Hom many—
+How many—
 
 あと何人俺に殺させれば…
 Ato nannin ore ni korosaseru ba…
@@ -1666,13 +1662,13 @@ Riku, I made you cry.
 nara,
 Therefore,
 
-シュヴィひどいこと言った。
-Schwi hidoi koto itta.
+シュヴィひどいこと言った、
+Schwi hidoi koto itta,
 Schwi said something cruel,
 
 …と 推測
 to suisoku.
-presumably.
+I presume.
 
 リクの心は
 Riku no kokoro wa
@@ -1936,27 +1932,27 @@ Forty-eight.
 
 全部俺が死ねと命じてきたヤツだよ。
 Zenbu ore ga shine to meijite kita yatsu da yo.
-_
+I ordered each of them to die!
 
 確かに大戦のせいで大勢が死んだ
 Tashika ni taisen no sei de ouzei ga shinda
-_
+It's true that many people died due to the war
 
 ホコリでも払うかのように殺されてきた
 Hokori demo harau ka no you ni korosarete kita
-_
+being swept away like nothing but dust…
 
 でも
 demo
-_
+but
 
 彼らに死ねと…
 Karera ni shine to
-_
+those died because
 
 そう告げたのは！
 Sou tsugeta no wa!
-_
+I told them to!
 
 リク？
 Riku?

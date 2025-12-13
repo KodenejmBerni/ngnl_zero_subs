@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 452
-Active Line: 469
-Video Position: 39805
+Scroll Position: 467
+Active Line: 477
+Video Position: 41122
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -363,13 +363,12 @@ Dialogue: 5,0:22:55.85,0:22:57.60,Default,,0,0,0,,No, that's not—
 Dialogue: 5,0:22:57.92,0:22:59.43,Default,,0,0,0,,Riku…
 Dialogue: 5,0:22:59.43,0:23:01.90,Default,,0,0,0,,things like that...
 Dialogue: 5,0:23:02.07,0:23:04.78,Default,,0,0,0,,wait until we’re back!
-Comment: 0,0:23:06.07,0:23:06.12,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:23:06.43,0:23:09.25,Default,,0,0,0,,You could have put it better.
 Dialogue: 5,0:23:09.82,0:23:10.81,Default,,0,0,0,,Put better?
 Dialogue: 5,0:23:10.81,0:23:12.12,Default,,0,0,0,,Eh, whatever…
-Dialogue: 5,0:23:12.12,0:23:16.79,Default,,0,0,0,,To begin with, wasn’t there a slightly more mature form to take?
+Dialogue: 5,0:23:12.12,0:23:16.79,Default,,0,0,0,,To begin with, wasn’t there a {\i1}slightly{\i0} more mature form to take?
 Dialogue: 5,0:23:16.79,0:23:18.87,Default,,0,0,0,,All the more if trying to seduce me.
-Dialogue: 5,0:23:19.92,0:23:22.79,Default,,0,0,0,,That was meant to appeal to Riku.
+Dialogue: 5,0:23:19.92,0:23:22.79,Default,,0,0,0,,That… was meant to appeal to Riku.
 Dialogue: 5,0:23:22.89,0:23:24.96,Default,,0,0,0,,I'm not into that.
 Dialogue: 5,0:23:25.51,0:23:28.42,Default,,0,0,0,,So, what kind of form spurs you?
 Dialogue: 5,0:23:28.42,0:23:29.55,Default,,0,0,0,,Listen…
@@ -498,14 +497,15 @@ Dialogue: 5,0:27:34.34,0:27:35.25,Default,,0,0,0,,Masashi
 Dialogue: 5,0:27:35.25,0:27:35.92,Default,,0,0,0,,Memegan
 Dialogue: 5,0:27:35.92,0:27:36.96,Default,,0,0,0,,Karim!
 Dialogue: 5,0:27:38.22,0:27:39.33,Default,,0,0,0,,Ivan!
-Dialogue: 5,0:27:40.18,0:27:42.35,Default,,0,0,0,,Forty-eight.
-Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,That's how many deaths I'm responsible for.
-Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,It's true that many more people have died due to the war
-Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,being swept away like dust,
+Dialogue: 5,0:27:40.57,0:27:42.35,Default,,0,0,0,,Forty-eight.
+Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,I ordered each of them to die!
+Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,It's true that many people died due to the war
+Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,being swept away like nothing but dust…
 Dialogue: 5,0:27:52.77,0:27:54.00,Default,,0,0,0,,but
-Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,these were the ones
-Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,I ordered to die.
+Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,those died because
+Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,I told them to!
 Dialogue: 5,0:28:14.96,0:28:16.21,Default,,0,0,0,,Riku?
+Comment: 0,0:28:33.44,0:28:33.52,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:28:35.11,0:28:36.32,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:36.32,0:28:37.40,Default,,0,0,0,,Are you awake?
 Dialogue: 5,0:28:37.40,0:28:40.49,Default,,0,0,0,,I know you're tired, but maybe—
