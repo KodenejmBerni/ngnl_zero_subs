@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 474
-Active Line: 497
-Video Position: 42410
+Scroll Position: 480
+Active Line: 499
+Video Position: 42481
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -505,7 +505,6 @@ Dialogue: 5,0:27:52.77,0:27:54.00,Default,,0,0,0,,but
 Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,those died because
 Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,I told them to!
 Dialogue: 5,0:28:14.96,0:28:16.21,Default,,0,0,0,,Riku?
-Comment: 0,0:28:33.44,0:28:33.52,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:28:35.11,0:28:36.32,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:36.32,0:28:37.40,Default,,0,0,0,,You awake?
 Dialogue: 5,0:28:37.40,0:28:40.49,Default,,0,0,0,,I know you're tired, but maybe—
@@ -526,8 +525,9 @@ Dialogue: 5,0:29:20.85,0:29:21.78,Default,,0,0,0,,to anyone else.
 Dialogue: 5,0:29:21.84,0:29:23.74,Default,,0,0,0,,Oh my! Already trained?!
 Dialogue: 5,0:29:23.74,0:29:25.82,Default,,0,0,0,,Couron, please just shut up.
 Dialogue: 5,0:29:25.82,0:29:27.91,Default,,0,0,0,,Wow, you two are moving quickly.
-Dialogue: 5,0:29:27.91,0:29:29.62,Default,,0,0,0,,I leave Schwi in your care, then.
-Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,The bath will be all to yourselves.
+Dialogue: 5,0:29:27.91,0:29:29.62,Default,,0,0,0,,I leave Schwi in your care then.
+Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,I’ll clear everyone out of the bath.
+Comment: 0,0:29:47.36,0:29:47.41,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:29:48.43,0:29:50.01,Default,,0,0,0,,I'm... sorry.
 Dialogue: 5,0:29:50.85,0:29:51.87,Default,,0,0,0,,For what?
 Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,An aggressor asking a victim about the heart...
