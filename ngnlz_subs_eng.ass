@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 480
-Active Line: 499
-Video Position: 42481
+Scroll Position: 514
+Active Line: 526
+Video Position: 44848
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -527,34 +527,34 @@ Dialogue: 5,0:29:23.74,0:29:25.82,Default,,0,0,0,,Couron, please just shut up.
 Dialogue: 5,0:29:25.82,0:29:27.91,Default,,0,0,0,,Wow, you two are moving quickly.
 Dialogue: 5,0:29:27.91,0:29:29.62,Default,,0,0,0,,I leave Schwi in your care then.
 Dialogue: 5,0:29:29.62,0:29:31.79,Default,,0,0,0,,I’ll clear everyone out of the bath.
-Comment: 0,0:29:47.36,0:29:47.41,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:29:48.43,0:29:50.01,Default,,0,0,0,,I'm... sorry.
+Dialogue: 5,0:29:48.43,0:29:50.01,Default,,0,0,0,,I'm… sorry.
 Dialogue: 5,0:29:50.85,0:29:51.87,Default,,0,0,0,,For what?
-Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,An aggressor asking a victim about the heart...
-Dialogue: 5,0:29:56.65,0:29:57.70,Default,,0,0,0,,it's illogical.
+Dialogue: 5,0:29:52.64,0:29:56.10,Default,,0,0,0,,An aggressor asking the victim about the heart…
+Dialogue: 5,0:29:56.52,0:29:57.70,Default,,0,0,0,,it's illogical.
 Dialogue: 5,0:29:58.50,0:30:00.36,Default,,0,0,0,,Not illogical,
-Dialogue: 5,0:30:00.57,0:30:02.10,Default,,0,0,0,,it's insensitive.
-Dialogue: 5,0:30:02.61,0:30:05.95,Default,,0,0,0,,I have an abundant network of sensors.
+Dialogue: 5,0:30:00.57,0:30:02.52,Default,,0,0,0,,it’s just insensitive.
+Dialogue: 5,0:30:02.52,0:30:05.95,Default,,0,0,0,,Schwi does have a sensory circuit.
 Dialogue: 5,0:30:05.95,0:30:07.80,Default,,0,0,0,,That's not what I meant.
 Dialogue: 5,0:30:09.37,0:30:12.62,Default,,0,0,0,,Well, I also got too worked up.
 Dialogue: 5,0:30:13.25,0:30:15.29,Default,,0,0,0,,Is that a bad thing?
 Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Yeah.
-Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,A desire to stab you wouldn't solve any actual problems.
-Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to stab Schwi...
+Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,An urge to hit you won't solve any actual problems.
+Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to hit Schwi…
 Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,It was just an example.
 Dialogue: 5,0:30:26.26,0:30:28.01,Default,,0,0,0,,Or was it?
-Dialogue: 5,0:30:28.72,0:30:30.51,Default,,0,0,0,,I'm not so sure myself.
+Dialogue: 5,0:30:28.72,0:30:30.51,Default,,0,0,0,,I'm not sure myself.
 Dialogue: 5,0:30:32.64,0:30:33.72,Default,,0,0,0,,Riku,
 Dialogue: 5,0:30:33.72,0:30:34.97,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:30:40.86,0:30:42.82,Default,,0,0,0,,What did you bring that for?
 Dialogue: 5,0:30:44.32,0:30:46.61,Default,,0,0,0,,It's the only time
-Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,you open up...
-Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,so
+Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,Riku smiled.
+Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,So…
 Dialogue: 5,0:30:53.37,0:30:55.12,Default,,0,0,0,,let's play a game.
-Dialogue: 5,0:30:57.35,0:31:01.12,Default,,0,0,0,,Schwi wishes to get to know your heart,
-Dialogue: 5,0:31:01.12,0:31:04.38,Default,,0,0,0,,but not in a manner that harms you.
+Dialogue: 5,0:30:57.35,0:31:01.12,Default,,0,0,0,,Schwi wants to know Riku's heart.
+Dialogue: 5,0:31:01.12,0:31:04.38,Default,,0,0,0,,But doesn’t want to hurt Riku.
 Dialogue: 5,0:31:04.90,0:31:06.63,Default,,0,0,0,,I don't know
 Dialogue: 5,0:31:07.01,0:31:08.38,Default,,0,0,0,,what to do.
+Comment: 0,0:31:09.32,0:31:09.38,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:31:10.51,0:31:13.14,Default,,0,0,0,,Why do you care about my feelings?
 Dialogue: 5,0:31:13.14,0:31:15.22,Default,,0,0,0,,If you want to return to your cluster,
 Dialogue: 5,0:31:15.22,0:31:18.77,Default,,0,0,0,,I'm sure you could force me to learn more about the heart.
