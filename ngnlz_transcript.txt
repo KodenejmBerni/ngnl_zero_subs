@@ -2190,11 +2190,45 @@ Why?
 O–ore ni kiku no ka?
 Y–You're asking me?
 
+回答候補 列挙
+Kaitou kouho rekkyo
+Listing possible reasons
 
+クラスタはどうでもいい
+Cluster wa doudemoii
+Cluster being irrelevant,
 
+無意味
+muimi
+pointless,
 
+関係ない
+kankeinai
+disengaged.
 
+同期拒否
+douki kyohi
+Sync denied.
 
+解析優先
+kaiseki yuusen
+Analysis prioritized.
+
+リクの心が知りたい
+Riku no kokoro ga shiritai
+Need to comprehend Riku's heart.
+
+リクがいればいい
+Riku ga ireba ii
+Riku being enough.
+
+エラー
+Error
+*
+
+やめろ！
+Yamero!
+Stop that!
 
 
 
