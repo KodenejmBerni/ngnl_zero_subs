@@ -2190,37 +2190,65 @@ Why?
 O–ore ni kiku no ka?
 Y–You're asking me?
 
-回答候補 列挙
-Kaitou kouho rekkyo
-Listing possible reasons
+回答候補列挙:
+Kaitou kouho rekkyo:
+Listing possible reasons:
 
 クラスタはどうでもいい
 Cluster wa doudemoii
 Cluster being irrelevant,
 
-無意味
-muimi
+無意味、
+muimi,
 pointless,
 
-関係ない
-kankeinai
+関係ない。
+kankeinai.
 disengaged.
 
-同期拒否
-douki kyohi
+同期拒否。
+Douki kyohi.
 Sync denied.
 
-解析優先
-kaiseki yuusen
+解析優先。
+Kaiseki yuusen.
 Analysis prioritized.
 
-リクの心が知りたい
-Riku no kokoro ga shiritai
+リクの心が知りたい。
+Riku no kokoro ga shiritai.
 Need to comprehend Riku's heart.
 
-リクがいればいい
-Riku ga ireba ii
+リクがいればいい。
+Riku ga ireba ii.
 Riku being enough.
+
+エラー
+Error
+*
+
+エラー
+Error
+*
+
+エラー
+Error
+*
+
+エラー
+Error
+*
+
+エラー
+Error
+*
+
+エラー
+Error
+*
+
+エラー
+Error
+*
 
 エラー
 Error
@@ -2229,6 +2257,58 @@ Error
 やめろ！
 Yamero!
 Stop that!
+
+エラー
+Error
+*
+
+結論:
+Ketsuron:
+Conclusion:
+
+戻りたくない。らしい…
+Modoritakunai. Rashii…
+No intent to return. Apparently…
+
+らしい？
+Rashii?
+Apparently?
+
+根拠 特定不能
+Konkyo tokutei funou.
+Basis not determined.
+
+でも、
+Demo,
+Although,
+
+そうらしい。
+sourashii.
+apparently.
+
+らしい…
+Rashii…
+Apparently…
+
+曖昧だな。
+Aimai da na.
+That’s vague.
+
+ボーンｅの４。
+Pawn E4.
+*
+
+っておい、せめてセンター譲れよ。
+Tte oi, semete center yuzure yo!
+Hey, at least let me have the center.
+
+次、リクの番。
+Tsugi, Riku no ban.
+Now, Riku’s move.
+
+しかも 俺は お前の髪 拭きながらだぞ
+
+
 
 
 

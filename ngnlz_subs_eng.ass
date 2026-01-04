@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 530
-Active Line: 552
-Video Position: 45935
+Scroll Position: 542
+Active Line: 559
+Video Position: 46372
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -581,16 +581,16 @@ Dialogue: 5,0:31:45.76,0:31:46.34,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:45.96,0:31:46.67,Alt,,0,0,0,,Stop that!
 Dialogue: 5,0:31:46.34,0:31:46.67,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:51.47,0:31:52.72,Default,,0,0,0,,Conclusion:
-Dialogue: 5,0:31:52.72,0:31:55.51,Default,,0,0,0,,I don't care to go back. Convergently...
-Dialogue: 5,0:31:55.72,0:31:57.02,Default,,0,0,0,,Convergently?
-Dialogue: 5,0:31:57.43,0:31:59.73,Default,,0,0,0,,Not determined definitively.
+Dialogue: 5,0:31:52.72,0:31:55.51,Default,,0,0,0,,No intent to return. Apparently…
+Dialogue: 5,0:31:55.72,0:31:57.02,Default,,0,0,0,,Apparently?
+Dialogue: 5,0:31:57.43,0:31:59.73,Default,,0,0,0,,Basis not determined.
 Dialogue: 5,0:31:59.73,0:32:00.81,Default,,0,0,0,,Although,
-Dialogue: 5,0:32:01.65,0:32:03.02,Default,,0,0,0,,convergently.
-Dialogue: 5,0:32:03.77,0:32:05.11,Default,,0,0,0,,Convergently?
-Dialogue: 5,0:32:07.23,0:32:08.74,Default,,0,0,0,,That's little confusing.
+Dialogue: 5,0:32:01.65,0:32:03.02,Default,,0,0,0,,apparently.
+Dialogue: 5,0:32:03.77,0:32:05.11,Default,,0,0,0,,Apparently…
+Dialogue: 5,0:32:07.23,0:32:08.74,Default,,0,0,0,,That’s vague.
 Dialogue: 5,0:32:10.07,0:32:11.78,Default,,0,0,0,,Pawn E4.
 Dialogue: 5,0:32:11.78,0:32:14.08,Default,,0,0,0,,Hey, at least let me have the center.
-Dialogue: 5,0:32:14.08,0:32:15.58,Default,,0,0,0,,Your move.
+Dialogue: 5,0:32:14.08,0:32:15.58,Default,,0,0,0,,Now, Riku’s move.
 Dialogue: 5,0:32:15.58,0:32:18.20,Default,,0,0,0,,Also, I'm sitting here brushing your hair.
 Dialogue: 5,0:32:18.20,0:32:19.62,Default,,0,0,0,,That's not fair.
 Dialogue: 5,0:32:19.62,0:32:22.50,Default,,0,0,0,,Ehh, it takes forever by the way.
