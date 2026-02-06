@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 554
-Active Line: 568
-Video Position: 47633
+Scroll Position: 569
+Active Line: 578
+Video Position: 48616
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -599,14 +599,14 @@ Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,Sometimes you really don’t g
 Comment: 0,0:33:05.68,0:33:05.73,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:33:06.69,0:33:07.63,Default,,0,0,0,,Riku,
 Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,I designed a compact telescope.
-Dialogue: 5,0:33:13.22,0:33:16.06,Default,,0,0,0,,Another thing? I haven't won at chess yet.
-Dialogue: 5,0:33:16.06,0:33:19.39,Default,,0,0,0,,But you wanted it, I think.
-Dialogue: 5,0:33:24.25,0:33:25.94,Default,,0,0,0,,Is that where we met?
-Dialogue: 5,0:33:26.65,0:33:27.65,Default,,0,0,0,,Yeah...
+Dialogue: 5,0:33:13.22,0:33:16.06,Default,,0,0,0,,Again? I haven't won at chess yet.
+Dialogue: 5,0:33:16.06,0:33:19.39,Default,,0,0,0,,I figured Riku would want it.
+Dialogue: 5,0:33:24.25,0:33:25.94,Default,,0,0,0,,The place where we met?
+Dialogue: 5,0:33:26.65,0:33:27.65,Default,,0,0,0,,Yeah…
 Dialogue: 5,0:33:28.40,0:33:31.11,Default,,0,0,0,,One thing about this corner keeps bugging me.
 Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,In any case, it's too far to just go there on a whim.
-Dialogue: 5,0:33:38.80,0:33:40.20,Default,,0,0,0,,We have arrived.
-Dialogue: 5,0:33:43.16,0:33:46.54,Default,,0,0,0,,Quite enthusiastic unit, aren't you?
+Dialogue: 5,0:33:38.80,0:33:40.20,Default,,0,0,0,,Arrived.
+Dialogue: 5,0:33:43.16,0:33:46.54,Default,,0,0,0,,Quite clever unit, aren't you?
 Dialogue: 5,0:33:47.67,0:33:51.71,Default,,0,0,0,,Have you noticed? All the buildings around have been destroyed,
 Dialogue: 5,0:33:51.71,0:33:55.38,Default,,0,0,0,,but for some reason, this area is barely damaged.
 Dialogue: 5,0:33:55.38,0:33:58.80,Default,,0,0,0,,Elven defensive magic...
