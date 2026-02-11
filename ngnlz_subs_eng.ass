@@ -15,8 +15,8 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 569
+Video Zoom Percent: 0.625000
+Scroll Position: 566
 Active Line: 578
 Video Position: 48616
 
@@ -606,11 +606,11 @@ Dialogue: 5,0:33:26.65,0:33:27.65,Default,,0,0,0,,Yeah…
 Dialogue: 5,0:33:28.40,0:33:31.11,Default,,0,0,0,,One thing about this corner keeps bugging me.
 Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,In any case, it's too far to just go there on a whim.
 Dialogue: 5,0:33:38.80,0:33:40.20,Default,,0,0,0,,Arrived.
-Dialogue: 5,0:33:43.16,0:33:46.54,Default,,0,0,0,,Quite clever unit, aren't you?
-Dialogue: 5,0:33:47.67,0:33:51.71,Default,,0,0,0,,Have you noticed? All the buildings around have been destroyed,
-Dialogue: 5,0:33:51.71,0:33:55.38,Default,,0,0,0,,but for some reason, this area is barely damaged.
-Dialogue: 5,0:33:55.38,0:33:58.80,Default,,0,0,0,,Elven defensive magic...
-Dialogue: 5,0:33:59.31,0:34:03.10,Default,,0,0,0,,But of all the possible places, why here?
+Dialogue: 5,0:33:43.30,0:33:46.54,Default,,0,0,0,,Quite clever unit, aren't you?
+Dialogue: 5,0:33:47.67,0:33:51.71,Default,,0,0,0,,Did you notice? Everything around have been destroyed,
+Dialogue: 5,0:33:51.71,0:33:55.38,Default,,0,0,0,,but for some reason, this spot is barely damaged.
+Dialogue: 5,0:33:55.38,0:33:58.80,Default,,0,0,0,,The protective magic of the Elves.
+Dialogue: 5,0:33:59.31,0:34:03.10,Default,,0,0,0,,But of all possible places, why here?
 Dialogue: 5,0:34:03.10,0:34:06.80,Default,,0,0,0,,For the Elves, it could have been an escape route,
 Dialogue: 5,0:34:07.81,0:34:09.11,Default,,0,0,0,,a shelter,
 Dialogue: 5,0:34:09.90,0:34:13.95,Default,,0,0,0,,or perhaps... even something more valuable.
