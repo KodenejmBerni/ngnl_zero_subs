@@ -2409,20 +2409,51 @@ A research facility for new weaponry.
 
 なんだ こりゃ？
 Nanda korya?
-_
+What are these?
 
 オールドデウス カイナースの加護刻印
 Old Deus, Kainas no kago kokuin.
-Protective glyphs of the Old Deus, Kainas.
+Blessing glyphs of the Old Deus, Kainas.
 
+カイナース？
+Kainas?
+*
 
+エルフの創造主か
+Elf no sōzōshu ka
+The creator of the Elves…?
 
+加護刻印じゃない。
+Kago kokuin ja nai.
+They're not glyphs.
 
+エルフが使う刻印、術式、
+Elf ga tsukau kokuin, jutsushiki,
+In the glyphs and spells used by the Elves,
 
+データ上に該当なし。
+Deita-jou ni gaitou nashi.
+no matching data was found.
 
+またぞろ新しいデタラメでも作ったんだろ。
+Mata zoro atarashii detarame demo tsukutta ndaro.
+They’ve probably invented some new crap again.
 
+ドワーフといい星を壊すのに熱心なこって…
+Dwarves to ii, hoshi o kowasu no ni nesshin na kotte.
+Just like the dwarves, they're eager to destroy planets.
 
+“アーカ･シ･アンセ…
+“Áka Si Anse…
+*
 
+理論検証試験炉”。
+riron kenshou shikenro”
+proof of concept reactor”
+
+リク、エルフ語も読めるの？
+_
+_
 
 
 
