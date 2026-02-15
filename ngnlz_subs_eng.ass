@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 581
-Active Line: 597
-Video Position: 50339
+Scroll Position: 604
+Active Line: 614
+Video Position: 51718
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -596,7 +596,6 @@ Dialogue: 5,0:32:19.62,0:32:22.50,Default,,0,0,0,,Jeez, why it gotta be so long.
 Dialogue: 5,0:32:23.00,0:32:25.42,Default,,0,0,0,,Am I suppose to cut it?
 Dialogue: 5,0:32:25.65,0:32:27.46,Default,,0,0,0,,No, it’s fine, really.
 Dialogue: 5,0:32:27.92,0:32:30.51,Default,,0,0,0,,Sometimes you really don’t get it.
-Comment: 0,0:33:05.68,0:33:05.73,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:33:06.69,0:33:07.63,Default,,0,0,0,,Riku,
 Dialogue: 5,0:33:09.51,0:33:13.22,Default,,0,0,0,,I designed a compact telescope.
 Dialogue: 5,0:33:13.22,0:33:16.06,Default,,0,0,0,,Again? I haven't won at chess yet.
@@ -606,42 +605,44 @@ Dialogue: 5,0:33:26.65,0:33:27.65,Default,,0,0,0,,Yeah…
 Dialogue: 5,0:33:28.40,0:33:31.11,Default,,0,0,0,,One thing about this corner keeps bugging me.
 Dialogue: 5,0:33:31.53,0:33:34.41,Default,,0,0,0,,In any case, it's too far to just go there on a whim.
 Dialogue: 5,0:33:38.80,0:33:40.20,Default,,0,0,0,,Arrived.
-Dialogue: 5,0:33:43.30,0:33:46.54,Default,,0,0,0,,Quite clever unit, aren't you?
+Dialogue: 5,0:33:43.30,0:33:46.54,Default,,0,0,0,,Quick on the uptake, aren’t you?
 Dialogue: 5,0:33:47.67,0:33:51.71,Default,,0,0,0,,Did you notice? Everything around have been destroyed,
 Dialogue: 5,0:33:51.71,0:33:55.38,Default,,0,0,0,,but for some reason, this spot is barely damaged.
 Dialogue: 5,0:33:55.38,0:33:58.80,Default,,0,0,0,,The protective magic of the Elves.
 Dialogue: 5,0:33:59.31,0:34:03.10,Default,,0,0,0,,But of all possible places, why here?
-Dialogue: 5,0:34:03.10,0:34:06.80,Default,,0,0,0,,For the Elves, it could have been an escape route,
+Dialogue: 5,0:34:03.10,0:34:06.80,Default,,0,0,0,,It could have been an escape route,
 Dialogue: 5,0:34:07.81,0:34:09.11,Default,,0,0,0,,a shelter,
-Dialogue: 5,0:34:09.90,0:34:13.95,Default,,0,0,0,,or perhaps... even something more valuable.
-Dialogue: 5,0:34:17.66,0:34:21.95,Default,,0,0,0,,A research facility for new weaponry.
+Dialogue: 5,0:34:09.90,0:34:13.95,Default,,0,0,0,,or perhaps… something even more valuable.
+Dialogue: 5,0:34:17.66,0:34:20.53,Default,,0,0,0,,A research facility
+Dialogue: 5,0:34:20.53,0:34:21.95,Default,,0,0,0,,for new weaponry.
 Dialogue: 5,0:34:29.34,0:34:31.13,Default,,0,0,0,,What are these?
-Dialogue: 5,0:34:31.13,0:34:35.05,Default,,0,0,0,,Protective glyphs of the Old Deus, Kainas.
+Dialogue: 5,0:34:31.13,0:34:35.05,Default,,0,0,0,,Blessing glyphs of the Old Deus, Kainas.
 Dialogue: 5,0:34:35.05,0:34:36.36,Default,,0,0,0,,Kainas?
-Dialogue: 5,0:34:36.36,0:34:37.97,Default,,0,0,0,,Their creator?
+Dialogue: 5,0:34:36.36,0:34:37.97,Default,,0,0,0,,The creator of the Elves?
 Dialogue: 5,0:34:39.22,0:34:40.89,Default,,0,0,0,,They're not glyphs.
-Dialogue: 5,0:34:40.89,0:34:43.89,Default,,0,0,0,,In the glyphs and spells used by the Elves
+Dialogue: 5,0:34:40.89,0:34:43.89,Default,,0,0,0,,In the glyphs and spells used by the Elves,
 Dialogue: 5,0:34:43.89,0:34:46.27,Default,,0,0,0,,no matching data was found.
 Dialogue: 5,0:34:46.27,0:34:49.41,Default,,0,0,0,,They’ve probably invented some new crap again.
-Dialogue: 5,0:34:49.41,0:34:52.73,Default,,0,0,0,,Just like the dwarves, they're eager to destroy planets.
+Dialogue: 5,0:34:49.41,0:34:52.73,Default,,0,0,0,,Just like the dwarves,\Nthey're eager to obliterate this planet.
 Dialogue: 5,0:34:54.28,0:34:56.05,Default,,0,0,0,,“Áka Si Anse…
 Dialogue: 5,0:34:56.36,0:34:58.86,Default,,0,0,0,,proof of concept reactor”
-Dialogue: 5,0:34:59.53,0:35:02.45,Default,,0,0,0,,Riku, you can read Elvish?
-Dialogue: 5,0:35:03.91,0:35:07.69,Default,,0,0,0,,Everything you sacrifice is worthless if you can't put things to use.
-Dialogue: 5,0:35:07.72,0:35:09.38,Default,,0,0,0,,Legends, writings —
-Dialogue: 5,0:35:09.38,0:35:12.44,Default,,0,0,0,,we've used every means you can think of.
-Dialogue: 5,0:35:12.44,0:35:16.35,Default,,0,0,0,,Languages, customs, everything has been passed down to this day.
-Dialogue: 5,0:35:17.59,0:35:19.13,Default,,0,0,0,,Despite the circumstances
-Dialogue: 5,0:35:19.13,0:35:22.35,Default,,0,0,0,,we want much more than just to endlessly run away.
-Dialogue: 5,0:35:24.13,0:35:25.60,Default,,0,0,0,,Either way...
-Dialogue: 5,0:35:26.05,0:35:28.10,Default,,0,0,0,,I can't read a damn thing else here.
-Dialogue: 5,0:35:28.80,0:35:30.22,Default,,0,0,0,,Especially this part.
+Dialogue: 5,0:34:59.53,0:35:02.24,Default,,0,0,0,,Riku, you can read Elvish?
+Dialogue: 5,0:35:03.91,0:35:07.69,Default,,0,0,0,,The information we suffer to get is worthless if you can’t read it.
+Dialogue: 5,0:35:07.72,0:35:09.38,Default,,0,0,0,,Be it word or writing,
+Dialogue: 5,0:35:09.38,0:35:12.44,Default,,0,0,0,,we've continuously passed down the traits,
+Dialogue: 5,0:35:12.44,0:35:16.35,Default,,0,0,0,,languages, and customs of other races to this very day.
+Dialogue: 5,0:35:17.59,0:35:19.13,Default,,0,0,0,,Despite appearances,
+Dialogue: 5,0:35:19.13,0:35:22.35,Default,,0,0,0,,we are capable of more than just endlessly running away.
+Dialogue: 5,0:35:24.13,0:35:25.60,Default,,0,0,0,,Either way…
+Dialogue: 5,0:35:26.05,0:35:28.10,Default,,0,0,0,,I can't read anything else here.
+Dialogue: 5,0:35:28.80,0:35:30.22,Default,,0,0,0,,Especially here.
 Dialogue: 5,0:35:30.22,0:35:31.61,Default,,0,0,0,,Must be a name, right?
-Dialogue: 5,0:35:31.94,0:35:34.88,Default,,0,0,0,,If it's classified elven information,
-Dialogue: 5,0:35:34.88,0:35:38.50,Default,,0,0,0,,it's most likely encrypted.
-Dialogue: 5,0:35:38.50,0:35:44.87,Default,,0,0,0,,That's right, it must be... that even the names of everyone involved are encrypted.
-Dialogue: 5,0:35:45.83,0:35:47.79,Default,,0,0,0,,Áka Si Anse.
+Dialogue: 5,0:35:31.94,0:35:34.88,Default,,0,0,0,,If it is sensitive elven information
+Dialogue: 5,0:35:34.88,0:35:38.50,Default,,0,0,0,,the chance that it is encrypted is high.
+Dialogue: 5,0:35:38.50,0:35:44.87,Default,,0,0,0,,Yeah, the problem is… they’ve even encrypted the names of the people involved.
+Dialogue: 5,0:35:45.83,0:35:47.79,Default,,0,0,0,,Áka Si Anse…
 Dialogue: 5,0:35:48.83,0:35:52.59,Default,,0,0,0,,One thing we know for sure it's for no good.
+Comment: 0,0:35:56.03,0:35:56.07,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:35:57.05,0:35:58.34,Default,,0,0,0,,Riku, stand back!
 Dialogue: 5,0:35:58.51,0:35:59.72,Default,,0,0,0,,Lösen:
 Dialogue: 5,0:36:00.05,0:36:01.18,Default,,0,0,0,,Umweg.

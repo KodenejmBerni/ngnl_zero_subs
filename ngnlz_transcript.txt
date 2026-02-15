@@ -2373,9 +2373,9 @@ Arrived.
 
 随分気が利く機械だな、おい…
 Zuibun ki ga kiku kikai da na, oi…
-Quite clever unit, aren't you?
+Quick on the uptake, aren’t you?
 
-気づいてたか？　建物丸ごと破壊されてんのに、
+気づいてたか？建物丸ごと破壊されてんのに、
 Kidzuiteta ka? Tatemono marugoto hakai sareten no ni,
 Did you notice? Everything around have been destroyed,
 
@@ -2411,7 +2411,7 @@ A research facility for new weaponry.
 Nanda korya?
 What are these?
 
-オールドデウス カイナースの加護刻印
+オールドデウス カイナースの加護刻印。
 Old Deus, Kainas no kago kokuin.
 Blessing glyphs of the Old Deus, Kainas.
 
@@ -2419,9 +2419,9 @@ Blessing glyphs of the Old Deus, Kainas.
 Kainas?
 *
 
-エルフの創造主か
-Elf no sōzōshu ka
-The creator of the Elves…?
+エルフの創造主か？
+Elf no sōzōshu ka?
+The creator of the Elves?
 
 加護刻印じゃない。
 Kago kokuin ja nai.
@@ -2439,9 +2439,9 @@ no matching data was found.
 Mata zoro atarashii detarame demo tsukutta ndaro.
 They’ve probably invented some new crap again.
 
-ドワーフといい星を壊すのに熱心なこって…
+ドワーフといい星を壊すのに熱心なこって。
 Dwarves to ii, hoshi o kowasu no ni nesshin na kotte.
-Just like the dwarves, they're eager to destroy planets.
+Just like the dwarves, they're eager to obliterate this planet.
 
 “アーカ･シ･アンセ…
 “Áka Si Anse…
@@ -2452,8 +2452,80 @@ riron kenshou shikenro”
 proof of concept reactor”
 
 リク、エルフ語も読めるの？
-_
-_
+Riku, Elf go mo yomeru no?
+Riku, you can read Elvish?
+
+苦労して手にした情報も。
+Kurou shite te ni shita jouhou mo yomenakya kachi ga nai.
+The information we suffer to get is worthless if you can’t read it.
+
+口づてや筆記、
+Kuchizute ya hikki,
+Be it word or writing,
+
+思いつくかぎりの方法で他種族の性質、
+omoitsuku kagiri no houhou de tashuzoku no seishitsu,
+we've continuously passed down the traits,
+
+言語、習慣まで、連綿と今日まで伝えてる。
+gengo, shuukan made renmen to kyou made tsutaeteru.
+languages, and customs of other races to this very day.
+
+人間だって、
+Ningen datte,
+Despite appearances,
+
+永遠に滅ほろぼされ続けて来たわけじゃねぇってことだ。
+tada eien ni horobosare tsuzukete kita wake ja nē tte koto da.
+we are capable of more than just endlessly running away.
+
+と言ったものの…
+To itta mono no…
+Either way…
+
+それ以外は、まるで読めねえな。
+Sore igai wa, marude yomenei na.
+I can't read anything else here.
+
+特にここ。
+Toku ni koko.
+Especially here.
+
+名前… だよな？
+Namae… da yo na?
+Must be a name, right?
+
+エルフの機密情報なら
+Elf no kimitsu jouhou nara
+If it is sensitive elven information
+
+暗号化されてる可能性 高い。
+Angouka sareteru kanousei takai.
+the chance that it is encrypted is high.
+
+そうだな、問題は…関係者の名前すら暗号で書いてるってことだろ。
+Sō da na, mondai wa… Kankeisha no namae sura angou de kaiteru tte koto daro.
+Yeah, the problem is… they’ve even encrypted the names of the people involved.
+
+アーカ･シ･アンセ。
+Áka Si Anse.
+*
+
+ろくでもねえもんなのだけは確実か。
+Roku demo nei mon na no dake wa kakujitsu ka.
+One thing we know for sure it's for no good.
+
+
+0:35:56
+
+
+リク、下がって！
+Riku, sagatte!
+Riku, stand back!
+
+レーゼン！
+Lösen!
+*
 
 
 
