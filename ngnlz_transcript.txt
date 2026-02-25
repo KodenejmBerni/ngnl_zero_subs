@@ -2523,13 +2523,69 @@ One thing we know for sure it's for no good.
 Riku, sagatte!
 Riku, stand back!
 
-レーゼン！
-Lösen!
+レーゼン:
+Lösen:
 *
 
+アインヴィーグ。
+Umweg.
+*
 
-...
+走って！
+Hashitte!
+Run!
 
+くそ！
+Kuso!
+Shit!
+
+シュヴィ…
+Schwi…
+*
+
+シュヴィ！
+Schwi!
+*
+
+リ—
+Rik—
+*
+
+シュヴィ…
+Schwi…
+*
+
+シュヴィ！
+Schwi!
+*
+
+シュヴィ…
+Schwi…
+*
+
+セキュリティーシステム…
+Security system…
+*
+
+エルフの術式…生きてた。
+Elven magic… active.
+Elf no jutsushiki… ikitetа
+
+でも、大丈夫。
+Demo, daijoubu.
+But, I be fine.
+
+レーゼン
+Lösen:
+*
+
+シュテーアポクリフェン。
+Stehapokryphen.
+*
+
+今のは？
+Ima no wa?
+What was that?
 
 エクスマキナの特性。
 Ex-machina no tokusei.
@@ -2586,18 +2642,6 @@ A black ash storm.
 シュヴィ平気。
 Schwi heiki.
 Schwi's fine.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
