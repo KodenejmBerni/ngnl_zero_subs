@@ -2805,14 +2805,17 @@ Just hide quietly until you vanish into dust?
 
 それがイヤだからと
 Sore ga iya da kara to
-And if not,
+And if you can't bear it,
+_
 
-1,001人のために 999人を見殺しにすれば。
-1,001-nin no tame ni 999-nin o migoroshi ni sureba.
+1,001人のために999人を見殺しにすれば？
+1,001-nin no tame ni 999-nin o migoroshi ni sureba?
+you send 999 to their deaths for the sake of 1,001?
 _
 
 世界は変わるのか！　なあ！
 Sekai wa kawaru no ka! Naa!
+Will that change anything, huh?!
 _
 
 リク…
@@ -2838,6 +2841,50 @@ That's what I'd like to know…
 リクの心は…なんて答えるの？
 Riku no kokoro wa… nante kotaeru no?
 Riku's heart… what does it tell?
+
+こんなぶざまな格好さらして。
+Konna buzama na kakko sarashite.
+That’s really pathetic of me.
+
+それが分かんねえから聞いたのに。
+Sore ga wakanee kara kiita noni.
+I asked because I don't know myself.
+
+そりゃないだろ…
+Sorya nai doro…
+I'm a mess…
+
+リクは
+Riku wa
+What would Riku
+
+どうしたいの？
+doushitai no?
+like to do?
+
+どうしたい？
+Doushitai?
+Would like?
+
+それがなんであれ、
+Sore ga nan de are,
+Whatever it is,
+
+シュヴィは手伝う。
+Schwi wa tetsudau.
+Schwi will help.
+
+リクの心分かるまで、シュヴィそばにいる。
+
+
+
+
+
+
+
+
+
+
 
 
 
