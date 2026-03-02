@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 688
+Scroll Position: 687
 Active Line: 701
-Video Position: 59249
+Video Position: 59200
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -714,7 +714,7 @@ Dialogue: 5,0:40:04.60,0:40:07.48,Default,,0,0,0,,and after that? What do you do
 Dialogue: 5,0:40:07.48,0:40:09.10,Default,,0,0,0,,The hell can you do?!
 Dialogue: 5,0:40:09.42,0:40:12.34,Default,,0,0,0,,Just hide quietly until you vanish into dust?
 Dialogue: 5,0:40:12.85,0:40:14.17,Default,,0,0,0,,And if you can't bear it,
-Dialogue: 5,0:40:14.17,0:40:17.42,Default,,0,0,0,,you send 999 to their deaths for the sake of 1,001?
+Dialogue: 5,0:40:14.17,0:40:17.42,Default,,0,0,0,,do you send 999 to their deaths\Nfor the sake of 1,001?
 Dialogue: 5,0:40:17.46,0:40:19.80,Default,,0,0,0,,Will that change anything, huh?!
 Dialogue: 5,0:40:20.45,0:40:21.23,Default,,0,0,0,,Riku.
 Dialogue: 5,0:40:24.16,0:40:25.90,Default,,0,0,0,,Tell me, Schwi…
@@ -730,7 +730,7 @@ Dialogue: 5,0:40:57.41,0:40:58.79,Default,,0,0,0,,like to do?
 Dialogue: 5,0:41:01.56,0:41:02.86,Default,,0,0,0,,Would like?
 Dialogue: 5,0:41:03.65,0:41:05.40,Default,,0,0,0,,Whatever it is,
 Dialogue: 5,0:41:06.64,0:41:08.34,Default,,0,0,0,,Schwi will help.
-Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,I'll stay by your side to witness the heart.
+Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,Until she understands Riku's heart, Schwi will follow.
 Dialogue: 5,0:41:14.10,0:41:18.70,Default,,0,0,0,,I'll stay to see what your heart will give meaning to.
 Dialogue: 5,0:41:19.45,0:41:20.70,Default,,0,0,0,,Therefore...
 Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,Schwi wants what Riku wants.

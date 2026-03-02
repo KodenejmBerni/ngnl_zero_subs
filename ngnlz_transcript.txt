@@ -2806,17 +2806,14 @@ Just hide quietly until you vanish into dust?
 それがイヤだからと
 Sore ga iya da kara to
 And if you can't bear it,
-_
 
 1,001人のために999人を見殺しにすれば？
 1,001-nin no tame ni 999-nin o migoroshi ni sureba?
-you send 999 to their deaths for the sake of 1,001?
-_
+do you send 999 to their deaths for the sake of 1,001?
 
 世界は変わるのか！　なあ！
 Sekai wa kawaru no ka! Naa!
 Will that change anything, huh?!
-_
 
 リク…
 Riku…
@@ -2875,13 +2872,49 @@ Schwi wa tetsudau.
 Schwi will help.
 
 リクの心分かるまで、シュヴィそばにいる。
+Riku no kokoro wakaru made, Schwi soba ni iru.
+Schwi will follow, until she understands Riku's heart.
 
+リクの心がどうしたいかそばで見届ける。
+Riku no kokoro ga dou shitai ka, soba de mitodokeru.
+_
+She will follow to see, what purpose Riku's heart finds.
 
+だから…
+Dakara…
+Therefore…
 
+シュヴィは“リクのやりたい”をやりたい
+Schwi wa “Riku no yaritai” o yaritai.
+_
 
+チェックメイト。
+Checkmate.
+*
 
+シュヴィ、
+Schwi,
+*
 
+ここはさせめて引き分けるシーンじゃねえかな空気的に。
+Koko wa sa, semete hikiwakeru shiin ja nee kana, kuuki-teki ni.
+you could at least let me get a draw. Read the Atmosphere.
 
+大気状態がどうかした？
+Taiki joutai ga douka shita?
+Should I measure the weather conditions?
+
+いや。
+Iya.
+No.
+
+なんでもない。
+Nandemonai.
+Nevermind.
+
+キレイ…
+Kirei…
+Beautiful…
 
 
 
