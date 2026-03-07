@@ -2705,7 +2705,7 @@ Riku, if you can't win,
 
 勝負するの？
 shoubu suru no?
-why do you keep playing?
+why do you play?
 
 勝てない？
 Katenai?
@@ -2733,7 +2733,7 @@ Schwi understands a bit.
 
 現在の惑星環境人間に致命的。
 Genzai no wakusei kankyou　ningen ni chimeiteki.
-Current conditions on the planet are fatal for humans.
+Current conditions on the planet are catastrophic for humans.
 
 生きてるの…
 Ikiteru no…
@@ -2748,7 +2748,7 @@ Sono ijou—
 That anomaly—
 
 訂正: 偉業
-Teisei: igyou
+teisei: igyou
 correction: achievement
 
 可能にしてるのがリクの心、
@@ -2784,7 +2784,7 @@ Jaa kiku ga
 Let me ask you,
 
 こんな世界生き延びていったい なんになる？
-Konna sekai ikinobite ittai nan ni naru?
+konna sekai ikinobite ittai nan ni naru?
 what’s the point of surviving in a world like this?
 
 必死に逃げて、逃げ延びて、
@@ -2795,7 +2795,7 @@ Desperately running, barely making it through,
 Sono ato wa? Sore de dou suru?
 and after that? What do you do?
 
-じゃあ いったい どうすればいい？
+じゃあ いったい どうすればいい？！
 Jaa, ittai dou sureba ii?
 The hell can you do?!
 
@@ -2813,7 +2813,7 @@ do you send 999 to their deaths for the sake of 1,001?
 
 世界は変わるのか！　なあ！
 Sekai wa kawaru no ka! Naa!
-Will that change anything, huh?!
+Does that change anything, huh?!
 
 リク…
 Riku…
@@ -2873,12 +2873,11 @@ Schwi will help.
 
 リクの心分かるまで、シュヴィそばにいる。
 Riku no kokoro wakaru made, Schwi soba ni iru.
-Schwi will follow, until she understands Riku's heart.
+Until Schwi understands Riku's heart, she'll be by his side.
 
 リクの心がどうしたいかそばで見届ける。
 Riku no kokoro ga dou shitai ka, soba de mitodokeru.
-_
-She will follow to see, what purpose Riku's heart finds.
+She'll follow to see, what purpose Riku's heart finds.
 
 だから…
 Dakara…
@@ -2886,7 +2885,7 @@ Therefore…
 
 シュヴィは“リクのやりたい”をやりたい
 Schwi wa “Riku no yaritai” o yaritai.
-_
+What Riku wants is Schwi's wish.
 
 チェックメイト。
 Checkmate.
@@ -2916,10 +2915,62 @@ Nevermind.
 Kirei…
 Beautiful…
 
+シュヴィ、
+Schwi,
+*
+
+独りじゃないって…いいもんだな。
+Hitori ja nai tte… ii mon da na.
+not being lonely… feels nice.
+
+リク、ずっと独りじゃなかったよ？
+Riku, zutto hitori ja nakatta yo?
+Riku, weren’t you with others?
+
+いいや。
+Iiya.
+No.
+
+バカみたいに無理して、背伸びして…
+baka mitai ni muri shite, senobi shite…
+I struggled like a fool, overreaching…
+
+カッコつけてたよ。
+kakko tsuketeta yo.
+playing tough.
+
+けど…
+Kedo…
+But now…
+
+どうしたいか
+dou shitai ka
+I have a feeling 
+
+それだけに従ってみるのも案外ありかもしれないな。
+sore dake ni shitagatte miru no mo angai ari kamo shirenai na.
+that following what you want might not be such a bad idea.
+
+シュヴィ、
+Schwi,
+*
+
+教えてくれ
+oshiete kure,
+tell me please,
+
+この大戦の目的と終結の条件を。
+Kono taisen no mokuteki to shuukei no jouken o.
+what's the purpose of this war and what it takes to end it.
 
 
+0:42:47
 
 
+子供のころ
+
+
+世界は もっと単純だと思っていた
 
 
 

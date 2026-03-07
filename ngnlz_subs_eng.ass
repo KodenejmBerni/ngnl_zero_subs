@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 687
-Active Line: 701
-Video Position: 59200
+Scroll Position: 720
+Active Line: 724
+Video Position: 61574
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -684,18 +684,17 @@ Dialogue: 5,0:38:33.79,0:38:34.79,Default,,0,0,0,,Really?
 Dialogue: 5,0:38:35.08,0:38:36.54,Default,,0,0,0,,In this storm
 Dialogue: 5,0:38:36.54,0:38:39.38,Default,,0,0,0,,we shouldn't be detected by anyone anyway.
 Dialogue: 5,0:38:39.79,0:38:41.55,Default,,0,0,0,,It’s a good way to kill some time.
-Comment: 0,0:38:49.19,0:38:49.24,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:38:49.93,0:38:51.93,Default,,0,0,0,,Damn it! I lost again!
+Dialogue: 5,0:38:49.93,0:38:51.93,Default,,0,0,0,,Shit! I lost again!
 Dialogue: 5,0:38:51.93,0:38:53.31,Default,,0,0,0,,One more time!
 Dialogue: 5,0:38:53.61,0:38:56.05,Default,,0,0,0,,Riku, if you can't win,
-Dialogue: 5,0:38:56.05,0:38:57.45,Default,,0,0,0,,why do you keep playing?
+Dialogue: 5,0:38:56.05,0:38:57.45,Default,,0,0,0,,why do you play?
 Dialogue: 5,0:38:57.45,0:38:58.54,Default,,0,0,0,,I can't win?
 Dialogue: 5,0:38:59.20,0:39:01.40,Default,,0,0,0,,Riku, you still haven't won
 Dialogue: 5,0:39:01.50,0:39:02.90,Default,,0,0,0,,a single time.
 Dialogue: 5,0:39:03.61,0:39:06.45,Default,,0,0,0,,I’ve forced you to think longer.
 Dialogue: 5,0:39:07.03,0:39:09.70,Default,,0,0,0,,Who decided I can never win?
 Dialogue: 5,0:39:13.90,0:39:17.10,Default,,0,0,0,,Schwi understands a bit.
-Dialogue: 5,0:39:18.35,0:39:23.30,Default,,0,0,0,,Current conditions on the planet are fatal for humans.
+Dialogue: 5,0:39:18.35,0:39:23.30,Default,,0,0,0,,Current conditions on the planet are catastrophic for humans.
 Dialogue: 5,0:39:23.30,0:39:24.70,Default,,0,0,0,,Staying alive is…
 Dialogue: 5,0:39:24.70,0:39:25.80,Default,,0,0,0,,an anomaly.
 Dialogue: 5,0:39:26.92,0:39:28.03,Default,,0,0,0,,That anomaly—
@@ -715,8 +714,8 @@ Dialogue: 5,0:40:07.48,0:40:09.10,Default,,0,0,0,,The hell can you do?!
 Dialogue: 5,0:40:09.42,0:40:12.34,Default,,0,0,0,,Just hide quietly until you vanish into dust?
 Dialogue: 5,0:40:12.85,0:40:14.17,Default,,0,0,0,,And if you can't bear it,
 Dialogue: 5,0:40:14.17,0:40:17.42,Default,,0,0,0,,do you send 999 to their deaths\Nfor the sake of 1,001?
-Dialogue: 5,0:40:17.46,0:40:19.80,Default,,0,0,0,,Will that change anything, huh?!
-Dialogue: 5,0:40:20.45,0:40:21.23,Default,,0,0,0,,Riku.
+Dialogue: 5,0:40:17.46,0:40:19.80,Default,,0,0,0,,Does that change anything, huh?!
+Dialogue: 5,0:40:20.45,0:40:21.23,Default,,0,0,0,,Riku…
 Dialogue: 5,0:40:24.16,0:40:25.90,Default,,0,0,0,,Tell me, Schwi…
 Dialogue: 5,0:40:27.15,0:40:28.82,Default,,0,0,0,,what else can you do?
 Dialogue: 5,0:40:30.07,0:40:33.20,Default,,0,0,0,,What… am I supposed to do…
@@ -730,29 +729,30 @@ Dialogue: 5,0:40:57.41,0:40:58.79,Default,,0,0,0,,like to do?
 Dialogue: 5,0:41:01.56,0:41:02.86,Default,,0,0,0,,Would like?
 Dialogue: 5,0:41:03.65,0:41:05.40,Default,,0,0,0,,Whatever it is,
 Dialogue: 5,0:41:06.64,0:41:08.34,Default,,0,0,0,,Schwi will help.
-Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,Until she understands Riku's heart, Schwi will follow.
-Dialogue: 5,0:41:14.10,0:41:18.70,Default,,0,0,0,,I'll stay to see what your heart will give meaning to.
+Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,Until Schwi understands Riku's heart,\Nshe'll be by his side.
+Dialogue: 5,0:41:14.10,0:41:18.70,Default,,0,0,0,,She will follow to see,\Nwhat purpose Riku's heart finds.
 Dialogue: 5,0:41:19.45,0:41:20.70,Default,,0,0,0,,Therefore...
-Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,Schwi wants what Riku wants.
+Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,What Riku wants is Schwi's wish.
 Dialogue: 5,0:41:35.69,0:41:36.95,Default,,0,0,0,,Checkmate.
 Dialogue: 5,0:41:40.43,0:41:41.35,Default,,0,0,0,,Schwi,
 Dialogue: 5,0:41:41.45,0:41:45.80,Default,,0,0,0,,you could at least let me get a draw. Read the Atmosphere.
 Dialogue: 5,0:41:45.85,0:41:48.90,Default,,0,0,0,,Should I measure the weather conditions?
 Dialogue: 5,0:41:51.68,0:41:52.75,Default,,0,0,0,,No.
 Dialogue: 5,0:41:53.98,0:41:55.11,Default,,0,0,0,,Nevermind.
-Dialogue: 5,0:42:05.47,0:42:06.69,Default,,0,0,0,,Beautiful...
+Dialogue: 5,0:42:05.47,0:42:06.69,Default,,0,0,0,,Beautiful…
 Dialogue: 5,0:42:10.85,0:42:12.46,Default,,0,0,0,,Schwi,
-Dialogue: 5,0:42:12.46,0:42:14.90,Default,,0,0,0,,it's nice not to be alone.
-Dialogue: 5,0:42:16.19,0:42:17.11,Default,,0,0,0,,Riku,
-Dialogue: 5,0:42:17.11,0:42:18.97,Default,,0,0,0,,didn't you do everything alone?
+Dialogue: 5,0:42:12.46,0:42:14.90,Default,,0,0,0,,not being lonely… feels nice.
+Dialogue: 5,0:42:16.19,0:42:18.97,Default,,0,0,0,,Riku, weren't you with others?
 Dialogue: 5,0:42:19.13,0:42:20.19,Default,,0,0,0,,No.
-Dialogue: 5,0:42:20.20,0:42:21.53,Default,,0,0,0,,I struggled like a fool
-Dialogue: 5,0:42:21.53,0:42:24.00,Default,,0,0,0,,putting up a front for myself.
+Dialogue: 5,0:42:20.20,0:42:22.81,Default,,0,0,0,,I struggled like a fool, overreaching…
+Dialogue: 5,0:42:22.81,0:42:24.00,Default,,0,0,0,,playing tough.
 Dialogue: 5,0:42:24.75,0:42:25.76,Default,,0,0,0,,But now...
-Dialogue: 5,0:42:26.62,0:42:32.69,Default,,0,0,0,,I have a feeling that following what you want can be quite an idea.
+Dialogue: 5,0:42:26.62,0:42:28.28,Default,,0,0,0,,I have a feeling 
+Dialogue: 5,0:42:28.28,0:42:32.69,Default,,0,0,0,,that following what you want might not be such a bad idea.
 Dialogue: 5,0:42:37.01,0:42:37.91,Default,,0,0,0,,Schwi,
 Dialogue: 5,0:42:39.61,0:42:40.58,Default,,0,0,0,,tell me please,
 Dialogue: 5,0:42:40.68,0:42:44.08,Default,,0,0,0,,what's the purpose of this war and what it takes to end it.
+Comment: 0,0:42:47.42,0:42:47.47,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:42:48.14,0:42:49.33,Default,,0,0,0,,When I was a child,
 Dialogue: 5,0:42:49.85,0:42:52.34,Default,,0,0,0,,the world was simple for me.
 Dialogue: 5,0:42:53.81,0:42:55.55,Default,,0,0,0,,Nothing was unbeatable
