@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 719
-Active Line: 743
-Video Position: 62882
+Scroll Position: 722
+Active Line: 747
+Video Position: 63923
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -752,7 +752,6 @@ Dialogue: 5,0:42:28.28,0:42:32.69,Default,,0,0,0,,that following what you want m
 Dialogue: 5,0:42:37.01,0:42:37.91,Default,,0,0,0,,Schwi,
 Dialogue: 5,0:42:39.61,0:42:40.58,Default,,0,0,0,,tell me please,
 Dialogue: 5,0:42:40.68,0:42:44.08,Default,,0,0,0,,what's the purpose of this war and what it takes to end it.
-Comment: 0,0:42:47.42,0:42:47.47,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:42:48.14,0:42:49.33,Default,,0,0,0,,When I was a child,
 Dialogue: 5,0:42:49.85,0:42:52.34,Default,,0,0,0,,I thought the world was much simpler.
 Dialogue: 5,0:42:53.81,0:42:55.55,Default,,0,0,0,,Nothing was unbeatable,
@@ -776,6 +775,7 @@ Dialogue: 5,0:43:42.70,0:43:46.30,Default,,0,0,0,,Is it that Schwi
 Dialogue: 5,0:43:47.12,0:43:48.83,Default,,0,0,0,,is into
 Dialogue: 5,0:43:48.83,0:43:49.73,Default,,0,0,0,,those eyes?
 Dialogue: 5,0:43:55.00,0:43:56.82,Default,,0,0,0,,That's so like you.
+Comment: 0,0:44:25.32,0:44:25.36,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:44:26.09,0:44:27.47,Default,,0,0,0,,This is bad!
 Dialogue: 5,0:44:29.78,0:44:30.77,Default,,0,0,0,,Stay calm!
 Dialogue: 5,0:44:30.77,0:44:32.06,Default,,0,0,0,,Go to the west exit!
