@@ -71,22 +71,22 @@ EN -> FR
 The Riku's rules:
 
 【一つ】 誰も殺してはならない
-1. No one can be killed.
+1: You must not kill anyone.
 
 【二つ】 誰も死なせてはならない
-2. No one can be left to die.
+2: You must not cause anyone to die.
 
 【三つ】 誰にも悟られてはならない
-3. 
+3: No one must discover you.
 
 【四つ】 如何なる手も不正ではない
-4. 
+4: No trickery is off limits.
 
 【五つ】 奴らのルールなど知ったことではない
-5. 
+5: Their rules mean nothing to us.
 
 【六つ】 上記に違反する一切は、敗北とする
-6. Breaking any of these rules results in a loss.
+6: Breaking any of these rules results in a loss.
 
 Used:
 * 1:14:19 - 1:14:40
