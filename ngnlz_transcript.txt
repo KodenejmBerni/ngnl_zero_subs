@@ -3230,7 +3230,7 @@ What do we do in this shit-ridden world?
 
 逃げて、生き延びて、終戦を祈るか？
 nigete, ikinobite, shuusen o inoru ka?
-Run, hide and pray for the end of war?
+Run, hide and pray for the war to end?
 
 誰に？
 Dare ni?
@@ -3266,7 +3266,7 @@ These pieces of shit deserve nothing from us!
 
 いいかげん認めよう。
 Iikagen mitomeyou.
-It's time to realize it.
+It's time to face it.
 
 この世界に、希望なんかない。
 Kono sekai ni, kibuo nankanai.
@@ -3293,8 +3293,8 @@ What those bastards are after, is the Suniaster.
 Sekai no zettai shihaiken to iu gainen souchi o shuchuu ni osameyou to.
 A conceptual device, which is said to grant absolute power over the world.
 
-なんでもありのくだらねえゲームに明け暮れているだけだ。
-Nandemoari no kudaranee geimu ni akekurete iru dake da.
+なんでもありのくだらねえゲームに明け暮れているだけだ！
+Nandemoari no kudaranee geimu ni akekurete iru dake da!
 Their pathetic contest is the only thing they care about!
 
 だったら、
@@ -3313,47 +3313,61 @@ and then
 shouri suru.
 go for victory.
 
-1: dare mo koroshite wa naranai.
-1: You must not kill.
+一つ: 誰も殺してはならない。
+1: Dare mo koroshite wa naranai.
+1: You must not kill anyone.
 
-Kokoro wa dare mo koroshitakunaikara.
-The heart despises murder.
+心は誰も殺したくないから。
+Kokoro wa dare mo koroshitakunai kara.
+For the heart doesn’t want to kill.
 
-2: dare mo shina sete wa naranai.
-2: You must not let anyone die.
+二つ: 誰も死なせてはならない。
+2: Dare mo shina sete wa naranai.
+2: You must not cause anyone to die.
 
-Kokoro wa dare mo shina setakunaikara.
-The heart wishes no one death.
+心は誰も死なせたくないから。
+Kokoro wa dare mo shinasetakunai kara.
+For the heart doesn’t want others to die.
 
-3: Darenimo satora rete wa naranai.
+三つ: 誰にも悟られてはならない。
+3: Dare ni mo satorarete wa naranai.
 3: No one must discover you.
 
-Satora rereba shinukara.
-Detection means death.
+悟られれば死ぬから。
+Satorare reba shinu kara.
+For being detected means death.
 
-4: Ikanarute mo fuseide wanai.
+四つ: 如何なる手も不正ではない。
+4: Ikanaru　te mo fusei　de wa　nai.
 4: No trickery is off limits.
 
-Satora renakereba ikanaru peten mo peten ni ataranaikara.
-If you are not caught, no tactic is considered cheating.
+悟られなければ、いかなるペテンもペテンにあたらないから。
+Satorarenakereba, ikanaru peten mo peten ni ataranai kara.
+For if no one finds out, no cheating is considered cheating.
 
-5: Yatta no rūru nado shitta kotode wanai.
+五つ: 奴らのルールなど知ったことではない。
+5: Yatsura no ruuru nado shitta koto de wa nai.
 5: Their rules mean nothing to us.
 
-Kokoro wa koroshiai nado kuso kuraidakara.
-The heart despises their pathetic methods.
+心は殺し合いなどくそ食らえだから。
+Kokoro wa koroshiai nado kuso kurae da kara.
+For the heart doesn’t give a shit about their ways.
 
-6: Jōki ni ihan suru issai wa haiboku to suru.
-6: Break any of these rules and you lose.
+六つ: 上記に違反する一切は、敗北とする。
+6: Jouki ni ihan suru issai wa haiboku to suru.
+6: Breaking any of these rules results in a loss.
 
-Kokoro wa korera ni ihan shita shōri ni kachi o kanjinaikara.
-The heart doesn't value a victory that violates these rules.
+心はこれらに違反した勝利に価値を感じないから。
+Kokoro wa korera ni ihan shita shouri ni kachi o kanjinai kara.
+For the heart sees no value in a victory that violates these rules.
 
-Ijō
+以上。
+Ijou.
 That's all.
 
-yaritai yō ni yaru.
-Nothing else restrains us.
+やりたいようにやる。
+Yaritai you ni yaru.
+The rest is up to us.
 
 Warera wa yūrei.
 We are ghosts.

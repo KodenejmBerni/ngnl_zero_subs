@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 793
-Active Line: 804
-Video Position: 68186
+Scroll Position: 806
+Active Line: 819
+Video Position: 69298
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -806,14 +806,13 @@ Dialogue: 5,0:45:50.74,0:45:53.40,Default,,0,0,0,,What are you two cooking up, h
 Dialogue: 5,0:45:53.95,0:45:55.45,Default,,0,0,0,,Just a game.
 Dialogue: 5,0:45:56.08,0:45:57.64,Default,,0,0,0,,We're about
 Dialogue: 5,0:45:57.64,0:45:59.93,Default,,0,0,0,,to start a mere child's play.
-Comment: 0,0:46:00.94,0:46:00.98,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:46:01.44,0:46:07.24,Default,,0,0,0,,Everyone here is considered to have failed to escape the village in time and to have died.
 Dialogue: 5,0:46:07.44,0:46:09.91,Default,,0,0,0,,Those who no longer exist in this world.
 Dialogue: 5,0:46:10.45,0:46:11.65,Default,,0,0,0,,Ghosts.
 Dialogue: 5,0:46:13.43,0:46:15.81,Default,,0,0,0,,“Someday the war will end…”
 Dialogue: 5,0:46:15.81,0:46:18.47,Default,,0,0,0,,Stop waiting for a future that will never come.
 Dialogue: 5,0:46:19.54,0:46:21.64,Default,,0,0,0,,What do we do in this shit-ridden world?
-Dialogue: 5,0:46:21.64,0:46:24.84,Default,,0,0,0,,Run, hide and pray for the end of war?
+Dialogue: 5,0:46:21.64,0:46:24.84,Default,,0,0,0,,Run, hide and pray for the war to end?
 Dialogue: 5,0:46:25.44,0:46:26.54,Default,,0,0,0,,To who?
 Dialogue: 5,0:46:26.99,0:46:29.22,Default,,0,0,0,,To these butchers called gods?!
 Dialogue: 5,0:46:30.03,0:46:32.74,Default,,0,0,0,,The creator of the Flügel, Artosh.
@@ -822,7 +821,7 @@ Dialogue: 5,0:46:35.50,0:46:38.68,Default,,0,0,0,,The creator of the Dwarves, Oc
 Dialogue: 5,0:46:38.68,0:46:42.79,Default,,0,0,0,,They each claim the right to be the sole god of this world
 Dialogue: 5,0:46:42.79,0:46:47.17,Default,,0,0,0,,and while quarreling they spread death and destruction!
 Dialogue: 5,0:46:47.17,0:46:49.91,Default,,0,0,0,,These pieces of shit deserve nothing from us!
-Dialogue: 5,0:46:51.80,0:46:53.50,Default,,0,0,0,,It's time to realize it.
+Dialogue: 5,0:46:51.80,0:46:53.50,Default,,0,0,0,,It's time to face it.
 Dialogue: 5,0:46:53.95,0:46:56.83,Default,,0,0,0,,In this world, we have no place.
 Dialogue: 5,0:46:58.32,0:46:59.72,Default,,0,0,0,,That's why
 Dialogue: 5,0:46:59.72,0:47:01.70,Default,,0,0,0,,we need to build it with our own hands.
@@ -834,62 +833,63 @@ Dialogue: 5,0:47:18.79,0:47:20.22,Default,,0,0,0,,In that case,
 Dialogue: 5,0:47:20.22,0:47:22.71,Default,,0,0,0,,we'll also make the rules as we like
 Dialogue: 5,0:47:22.71,0:47:23.90,Default,,0,0,0,,and then
 Dialogue: 5,0:47:23.90,0:47:25.10,Default,,0,0,0,,go for victory.
-Dialogue: 5,0:47:27.12,0:47:30.01,Default,,0,0,0,,1: You must not kill.
-Dialogue: 5,0:47:30.05,0:47:32.59,Default,,0,0,0,,{\i1}The heart despises murder.
-Dialogue: 5,0:47:32.49,0:47:35.65,Default,,0,0,0,,2: You must not let anyone die.
-Dialogue: 5,0:47:35.55,0:47:38.16,Default,,0,0,0,,{\i1}The heart wishes no one death.
-Dialogue: 5,0:47:38.06,0:47:40.97,Default,,0,0,0,,3: No one must discover you.
-Dialogue: 5,0:47:40.87,0:47:42.95,Default,,0,0,0,,{\i1}Being detected means death.
-Dialogue: 5,0:47:42.85,0:47:45.96,Default,,0,0,0,,4: No trickery is off limits.
-Dialogue: 5,0:47:45.86,0:47:49.73,Default,,0,0,0,,{\i1}If you are not caught, no tactic is considered cheating.
-Dialogue: 5,0:47:49.63,0:47:53.04,Default,,0,0,0,,5: Their rules mean nothing to us.
-Dialogue: 5,0:47:52.94,0:47:55.74,Default,,0,0,0,,{\i1}The heart despises their pathetic ways.
-Dialogue: 5,0:47:55.64,0:48:00.52,Default,,0,0,0,,6: Break any of these rules and you lose.
-Dialogue: 5,0:48:00.42,0:48:04.23,Default,,0,0,0,,{\i1}The heart doesn't value a victory\Nthat violates these rules.
+Dialogue: 5,0:47:27.12,0:47:30.05,Default,,0,0,0,,1: You must not kill anyone.
+Dialogue: 5,0:47:30.05,0:47:32.49,Default,,0,0,0,,{\i1}For the heart doesn’t want to kill.
+Dialogue: 5,0:47:32.49,0:47:35.55,Default,,0,0,0,,2: You must not cause anyone to die.
+Dialogue: 5,0:47:35.55,0:47:38.06,Default,,0,0,0,,{\i1}For the heart doesn’t want others to die.
+Dialogue: 5,0:47:38.06,0:47:40.87,Default,,0,0,0,,3: No one must discover you.
+Dialogue: 5,0:47:40.87,0:47:42.85,Default,,0,0,0,,{\i1}For being detected means death.
+Dialogue: 5,0:47:42.85,0:47:45.86,Default,,0,0,0,,4: No trickery is off limits.
+Dialogue: 5,0:47:45.86,0:47:49.63,Default,,0,0,0,,{\i1}For if no one finds out,\Nno cheating is considered cheating.
+Dialogue: 5,0:47:49.63,0:47:52.94,Default,,0,0,0,,5: Their rules mean nothing to us.
+Dialogue: 5,0:47:52.94,0:47:55.64,Default,,0,0,0,,{\i1}For the heart doesn’t give a shit about their ways.
+Dialogue: 5,0:47:55.64,0:48:00.42,Default,,0,0,0,,6: Breaking any of these rules results in a loss.
+Dialogue: 5,0:48:00.42,0:48:04.23,Default,,0,0,0,,{\i1}For the heart sees no value in a victory\Nthat violates these rules.
 Dialogue: 5,0:48:05.43,0:48:06.73,Default,,0,0,0,,That's all.
-Dialogue: 5,0:48:07.40,0:48:09.20,Default,,0,0,0,,Nothing else restrains us.
-Dialogue: 5,0:48:10.27,0:48:11.86,Default,,0,0,0,,We are ghosts.
-Dialogue: 5,0:48:11.76,0:48:16.83,Default,,0,0,0,,Nobody, not even the Old Deus, will die by our hand.
-Dialogue: 5,0:48:16.73,0:48:18.76,Default,,0,0,0,,And we'll stay in the shadows.
-Dialogue: 5,0:48:18.66,0:48:22.62,Default,,0,0,0,,But, we will lead the course of this war to its end.
-Dialogue: 5,0:48:23.38,0:48:25.48,Default,,0,0,0,,The end of the Great War!
+Dialogue: 5,0:48:07.40,0:48:09.20,Default,,0,0,0,,The rest is up to us.
+Comment: 0,0:48:09.90,0:48:09.97,Default,,0,0,0,,TRANSCRIPT END
+Dialogue: 5,0:48:10.27,0:48:11.76,Default,,0,0,0,,We are ghosts.
+Dialogue: 5,0:48:11.76,0:48:16.73,Default,,0,0,0,,Nobody, not even the Old Deus, will die by our hand.
+Dialogue: 5,0:48:16.73,0:48:18.66,Default,,0,0,0,,And we'll stay in the shadows.
+Dialogue: 5,0:48:18.66,0:48:22.51,Default,,0,0,0,,But, we will lead the course of this war to its end.
+Dialogue: 5,0:48:23.38,0:48:25.38,Default,,0,0,0,,The end of the Great War!
 Dialogue: 5,0:48:25.38,0:48:27.84,Default,,0,0,0,,That's the victory we will achieve!
-Dialogue: 5,0:48:28.49,0:48:33.04,Default,,0,0,0,,Enemies are gods, ruthless destroyers with terrifying power.
-Dialogue: 5,0:48:32.94,0:48:35.56,Default,,0,0,0,,Success is far beyond the horizon.
-Dialogue: 5,0:48:35.46,0:48:39.00,Default,,0,0,0,,And since everything must be done in absolute secrecy,
-Dialogue: 5,0:48:38.90,0:48:42.09,Default,,0,0,0,,even if we win, there will be no one to honor our deeds.
+Dialogue: 5,0:48:28.49,0:48:32.94,Default,,0,0,0,,Enemies are gods, ruthless destroyers with terrifying power.
+Dialogue: 5,0:48:32.94,0:48:35.46,Default,,0,0,0,,Success is far beyond the horizon.
+Dialogue: 5,0:48:35.46,0:48:38.90,Default,,0,0,0,,And since everything must be done in absolute secrecy,
+Dialogue: 5,0:48:38.90,0:48:42.00,Default,,0,0,0,,even if we win, there will be no one to honor our deeds.
 Dialogue: 5,0:48:42.35,0:48:45.43,Default,,0,0,0,,We are ghosts, ghosts don't exist.
 Dialogue: 5,0:48:47.02,0:48:49.84,Default,,0,0,0,,But know this, if...
-Dialogue: 5,0:48:50.50,0:48:54.27,Default,,0,0,0,,if we manage to finish this game,
+Dialogue: 5,0:48:50.50,0:48:54.17,Default,,0,0,0,,if we manage to finish this game,
 Dialogue: 5,0:48:54.55,0:48:56.20,Default,,0,0,0,,to win it...
 Dialogue: 5,0:48:56.83,0:49:00.39,Default,,0,0,0,,Living such a badass life,
 Dialogue: 5,0:49:00.83,0:49:03.10,Default,,0,0,0,,I can die with no regrets!
 Dialogue: 5,0:49:05.88,0:49:08.35,Default,,0,0,0,,Okay, that's the game.
 Dialogue: 5,0:49:08.63,0:49:11.06,Default,,0,0,0,,Let only those who want to participate stay.
 Dialogue: 5,0:49:18.69,0:49:20.55,Default,,0,0,0,,To be honest,
-Dialogue: 5,0:49:20.96,0:49:24.59,Default,,0,0,0,,I thought you are too sane to go for this.
-Dialogue: 5,0:49:24.49,0:49:27.60,Default,,0,0,0,,Ehh, we're sorry you overestemated us.
-Dialogue: 5,0:49:27.50,0:49:31.54,Default,,0,0,0,,Riku, did you really think there are any sane people left?
-Dialogue: 5,0:49:31.44,0:49:35.51,Default,,0,0,0,,Where would you find crazier fools than here in this world?
-Dialogue: 5,0:49:35.41,0:49:38.53,Default,,0,0,0,,The wise would already choose death.
-Dialogue: 5,0:49:38.43,0:49:41.27,Default,,0,0,0,,The wisest would choose not to be born.
-Dialogue: 5,0:49:41.17,0:49:43.25,Default,,0,0,0,,Everyone here, Riku,
-Dialogue: 5,0:49:43.15,0:49:45.27,Default,,0,0,0,,are the ones you chose yourself.
-Dialogue: 5,0:49:45.17,0:49:46.33,Default,,0,0,0,,Well said.
-Dialogue: 5,0:49:46.23,0:49:49.50,Default,,0,0,0,,A truly elite representation of fools, isn't it?
-Dialogue: 5,0:49:52.80,0:49:56.10,Default,,0,0,0,,It's human nature to be foolish.
-Dialogue: 5,0:49:56.00,0:49:59.59,Default,,0,0,0,,And by not letting it kill you, you gain wisdom.
+Dialogue: 5,0:49:20.96,0:49:24.49,Default,,0,0,0,,I thought you are too sane to go for this.
+Dialogue: 5,0:49:24.49,0:49:27.50,Default,,0,0,0,,Ehh, we're sorry you overestemated us.
+Dialogue: 5,0:49:27.50,0:49:31.44,Default,,0,0,0,,Riku, did you really think there are any sane people left?
+Dialogue: 5,0:49:31.44,0:49:35.41,Default,,0,0,0,,Where would you find crazier fools than here in this world?
+Dialogue: 5,0:49:35.41,0:49:38.43,Default,,0,0,0,,The wise would already choose death.
+Dialogue: 5,0:49:38.43,0:49:41.17,Default,,0,0,0,,The wisest would choose not to be born.
+Dialogue: 5,0:49:41.17,0:49:43.15,Default,,0,0,0,,Everyone here, Riku,
+Dialogue: 5,0:49:43.15,0:49:45.17,Default,,0,0,0,,are the ones you chose yourself.
+Dialogue: 5,0:49:45.17,0:49:46.23,Default,,0,0,0,,Well said.
+Dialogue: 5,0:49:46.23,0:49:49.37,Default,,0,0,0,,A truly elite representation of fools, isn't it?
+Dialogue: 5,0:49:52.80,0:49:56.00,Default,,0,0,0,,It's human nature to be foolish.
+Dialogue: 5,0:49:56.00,0:49:59.50,Default,,0,0,0,,And by not letting it kill you, you gain wisdom.
 Dialogue: 5,0:49:59.99,0:50:03.73,Default,,0,0,0,,In this hell of a world, we manage to survive.
-Dialogue: 5,0:50:04.88,0:50:09.37,Default,,0,0,0,,All those who put all their knowledge, skills and experience into it...
-Dialogue: 5,0:50:09.27,0:50:14.21,Default,,0,0,0,,How can you call them if not the greatest masters of that foolishness?
-Dialogue: 5,0:50:15.02,0:50:16.87,Default,,0,0,0,,Let’s do this!
-Dialogue: 5,0:50:16.77,0:50:19.44,Default,,0,0,0,,Let's pledge on our grief for the fallen!
+Dialogue: 5,0:50:04.88,0:50:09.34,Default,,0,0,0,,All those who put all their knowledge, skills and experience into it...
+Dialogue: 5,0:50:09.34,0:50:14.21,Default,,0,0,0,,How can you call them if not the greatest masters of that foolishness?
+Dialogue: 5,0:50:15.02,0:50:16.77,Default,,0,0,0,,Let’s do this!
+Dialogue: 5,0:50:16.77,0:50:19.34,Default,,0,0,0,,Let's pledge on our grief for the fallen!
 Dialogue: 5,0:50:19.34,0:50:21.43,Default,,0,0,0,,Ascheito!
-Dialogue: 5,0:50:22.05,0:50:23.12,Default,,0,0,0,,No.
-Dialogue: 5,0:50:23.02,0:50:25.31,Default,,0,0,0,,Not on the grief that has no end,
-Dialogue: 5,0:50:25.57,0:50:27.86,Default,,0,0,0,,but on the values we stand for.
-Dialogue: 5,0:50:28.13,0:50:29.46,Default,,0,0,0,,I pledge
-Dialogue: 5,0:50:31.14,0:50:32.72,Default,,0,0,0,,Aschiento.
+Dialogue: 5,0:50:22.05,0:50:23.02,Default,,0,0,0,,No.
+Dialogue: 5,0:50:23.02,0:50:25.19,Default,,0,0,0,,Not on the grief that has no end,
+Dialogue: 5,0:50:25.57,0:50:27.77,Default,,0,0,0,,but on the values we stand for.
+Dialogue: 5,0:50:28.13,0:50:29.40,Default,,0,0,0,,I pledge
+Dialogue: 5,0:50:31.14,0:50:32.59,Default,,0,0,0,,Aschiento.
 Dialogue: 5,0:50:35.30,0:50:36.53,Default,,0,0,0,,So,
 Dialogue: 5,0:50:37.54,0:50:39.43,Default,,0,0,0,, let the game begin.
 Dialogue: 5,0:50:45.56,0:50:46.35,Default,,0,0,0,,Riku,
