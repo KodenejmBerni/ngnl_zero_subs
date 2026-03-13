@@ -16,14 +16,17 @@ Stalemartyr - ステイルマーター
 Suniaster - スーニアスター
 Ivan - イワン
 Artosh - アルトシュ
-Dwarf - ドワーフ
-Avant Heim - アヴァント・ヘイム
+Kainas - カイナース
+Ocain - オーケイン
 Couronne Dola - コローネ･ドーラ
 Couron - コロン
-Ixseed - イクシード
 Jibril - ジブリール
-Elkia - エルキア
 Immanity - イマニティ
+Flügel - フリューゲル
+Dwarf - ドワーフ
+Avant Heim - アヴァント・ヘイム
+Ixseed - イクシード
+Elkia - エルキア
 Ten Covenants - 十の盟約
 
 pertinacity
