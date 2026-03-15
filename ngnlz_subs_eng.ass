@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 806
-Active Line: 819
-Video Position: 69298
+Scroll Position: 813
+Active Line: 835
+Video Position: 70631
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -849,19 +849,19 @@ Dialogue: 5,0:48:05.43,0:48:06.73,Default,,0,0,0,,That's all.
 Dialogue: 5,0:48:07.40,0:48:09.20,Default,,0,0,0,,The rest is up to us.
 Comment: 0,0:48:09.90,0:48:09.97,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:48:10.27,0:48:11.76,Default,,0,0,0,,We are ghosts.
-Dialogue: 5,0:48:11.76,0:48:16.73,Default,,0,0,0,,Nobody, not even the Old Deus, will die by our hand.
+Dialogue: 5,0:48:11.76,0:48:16.73,Default,,0,0,0,,Nobody, not even the Old Deus,\Nwill die by our hand.
 Dialogue: 5,0:48:16.73,0:48:18.66,Default,,0,0,0,,And we'll stay in the shadows.
 Dialogue: 5,0:48:18.66,0:48:22.51,Default,,0,0,0,,But, we will lead the course of this war to its end.
 Dialogue: 5,0:48:23.38,0:48:25.38,Default,,0,0,0,,The end of the Great War!
-Dialogue: 5,0:48:25.38,0:48:27.84,Default,,0,0,0,,That's the victory we will achieve!
-Dialogue: 5,0:48:28.49,0:48:32.94,Default,,0,0,0,,Enemies are gods, ruthless destroyers with terrifying power.
-Dialogue: 5,0:48:32.94,0:48:35.46,Default,,0,0,0,,Success is far beyond the horizon.
+Dialogue: 5,0:48:25.38,0:48:27.84,Default,,0,0,0,,That's the victory we will claim!
+Dialogue: 5,0:48:28.49,0:48:32.94,Default,,0,0,0,,The enemy is the gods, ruthless destroyers, embodiments of terror.
+Dialogue: 5,0:48:32.94,0:48:35.46,Default,,0,0,0,,Chances of victory are next to nothing.
 Dialogue: 5,0:48:35.46,0:48:38.90,Default,,0,0,0,,And since everything must be done in absolute secrecy,
 Dialogue: 5,0:48:38.90,0:48:42.00,Default,,0,0,0,,even if we win, there will be no one to honor our deeds.
-Dialogue: 5,0:48:42.35,0:48:45.43,Default,,0,0,0,,We are ghosts, ghosts don't exist.
-Dialogue: 5,0:48:47.02,0:48:49.84,Default,,0,0,0,,But know this, if...
-Dialogue: 5,0:48:50.50,0:48:54.17,Default,,0,0,0,,if we manage to finish this game,
-Dialogue: 5,0:48:54.55,0:48:56.20,Default,,0,0,0,,to win it...
+Dialogue: 5,0:48:42.35,0:48:45.43,Default,,0,0,0,,We are ghosts, ghosts tell no tales.
+Dialogue: 5,0:48:47.02,0:48:50.02,Default,,0,0,0,,Even so… suppose…
+Dialogue: 5,0:48:50.50,0:48:54.17,Default,,0,0,0,,suppose… we manage to finish this game…
+Dialogue: 5,0:48:54.55,0:48:56.20,Default,,0,0,0,,to win it…
 Dialogue: 5,0:48:56.83,0:49:00.39,Default,,0,0,0,,Living such a badass life,
 Dialogue: 5,0:49:00.83,0:49:03.10,Default,,0,0,0,,I can die with no regrets!
 Dialogue: 5,0:49:05.88,0:49:08.35,Default,,0,0,0,,Okay, that's the game.
