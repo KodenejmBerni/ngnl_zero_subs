@@ -3395,7 +3395,7 @@ That's the victory we will claim!
 
 敵は神、天地を焦がす暴力、絶望の具現。
 Teki wa kami, tenchi o kogasu bouryoku, zetsubou no gugen.
-The enemy is the gods, ruthless destroyers with terrifying power.
+The enemy is the gods, ruthless destroyers, embodiments of terror.
 
 勝算は虚空のはるかかなた。
 Shousan wa kokuu no haruka kanata.
@@ -3409,13 +3409,9 @@ And since everything must be done in absolute secrecy,
 shouri shite mo, dare no kioku ni mo kiroku ni mo nokoranai.
 even if we win, there will be no one to honor our deeds.
 
-我らは幽霊であり、
-Warera wa yuurei de ari,
-We are ghosts,
-
-幽霊は語らない。
-yuurei wa kataranai.
-ghosts tell no tales.
+我らは幽霊であり、幽霊は語らない。
+Warera wa yuurei de ari,　yuurei wa kataranai.
+We are ghosts, ghosts tell no tales.
 
 だけどさ…もしも…
 Dakedo sa… moshimo…
@@ -3423,7 +3419,7 @@ Even so… suppose…
 
 もしも…このゲームを本当に成し遂げて…
 moshimo… kono geimu o hontou ni nashitogete…
-suppose… we manage to finish this game…
+if… we really manage to finish this game…
 
 勝利できれば…
 shouri dekireba…
@@ -3437,48 +3433,63 @@ Living such a badass life,
 Mune hatte shineru to omowa nee?
 I can die with no regrets!
 
-Sate son'na gēmu.
-Okay, that's the game.
+さて、そんなゲームを。
+Sate, sonna geimu o.
+Well, that's the game.
 
+始めたいヤツだけこの場に残ってくれ。
 Hajimetai yatsu dake kono ba ni nokotte kure.
-Let only those who want to participate stay.
+Only those who want to start should stay.
 
-Shōjiki ni iu zo.
+正直に言うぞ、
+Shoujiki ni iu zo,
 To be honest,
 
-Omaera mōsukoshi kashikoi to omotteta ndakara.
-I thought you all were too sensible for this.
+お前らもう少し賢いと思ってたんだが。
+Omaera mou sukoshi kashikoi to omotteta nda ga。
+I thought you were too sane to go for this.
 
-Oioi,(-gai) kara yomi chigai o kanben shiro.
-Oh, sorry that you overestimated us.
+おいおい、初手から読み違いは勘弁しろよ。
+Oi oi, shote kara yomichigai wa kanben shiro yo.
+Ehh, a serious oversight right from the start.
 
-Riku, sa konoyo ni kashikoi ningen nante iru to omotten no?
+リクさ、この世に賢い人間なんていると思ってんの？
+Riku sa, kono yo ni kashikoi ningen nante iru to omotten no?
 Riku, did you really think there are any sane people left?
 
+この世界より狂ってるもんが今更どこにある？
 Kono sekai yori kurutteru mon ga imasara doko ni aru?
-Where would you find crazier fools than here in this world?
+What could be more insane than this world at this point?
 
-Kenjanara kon'na sekai shi o erabu.
-The wise would already choose death.
+賢者ならこんな世界死を選ぶ。
+Kenja nara konna sekai shi o erabu.
+The sane would already choose death.
 
-Saranaru kenja wa umareru koto o erabu.
-The wisest would choose not to be born.
+さらなる賢者は生まれぬことを選ぶ。
+Saranaru kenja wa umarenu koto o erabu.
+Even the saner would choose not to be born.
 
-Koko ni iru yota Riku
-Everyone here Riku,
+ここにいるヤツはリク、
+Koko ni iru yatsu wa Riku,
+Everyone here, Riku,
 
-omae ga eranda yatsurada zo.
+お前が選んだヤツらだぞ。
+omae ga eranda yatsura da zo.
 are the ones you chose yourself.
 
-Son'na mon.
+そんなもん。
+Sonna mon.
 Well said.
 
-Orokamono no daihyō senbatsu tte koto janē ka?
-A truly elite representation of fools, isn't it?
+愚か者の代表選抜ってことじゃねえか？
+Orokamono no daihyou senbatsu tte koto ja nee ka?
+A truly handpicked lineup of fools, isn't it?
 
-Hito wa orukara oroka yueni.
+人は愚かだ。
+Hito wa oruka da. roka yueni.
 It's human nature to be foolish.
 
+愚かゆえに、その愚かさに殺されまいと　知恵を磨く
 Sono oroka-sa ni korosa renaito chie o mikaku.
 And by not letting it kill you, you gain wisdom.
 

@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 813
-Active Line: 835
-Video Position: 70631
+Video Zoom Percent: 0.500000
+Scroll Position: 815
+Active Line: 848
+Video Position: 71756
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -847,10 +847,9 @@ Dialogue: 5,0:47:55.64,0:48:00.42,Default,,0,0,0,,6: Breaking any of these rules
 Dialogue: 5,0:48:00.42,0:48:04.23,Default,,0,0,0,,{\i1}For the heart sees no value in a victory\Nthat violates these rules.
 Dialogue: 5,0:48:05.43,0:48:06.73,Default,,0,0,0,,That's all.
 Dialogue: 5,0:48:07.40,0:48:09.20,Default,,0,0,0,,The rest is up to us.
-Comment: 0,0:48:09.90,0:48:09.97,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:48:10.27,0:48:11.76,Default,,0,0,0,,We are ghosts.
-Dialogue: 5,0:48:11.76,0:48:16.73,Default,,0,0,0,,Nobody, not even the Old Deus,\Nwill die by our hand.
-Dialogue: 5,0:48:16.73,0:48:18.66,Default,,0,0,0,,And we'll stay in the shadows.
+Dialogue: 5,0:48:11.76,0:48:16.68,Default,,0,0,0,,Nobody, not even the Old Deus,\Nwill die by our hand.
+Dialogue: 5,0:48:16.68,0:48:18.66,Default,,0,0,0,,And we'll stay in the shadows.
 Dialogue: 5,0:48:18.66,0:48:22.51,Default,,0,0,0,,But, we will lead the course of this war to its end.
 Dialogue: 5,0:48:23.38,0:48:25.38,Default,,0,0,0,,The end of the Great War!
 Dialogue: 5,0:48:25.38,0:48:27.84,Default,,0,0,0,,That's the victory we will claim!
@@ -859,24 +858,25 @@ Dialogue: 5,0:48:32.94,0:48:35.46,Default,,0,0,0,,Chances of victory are next to
 Dialogue: 5,0:48:35.46,0:48:38.90,Default,,0,0,0,,And since everything must be done in absolute secrecy,
 Dialogue: 5,0:48:38.90,0:48:42.00,Default,,0,0,0,,even if we win, there will be no one to honor our deeds.
 Dialogue: 5,0:48:42.35,0:48:45.43,Default,,0,0,0,,We are ghosts, ghosts tell no tales.
-Dialogue: 5,0:48:47.02,0:48:50.02,Default,,0,0,0,,Even so… suppose…
-Dialogue: 5,0:48:50.50,0:48:54.17,Default,,0,0,0,,suppose… we manage to finish this game…
+Dialogue: 5,0:48:47.02,0:48:50.02,Default,,0,0,0,,Even so… if…
+Dialogue: 5,0:48:50.50,0:48:54.17,Default,,0,0,0,,if… we really manage to finish this game…
 Dialogue: 5,0:48:54.55,0:48:56.20,Default,,0,0,0,,to win it…
 Dialogue: 5,0:48:56.83,0:49:00.39,Default,,0,0,0,,Living such a badass life,
 Dialogue: 5,0:49:00.83,0:49:03.10,Default,,0,0,0,,I can die with no regrets!
-Dialogue: 5,0:49:05.88,0:49:08.35,Default,,0,0,0,,Okay, that's the game.
-Dialogue: 5,0:49:08.63,0:49:11.06,Default,,0,0,0,,Let only those who want to participate stay.
+Dialogue: 5,0:49:05.88,0:49:08.35,Default,,0,0,0,,Well, that's the game.
+Dialogue: 5,0:49:08.63,0:49:11.06,Default,,0,0,0,,Only those who want to start should stay.
 Dialogue: 5,0:49:18.69,0:49:20.55,Default,,0,0,0,,To be honest,
-Dialogue: 5,0:49:20.96,0:49:24.49,Default,,0,0,0,,I thought you are too sane to go for this.
-Dialogue: 5,0:49:24.49,0:49:27.50,Default,,0,0,0,,Ehh, we're sorry you overestemated us.
+Dialogue: 5,0:49:20.96,0:49:24.49,Default,,0,0,0,,I thought you were too sane to go for this.
+Dialogue: 5,0:49:24.49,0:49:27.50,Default,,0,0,0,,Ehh, a serious oversight right from the start.
 Dialogue: 5,0:49:27.50,0:49:31.44,Default,,0,0,0,,Riku, did you really think there are any sane people left?
-Dialogue: 5,0:49:31.44,0:49:35.41,Default,,0,0,0,,Where would you find crazier fools than here in this world?
-Dialogue: 5,0:49:35.41,0:49:38.43,Default,,0,0,0,,The wise would already choose death.
-Dialogue: 5,0:49:38.43,0:49:41.17,Default,,0,0,0,,The wisest would choose not to be born.
+Dialogue: 5,0:49:31.44,0:49:35.41,Default,,0,0,0,,What could be more insane than this world at this point?
+Dialogue: 5,0:49:35.41,0:49:38.43,Default,,0,0,0,,The sane would already choose death.
+Dialogue: 5,0:49:38.43,0:49:41.17,Default,,0,0,0,,Even the saner would choose not to be born.
 Dialogue: 5,0:49:41.17,0:49:43.15,Default,,0,0,0,,Everyone here, Riku,
 Dialogue: 5,0:49:43.15,0:49:45.17,Default,,0,0,0,,are the ones you chose yourself.
 Dialogue: 5,0:49:45.17,0:49:46.23,Default,,0,0,0,,Well said.
-Dialogue: 5,0:49:46.23,0:49:49.37,Default,,0,0,0,,A truly elite representation of fools, isn't it?
+Dialogue: 5,0:49:46.23,0:49:49.37,Default,,0,0,0,,A truly handpicked lineup of fools, isn't it?
+Comment: 0,0:49:51.99,0:49:52.05,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:49:52.80,0:49:56.00,Default,,0,0,0,,It's human nature to be foolish.
 Dialogue: 5,0:49:56.00,0:49:59.50,Default,,0,0,0,,And by not letting it kill you, you gain wisdom.
 Dialogue: 5,0:49:59.99,0:50:03.73,Default,,0,0,0,,In this hell of a world, we manage to survive.
