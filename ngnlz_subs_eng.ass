@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 815
-Active Line: 848
-Video Position: 71756
+Scroll Position: 845
+Active Line: 864
+Video Position: 73021
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -877,7 +877,8 @@ Dialogue: 5,0:49:43.15,0:49:45.17,Default,,0,0,0,,are the ones you chose yoursel
 Dialogue: 5,0:49:45.17,0:49:46.23,Default,,0,0,0,,Well said.
 Dialogue: 5,0:49:46.23,0:49:49.37,Default,,0,0,0,,A truly handpicked lineup of fools, isn't it?
 Comment: 0,0:49:51.99,0:49:52.05,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:49:52.80,0:49:56.00,Default,,0,0,0,,It's human nature to be foolish.
+Dialogue: 5,0:49:52.80,0:49:54.60,Default,,0,0,0,,Humans are foolish.
+Dialogue: 5,0:49:54.59,0:49:56.00,Default,,0,0,0,,_
 Dialogue: 5,0:49:56.00,0:49:59.50,Default,,0,0,0,,And by not letting it kill you, you gain wisdom.
 Dialogue: 5,0:49:59.99,0:50:03.73,Default,,0,0,0,,In this hell of a world, we manage to survive.
 Dialogue: 5,0:50:04.88,0:50:09.34,Default,,0,0,0,,All those who put all their knowledge, skills and experience into it...
