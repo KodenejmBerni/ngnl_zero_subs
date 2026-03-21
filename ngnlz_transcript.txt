@@ -3485,65 +3485,57 @@ Well said.
 Orokamono no daihyou senbatsu tte koto ja nee ka?
 A truly handpicked lineup of fools, isn't it?
 
-人は愚かだ。
-Hito wa oroka da.
-Humans are foolish.
+人は愚かだ、愚かゆえに、
+Hito wa oroka da, oroka yue ni,
+Humans are foolish, and for that reason,
 
-愚かゆえに、その愚かさに殺されまいと、知恵を磨く。
-Oroka yue ni, sono orokasa ni korosaremai to chie o migaku.
-And by not letting it kill you, you gain wisdom.
-_
+その愚かさに殺されまいと、知恵を磨く。
+sono orokasa ni korosaremai to, chie o migaku.
+so as not to be killed by it, they hone their wits.
 
 生きる価値なき世界で、それでも生き残った。
 Ikiru kachi naki sekai de, soredemo ikinokotta.
-In a world full of terror, we survive.
-_
+In a world that scorns the living, we managed to survive.
 
-そのために知性と知恵と技術の全てを賭した者たちが
-Sono tame ni chisei to chie to gijutsu no subete o toshita monotachi ga
-All those who put all their knowledge, skills and experience into it...
-_
+そのために知性と知恵と技術の全てを賭した者たちが…
+Sono tame ni chisei to chie to gijutsu no subete o toshita monotachi ga…
+All those who put all their knowledge, skills and experience into it…
 
-誇り高い愚者…尊敬すべき弱者でなければなんだというのか？
-Hokori takai gusha… sonkei subeki jakusha de nakereba nan da to iu no ka.
-How can you call them if not the greatest masters of that foolishness?
-_
+誇り高い愚者…尊敬すべき弱者でなければ、なんだというのか？
+Hokori takai gusha… sonkei subeki jakusha de nakereba, nan da to iu no ka?
+how can you call them if not the proud masters of that foolishness?
 
 やってやろうじゃねえか！
 Yatte yarou janee ka!
 Let’s do this!
 
 亡き同胞たちの遺志に誓って！
-Naki douhou-tachi no ishi ni chikatte!
-Let's pledge on our grief for the fallen!
-upon the will of our fallen
-_
+Naki douhoutachi no ishi ni chikatte!
+Upon the will of the fallen brothers!
 
 アシエイト！
 Ashieito!
 *
 
-いや
-Iya
-No
+いや。
+Iya.
+No.
 
-俺たちは亡き者の遺志ではなく
-oretachi wa nakimono no ishi de wa naku
-No, not on the grief that has no end,
-_
+俺たちは亡き者の遺志ではなく、
+Oretachi wa nakimono no ishi de wa naku,
+We're not bound by the will of the dead,
 
 同意したルールに誓い動く。
-Doui shita ruuru ni chikai ugoku.
-but on the values we stand for.
-_
+douishita ruuru ni chikai ugoku.
+but by the rules we agreed to.
 
 したがって
 Shitagatte
-I pledge
+And then
 
-アッシエントだ。
-Aschiento da.
-Aschiento!
+アッシエントだ！
+Aschiento da!
+it's Aschiento!
 
 さあ、
 Saa,
@@ -3556,6 +3548,7 @@ let the game begin.
 
 00:50:39
 
+
 リク、
 Riku,
 *
@@ -3564,6 +3557,7 @@ Riku,
 Schwi yappari
 now I completely
 
+心分からない。
 kokoro wakaranai.
 don't understand the heart.
 
