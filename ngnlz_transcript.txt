@@ -3555,74 +3555,97 @@ Riku,
 
 シュヴィやっぱり
 Schwi yappari
-now I completely
+now Schwi completely
 
 心分からない。
 kokoro wakaranai.
 don't understand the heart.
 
-Sakusen dore mo seikō kakuritsu 1-pāsento-miman.
+作戦どれも成功確率１％未満。
+Sakusen dore mo seikou kakuritsu 1% miman.
 All these plans have less than 1% chance of success.
 
-Nanoni min'na seikō suru ki manman datte ka?
+なのにみんな成功する気満々だってか？
+Nano ni minna seikou suru ki manman datte ka?
 You don't get why we're so eager to do it?
 
-Na Schwi,
+なあシュヴィ、
+Naa Schwi,
 So Schwi,
 
+サイコロを振って６が出る確率は？
 saikoro o futte 6 ga deru kakuritsu wa?
 what's the chance of rolling a 6 on a die?
 
-1/6.
+６分の１。
+Rokubun no ichi.
 One sixth.
 
-Jā sore o moshi
+じゃあそれをもし
+Jaa sore o moshi
 But what if
 
-sonzaishinai darekaga roku shika denai saikoro ni torikaeta to shitara?
-a certain unseen observer provides dice that only roll a six?
+“存在しない誰か”が６しか出ないサイコロに取り替えたとしたら？
+“Sonzai shinai dareka” ga roku shika denai saikoro ni torikaeta to shitara?
+“someone unseen” replaced it with a die that always comes up six?
 
-Hensū o sokui-teki ni sōsa…
-Acting as random factors…
+変数を作為的に操作…
+Hensuu o sakuiteki ni sousa…
+Manipulation of random factors…
 
-So,
-Yeah,
+そう。
+Sou.
+Indeed.
 
+それをイカサマっていうんだ。
 Sore o ikasama tte iu nda,
-This is our way to play.
+That’s called cheating.
 
-omoshiroidaro?
-Fun, isn't it?
+面白いだろ？
+Omoshiroi　daro?
+Fun, right?
 
-Oretachi wa keisan-jō no tokui-tenda.
-Prudence fills each day of our lives.
+俺たちは計算上の特異点だ。
+Oretachi wa keisanjou no tokuiten da.
+We are a computational singularity.
 
-Araeru yosō, senryaku
+あらゆる予想 戦略 計算を
+Arayuru yosou senryaku keisan o
 Every risk or inaccuracy
+_
 
-keisan o subete nozomu hōkō e shūsoku sa seru.
+全て望む方向へ収束させる。
+subete nozomu houkou e shuusoku saseru.
 will be taken by us into account.
+_
 
-Moshi seikō sa setara…
-If this succeeds…
+もし成功させたら…
+Moshi seikou sa setara…
+If we pull it off…
 
+奇跡。
 Kiseki.
 A miracle.
 
-O- Okoseba
-I– In that case,
+を- 起こせば、
+O- Okoseba,
+I– If that happens,
 
-kakuritsu-ron wa kojitsuke ni naru.
-you need to reject probability theory.
+確率論はこじつけになる。
+kakuritsuron wa kojitsuke ni naru.
+probability theory becomes unreliable.
 
-So
+そう、
+Sou,
 True,
 
+全ては起こりうる。
 Subete wa okori uru.
-you must go beyond it.
+anything can happen.
 
-Kakuritsu-ron ni 0 mo 100 mo nai.
-No matter if it's 0 or 100.
+確率論に０も100もない。
+Kakuritsuron ni zero mo hyaku mo nai.
+It's never 0 or 100.
 
 Shosen wa kijō no kūronda.
 It’s all just on paper.
