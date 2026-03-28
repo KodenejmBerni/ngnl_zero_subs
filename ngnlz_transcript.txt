@@ -3609,14 +3609,14 @@ Fun, right?
 Oretachi wa keisanjou no tokuiten da.
 We are a computational singularity.
 
-あらゆる予想 戦略 計算を
+あらゆる予想、戦略、計算を
 Arayuru yosou senryaku keisan o
-Every risk or inaccuracy
+Every scheme, plan or forecast
 _
 
 全て望む方向へ収束させる。
 subete nozomu houkou e shuusoku saseru.
-will be taken by us into account.
+can be steered toward the desired outcome.
 _
 
 もし成功させたら…
@@ -3647,194 +3647,270 @@ anything can happen.
 Kakuritsuron ni zero mo hyaku mo nai.
 It's never 0 or 100.
 
-Shosen wa kijō no kūronda.
-It’s all just on paper.
+所詮は机上の空論だ。
+Shosen wa kijou no kuuron da.
+It's all just paper talk.
 
-Shōmei shite miseyou ka?
+証明してみせようか？
+Shoumei shite miseyou ka?
 Want me to prove it to you?
 
+問題:
 Mondai:
 Query:
 
+俺が今この場でシュヴィに告白する確率は？
 Ore ga ima kono ba de Schwi ni kokuhaku suru kakuritsu wa?
-What are the odds that I'll confess my feelings right now?
+What are the chances I confess to Schwi here and now?
 
+問題意図不明。
 Mondai ito fumei.
 Query unclear.
 
-Kaisan: hobo 0.
-Answer: near zero.
+概算: ほぼゼロ。
+Kaisan: hobo zero.
+Estimate: near zero.
 
+ほらな？
 Hora na?
 You see?
 
+ハズレだ。
 Hazureda.
 Wrong.
 
-Kekkon shite kure, Schwi?
+結婚してくれ、シュヴィ。
+Kekkon shite kure, Schwi.
 Will you marry me, Schwi?
 
+理解
 Rikai
 Cannot
 
-funō.
+不能。
+funou.
 comprehend.
 
+拒否する。
 Kyohi suru.
 I decline.
 
-Surō se shita!
+すいませんした！
+Suimasen shita!
 I'm sorry!
 
-Dōde ra bu zede shoushi ki ma shita!
+童貞の分際で調子こきました！
+Doutei no bunzai de choushi kokimashita!
 I thought it was that time already!
+I got carried away as a greenhorn!
 
+結婚…
 Kekkon…
 Mariage…
 
-Ningen ga hanshoku no chigai to kawasu keiyaku.
-a contract between humans in order to reproduce.
+人間が繁殖のつがいと交わす契約。
+ningen ga hanshoku no tsugai to kawasu keiyaku.
+a contract between humans as a breeding pair.
 
+シュヴィエクスマキナ…
 Schwi Ex-machina…
 Schwi is an Ex-machina…
 
-Son'na no datte ī nda yo!
+そんなのどうだっていいんだよ！
+Sonna no dou datte iin da yo!
 Who cares about that!
 
-Otoko on'na ni shimi ni zutto sowa itte oshie tte
+単純にシュヴィにずっとそばにいてほしいんだよ！
+Tanjun ni Schwi ni zutto soba ni ite hoshii nda yo!
 I just want you forever by my side!
 
-Naze? ima soba ni iru.
-Why? I’m by your side now.
+なぜ？
+Naze?
+Why?
 
-Sōiu imi janē yo, jinsei no hanryo to shite.
+今そばにいる。
+ima soba ni iru.
+I’m by your side now.
+
+そういう意味じゃねえよ！人生の伴侶として！
+Sou iu imi ja nee yo! Jinsei no hanryo to shite!
 Not like that! I mean as a life partner!
 
+エクスマキナ繁殖できない。
 Ex-machina honshoku dekinai.
-Ex-machina is unqualified.
+Ex-machina cannot reproduce.
 
-Mondainai de!
+問題ないね！
+Mondai nai ne!
 Doesn't matter!
 
+繁殖行為もできない
 Hanshoku kōi mo dekinai.
-I cannot copulate either.
+Cannot copulate either.
 
-Riku isshō dōtei...
-Riku, you'll never...
+リク、一生童貞…
+Riku, isshō dōtei…
+Riku, you'll never…
 
-Mondainai de!
+問題ないね！
+Mondai　nai ne!
 Doesn't matter!
 
-Na gatta…
+間があった
+Ma ga atta…
 A delay…
 
-Koma-geikota ittara!
+細けえことはいいんだよ！
+Komakee koto wa iin da yo!
 I said it’s nothing!
 
-Murida yo…
-Infeasible…
+無理だよ…
+Muri da yo…
+It’s impossible…
 
-Datte…
-because…
+だって–
+Datte–
+because–
 
+シュヴィ…
 Schwi…
-Schwi…
+*
 
-Datte…
-Because…
+だって
+datte
+because
 
+リクの…
 Riku no…
 Riku's…
 
+転送、プリューファよりアインツィヒへ。
 Tensou, prufer yori Einzig.
-Forwarding request to Einzig.
+Request from Prüfer to Einzig.
 
+採決。
 Saiketsu.
 Approved.
 
-Rikku no (kokyū) o horoboshita no.
+リクの故郷滅ぼしたの
+Riku no kokyou horoboshita no
 Riku's village has been destroyed
 
-Schwi to mo.
+レーゼン: オリジン ツヴァイ アハト ヌル ズィーベン – アインヴィーク。
+Lösen: Org. 2807 – Umweg.
+*
+
+シュヴィだもん
+Schwi da mon.
 by Schwi.
 
-Soredemo…
+それでも
+Soredemo
 Knowing this
 
+リク…
 Riku…
-can you…
+can Riku…
 
-onaji ko to ieru?
+同じこと言える？
+Onaji koto ieru?
 still say the same?
 
+シュヴィ、
 Schwi,
-Schwi,
+*
 
-kidzui teta yo.
+気づいてたよ。
+Kizuiteta yo.
 I'm aware of this.
 
-Nantonaku dakeda.
+なんとなーくだけど。
+Nantonaaku da kedo.
 I figured it out.
 
-Dōshite?
-How?
+どう…して？
+Dou… shite?
+How…?
 
-Naa… saisho ni iwakan o oboeta no wa
+あー…最初に違和感を覚えたのは
+aa… saisho ni iwakan o oboeta no wa
 Well… the first thing that was off
 
+やっぱ初めて出会ったとき
 yappa hajimete deatta toki.
 was when we first met.
 
-Nande eranda gēmu ga chesudatta ndesu ka ne to?
-Why convince someone with a game of chess?
+なんで選んだゲームがチェスだったんですかねっと？
+Nande eranda geimu ga chesu dattan desu ka ne tto?
+Why choose a game of chess to convince someone?
 
-Somosomo nande shūraku kara an'nani hanareta basho de machikamaete ita no ka? to ka
-Why wait for a specific person to be alone outside the village? And so on…
+そもそも、なんで集落からあんなに離れた場所で〝待ち構えてた〟のか？とか…
+Somosomo, nande shuuraku kara annani hanareta basho de ‘machikamaete ta’ no ka? toka…
+To begin with, why ‘lie in wait’ in a place so far from the village? And so on…
 
+意外と詰めが甘いよな。
 higai to tsume ga amai yo na.
 It really didn’t take a lot.
 
+なのに… なんで？
 Nanoni… nande?
-Even if… why?
+Even so… why?
 
-Naa
-Well
+なー、
+Naa,
+Well,
 
+それを全部 織り込んだうえで
 Sore o zenbu orikonda ue de
 the thing is that I love you
 
+シュヴィに惚(ほ)れたからかな
 Schwi ni horetakara ka na.
 for every part of you.
 
-Schwi ga ore no furusato o horoboshita kako wa kawaranai.
+シュヴィが俺の故郷を滅ぼした過去は変わらない、
+Schwi ga ore no kokyou o horoboshita kako wa kawaranai,
 The fact that you destroyed my home will never change,
 
-Demo sore o hitei shitara oretachi tte yattenaidaro.
-and without it, we wouldn't be here right now.
+でも、それを否定したら俺たち出会ってないだろ
+demo, sore o hitei shitara oretachi tte yattenaidaro.
+but without it, we wouldn't be here right now.
 
+結果は結果で
 Kekka wa kekka de.
 It is how it is.
 
-Nejimagete mo shikatanai.
+ねじ曲げてもしかたない。
+Nejimagete mo shikata nai.
 No point in running from it.
 
+歯がみして
 Hagami shite,
 You cry,
+_
 
+悔やんで
 kuyande,
 weil, #TODO
+_
 
+泣き叫んで…
 nakisakende,
 gnash your teeth
+_
 
+次は 次こそはと前に進む
 tsugi wa tsugi koso wa to mae ni susumu.
 and then, you move on to the next one.
+_
 
+だから シュヴィは 俺に興味を持ってくれた
 Dakara Schwi wa ore ni kyōmi o motte kureta,
-That's what intrigued you about me,
+That's why you took an interest in me,
 
-ndaro?
-isn't it?
+だろ？
+daro?
+right?
 
 Ore wa schwi no kako, soba ni ite kureru ima,
 Be it your past, your present by my side,
