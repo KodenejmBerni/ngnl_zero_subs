@@ -3598,8 +3598,8 @@ Sou.
 Indeed.
 
 それをイカサマっていうんだ。
-Sore o ikasama tte iu nda,
-That’s called cheating.
+Sore o ikasama tte iu nda.
+It's called cheating.
 
 面白いだろ？
 Omoshiroi　daro?
@@ -3609,15 +3609,13 @@ Fun, right?
 Oretachi wa keisanjou no tokuiten da.
 We are a computational singularity.
 
-あらゆる予想、戦略、計算を
-Arayuru yosou senryaku keisan o
-Every scheme, plan or forecast
-_
+あらゆる予想、戦略、
+Arayuru yosou, senryaku
+Every intent or prediction
 
-全て望む方向へ収束させる。
-subete nozomu houkou e shuusoku saseru.
-can be steered toward the desired outcome.
-_
+計算を全て望む方向へ収束させる。
+keisan o　subete nozomu houkou e shuusoku saseru.
+can be thrown off by the slightest of changes.
 
 もし成功させたら…
 Moshi seikou sa setara…
@@ -3645,7 +3643,7 @@ anything can happen.
 
 確率論に０も100もない。
 Kakuritsuron ni zero mo hyaku mo nai.
-It's never 0 or 100.
+It's never truly 0 or 100.
 
 所詮は机上の空論だ。
 Shosen wa kijou no kuuron da.
@@ -3701,7 +3699,6 @@ I'm sorry!
 
 童貞の分際で調子こきました！
 Doutei no bunzai de choushi kokimashita!
-I thought it was that time already!
 I got carried away as a greenhorn!
 
 結婚…
@@ -3729,7 +3726,7 @@ Naze?
 Why?
 
 今そばにいる。
-ima soba ni iru.
+Ima soba ni iru.
 I’m by your side now.
 
 そういう意味じゃねえよ！人生の伴侶として！
@@ -3780,9 +3777,9 @@ Schwi…
 datte
 because
 
-リクの…
-Riku no…
-Riku's…
+リクの–
+Riku no–
+Riku's–
 
 転送、プリューファよりアインツィヒへ。
 Tensou, prufer yori Einzig.
@@ -3800,7 +3797,7 @@ Riku's village has been destroyed
 Lösen: Org. 2807 – Umweg.
 *
 
-シュヴィだもん
+シュヴィだもん。
 Schwi da mon.
 by Schwi.
 
@@ -3813,7 +3810,7 @@ Riku…
 can Riku…
 
 同じこと言える？
-Onaji koto ieru?
+onaji koto ieru?
 still say the same?
 
 シュヴィ、
@@ -3836,7 +3833,7 @@ How…?
 aa… saisho ni iwakan o oboeta no wa
 Well… the first thing that was off
 
-やっぱ初めて出会ったとき
+やっぱ初めて出会ったとき。
 yappa hajimete deatta toki.
 was when we first met.
 
@@ -3849,22 +3846,22 @@ Somosomo, nande shuuraku kara annani hanareta basho de ‘machikamaete ta’ no 
 To begin with, why ‘lie in wait’ in a place so far from the village? And so on…
 
 意外と詰めが甘いよな。
-higai to tsume ga amai yo na.
+Higai to tsume ga amai yo na.
 It really didn’t take a lot.
 
 なのに… なんで？
 Nanoni… nande?
-Even so… why?
+Even if… why?
 
 なー、
 Naa,
 Well,
 
-それを全部 織り込んだうえで
-Sore o zenbu orikonda ue de
+それを全部織り込んだうえで
+sore o zenbu orikonda ue de
 the thing is that I love you
 
-シュヴィに惚(ほ)れたからかな
+シュヴィに惚(ほ)れたからかな。
 Schwi ni horetakara ka na.
 for every part of you.
 
@@ -3872,11 +3869,11 @@ for every part of you.
 Schwi ga ore no kokyou o horoboshita kako wa kawaranai,
 The fact that you destroyed my home will never change,
 
-でも、それを否定したら俺たち出会ってないだろ
+でも、それを否定したら俺たち出会ってないだろ。
 demo, sore o hitei shitara oretachi tte yattenaidaro.
 but without it, we wouldn't be here right now.
 
-結果は結果で
+結果は結果で。
 Kekka wa kekka de.
 It is how it is.
 
@@ -3884,83 +3881,95 @@ It is how it is.
 Nejimagete mo shikata nai.
 No point in running from it.
 
-歯がみして
+歯がみして、
 Hagami shite,
-You cry,
-_
+You lament,
 
-悔やんで
+悔やんで、
 kuyande,
-weil, #TODO
-_
+cry,
 
-泣き叫んで…
+泣き叫んで、
 nakisakende,
 gnash your teeth
-_
 
-次は 次こそはと前に進む
+次は次こそはと前に進む。
 tsugi wa tsugi koso wa to mae ni susumu.
-and then, you move on to the next one.
-_
+and then, you move on to ‘the next one’.
 
-だから シュヴィは 俺に興味を持ってくれた
-Dakara Schwi wa ore ni kyōmi o motte kureta,
+だからシュヴィは俺に興味を持ってくれた、
+Dakara Schwi wa ore ni kyoumi o motte kureta,
 That's why you took an interest in me,
 
 だろ？
 daro?
 right?
 
-Ore wa schwi no kako, soba ni ite kureru ima,
+俺はシュヴィの過去そばにいてくれる今、
+Ore wa Schwi no kako, soba ni ite kureru ima,
 Be it your past, your present by my side,
 
-korekara mo ite hoshii mirai,
+これからもいてほしい未来、
+kore kara mo ite hoshii mirai,
 or your future shared with me,
 
+全てを愛する。
 Subete o aisuru.
 I love them all.
 
-Futaride ireba kon'na sekai demo yukitai tte omoeru.
-With you, I want to keep going in this world.
+２人でいれば、こんな世界でも生きたいって思える。
+Futari　de ireba konna sekai demo ikitai tte omoeru.
+With you, I want to live even in a world like this.
 
-Futaride irarereba, nidoto waraenaku naru koto wa nai to omoeru.
+２人でいられれば、二度と笑えなくなることはないと思える。
+Futari　de irarereba, nido to waraenaku naru koto wa nai to omoeru.
 With you, I'm able to live my life in line with my heart.
-If it's with you,
 
+だから…
 Dakara…
 So…
 
-rikutsu nanka zenbu mushi shite.
-will you leave all logic behind
+理屈なんか全部無視して
+rikutsu nanka zenbu mushi shite
+will you leave all reason behind
 
-Onaji michi o aruite kurenai ka
+同じ道を歩いてくれないか
+onaji michi o aruite kurenai ka
 and walk this path with me
 
-Ore no tsuma to shite sa?
+俺の妻として…さ？
+Ore no tsuma to shite… sa?
 as my wife?
 
+シュヴィ…
 Schwi…
-Schwi…
+*
 
-Pojittori
+文字どおり…
+Moji douri
 It's clear
 
-mitame-dōri no
+見た目どおりの
+mitame douri no
 I'm a wrong choice
 
-futsutsuka mono
+ふつつか者だけど…
+futsutsuka mono…
 in so many ways…
 
-Takedo
-And yet,
+だけど…
+dakedo…
+yet…
 
-zutto zutto zutto
-forever… and ever,
+ずっと…ずっとずっと
+zutto… zutto zutto
+forever… and ever
 
-soba ni i sasete kudasai.
+そばにいさせてください。
+soba ni isasete kudasai.
 let me stay by your side.
 
+こちらこそ。
 Kochira koso.
 Allow me as well.
 
