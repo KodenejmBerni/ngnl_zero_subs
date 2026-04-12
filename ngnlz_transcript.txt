@@ -3976,6 +3976,7 @@ Allow me as well.
 
 00:56:03
 
+
 夫リク、
 Otto Riku,
 Do you Riku,
@@ -3989,7 +3990,7 @@ sasae, aishi,
 and vow to love her,
 
 生き残ることを誓いますか？
-Ikinokoru koto o chikaimasu ka?
+ikinokoru koto o chikaimasu ka?
 support her, and stay alive?
 
 ああ、誓う。
@@ -4018,19 +4019,15 @@ It gets on my nerves.
 
 大体何よ！
 Daitai nani yo!
-Like, seriously!
+Like, the hell!
 
 隠れ家の場所の知らせが届いていざ来てみたら、
 Kakurega no basho no shirase ga todoite iza kite mitara,
-You send me the location of your secret hideout,
-I got the location of your hideout, arrive,
-_
+I get the location of your hideout, finally arrive,
 
 なんの前置きもなくいきなり結婚って！
 Nan no maemuki mo naku ikinari kekkon tte!
-and when I get there you're getting married?!
-and then you're getting married out of nowhere?!
-_
+and then out of nowhere you're getting married!
 
 式を挙げろっつったのコロンだろ…
 Shiki o agero ttsutta no Couron daro…
@@ -4040,9 +4037,13 @@ You wanted the ceremony so much…
 Tsuka shigo oukune?
 Can we move on?
 
-妻シュヴィ、リクを夫とし、共に歩み、
-Tsuma Schwi, Riku otto to shi, tomoni ayumi 
-Do you Schwi, take Riku as your husband,
+妻シュヴィ、
+Tsuma Schwi,
+Do you Schwi,
+
+リクを夫とし、共に歩み、
+Riku otto to shi, tomoni ayumi,
+take Riku as your husband,
 
 支え、愛し—
 sasae, aishi—
@@ -4053,7 +4054,7 @@ Chikau.
 I do.
 
 シュヴィの存在、生まれた意味、心をくれたリクに誓って、
-Shuvi no sonzai, umareta imi, kokoro o kureta Riku ni chikatte,
+Schwi no sonzai, umareta imi, kokoro o kureta Riku ni chikatte,
 For Schwi's life… and purpose, I vow to Riku who gives me the heart,
 
 絶対リク死なせない、
@@ -4084,69 +4085,89 @@ Yay! So cute!
 Couron, nande…
 Couron, how…
 
-Datte, Riku ga eranda o yomesan, desho?
-After all, it's you who chose her, isn't it?
+だって、リクが選んだお嫁さん、でしょ？
+Datte, Riku ga eranda oyomesan, desho?
+After all, she was chosen by you, right?
 
-Sate, jā saigo ni, kore ni namae o hotte.
-So, to conclude, carve your names onto this.
+さて、じゃあ最後に、これに名前を彫って。
+Sate, jaa saigo ni, kore ni namae o hotte.
+Alright, so now, carve your names onto this.
 
-Kono ishi?
-On this rock?
+この石に？
+Kono ishi ni?
+On this stone?
 
-Anta-tachi omotemuki sonzai shi tenainara shorui wa nokosenai desho?
+あんたたち表向き存在してないなら、書類は残せないんでしょ？
+Antatachi omotemuki sonzai shitenai nara, shorui wa nokosenai ndesho?
 You guys don't officially exist so you can't have any documents, right?
 
+コロンの名前…
 Corounne no namae…
 There's your name…
 
-Sā, watashi no myōji.
-Yeah, and my surname.
+そう、私の名字。
+Sou, watashi no myouji.
+Yeah, and my family name.
 
-Korekara wa orera no myōji yo.
-From now on, it'll be our surname.
+これからは３人の名字よ。
+Korekara wa sannin no myouji yo.
+From now on, It’s our family name.
 
-Haha, goro ga warui na, 'orera no myōji'.
-Haha, it sounds weird, "our surname".
+ハハ、語呂がわりいな、“俺らの名字”。
+Haha, goro ga warii na, “orera no myouji”.
+Haha, it sounds weird, “our family name”.
 
-Nē, Riku Schwi, futari ga…
+ねえ、リク、シュヴィ、２人が…
+Nee, Riku Schwi, futari ga…
 Hey, Riku, Schwi, you two…
 
-min'na ga nani o suru no ka, watashi wa shiranai.
+みんなが何をするのか私は知らない。
+Minna ga nani o suru no ka watashi wa shiranai.
 I really have no idea what are you up to.
 
-Futari wa konoyo ni inai.
-You two are beyond this world.
+２人はこの世にいない。
+Futari wa kono yo ni inai.
+You two are out of this world.
 
-Demo. Watashi wa shitteru,
+でも…私は知ってる
+Demo… watashi wa shitteru
 But… I do know
 
-daijina otōto to kawaii imōto ga iru.
-that I have a brother and a sister now.
+大事な弟と かわいい妹がいる
+daiji na otouto to kawaii imouto ga iru.
+I now have a brother and a little sister.
 
-Dattara, onegai…
+だから、お願い…
+Dakara, onegai…
 So, please…
 
-Mō kazoku o ushinaitakunai no
+もう家族を失いたくないの。
+Mou kazoku o ushinaitakunai no.
 I don't want to lose another family.
 
+ムチャはしないで。
 Mucha wa shinaide.
-Don't die on me.
+Don’t push it too far.
 
-Ā. Daremoshiranai shi, shina senai
-Yeah, no one's gonna die.
+ああ、誰も死なないし死なせない。
+Aa, dare mo shinanai shi shinasenai.
+Yeah, we won’t let anyone die.
 
-kono gēmu dake wa kanarazu katsukara.
-This game, we've got in the bag.
+このゲームだけは必ず勝つから。
+Kono geimu dake wa kanarazu katsu kara.
+This one game, we've got in the bag.
 
-Makasete. Onēchan.
+任せて、お姉ちゃん。
+Makasete, oneechan.
 Leave it to us, sis.
 
 
 00:58:30
 
 
-_
-It stinks! The black ash!
+臭う… 黒灰だ
+Niou… kokuhai da!
+Stinks… It's the black ash!
 
 Sasuga Warbeast!
 You don't disappoint!
