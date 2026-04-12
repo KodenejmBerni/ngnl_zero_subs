@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 987
-Active Line: 1014
-Video Position: 84232
+Scroll Position: 1011
+Active Line: 1025
+Video Position: 84968
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1044,16 +1044,16 @@ Dialogue: 5,0:58:11.65,0:58:14.74,Default,,0,0,0,,Yeah, we won’t let anyone di
 Dialogue: 5,0:58:15.10,0:58:17.84,Default,,0,0,0,,This one game, we've got in the bag.
 Dialogue: 5,0:58:18.27,0:58:20.45,Default,,0,0,0,,Leave it to us, sis.
 Comment: 0,0:58:33.16,0:58:33.21,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,It stinks! The black ash!
+Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,Stinks… It's the black ash!
 Dialogue: 5,0:58:35.96,0:58:38.01,Default,,0,0,0,,You don't disappoint!
-Dialogue: 5,0:58:38.41,0:58:40.33,Default,,0,0,0,,I wouldn't mind if you ate me
-Dialogue: 5,0:58:40.81,0:58:43.19,Default,,0,0,0,,but I bet I wouldn't taste very good.
+Dialogue: 5,0:58:38.41,0:58:40.33,Default,,0,0,0,,I don't mind if you ate me,
+Dialogue: 5,0:58:40.81,0:58:43.19,Default,,0,0,0,,but I bet I won't taste very good.
 Dialogue: 5,0:58:43.93,0:58:45.60,Default,,0,0,0,,Who the hell are you?
-Dialogue: 5,0:58:46.47,0:58:50.11,Default,,0,0,0,,The western coast of the continent Lucia, where you reside,
-Dialogue: 5,0:58:50.94,0:58:53.91,Default,,0,0,0,,the Dwarves are planning a little experiment there…
+Dialogue: 5,0:58:46.47,0:58:50.11,Default,,0,0,0,,The western coast of the Lucia continent, where you reside…
+Dialogue: 5,0:58:50.94,0:58:53.91,Default,,0,0,0,,the Dwarves are planning a little experiment there.
 Dialogue: 5,0:58:54.79,0:58:56.70,Default,,0,0,0,,Capable of killing an Old Deus
-Dialogue: 5,0:58:56.84,0:58:59.69,Default,,0,0,0,,a massive hydrogen bomb.
-Dialogue: 5,0:59:01.70,0:59:03.35,Default,,0,0,0,,You're a bloodbreaker, right?
+Dialogue: 5,0:58:56.84,0:58:59.69,Default,,0,0,0,,a massive “hydrogen bomb”.
+Dialogue: 5,0:59:01.70,0:59:03.35,Default,,0,0,0,,You guys are bloodbreakers, right?
 Dialogue: 5,0:59:03.87,0:59:07.37,Default,,0,0,0,,Breaking into their facility shouldn’t be a problem.
 Dialogue: 5,0:59:08.14,0:59:11.01,Default,,0,0,0,,You could handle it if you happen to care.
 Dialogue: 5,0:59:12.73,0:59:16.73,Default,,0,0,0,,The Dwarf fleet regroups to avoid the Werebeasts.
