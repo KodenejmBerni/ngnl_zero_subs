@@ -4175,7 +4175,7 @@ You don't disappoint!
 
 俺を食うならかまわねえが、
 Ore o kuu nara kamawanee ga,
-I don't mind if you ate me,
+I don't mind if you eat me,
 
 味の悪さは保証するぜ。
 aji no warusa wa hoshou suru ze.
@@ -4205,23 +4205,29 @@ a massive “hydrogen bomb”.
 Omaera ketsukai kotai daro?
 You guys are bloodbreakers, right?
 
-ドワーフの施設なら難なく潜り込めるはずだ
-Dowāfu no shisetsunara nan'naku mogurikomeru hazuda.
+ドワーフの施設なら難なく潜り込めるはずだ。
+Dwarf no shisetsu nara nannaku mogurikomeru hazu da.
 Breaking into their facility shouldn’t be a problem.
 
-Mochisatte shobun suru nari suki ni sureba ī.
+持ち去って処分するなり好きにすればいい。
+Mochisatte shobun suru nari suki ni sureba ii.
 You could handle it if you happen to care.
 
-Dwarf no kantai, Warbeasts o keikai shi idō kaishi.
-The Dwarf fleet regroups to avoid the Werebeasts.
+ドワーフの艦隊、ワービーストを警戒し、移動を開始。
+Dwarf no kantai, Warbeasts o keikai shi, idou o kaishi.
+The Dwarven fleet, wary of the Warbeast, begins to regroup.
 
-Warbeats wazu E - bomb osore rūshia tairiku o dasshutsu.
-The Werebeasts, fearful of the bomb, flee from Lucia.
+ワービーストは髄爆を恐れ、ルーシア大陸を脱出。
+Warbeats wa Zuibaku o osore, Lucia tairiku o dasshutsu.
+The Werebeasts, fearing the bomb, flee the continent of Lucia.
 
-Tsudzui te Erufu no kimitsu jōhō Dwarf.
+続いて、エルフの機密情報をドワーフへ。
+Tsuzuite, Elves no kimitsu jouhou o Dwarves e.
 Next, the Elves' secret reaches the Dwarves.
+_
 
-Shiage wa kokoda.
+仕上げはここだ。
+Shiage wa koko da.
 Now the finishing touches.
 
 
@@ -5098,13 +5104,13 @@ This is getting weird.
 Kubi sae nokoreba yoinode.
 The head alone will be enough.
 
-そろそろ鉄屑らしく、
-Sorosoro tetsu-kuzurashiku, 
-Let's make you a proper scrap
+そろそろ鉄屑らしく
+Sorosoro tetsu-kuzurashiku
+Let's make you into proper scrap
 
 物言わず地に埋もれましょうか。
 monoiwazu chi ni umoremashou ka.
-silently rusting in the dirt.
+that silently rusts in the dirt.
 
 Kein-Eintrag.
 *

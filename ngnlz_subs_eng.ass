@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1011
-Active Line: 1025
-Video Position: 84968
+Video Zoom Percent: 0.750000
+Scroll Position: 1013
+Active Line: 1029
+Video Position: 85417
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1046,7 +1046,7 @@ Dialogue: 5,0:58:18.27,0:58:20.45,Default,,0,0,0,,Leave it to us, sis.
 Comment: 0,0:58:33.16,0:58:33.21,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,0:58:33.49,0:58:35.66,Default,,0,0,0,,Stinks… It's the black ash!
 Dialogue: 5,0:58:35.96,0:58:38.01,Default,,0,0,0,,You don't disappoint!
-Dialogue: 5,0:58:38.41,0:58:40.33,Default,,0,0,0,,I don't mind if you ate me,
+Dialogue: 5,0:58:38.41,0:58:40.33,Default,,0,0,0,,I don't mind if you eat me,
 Dialogue: 5,0:58:40.81,0:58:43.19,Default,,0,0,0,,but I bet I won't taste very good.
 Dialogue: 5,0:58:43.93,0:58:45.60,Default,,0,0,0,,Who the hell are you?
 Dialogue: 5,0:58:46.47,0:58:50.11,Default,,0,0,0,,The western coast of the Lucia continent, where you reside…
@@ -1056,8 +1056,8 @@ Dialogue: 5,0:58:56.84,0:58:59.69,Default,,0,0,0,,a massive “hydrogen bomb”.
 Dialogue: 5,0:59:01.70,0:59:03.35,Default,,0,0,0,,You guys are bloodbreakers, right?
 Dialogue: 5,0:59:03.87,0:59:07.37,Default,,0,0,0,,Breaking into their facility shouldn’t be a problem.
 Dialogue: 5,0:59:08.14,0:59:11.01,Default,,0,0,0,,You could handle it if you happen to care.
-Dialogue: 5,0:59:12.73,0:59:16.73,Default,,0,0,0,,The Dwarf fleet regroups to avoid the Werebeasts.
-Dialogue: 5,0:59:17.82,0:59:21.67,Default,,0,0,0,,The Werebeasts, fearful of the bomb, flee from Lucia.
+Dialogue: 5,0:59:12.73,0:59:16.73,Default,,0,0,0,,The Dwarven fleet, wary of the Warbeast, begins to regroup.
+Dialogue: 5,0:59:17.82,0:59:21.67,Default,,0,0,0,,The Werebeasts, fearing the bomb,\Nflee the continent of Lucia.
 Dialogue: 5,0:59:22.57,0:59:26.15,Default,,0,0,0,,Next, the Elves' secret reaches the Dwarves.
 Dialogue: 5,0:59:29.36,0:59:30.94,Default,,0,0,0,,Now the finishing touches.
 Dialogue: 5,0:59:35.58,0:59:36.14,Default,,0,0,0,,Who is it?
@@ -1361,8 +1361,8 @@ Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Could my hand have slipped?
 Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Nanything like instinctive reflexes.
 Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting weird.
 Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will be enough.
-Dialogue: 5,1:17:25.41,1:17:27.54,Default,,0,0,0,,Let's make you a proper scrap
-Dialogue: 0,1:17:27.54,1:17:30.01,Default,,0,0,0,,silently rusting in the dirt.
+Dialogue: 5,1:17:25.41,1:17:27.54,Default,,0,0,0,,Let's make you into proper scrap
+Dialogue: 0,1:17:27.54,1:17:30.01,Default,,0,0,0,,that silently rusts in the dirt.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
 Dialogue: 5,1:17:44.32,1:17:45.43,Default,,0,0,0,,Riku...
 Dialogue: 5,1:17:47.24,1:17:48.96,Default,,0,0,0,,I don't want to die.
