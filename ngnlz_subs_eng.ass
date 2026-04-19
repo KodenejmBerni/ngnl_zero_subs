@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1018
-Active Line: 1031
-Video Position: 85729
+Video Zoom Percent: 0.625000
+Scroll Position: 1053
+Active Line: 1080
+Video Position: 89322
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1060,52 +1060,53 @@ Dialogue: 5,0:59:17.82,0:59:21.67,Default,,0,0,0,,The Werebeasts, fearing the bo
 Dialogue: 5,0:59:22.57,0:59:26.15,Default,,0,0,0,,Next, the Elves' secret data reaches the Dwarves.
 Dialogue: 5,0:59:29.36,0:59:30.94,Default,,0,0,0,,Now the finishing touches.
 Comment: 0,0:59:34.76,0:59:34.80,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,0:59:35.58,0:59:36.14,Default,,0,0,0,,Who is it?
+Dialogue: 5,0:59:35.58,0:59:36.14,Default,,0,0,0,,Who are you?
 Dialogue: 5,0:59:37.53,0:59:38.47,Default,,0,0,0,,Well,
 Dialogue: 5,0:59:39.19,0:59:41.02,Default,,0,0,0,,let's just call me a ghost.
-Dialogue: 5,0:59:42.04,0:59:44.04,Default,,0,0,0,,I hope you have a good reason
-Dialogue: 0,0:59:44.36,0:59:46.81,Default,,0,0,0,,for coming here uninvited.
+Dialogue: 5,0:59:42.04,0:59:44.04,Default,,0,0,0,,I assume you have a good reason
+Dialogue: 0,0:59:44.36,0:59:46.81,Default,,0,0,0,,for coming here uninvited?
 Dialogue: 5,0:59:47.72,0:59:50.01,Default,,0,0,0,,I was hoping for a little game.
-Dialogue: 5,0:59:50.64,0:59:51.35,Default,,0,0,0,,A game?
-Dialogue: 5,0:59:51.86,0:59:54.05,Default,,0,0,0,,In which we bet information.
-Dialogue: 5,0:59:55.09,0:59:58.20,Default,,0,0,0,,If I win, you share something, and vice versa.
+Dialogue: 5,0:59:50.64,0:59:51.35,Default,,0,0,0,,Game?
+Dialogue: 5,0:59:51.86,0:59:54.05,Default,,0,0,0,,The stakes would be information.
+Dialogue: 5,0:59:55.09,0:59:58.20,Default,,0,0,0,,Beat me and I'll give you something, and vice versa.
 Dialogue: 5,0:59:58.95,1:00:01.21,Default,,0,0,0,,You come here out of nowhere
 Dialogue: 5,1:00:01.88,1:00:05.18,Default,,0,0,0,,and Nina Clive is supposed to take on the challenge?
-Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,Let me start with…
+Dialogue: 5,1:00:05.56,1:00:07.22,Default,,0,0,0,,So let me start with…
 Dialogue: 5,1:00:07.94,1:00:10.64,Default,,0,0,0,,The Dwarves know about the existance of Aka Si Anse.
 Dialogue: 5,1:00:11.43,1:00:12.68,Default,,0,0,0,,Sounds interesting?
 Dialogue: 5,1:00:13.59,1:00:16.39,Default,,0,0,0,,As the lead researcher of Aka Si Anse theory
 Dialogue: 5,1:00:16.82,1:00:20.44,Default,,0,0,0,,you should easily confirm the authenticity of this information.
 Dialogue: 5,1:00:20.92,1:00:22.07,Default,,0,0,0,,Am I mistaken?
 Dialogue: 5,1:00:25.14,1:00:25.96,Default,,0,0,0,,Alright.
-Dialogue: 5,1:00:26.64,1:00:30.21,Default,,0,0,0,,Whoever you are, I can't ignore something like this.
-Dialogue: 5,1:00:30.62,1:00:32.38,Default,,0,0,0,,Therefore, here is my wager.
-Dialogue: 5,1:00:32.82,1:00:35.58,Default,,0,0,0,,The true lead researcher of Aka Si Anse–
+Dialogue: 5,1:00:26.64,1:00:30.21,Default,,0,0,0,,Whoever you are, I can’t just leave this be.
+Dialogue: 5,1:00:30.62,1:00:32.38,Default,,0,0,0,,Then, as for my wager…
+Dialogue: 5,1:00:32.82,1:00:35.58,Default,,0,0,0,,The true lead researcher of Áka Si Anse–
 Dialogue: 5,1:00:34.87,1:00:35.88,Alt,,0,0,0,,Isn't you?
 Dialogue: 5,1:00:36.73,1:00:38.57,Default,,0,0,0,,I already know about it.
 Dialogue: 5,1:00:40.30,1:00:42.45,Default,,0,0,0,,And I know it's a lie.
-Dialogue: 5,1:00:43.34,1:00:47.00,Default,,0,0,0,,And you have resorted to magic to make me believe it.
-Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now, what else do I have…
-Dialogue: 5,1:00:54.90,1:01:00.87,Default,,0,0,0,,When the Dwarves learned about Áka Si Anse, they did not consider it a threat.
-Dialogue: 5,1:01:01.08,1:01:02.65,Default,,0,0,0,,I bet the reason behind it.
+Dialogue: 5,1:00:43.34,1:00:47.33,Default,,0,0,0,,A lie you have used magic to make me believe.
+Dialogue: 5,1:00:51.10,1:00:53.91,Default,,0,0,0,,Now, as for my wager…
+Dialogue: 5,1:00:54.90,1:01:00.87,Default,,0,0,0,,Upon learning about Áka Si Anse, the Dwarves saw no problem with it.
+Dialogue: 5,1:01:01.08,1:01:02.65,Default,,0,0,0,,Let’s bet on the cause.
 Dialogue: 5,1:01:03.30,1:01:04.65,Default,,0,0,0,,They what?!
-Dialogue: 5,1:01:05.67,1:01:06.99,Default,,0,0,0,,Far-fetched?
-Dialogue: 5,1:01:08.15,1:01:09.67,Default,,0,0,0,,I possess details
-Dialogue: 5,1:01:10.19,1:01:12.59,Default,,0,0,0,,about a weapon owned by the Dwarves,
-Dialogue: 5,1:01:12.90,1:01:15.70,Default,,0,0,0,,which they believe to surpass the Áka Si Anse.
-Dialogue: 5,1:01:21.58,1:01:22.74,Default,,0,0,0,,The E-bomb?
+Dialogue: 0,1:01:05.56,1:01:06.42,Default,,0,0,0,,Ca—
+Dialogue: 0,1:01:05.67,1:01:06.99,Default,,0,0,0,,If it can't be…
+Dialogue: 5,1:01:08.15,1:01:09.67,Default,,0,0,0,,I have it
+Dialogue: 5,1:01:10.19,1:01:12.59,Default,,0,0,0,,the information about the weapon,
+Dialogue: 5,1:01:12.90,1:01:15.70,Default,,0,0,0,,the Dwarves believe surpasses Áka Si Anse.
+Dialogue: 5,1:01:21.58,1:01:22.74,Default,,0,0,0,,Ether-bomb?
 Dialogue: 5,1:01:24.02,1:01:24.57,Default,,0,0,0,,Yes.
 Dialogue: 5,1:01:25.08,1:01:28.66,Default,,0,0,0,,A large-scale weapon that can wipe out an entire continent.
-Dialogue: 5,1:01:29.59,1:01:32.99,Default,,0,0,0,,The most advanced technology in the history of the elves
+Dialogue: 5,1:01:29.59,1:01:32.99,Default,,0,0,0,,The technique that stakes the entire essence of the elves…
 Dialogue: 5,1:01:33.51,1:01:35.18,Default,,0,0,0,,and it was outperformed
 Dialogue: 5,1:01:35.53,1:01:37.72,Default,,0,0,0,,by those moles burrowing in the earth?
 Dialogue: 5,1:01:38.84,1:01:39.66,Default,,0,0,0,,Wait a moment.
-Dialogue: 5,1:01:40.94,1:01:44.02,Default,,0,0,0,,A few times you played as if you were trying to lose.
+Dialogue: 5,1:01:40.94,1:01:44.02,Default,,0,0,0,,A few times you moved as if you were trying to lose.
 Dialogue: 5,1:01:45.02,1:01:46.74,Default,,0,0,0,,Tell me one last thing.
-Dialogue: 5,1:01:47.30,1:01:48.30,Default,,0,0,0,,Are you an enemy
+Dialogue: 5,1:01:47.30,1:01:48.30,Default,,0,0,0,,Are you an enemy…
 Dialogue: 5,1:01:49.24,1:01:50.57,Default,,0,0,0,,or an ally?
-Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,I'm not your enemy,
-Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,nor your ally.
+Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,Neither an enemy nor an ally.
+Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,As much as possible.
 Dialogue: 5,1:01:57.27,1:02:00.15,Default,,0,0,0,,I just wish for none of you to die.
 Dialogue: 5,1:02:02.60,1:02:03.91,Default,,0,0,0,,Very well Mr. Ghost.
 Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,You sure expect me to do something with all this information, don't you?
