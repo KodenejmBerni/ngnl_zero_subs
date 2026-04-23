@@ -4235,14 +4235,14 @@ Now the finishing touches.
 
 誰？
 Dare?
-Who are you?
+Who’s that?
 
 そうだな、
 Sou da na,
 Well,
 
 ただの幽霊と名乗っておこう。
-Tada no yuurei to nanotte okou.
+tada no yuurei to nanotte okou.
 let's just call me a ghost.
 
 勝手に上がり込んだからには、
@@ -4274,7 +4274,7 @@ Doko no dare tomo wakaranai aite to
 You come here out of nowhere
 
 このニーナ･クライヴが勝負すると思って？
-Kono Nina Clive ga shoubu suru to omotte?
+kono Nina Clive ga shoubu suru to omotte?
 and Nina Clive is supposed to take on the challenge?
 
 では１つ進呈…
@@ -4291,7 +4291,7 @@ Sounds interesting?
 
 アーカ･シ･アンセの理論提唱者である君なら
 Áka Si Anse no riron teishousha de aru kimi nara
-As the lead researcher of Áka Si Anse theory
+As the lead researcher of Aka Si Anse theory
 
 この情報の真偽など己のツテで精査可能。
 kono jouhou no shingi nado onore no tsute de seisa kanou.
@@ -4322,7 +4322,7 @@ Kimi de wa nai?
 Isn't you?
 
 という情報なら持っている。
-to iu jouhou nara motte iru.
+To iu jouhou nara motte iru.
 I already know about it.
 
 というのがウソだという情報。
@@ -4363,7 +4363,6 @@ I have it
 
 アーカ･シ･アンセと同等以上と、
 Áka Si Anse to doutou ijou to
-about a weapon owned by the Dwarves,
 the information about the weapon,
 
 ドワーフが判断している兵器の情報を。
@@ -4430,53 +4429,72 @@ I just wish for none of you to die.
 Ii wa yuurei-san.
 Very well Mr. Ghost.
 
-Sono jōhō o ukete dō suru ka? Hoka naranu watashi ni tou wake ne?
-You sure expect me to do something with all this information, don't you?
+その情報を受けてどうするか、他ならぬ私に問うわけね？
+Sono jouhou o ukete dou suru ka hoka naranu watashi ni tou wake ne?
+What to do with all that information, you’re leaving it up to me, aren't you?
 
-Chinamini
-By the way,
+ちなみにー、
+Chinaminii,
+By the waaay,
 
-Nīna Clive wa kime
+ニーナ･クライヴは偽名。
+Nīna Clive wa gimei.
 Nina Clive is an alias.
 
-watashi no honmyō wa
-You see, actually,
+私の本名は
+Watashi no honmyou wa
+You see, actually
 
-Think Nirvalen nodesu yo.
+シンク･ニルヴァレンなのですよ。
+Think Nirvalen nano desu yo.
 Think Nirvalen is my real name.
 
-Kono engi yara remashita?
-Unexpected, admit it!
+この演技見破れました？
+Kono engi miyaburemashita?
+Did you see through my act?
 
-Watashi wa ichido demo, kimi o Nina to yonda ka ne?
+私は一度でも君をニーナと呼んだかね？
+Watashi wa ichido demo kimi o Nina to yonda ka ne?
 Have you ever heard me call you Nina?
 
-Yoriniyotte kono watashi o tenohira moteasonda koto
-You had the audacity to treat me like your plaything
+よりによってこの私を手のひらでもてあそんだこと
+Yori ni yotte kono watashi o tenohira de moteasonda koto
+You had the audacity to pick me as your plaything
 
-kōkai sa sete yaru nodesu yo.
-and I'll make you pay for it!
+後悔させてやるのですよ！
+koukai sasete yaru no desu yo!
+and I’ll make you pay for it!
 
-Erufa nenchaku-shitsu tte uwasa no yurai wa
-The rumor about elves being relentlessly vindictive
+エルフが粘着質ってウワサの由来は
+Elf ga nenchakushitsu tte uwasa no yurai wa
+The rumor that elves are relentlessly vindictive
 
-hoka naranu Nirvarenna nodesukara.
-began with the Nirvalen family, you know.
+他ならぬニルヴァレン家なのですから
+hoka naranu Nirvalen-ke na no desu kara.
+comes from none other than the Nirvalen family.
 
-Riku hayaku!
-Riku, hurry!
 
-Joso eki node!
-It's decontaminate.
+1:02:52
 
-Riku, usotsuki ichi-jikan ittanoni.
-Riku you lied! You said it'd be an hour.
 
-Son'nani koku hai non de 2-jikan mo.
-You were there for twice that time!
-Such a dose for two hours is insane!
+リク！
+Riku!
+*
 
-Shikatane~edaro
+リク、早く！除染液飲んで！
+Riku hayaku! Josen eki nonde!
+Riku, hurry up! Drink the decontaminate!
+
+リク、ウソつき！１時間って言ったのに。
+Riku, usotsuki! Ichi-jikan tte itta no ni.
+Riku, you liar! You said it'd be an hour.
+
+あんなに黒灰 飲んで ２時間も…
+Annani kokuhai nonde nijikan mo…
+That much black ash over two hours…
+
+しかたねえだろ。
+Shikata nee daro.
 I had no choice.
 
 Kō demo shinaito isshun de shōtai bare chau.
