@@ -4489,7 +4489,7 @@ Riku, hurry up! Drink the decontaminate!
 Riku, usotsuki! Ichi-jikan tte itta no ni.
 Riku, you liar! You said it'd be an hour.
 
-あんなに黒灰 飲んで ２時間も…
+あんなに黒灰飲んで２時間も…
 Annani kokuhai nonde nijikan mo…
 That much black ash over two hours…
 
@@ -4497,32 +4497,53 @@ That much black ash over two hours…
 Shikata nee daro.
 I had no choice.
 
-Kō demo shinaito isshun de shōtai bare chau.
+こうでもしないと一瞬で正体バレちまう。
+Kou demo shinai to isshun de shoutai bare chimau.
 Without it I would be exposed in an instant.
 
-Dashite, sugureta chisei mo areba, kon'na jisatsu kōi, sōzō mo shinaidarou.
-Especially those with supreme intelligence, wouldn't even consider such madness.
+ましてすぐれた知性もあれば
+Mashite sugureta chisei mo areba
+Especially those with supreme intelligence
 
-Kotchi wa mō dame ppoi na.
-It doesn't move anymore.
+こんな自殺行為想像もしねえだろ？
+konna jisatsu koui souzou mo shinee daro?
+wouldn't consider such suicidal move, right?
 
-Na ore ato dono kurai iki rare-sō?
+リク！
+Riku!
+*
+
+こっちはもうダメっぽいな。
+Kocchi wa mou dame ppoi na.
+Looks like this one’s done for.
+
+なあ、俺あとどんくらい生きられそう？
+Naa, ore ato donkurai ikirare-sou?
 So, how much do you think I have left?
 
-Shina senai.
-You won't die.
+死なせない。
+Shinasenai.
+I won’t let you die.
 
+リクはシュヴィが死ぬまで生きるの。
 Riku wa Schwi ga shinu made ikiru no.
-You have to stay alive until I die.
+Riku is going to live until Schwi dies.
 
-Ex-machina no jumyō tte nan'nen'na no?
-Ex-machina's lifespan, how long is it?
+エクスマキナの寿命って…何年なの？
+Ex-machina no jumyou tte… nannen na no?
+Ex-machina's lifespan… how long is it?
 
-Taiyōnensu-go, 892-nen.
-In solar cycles it's 892 years.
+耐用年数：
+Taiyou nensuu:
+Usable lifespan:
 
-Sorya kiai hairenaito na.
-I really need to step it up then.
+あと892年。
+ato 892-nen.
+892 years left.
+
+そりゃ気合い入れないとな。
+Sorya kiai irenai to na.
+Then I really need to step it up.
 
 Kore de dai ichi mokuhyō. Ningen no seizon-ken kara no sensen haijo. Tassei.
 The first objective – removing the battle from human territory – complete.
@@ -5171,7 +5192,7 @@ Iyana yokan ga shimasu.
 This is getting weird.
 
 Kubi sae nokoreba yoinode.
-The head alone will be enough.
+The head alone will suffice.
 
 そろそろ鉄屑らしく
 Sorosoro tetsu-kuzurashiku

@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1070
-Active Line: 1092
-Video Position: 90514
+Scroll Position: 1090
+Active Line: 1109
+Video Position: 92228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1125,18 +1125,18 @@ Dialogue: 5,1:02:55.16,1:02:57.69,Default,,0,0,0,,Riku, hurry up! Drink the deco
 Dialogue: 5,1:03:00.41,1:03:03.28,Default,,0,0,0,,Riku, you liar! You said it'd be an hour.
 Dialogue: 5,1:03:03.70,1:03:05.92,Default,,0,0,0,,That much black ash over two hours…
 Dialogue: 5,1:03:13.87,1:03:15.21,Default,,0,0,0,,I had no choice.
-Dialogue: 5,1:03:16.13,1:03:20.64,Default,,0,0,0,,Without it, I would be detected in an instant.
-Dialogue: 5,1:03:22.06,1:03:24.93,Default,,0,0,0,,Especially those with supreme intelligence,
-Dialogue: 5,1:03:25.68,1:03:28.98,Default,,0,0,0,,wouldn't even consider such madness.
+Dialogue: 5,1:03:16.13,1:03:20.64,Default,,0,0,0,,Without it I would be exposed in an instant.
+Dialogue: 5,1:03:22.06,1:03:24.93,Default,,0,0,0,,Especially those with supreme intelligence
+Dialogue: 5,1:03:25.68,1:03:28.98,Default,,0,0,0,,wouldn’t consider such a suicidal move, right?
 Dialogue: 5,1:03:32.15,1:03:32.69,Default,,0,0,0,,Riku!
-Dialogue: 5,1:03:35.29,1:03:37.11,Default,,0,0,0,,It doesn't move anymore.
+Dialogue: 5,1:03:35.29,1:03:37.11,Default,,0,0,0,,Looks like this one’s done for.
 Dialogue: 5,1:03:39.42,1:03:43.76,Default,,0,0,0,,So, how much do you think I have left?
-Dialogue: 5,1:03:45.28,1:03:46.27,Default,,0,0,0,,You won't die.
-Dialogue: 5,1:03:47.03,1:03:49.84,Default,,0,0,0,,You have to stay alive until Schwi dies.
+Dialogue: 5,1:03:45.28,1:03:46.27,Default,,0,0,0,,I won’t let you die.
+Dialogue: 5,1:03:47.03,1:03:49.84,Default,,0,0,0,,Riku is going to live until Schwi dies.
 Dialogue: 5,1:03:51.33,1:03:54.47,Default,,0,0,0,,Ex-machina's lifespan… how long is it?
-Dialogue: 5,1:03:54.83,1:03:56.01,Default,,0,0,0,,In solar cycles,
-Dialogue: 5,1:03:56.44,1:03:58.17,Default,,0,0,0,,it's 892 years.
-Dialogue: 5,1:04:00.28,1:04:02.99,Default,,0,0,0,,I really need to step it up then.
+Dialogue: 5,1:03:54.83,1:03:56.01,Default,,0,0,0,,Usable lifespan:
+Dialogue: 5,1:03:56.44,1:03:58.17,Default,,0,0,0,,892 years left.
+Dialogue: 5,1:04:00.28,1:04:02.99,Default,,0,0,0,,Then I really need to step it up.
 Dialogue: 5,1:04:06.65,1:04:08.25,Default,,0,0,0,,The first objective
 Dialogue: 5,1:04:09.35,1:04:12.26,Default,,0,0,0,,removing the battle from human territory
 Dialogue: 0,1:04:12.90,1:04:13.72,Default,,0,0,0,,complete.
@@ -1361,7 +1361,7 @@ Dialogue: 5,1:17:07.58,1:17:10.34,Default,,0,0,0,,Darn… I was aiming for the n
 Dialogue: 5,1:17:11.25,1:17:13.38,Default,,0,0,0,,Could my hand have slipped?
 Dialogue: 5,1:17:15.40,1:17:20.20,Default,,0,0,0,,No way a machine could have\Nanything like instinctive reflexes.
 Dialogue: 5,1:17:20.85,1:17:22.55,Default,,0,0,0,,This is getting weird.
-Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will be enough.
+Dialogue: 5,1:17:23.05,1:17:24.90,Default,,0,0,0,,The head alone will suffice.
 Dialogue: 5,1:17:25.41,1:17:27.54,Default,,0,0,0,,Let's make you into proper scrap
 Dialogue: 0,1:17:27.54,1:17:30.01,Default,,0,0,0,,that silently rusts in the dirt.
 Dialogue: 5,1:17:30.01,1:17:31.26,Default,,0,0,0,,Kein-Eintrag.
