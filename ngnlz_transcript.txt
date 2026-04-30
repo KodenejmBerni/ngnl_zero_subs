@@ -4585,56 +4585,84 @@ Couron!
 01:04:30
 
 
-Yūrei-tachi no an'yaku wa Sonogo mo tsudzuki.
-The ghosts' covert actions pressed on.
+幽霊たちの暗躍はその後も続き。
+Yuureitachi no anyaku wa sono go mo tsuzuki.
+The ghosts’ covert actions pressed on.
 
-Nerai-dōri, Erufu wa fearī o mikata ni tsuke,
+狙いどおり、エルフはフェアリーを味方につけ、
+Nerai doori, Elves wa Fairies o mikata ni tsuke,
 As expected, the Elves allied with the Fairies,
 
-dowāfu no kōkū kantai ni taikō subeku doragonia no keiyaku-sū o zōdai.
-and to face the Dwarf fleet, they expanded contracts with the Dragonias.
+ドワーフの航空艦隊に対抗すべく、ドラゴニアの契約数を増大。
+Dwarves no koukuu kantai ni taikou subeku, Dragonia no keiyakusuu o zoudai.
+and to face the dwarven fleet, they expanded contracts with the Dragonias.
 
-Ippō dowāfu wa kankei ryōkōna giganto ni kuwae,
+一方ドワーフは、関係良好なギガントに加え、
+Ippou Dwarves wa, kankei ryoukou na Giants ni kuwae,
 Meanwhile, the Dwarves teamed up with the Giants
 
-tasū no fantazuma o mikata ni tsuketa.
+多数のファンタズマを味方につけた。
+tasuu no phantasmas o mikata ni tsuketa.
 and turned many phantasmas to their side.
 
-Yūrei-tachi no jōhō ni odora sa re,
-Manipulated by information,
+幽霊たちの情報に踊らされ、
+Yuureitachi no jouhou ni odorasare,
+Manipulated by the ghosts’ information,
 
-2-dai jin'ei wa tagaini motsu ōkibo hakai heiki o keikai shi ai,
-each major pawn took precautions against the threat of another,
+二大陣営は互いに持つ大規模破壊兵器を警戒し合い、
+nidai zinei wa tagai ni motsu daikibo hakai heiki o keikai shiai,
+the two major pawns kept mutual watch over each other’s threat,
 
-tonari no ariera tairiku e to kyoten o utsusu.
-moving its forces to the continent of Ariena.
+隣のアリエラ大陸へと拠点を移す。
+tonari no Ariela tairiku e to kyoten o utsusu.
+moving their forces to the continent of Ariela.
 
-Shikashi soko ni wa, mokka no saidai kyōidearu Flugel o yōsuru,
+しかしそこには、目下の最大脅威であるフリューゲルを要する、
+Shikashi soko ni wa, mokka no saidai kyoui de aru Flügel o yousuru,
 This place however, happens to be the base of the Flügel's sovereign,
 
-Old-deus Artosh.
-the Old-deus Artosh.
+オールドデウス、
+Old-deus,
+the Old-deus,
 
+アルトシュ陣営が。
+Artosh jinei ga。
+Lord Artosh.
+
+アインヴィーク。
 Umweg.
-Umweg.
+*
 
-23-Ki setchi kanryō.
-23 units ready.
+23機 設置完了。
+23-ki setchi kanryou.
+23 units completed setup.
+_
 
-Nokori kyū-ki.
-9 units remaining.
+残り:９機。
+Nokori: 9-ki.
+Remaining: 9 units.
 
-Kore ni kyofu no ri o nerau ta, shuzoku mo kuwae,
+これに漁夫の利を狙う他の種族も加え
+Kore ni gyofu no ri o nerau hoka no shuzoku mo kuwae
 And thus, under the shadow of impending terror
+_
 
-sekai wa isshokusokuhatsu no saishū kessen e byōyomi to natta.
+世界は一触即発の最終決戦へ秒読みとなった。
+sekai wa isshoku sokuhatsu no saishuu kessen e byouyomi to natta.
 the world began the countdown to the final battle.
+_
 
-Subete.
+全て
+Subete
 Everything
 
-Nerai-dōri ni.
+狙いどおりに。
+nerai doori ni.
 as planned.
+
+
+01:05:40
+
 
 Na Schwi,
 Hey Schwi,

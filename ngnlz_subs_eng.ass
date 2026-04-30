@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1103
-Active Line: 1117
-Video Position: 92815
+Scroll Position: 1118
+Active Line: 1132
+Video Position: 94299
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1146,20 +1146,20 @@ Dialogue: 5,1:04:23.97,1:04:26.29,Default,,0,0,0,,Lily, please take care of thin
 Dialogue: 5,1:04:26.29,1:04:27.35,Default,,0,0,0,,Huh? Wait a—
 Dialogue: 0,1:04:27.35,1:04:28.03,Default,,0,0,0,,Couron!
 Comment: 0,1:04:30.78,1:04:30.83,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,1:04:31.12,1:04:33.79,Default,,0,0,0,,The ghosts' covert actions pressed on.
+Dialogue: 5,1:04:31.12,1:04:33.79,Default,,0,0,0,,The ghosts’ covert actions pressed on.
 Dialogue: 5,1:04:34.97,1:04:38.31,Default,,0,0,0,,As expected, the Elves allied with the Fairies,
-Dialogue: 5,1:04:38.58,1:04:43.69,Default,,0,0,0,,and to face the Dwarf fleet, they expanded contracts with the Dragonia.
+Dialogue: 5,1:04:38.58,1:04:43.69,Default,,0,0,0,,and to face the dwarven fleet,\Nthey expanded contracts with the Dragonias.
 Dialogue: 5,1:04:44.84,1:04:48.45,Default,,0,0,0,,Meanwhile, the Dwarves teamed up with the Giants
 Dialogue: 5,1:04:48.76,1:04:51.01,Default,,0,0,0,,and turned many phantasmas to their side.
-Dialogue: 5,1:04:52.10,1:04:54.27,Default,,0,0,0,,Manipulated by information,
-Dialogue: 5,1:04:54.51,1:04:58.28,Default,,0,0,0,,each major pawn took precautions against the threat of another,
-Dialogue: 5,1:04:58.69,1:05:01.38,Default,,0,0,0,,moving its forces to the continent of Ariena.
+Dialogue: 5,1:04:52.10,1:04:54.27,Default,,0,0,0,,Manipulated by the ghosts’ information,
+Dialogue: 5,1:04:54.51,1:04:58.28,Default,,0,0,0,,the two major pawns kept mutual watch over each other’s threat,
+Dialogue: 5,1:04:58.69,1:05:01.38,Default,,0,0,0,,moving their forces to the continent of Ariela.
 Dialogue: 5,1:05:03.19,1:05:07.82,Default,,0,0,0,,This place however, happens to be the base of the Flügel's sovereign,
 Dialogue: 5,1:05:08.16,1:05:09.59,Default,,0,0,0,,the Old-deus,
 Dialogue: 0,1:05:10.67,1:05:12.20,Default,,0,0,0,,Lord Artosh.
 Dialogue: 5,1:05:16.13,1:05:17.18,Default,,0,0,0,,Umweg.
 Dialogue: 5,1:05:19.87,1:05:22.31,Default,,0,0,0,,23 units ready.
-Dialogue: 5,1:05:22.59,1:05:24.42,Default,,0,0,0,,9 remaining.
+Dialogue: 5,1:05:22.59,1:05:24.42,Default,,0,0,0,,Remaining: 9 units.
 Dialogue: 5,1:05:25.97,1:05:29.01,Default,,0,0,0,,And thus, under the shadow of impending terror
 Dialogue: 5,1:05:29.38,1:05:33.19,Default,,0,0,0,,the world began the countdown to the final battle.
 Dialogue: 5,1:05:35.06,1:05:36.21,Default,,0,0,0,,Everything
