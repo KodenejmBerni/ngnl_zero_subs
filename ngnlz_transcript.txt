@@ -4635,8 +4635,7 @@ Umweg.
 
 23機 設置完了。
 23-ki setchi kanryou.
-23 units completed setup.
-_
+23 units – installed.
 
 残り:９機。
 Nokori: 9-ki.
@@ -4644,13 +4643,11 @@ Remaining: 9 units.
 
 これに漁夫の利を狙う他の種族も加え
 Kore ni gyofu no ri o nerau hoka no shuzoku mo kuwae
-And thus, under the shadow of impending terror
-_
+With other races joining to profit from the situation,
 
 世界は一触即発の最終決戦へ秒読みとなった。
 sekai wa isshoku sokuhatsu no saishuu kessen e byouyomi to natta.
-the world began the countdown to the final battle.
-_
+the world entered a countdown toward a final, spectacular showdown.
 
 全て
 Subete
