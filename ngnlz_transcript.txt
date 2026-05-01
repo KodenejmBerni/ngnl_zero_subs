@@ -4661,68 +4661,108 @@ as planned.
 01:05:40
 
 
-Na Schwi,
-Hey Schwi,
+なあ シュヴィ、
+Naa Schwi,
+Say, Schwi
 
-gēmu no kamisama tte iru no ka?
-is there like… a god of games?
+ゲームの神様っているのか？
+geimu no kamisama tte… iru no ka?
+is there anything like… a god of games?
 
-Ore atta koto aru tte ittara shinjiru ka?
-If I said I'd seen him, would you believe me?
+俺会ったことあるって言ったら、信じるか？
+Ore atta koto aru tte ittara, shinjiru ka?
+If I said I’d seen him, would you believe me?
 
-Yatsu wa tsuneni ore no yosō o uwamawaru te o uchi
-He always moved way beyond my predictions
+ヤツは常に俺の予想を上回る手を打ち。
+Yatsu wa tsuneni ore no yosou o uwamawaru te o uchi.
+Bastard always moved far beyond my predictions.
 
-Are wa itsumo kimatte makeru.
-and I always ended up losing.
+俺はいつも決まって負ける。
+Ore wa itsumo kimatte makeru.
+I always ended up losing.
 
+けど、
 Kedo,
-And yet,
+However,
 
+それがたまらなく楽しくて。
 sore ga tamaranaku tanoshikute.
-it was so much fun to play.
+it was irresistibly fun to play.
 
+次は…
 Tsugi wa…
 Next time…
 
+次こそは必ず勝ってやるって。
 Tsugi koso wa kanarazu katte yaru tte.
-Next time for sure I'll get him.
+In the next one for sure I'll get him.
 
-Zutto sō omotteta.
+ずっとそう思ってた。
+Zutto sou omotteta.
 I always thought.
 
-Dakara ore wa, yatsu to no gēmu ni ketchaku o tsukenakya naranai.
+だから俺は、ヤツとのゲームに 決着をつけなきゃならない
+Dakara ore wa yatsu to no geimu ni kecchaku o tsukenakya naranai
 And now, I still need to settle things with him,
+_
 
-Ano toki no gēmuamada
+あのときのゲームはまだ
+Ano toki no geimu wa mada
 as that game from back then
+_
 
-owatte inai ndakara.
+終わっていないんだから。
+owatte inai nda kara.
 isn't over yet.
+_
 
-Riku ga shinjiru,  
+リクが信じる、
+Riku ga shinjiru,
 You believe it,
 
+なら
 nara
 then
 
-Schwi shinjiru
+シュヴィ信じる。
+Schwi shinjiru.
 I believe it too.
 
-Riku ga iru tte iunara, iru.
+リクが“いる”って言うなら、いる。
+Riku ga “iru” tte iu nara, iru.
 If you say he exists, then he does.
 
-mo utagawanai.
+もう疑わない。
+Mou utagawanai.
 No doubt about it.
 
-Chikushō!
-Crap!
+ちくしょう！
+Chikushou!
+Damn it!
 
+今のセリフ！
 Ima no serifu!
 These words!
 
-dareka ni kashite yo boku kuso goraga de.
+誰かに聞かせておもっくそノロけて？！
+Dareka ni kikasete omokkuso norokete?!
 Why is there no one here to hear this?!
+
+リク！
+Riku!
+*
+
+リク！
+Riku!
+*
+
+コロン？
+Couron?
+*
+
+
+01:06:47
+
 
 Riku ga itteta tōri,
 Just as you said,
@@ -6169,7 +6209,7 @@ In the one where no one has to die.
 Omoi kara umareru no ga kami nara…
 If a wish were to bring forth a god…
 
-ゲームの神様
+ゲームの神様！
 Geemu no kamisama!
 God of Games!
 
@@ -6203,7 +6243,7 @@ Please!
 
 せめて俺たちに
 Semete oretachi ni
-At least tell me
+Tell us at least
 
 何か意味があったと言ってくれ！
 nanika imi ga atta to itte kure!
@@ -6217,9 +6257,9 @@ I don’t care who!
 Kono sensou o owaraserareru dareka ni.
 Anyone who can end this cursed war!
 
-そのスーニアスターを
-Sono Suniaster o
-Take that Suniaster!
+そのスーニアスターを…
+Sono Suniaster o…
+Take that Suniaster…
 
 誰かに…
 dareka ni!
