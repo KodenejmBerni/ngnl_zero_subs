@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1133
-Active Line: 1146
-Video Position: 95276
+Scroll Position: 1139
+Active Line: 1159
+Video Position: 96154
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1163,7 +1163,6 @@ Dialogue: 5,1:05:25.97,1:05:29.38,Default,,0,0,0,,With other races joining to pr
 Dialogue: 5,1:05:29.38,1:05:33.19,Default,,0,0,0,,the world entered a countdown toward a final, spectacular showdown.
 Dialogue: 5,1:05:35.06,1:05:36.21,Default,,0,0,0,,Everything
 Dialogue: 5,1:05:36.71,1:05:38.01,Default,,0,0,0,,as planned.
-Comment: 0,1:05:39.45,1:05:39.49,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,1:05:40.47,1:05:41.38,Default,,0,0,0,,Say, Schwi
 Dialogue: 5,1:05:42.13,1:05:44.45,Default,,0,0,0,,is there anything like… a god of games?
 Dialogue: 5,1:05:46.01,1:05:49.75,Default,,0,0,0,,If I said I'd seen him, would you believe me?
@@ -1172,7 +1171,7 @@ Dialogue: 5,1:05:55.87,1:05:57.89,Default,,0,0,0,,I always ended up losing.
 Dialogue: 5,1:05:58.66,1:05:59.96,Default,,0,0,0,,However,
 Dialogue: 5,1:05:59.96,1:06:01.96,Default,,0,0,0,,it was irresistibly fun to play.
 Dialogue: 5,1:06:02.42,1:06:03.07,Default,,0,0,0,,{\i1}Next time…
-Dialogue: 0,1:06:03.88,1:06:06.11,Default,,0,0,0,,{\i1}In the next one for sure I'll get him.
+Dialogue: 0,1:06:03.88,1:06:06.11,Default,,0,0,0,,{\i1}In the next one I’ll get him for sure.
 Dialogue: 5,1:06:06.68,1:06:08.07,Default,,0,0,0,,I always thought.
 Dialogue: 5,1:06:08.95,1:06:12.94,Default,,0,0,0,,And now, I still need to settle things with him,
 Dialogue: 5,1:06:13.78,1:06:15.30,Default,,0,0,0,,as that game from back then
@@ -1188,6 +1187,7 @@ Dialogue: 5,1:06:36.34,1:06:39.85,Default,,0,0,0,,Why is there no one here to he
 Dialogue: 5,1:06:39.87,1:06:40.42,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:42.96,1:06:43.53,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:46.10,1:06:46.95,Default,,0,0,0,,Couron?
+Comment: 0,1:06:49.53,1:06:49.56,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,1:06:50.42,1:06:51.87,Default,,0,0,0,,Just as you said
 Dialogue: 5,1:06:52.22,1:06:53.99,Default,,0,0,0,,no one has died so far.
 Dialogue: 5,1:06:55.27,1:06:57.70,Default,,0,0,0,,There are no sightings of other races either.
