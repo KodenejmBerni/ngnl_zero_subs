@@ -4798,7 +4798,7 @@ Mondainai.
 No big deal.
 
 問題大ありよ！
-Mondai owari yo!
+Mondai ouari yo!
 Like shit no big deal!
 
 そんなボロボロで…
@@ -4813,9 +4813,8 @@ We're almost there.
 Minogashite kure.
 Just let it go.
 
-もう少しって
-Mou sukoshi tte
-Mōsukoshi tte?
+もう少しって？
+Mou sukoshi tte?
 Almost there?
 
 いつ終わるの？
@@ -4823,7 +4822,7 @@ Itsu owaru no?
 How long is that?
 
 いつまで心配すればいいの？
-Itsu made shinpai sureba ī no?
+Itsu made shinpai sureba ii no?
 How much longer do I have to worry?
 
 なあコロン、
@@ -4879,7 +4878,7 @@ Soko de, hitoshiku chikara o motta kami ga juu-nin iru nara,
 So then, if there are ten gods with equal power,
 
 ９人 殺してしまえば 自分が唯一神と。
-Kyuunin koroshite shimaeba jibun ga yuiitsu shin.
+Kyuunin koroshite shimaeba jibun ga yuiitsu shin to.
 I have to kill the other nine to become the Sole God.
 
 ヤツらこう考えたわけだ。

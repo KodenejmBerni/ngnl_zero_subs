@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life - Zero (2017)/for_subs/[YURI] No Gam
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1313
-Active Line: 1318
-Video Position: 109695
+Scroll Position: 1175
+Active Line: 1195
+Video Position: 98632
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1187,8 +1187,7 @@ Dialogue: 5,1:06:36.34,1:06:39.85,Default,,0,0,0,,Why is there no one here to he
 Dialogue: 5,1:06:39.87,1:06:40.42,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:42.96,1:06:43.53,Default,,0,0,0,,Riku!
 Dialogue: 5,1:06:46.10,1:06:46.95,Default,,0,0,0,,Couron?
-Comment: 0,1:06:49.53,1:06:49.56,Default,,0,0,0,,TRANSCRIPT END
-Dialogue: 5,1:06:50.42,1:06:51.87,Default,,0,0,0,,Just as you said
+Dialogue: 5,1:06:50.42,1:06:51.87,Default,,0,0,0,,Just as you said,
 Dialogue: 5,1:06:52.22,1:06:53.99,Default,,0,0,0,,no one has died so far.
 Dialogue: 5,1:06:55.27,1:06:57.70,Default,,0,0,0,,There are no sightings of other races either.
 Dialogue: 5,1:06:58.10,1:06:59.00,Default,,0,0,0,,Thought so.
@@ -1208,23 +1207,24 @@ Dialogue: 5,1:07:32.49,1:07:33.31,Default,,0,0,0,,Hey, Couron,
 Dialogue: 5,1:07:34.61,1:07:37.38,Default,,0,0,0,,do you know what the gods are fighting over in this war?
 Dialogue: 5,1:07:39.18,1:07:40.46,Default,,0,0,0,,The Title of the Sole God.
 Dialogue: 5,1:07:40.93,1:07:42.90,Default,,0,0,0,,Yeah, according to Schwi,
-Dialogue: 5,1:07:43.31,1:07:46.04,Default,,0,0,0,,it's something called the Suniaster.
-Dialogue: 5,1:07:46.70,1:07:48.39,Default,,0,0,0,,Many Old-deus emerged,
-Dialogue: 5,1:07:48.73,1:07:52.68,Default,,0,0,0,,and in order for only one to rule, these wannabe gods established…
-Dialogue: 5,1:07:53.11,1:07:54.42,Default,,0,0,0,,a conceptual device.
-Dialogue: 5,1:07:54.75,1:07:56.05,Default,,0,0,0,,A conceptual device?
-Dialogue: 5,1:07:57.24,1:07:59.52,Default,,0,0,0,,Where could something like that even be?
+Dialogue: 5,1:07:43.31,1:07:46.04,Default,,0,0,0,,it's something called “Suniaster”.
+Dialogue: 5,1:07:46.70,1:07:48.39,Default,,0,0,0,,Countless Old-deus emerged,
+Dialogue: 5,1:07:48.73,1:07:52.68,Default,,0,0,0,,and in order for only one to rule, these wannabe gods devised…
+Dialogue: 5,1:07:53.11,1:07:54.42,Default,,0,0,0,,a “conceptual device”.
+Dialogue: 5,1:07:54.75,1:07:56.05,Default,,0,0,0,,A conceptual device…?
+Dialogue: 5,1:07:57.24,1:07:59.52,Default,,0,0,0,,Where in the world is something like that?
 Dialogue: 5,1:08:00.36,1:08:02.71,Default,,0,0,0,,Suniaster's requirement:
 Dialogue: 5,1:08:03.37,1:08:07.18,Default,,0,0,0,,It will manifest before the greatest power on the planet.
-Dialogue: 5,1:08:07.50,1:08:11.51,Default,,0,0,0,,Thus, if there are ten gods with equal power,
-Dialogue: 5,1:08:11.92,1:08:15.59,Default,,0,0,0,,I have to kill the other nine to become the One, right?
-Dialogue: 5,1:08:15.83,1:08:17.57,Default,,0,0,0,,That's their way of thinking.
-Dialogue: 5,1:08:17.78,1:08:19.58,Default,,0,0,0,,Wha— That's idiotic!
-Dialogue: 5,1:08:20.43,1:08:22.47,Default,,0,0,0,,For such a dumb reason, we…
+Dialogue: 5,1:08:07.50,1:08:11.51,Default,,0,0,0,,So then, if there are ten gods with equal power,
+Dialogue: 5,1:08:11.92,1:08:15.59,Default,,0,0,0,,I have to kill the other nine to become the Sole God.
+Dialogue: 5,1:08:15.83,1:08:17.57,Default,,0,0,0,,That’s how they figured it.
+Dialogue: 5,1:08:17.78,1:08:19.58,Default,,0,0,0,,Wha— are they idiots?!
+Dialogue: 5,1:08:20.43,1:08:22.47,Default,,0,0,0,,For a reason like that, we…
 Dialogue: 5,1:08:22.89,1:08:25.83,Default,,0,0,0,,Couron, not even an idiot is that stupid.
 Dialogue: 5,1:08:26.73,1:08:27.74,Default,,0,0,0,,After all,
-Dialogue: 5,1:08:28.44,1:08:29.92,Default,,0,0,0,,you don't need any of this,
+Dialogue: 5,1:08:28.44,1:08:29.92,Default,,0,0,0,,you don’t need any of this,
 Dialogue: 0,1:08:30.41,1:08:33.17,Default,,0,0,0,,and Suniaster is still going to show up.
+Comment: 0,1:08:33.74,1:08:33.79,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,1:08:34.24,1:08:37.13,Default,,0,0,0,,That's what we brought everyone together for.
 Dialogue: 5,1:08:38.55,1:08:40.01,Default,,0,0,0,,Áka Si Anse,
 Dialogue: 5,1:08:40.50,1:08:41.37,Default,,0,0,0,,Ether-bomb,
