@@ -16,6 +16,7 @@ Laden - ラーデン
 Übercluster 207 Prüfer 4F57T9
 Stalemartyr - ステイルマーター
 Suniaster - スーニアスター
+Checkmate - チェックメイト
 Ivan - イワン
 Artosh - アルトシュ
 Kainas - カイナース
