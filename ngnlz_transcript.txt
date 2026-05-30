@@ -5249,80 +5249,106 @@ How utterly tedious this is…
 Ato hachi-ki.
 8 remains.
 
-Suniaster sae te ni irereba, riku wa shinanai.
+スーニアスターさえ手に入れれば、リクは死なない。
+Suniaster sae te ni ireba, Riku wa shinanai.
 I have to get this Suniaster, and Riku won't die.
 
-Riku, Mattete ne.
+リク、待っててね！
+Riku, mattete ne!
 Riku, hold on!
 
+おや～！
 Oya!
 Oh my!
 
-Honjitsu wa hitori de o sanpo de gozaimasu ka?
-Are we having a solitary stroll today?
+本日は１人でお散歩でございますか？
+Honjitsu wa hitori de osanpo de gozaimasu ka?
+Are we taking a solitary stroll today?
 
-Biryōna seirei han'nō o mikaketa node, shirabete mimashitara
+微妙な精霊反応を見かけたので、調べてみましたら、
+Bimyou na seirei hannou o mikaketa node, shirabete mimashitara,
 A faint spiritual reaction catches your eye, you come to take a look,
 
-omowanu shūkaku na korogatte gozaimasu ne.
+わぬ収穫が転がってございますね。
+omowanu shuukaku ga korogatte gozaimasu ne.
 and what a wonderful bounty it turns out to be.
 
-Ga kigen-yō, scrap.
+ごきげんよう、スクラップ。
+Gokigenyou, scrap.
 Pleasure to meet you, scrap.
 
-Keikoku. Tōki to tekitai surunara sōō no taiō o jikkō suru.
+警告: 当機と敵対するなら相応の対応を実行する。
+Keikoku: touki to tekitai suru nara souou no taiou o jikkou suru.
 Warning: Any hostile action will result in severe countermeasures.
 
-Prufer ikki de? degozaimasu ka?
-From a single Prüfer, you say?
+プリューファ１機で…でございますか？
+Prüfer ikki de… de gozaimasu ka?
+From a single Prüfer… that is?
 
-100-kiro inai ni cluster no han'nō wa nai to kakunin shite gozaimasu.
+半径100キロ以内にクラスタの反応はないと確認してございます。
+Hankei 100 kiro inai ni cluster no hannou wa nai to kakunin shite gozaimasu.
 I've confirmed that there is no cluster activity within 100 km.
 
-Yueni puremiamu na nekku o ījī ni chōonba dekiru chansu ka to zonjimashite.
+故に、プレミアムなネックをイージーにチョンパできるチャンスかと存じまして。
+Yueni, premium na neck o easy ni chonpa dekiru chance ka to zonjimashite.
 Then, it's truly a magnifique opportunité to pick up a premium head.
 
-Hitotsu. Dare mo koroshite wa naranai.
-1: No one can be killed.
+一つ: 誰も殺してはならない。
+1: Dare mo koroshite wa naranai.
+1: You must not kill anyone.
 
+幸いエクスマキナには死の概念もないことですし。
 Saiwai ekusumakina ni wa shi no gainen mo nai kotodesushi.
 Luckily, Ex-Machinas don’t even possess the concept of death.
 
-Futatsu dare mo shina sete wa naranai.
-2: No one can be left to die.
+二つ: 誰も死なせてはならない。
+2: Dare mo shinasete wa naranai.
+2: You must not cause anyone to die.
 
-Dō ka mudanateikō wa-
-Please, no futile–
+どうか無駄な抵抗は–
+Douka muda na teikou wa–
+Please, no futile resi–
 
-Kotowaru.
+断る!
+Kotowaru!
 I refuse!
 
+はい？
 Hai?
 Pardon?
 
+当機は廃棄機、
+Touki wa haiki-ki,
 Tōki wa haikki.
-This unit is disconnected,
+This unit was discarded,
 
-Kachi wanai.
-it's worthless.
+価値はない。
+kachi wa nai.
+it has no value.
 
-Muttsu jōki ni ihan suru issai wa haiboku to suru.
+六つ: 上記に違反する一切は敗北とする。
+6: Jouki ni ihan suru issai wa haiboku to suru.
 6: Breaking any of these rules results in a loss.
 
+だから、
 Dakara,
 Therefore,
 
+見逃してほしい。
 minogashite hoshii.
 please, spare me.
 
-Masaka ekusumakina ga shi o osore kongan?
-No way, an Ex-machina that begs for its life?
+まさか、エクスマキナが　死を恐れ 懇願？
+Masaka, Ex-machina ga shi o osore kongan?
+No way, an Ex Machina is begging for its life?
 
-Shi– Shi– Shikamo renketsu kaijo no kekkan-hin?
-M– m– moreover, a defect discarded by a cluster?!
+し– し– しかも、連結解除の欠陥品？！
+Shi– Shi– Shikamo, renketsu kaijo no kekkanhin?!
+M– m– moreover, a discarded defective unit?!
 
-Kore wa puremia-chū no puremiadegozaimasu yo!
-It's the premium among the premiums!
+こ– これはプレミア中のプレミアでございますよ！
+Ko– kore wa premium chuu no premium de gozaimasu yo!
+I– It's the premium among the premiums!
 
 Hi ga senryoku kōsatsu…
 Firepower comparison…
