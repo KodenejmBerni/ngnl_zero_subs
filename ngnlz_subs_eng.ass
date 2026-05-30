@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1203
-Active Line: 1229
-Video Position: 101010
+Scroll Position: 1247
+Active Line: 1266
+Video Position: 104646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1257,37 +1257,36 @@ Dialogue: 5,1:09:58.97,1:10:00.23,Default,,0,0,0,,Hey, hey, losers…
 Dialogue: 5,1:10:00.66,1:10:03.03,Default,,0,0,0,,enjoying yourselves?
 Dialogue: 5,1:10:03.03,1:10:03.78,Default,,0,0,0,,Riku?
 Dialogue: 5,1:10:04.83,1:10:05.78,Default,,0,0,0,,Riku!
-Comment: 0,1:10:12.17,1:10:12.21,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,1:10:12.92,1:10:13.62,Default,,0,0,0,,Riku!
 Dialogue: 5,1:10:18.48,1:10:21.25,Default,,0,0,0,,Did you tell anyone why you're leaving?
 Dialogue: 5,1:10:24.88,1:10:25.68,Default,,0,0,0,,Not really.
-Dialogue: 5,1:10:26.56,1:10:28.83,Default,,0,0,0,,They're probably all panicking by now.
-Dialogue: 5,1:10:30.02,1:10:32.26,Default,,0,0,0,,They shouldn't be left alone for too long.
+Dialogue: 5,1:10:26.56,1:10:28.83,Default,,0,0,0,,I bet everyone is already in a panic.
+Dialogue: 5,1:10:30.02,1:10:32.26,Default,,0,0,0,,You shouldn't left them alone for too long.
 Dialogue: 5,1:10:33.44,1:10:34.56,Default,,0,0,0,,What now?!
-Dialogue: 0,1:10:34.56,1:10:36.66,Default,,0,0,0,,You're the one who left them forever!
+Dialogue: 0,1:10:34.56,1:10:36.66,Default,,0,0,0,,You're the one who left forever!
 Dialogue: 5,1:10:38.35,1:10:38.95,Default,,0,0,0,,Forever…
 Dialogue: 5,1:10:40.09,1:10:43.22,Default,,0,0,0,,Take care of Nonna and the others.
-Dialogue: 5,1:10:57.13,1:10:59.01,Default,,0,0,0,,Riku, sleep.
-Dialogue: 5,1:10:59.51,1:11:00.44,Default,,0,0,0,,I can't.
-Dialogue: 5,1:11:00.73,1:11:02.94,Default,,0,0,0,,We need to hurry up and set up the rest.
+Dialogue: 5,1:10:57.13,1:10:59.01,Default,,0,0,0,,Riku, stay asleep.
+Dialogue: 5,1:10:59.51,1:11:00.44,Default,,0,0,0,,No way.
+Dialogue: 5,1:11:00.73,1:11:02.94,Default,,0,0,0,,We need to hurry with these Umwegs.
 Dialogue: 5,1:11:03.40,1:11:04.23,Default,,0,0,0,,Don't worry.
 Dialogue: 5,1:11:04.76,1:11:07.26,Default,,0,0,0,,The battle won’t start anytime soon.
-Dialogue: 0,1:11:07.53,1:11:09.92,Default,,0,0,0,,Your predictions covered everything.
+Dialogue: 0,1:11:07.53,1:11:09.92,Default,,0,0,0,,Riku’s prediction covered everything.
 Dialogue: 5,1:11:09.92,1:11:10.72,Default,,0,0,0,,But–
 Dialogue: 5,1:11:11.06,1:11:13.01,Default,,0,0,0,,A little rest won’t hurt.
-Dialogue: 5,1:11:14.62,1:11:16.78,Default,,0,0,0,,For you, we take a day off.
+Dialogue: 5,1:11:14.62,1:11:16.78,Default,,0,0,0,,For Riku, we can take a day off.
 Dialogue: 5,1:11:22.38,1:11:23.62,Default,,0,0,0,,You're right.
 Dialogue: 5,1:11:24.22,1:11:27.15,Default,,0,0,0,,Well, I'll focus on recovering today.
 Dialogue: 5,1:11:27.68,1:11:28.28,Default,,0,0,0,,Yes.
 Dialogue: 5,1:11:30.98,1:11:31.63,Default,,0,0,0,,Schwi,
 Dialogue: 5,1:11:32.41,1:11:34.03,Default,,0,0,0,,sorry for being a burden.
-Dialogue: 5,1:11:35.92,1:11:39.04,Default,,0,0,0,,Riku, you're lying down. It's not a burden.
+Dialogue: 5,1:11:35.92,1:11:39.04,Default,,0,0,0,,Riku, you're resting… I’m not carrying you.
 Dialogue: 5,1:11:42.21,1:11:43.13,Default,,0,0,0,,Schwi,
 Dialogue: 5,1:11:44.30,1:11:45.66,Default,,0,0,0,,I have a favor to ask.
-Dialogue: 5,1:11:46.88,1:11:48.01,Default,,0,0,0,,When I'm sleeping…
-Dialogue: 0,1:11:49.10,1:11:50.59,Default,,0,0,0,,will you hold my hand?
-Dialogue: 5,1:11:55.73,1:11:57.61,Default,,0,0,0,,All the time,
-Dialogue: 5,1:11:58.82,1:12:00.59,Default,,0,0,0,,don't be afraid, Riku.
+Dialogue: 5,1:11:46.88,1:11:48.01,Default,,0,0,0,,While I sleep…
+Dialogue: 0,1:11:49.10,1:11:50.59,Default,,0,0,0,,can you hold my hand?
+Dialogue: 5,1:11:55.73,1:11:57.61,Default,,0,0,0,,All the time.
+Dialogue: 5,1:11:58.82,1:12:00.59,Default,,0,0,0,,Don't be afraid, Riku.
 Dialogue: 5,1:12:05.16,1:12:10.31,Default,,0,0,0,,Schwi, I’m so grateful that you came into my life.
 Dialogue: 5,1:12:11.41,1:12:12.12,Default,,0,0,0,,I truly
 Dialogue: 5,1:12:13.78,1:12:14.70,Default,,0,0,0,,love you.
@@ -1295,6 +1294,7 @@ Dialogue: 5,1:12:16.58,1:12:17.90,Default,,0,0,0,,I always will.
 Dialogue: 5,1:12:34.48,1:12:35.15,Default,,0,0,0,,Riku,
 Dialogue: 5,1:12:36.52,1:12:37.68,Default,,0,0,0,,forgive me.
 Dialogue: 5,1:12:39.60,1:12:42.04,Default,,0,0,0,,I'll be back soon.
+Comment: 0,1:12:44.59,1:12:44.66,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,1:12:44.97,1:12:47.21,Default,,0,0,0,,The Elves with their Áka Si Anse,
 Dialogue: 5,1:12:47.30,1:12:49.24,Default,,0,0,0,,the Dwarfs with their Ether-bomb…
 Dialogue: 5,1:12:49.62,1:12:50.76,Default,,0,0,0,,both wretched worms.

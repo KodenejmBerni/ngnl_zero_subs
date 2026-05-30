@@ -5050,96 +5050,147 @@ Riku!
 *
 
 みんなになんて言って出てきた？
-Min'na ni nanite itte dete kita?
-Have you told anyone why you're leaving?
-_
+Minna ni nante itte detekita?
+Did you tell anyone why you're leaving?
 
+特に。
 Tokuni.
 Not really.
 
-Shūraku wa kitto ōsawagida zo.
-They must already be in a panic.
+集落はきっと大騒ぎだぞ。
+Shuuraku wa kitto ousawagi da zo.
+I bet everyone is already in a panic.
 
-Amari nagaku rusunisuru na yo.
-They shouldn't be left alone for too long.
+あんまり長く留守にするなよ。
+Anmari nagaku rusu ni suru na yo.
+You shouldn't left them alone for too long.
 
-Nani o?!
+何よ！
+Nani yo?!
 What now?!
 
-Antana ka dete ittakedo, zutto!
-You're the one who left them forever!
+あんたなんか出ていったきり ずっと…
+Anta nanka dete itta kiri zutto!
+You're the one who left forever!
 
+ずっと…
 Zutto…
 Forever…
 
-Nona yo min'na o tanomu yo
+ノンナやみんなを頼むよ。
+Nonna ya minna o tanomu yo.
 Take care of Nonna and the others.
 
-Riku, ne tete.
-Riku, go to sleep.
+リク、寝てて。
+Riku, nete te.
+Riku, stay asleep.
 
-Dameda.
-I can't.
+ダメだ。
+Dame　da.
+No way.
 
-Umweg no setchi o isoganaito
+アインヴィークの設置を急がないと。
+Umweg no secchi o isoganai to.
 We need to hurry with these Umwegs.
 
+大丈夫。
 Daijoubu.
-It's alright.
+Don't worry.
 
-Sugu ni wa kōgeki wa hajimaranai.
+すぐには攻撃は始まらない。
+Sugu ni wa kougeki wa hajimaranai.
 The battle won’t start anytime soon.
 
-Riku no yosō… hazurenai.
-Your predictions… covered everything.
+リクの予想…外れない。
+Riku no yosou… hazurenai.
+Riku’s prediction covered everything.
 
-Kedo
+けど–
+Kedo–
 But–
 
-Sukoshi yasumeba daijōbu.
+少し休めば大丈夫。
+Sukoshi yasumeba daijoubu.
 A little rest won’t hurt.
 
+リクなら１日で。
 Riku nara ichi nichi de.
-You especially, deserve a day off.
-For you, we can take a day off.
+For Riku, we can take a day off.
 
-Sōda na
+そうだな。
+Souda na.
 You're right.
 
-Kyō wa kaifuku ni sen'nen suru yo
+じゃあ、今日は回復に専念するよ。
+Jaa, kyou wa kaifuku ni sennen suru yo.
 Well, I'll focus on recovering today.
 
-Schwi ashi hippatte gomen na.
-Schwi, sorry for being a burden.
+うん。
+Un.
+Yes.
 
-Riku, imane teru, hipparenai
-Riku, you're at rest. It's not a burden.
+シュヴィ、
+Schwi,
+*
 
+足引っ張ってごめんな。
+ashi hippatte gomen na.
+sorry for being a burden.
+
+リク、今寝てる…引っ張れない。
+Riku, ima neteru… hippararenai.
+Riku, you're resting… I’m not carrying you.
+
+じゃあ シュヴィ、
 Jaa Schwi,
 Schwi,
 
-ore kara no tanomida
+俺からの頼みだ。
+ore kara no tanomi　da.
 I have a favor to ask.
 
-Ne teru aida.-Te nigitte kureru ka?
-When I'm sleeping… will you hold my hand?
+寝てる間…
+Neteru aida…
+While I sleep…
 
-Zutto nigitteru. Anshin shite, Riku.
-All the time, don't be afraid, Riku.
+手握っててくれるか？
+te nigittete kureru ka?
+can you hold my hand?
 
-Schwi, ore ni ai ni kitekurete, arigatou.
+ずっと握ってる。
+Zutto nigitteru.
+All the time.
+
+安心して、リク。
+Anshin shite, Riku.
+Don't be afraid, Riku.
+
+シュヴィ、俺に会いに来てくれて…ありがとう。
+Schwi, ore ni ai ni kite kurete… arigatou.
 Schwi, I’m so grateful that you came into my life.
 
-Hontōni, aishiteru yo.
-I truly, love you.
+ホントに
+Hontouni
+I truly
 
+愛してるよ。
+aishiteru yo.
+love you.
+
+これからも。
 Korekara mo.
 I always will.
 
-Riku, gomen ne.
-Riku, I'm sorry.
+リク、
+Riku,
+*
 
-(Sutsugu) Modorukara.
+ごめんね。
+gomen ne.
+forgive me.
+
+すぐ戻るから。
+Sugu modoru kara.
 I'll be back soon.
 
 
