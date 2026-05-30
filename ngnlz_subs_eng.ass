@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1247
-Active Line: 1266
-Video Position: 104646
+Scroll Position: 1259
+Active Line: 1277
+Video Position: 105468
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1294,19 +1294,19 @@ Dialogue: 5,1:12:16.58,1:12:17.90,Default,,0,0,0,,I always will.
 Dialogue: 5,1:12:34.48,1:12:35.15,Default,,0,0,0,,Riku,
 Dialogue: 5,1:12:36.52,1:12:37.68,Default,,0,0,0,,forgive me.
 Dialogue: 5,1:12:39.60,1:12:42.04,Default,,0,0,0,,I'll be back soon.
-Comment: 0,1:12:44.59,1:12:44.66,Default,,0,0,0,,TRANSCRIPT END
 Dialogue: 5,1:12:44.97,1:12:47.21,Default,,0,0,0,,The Elves with their Áka Si Anse,
 Dialogue: 5,1:12:47.30,1:12:49.24,Default,,0,0,0,,the Dwarfs with their Ether-bomb…
 Dialogue: 5,1:12:49.62,1:12:50.76,Default,,0,0,0,,both wretched worms.
-Dialogue: 5,1:12:51.08,1:12:53.03,Default,,0,0,0,,To stand against Lord Artosh,
-Dialogue: 5,1:12:53.14,1:12:54.68,Default,,0,0,0,,you must be a total fool, nyan!
-Dialogue: 5,1:12:57.21,1:12:58.41,Default,,0,0,0,,Ouch, nyan!
-Dialogue: 5,1:12:57.75,1:12:59.33,Alt,,0,0,0,,You're the fool, Azriel!
+Dialogue: 5,1:12:51.08,1:12:53.03,Default,,0,0,0,,Daring to defy Lord Artosh,
+Dialogue: 5,1:12:53.14,1:12:54.68,Default,,0,0,0,,that's utter idiocy, nya!
+Dialogue: 5,1:12:57.21,1:12:58.41,Default,,0,0,0,,Ouch, nya!
+Dialogue: 5,1:12:57.75,1:12:59.33,Alt,,0,0,0,,You're the idiot, Azriel!
 Dialogue: 0,1:12:59.84,1:13:02.30,Default,,0,0,0,,At this moment we can't afford any mistakes.
-Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,If Lord Artosh refrains from acting,
+Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Should Lord Artosh refrain from acting,
 Dialogue: 5,1:13:05.65,1:13:07.22,Default,,0,0,0,,then we must wait as well.
-Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,Utterly boring, isn't it?
-Dialogue: 5,1:13:18.89,1:13:20.38,Default,,0,0,0,,Idle mode.
+Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,How utterly tedious this is…
+Comment: 0,1:13:18.38,1:13:18.40,Default,,0,0,0,,TRANSCRIPT END
+Dialogue: 5,1:13:18.89,1:13:20.38,Default,,0,0,0,,8 remains.
 Dialogue: 5,1:13:21.73,1:13:25.67,Default,,0,0,0,,I have to get this Suniaster, and Riku won't die.
 Dialogue: 5,1:13:26.76,1:13:28.37,Default,,0,0,0,,Riku, hold on!
 Dialogue: 5,1:13:28.90,1:13:29.88,Default,,0,0,0,,Oh my!
