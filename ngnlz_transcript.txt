@@ -5251,7 +5251,7 @@ Ato hachi-ki.
 
 スーニアスターさえ手に入れれば、リクは死なない。
 Suniaster sae te ni ireba, Riku wa shinanai.
-I have to get this Suniaster, and Riku won't die.
+I have to get this Suniaster, before Riku dies.
 
 リク、待っててね！
 Riku, mattete ne!
@@ -5319,7 +5319,6 @@ Pardon?
 
 当機は廃棄機、
 Touki wa haiki-ki,
-Tōki wa haikki.
 This unit was discarded,
 
 価値はない。
@@ -5338,9 +5337,9 @@ Therefore,
 minogashite hoshii.
 please, spare me.
 
-まさか、エクスマキナが　死を恐れ 懇願？
+まさか、エクスマキナが死を恐れ懇願？
 Masaka, Ex-machina ga shi o osore kongan?
-No way, an Ex Machina is begging for its life?
+No way, an Ex-machina is begging for its life?
 
 し– し– しかも、連結解除の欠陥品？！
 Shi– Shi– Shikamo, renketsu kaijo no kekkanhin?!
@@ -5350,94 +5349,128 @@ M– m– moreover, a discarded defective unit?!
 Ko– kore wa premium chuu no premium de gozaimasu yo!
 I– It's the premium among the premiums!
 
-Hi ga senryoku kōsatsu…
+彼我戦力考察…
+Higa senryoku kousatsu…
 Firepower comparison…
 
-sanshutsu shōritsu:
+算出勝率:
+sanshutsu shouritsu:
 chances of survival:
 
-Zetsumu.
+絶無。
+zetsumu.
 none.
 
+だけど、
 Dakedo,
 However,
 
-Kakuritsu-ron ni zero wa nai.
+確率論にゼロは…ない。
+kakuritsuron ni zero wa… nai.
 they're never truly zero.
 
-_
-Laden: Code 1673B743E1F25 Script 3
+ラーデン:　コード　アインス　ゼクス　ズィーベン　ドライ　ベー　ズィーベン　フィーア　ドライ　エー　アインス　エフ　ツヴァイ　フンフ　スクリプトＥ
+Laden: Code 1673B743E1F25 Script E
+*
 
-_
+起動: レーゼン。
+Kidou: Lösen.
 Activate: Lösen.
 
-Saishū kankoku.
+最終勧告。
+Saishou kankoku.
 Final warning.
 
-Zen busō senryoku senjutsu o otoshite
-All gear, armaments, maneuvers unrestricted.
+全武装、戦力、戦術を賭して。
+Zenbusou senryoku senjutsu o toshite.
+All gear, armaments, maneuvers unlocked.
 
-inochigoi o kaishi suru.
-Life preservation declared.
+命乞いを開始する。
+Inochigoi o kaishi suru.
+Life preservation committed.
 
-Oya. ekusumakina wa gekiha yōin o kaiseki shi, 
-Oh dear… Ex-machinas are said to analyze and replicate
+おや…エクスマキナは撃破要因を解析し
+Oya… Ex-machina wa gekiha youin o kaiseki shi
+Oh dear… I knew Ex-machinas analyze and imitate
 
-mohō surushi ~yuna no hazude gozaimasu ga.
-the techniques that were used against them.
+模倣する種のはずでございますが。
+mohou suru shu no hazu de gozaimasu ga.
+the methods used against them.
 
-Moshiya donata ka wa rai korosa retanode.
+もしやどなたか笑い殺されたので？
+Moshiya donata ka warai korosareta no de?
 Could it be that one of you died from laughter?
 
+オーヴァ･ブースト！
 Over-boost!
-Over-boost!
+*
 
-_
+アシュート･アーマ！
 Asyut-Armor!
+*
 
-Reigai o maki chirasu to wa, kankyō ni yasashikunai kikai de gozaimasu ne.
-Scattering dead spirits like that… What an environmentally unfriendly machine.
+霊骸をまき散らすとは、環境に優しくない機械でございますね。
+Reigai o makichirasu to wa, kankyou ni yasashikunai kikai de gozaimasu ne.
+Scattering dead spirits like that… how terribly inconsiderate to the environment.
 
+しかし、
 Shikashi,
 Anyway,
 
-kore de watashi o dōnika dekiru to?
-that was supposed to stop me?
+これで私をどうにかできると？
+kore de watashi o dou ni ka dekiru to?
+that was supposed to do anything?
 
+思っているはず… ない。
 Omotte iru hazu nai.
-Never hoped for that.
+Never counted on that.
 
-_
+レーゼン:　エンダーポクリフェン！
 Lösen: Enderpokryphen!
+*
 
-_
-Einsweg.
+ウイン・ヴイーク。
+Einweg.
+*
 
-Kono mama furyūgeru no tanchi fukanō kyori made tōsō.
+このまま、フリューゲルの探知不可能距離まで逃走。
+Kono mama, Flügel no tanchi fukanou kyori made tousou.
 Currently, her detection range matches my leap distance.
 
+これで
 Kore de
 That means
 
+おや！
 Oya!
 Oh my!
 
-Dochira e ika rerunode?
-Where are you off to?
+どちらへ行かれるので？
+Dochira e ikareru no de?
+Where are we off to?
 
-Hatte… kubi o neratta hazudesuga
+
+01:16:57
+
+
+はて…首を狙ったはずですが。
+Hate… kubi o neratta hazu desu ga.
 Darn… I was aiming for the neck.
 
-Temoto ga kuruimashita ka?
+手元が狂いましたか？
+Temoto ga kurui mashita ka?
 Could my hand have slipped?
 
-Masaka ki kai ni, kan nado to iu mono ga aru tomo omoemasenga.
+まさか機械に、“勘”などというものがあるとも思えませんが…
+Masaka kikai ni, “kan” nado to iu mono ga aru to mo omoe masen ga.
 No way a machine could have anything like instinctive reflexes.
 
-Iyana yokan ga shimasu.
+イヤな予感がします。
+Iya na yokan ga shimasu.
 This is getting weird.
 
-Kubi sae nokoreba yoinode.
+首さえ残ればよいので。
+Kubi sae nokoreba yoi no de.
 The head alone will suffice.
 
 そろそろ鉄屑らしく

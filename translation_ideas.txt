@@ -13,6 +13,9 @@ Umweg - アインヴィーグ
 Prüfer - プリューファ
 Lösen - レーセン
 Laden - ラーデン
+Over-boost - オーヴァ･ブースト
+Asyut-Armor - アシュート･アーマ
+Einweg - ウイン・ヴイーク
 Übercluster 207 Prüfer 4F57T9
 Stalemartyr - ステイルマーター
 Suniaster - スーニアスター
