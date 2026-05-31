@@ -1178,7 +1178,7 @@ Rebuttal: Advanced logical reasoning was used.
 
 “実は俺に妹がいました” なんて設定。
 “Jitsu wa ore ni imouto ga imashita” nante settei
-“Actually, I had a little sister”?
+“You know guys, I have a little sister”?
 
 どんな論理で通用すると思ったんだ？
 Donna ronri de tsuuyou suru to omotta nda?
@@ -1214,12 +1214,12 @@ Is this fine?
 
 それ… 演技なのか？
 Sore… Engi na no ka?
-Are you… acting?
+Are you… mocking me?
 
 
 演技？
 Engi?
-Acting?
+Mocking?
 
 違う。
 Chigau.
@@ -1239,7 +1239,7 @@ Alright.
 
 俺の目の届く範囲から離れるな。
 Ore no me no todoku hani kara hanareru na.
-Keep yourself where I can see you.
+I want to always know where you are.
 
 服は脱ぐなよ。
 Fuku wa nugu na yo.
@@ -1379,11 +1379,11 @@ Riku…
 
 そういうことは…
 Sou iu koto wa…
-things like that…
+with things like that…
 
 戻ってからにしなさいよ！
 Modotte kara ni shinasai yo!
-wait until we’re back!
+you wait until you’re back!
 
 
 00:23:05
@@ -1463,7 +1463,7 @@ I don't have time to waste on pointless games.
 
 無意味じゃない… なら？
 Muimi ja nai… nara?
-What if they weren’t pointless?
+What if it wasn’t… pointless?
 
 シュヴィに勝てば
 Shuvi ni kateba
@@ -1483,7 +1483,7 @@ the reason behind the Great War
 
 終結する要因など。
 shuuketsu suru youin nado.
-and what it takes to end it.
+and its ending conditions.
 
 くだらねえ。
 Kudara nee.
@@ -1716,7 +1716,7 @@ cessation.
 
 シュヴィリクの心知りたい。
 Schwi Riku no kokoro shiritai.
-Schwi wants to learn Riku's heart.
+Schwi yearns to learn Riku's heart.
 
 だから、リクの心がそうしたいなら、
 Dakara, Riku no kokoro soushitai nara,
@@ -2318,10 +2318,9 @@ That's not fair.
 Ttaku… nande konna nagai nda yo.
 Jeez, why it gotta be so long.
 
-短い方いいなら 切る？
+短い方いいなら切る？
 Mijikai hou ii nara kiru?
 Am I suppose to cut it?
-_
 
 いや、いいよ、別に。
 Iya, ii yo, betsu ni.
@@ -2329,7 +2328,7 @@ No, it’s fine, really.
 
 お前ホントによく分かんねえな。
 Omae honto ni yoku wakannee na.
-Sometimes you really don’t get it.
+You really don’t get it sometimes.
 
 
 0:33:00
@@ -3019,17 +3018,13 @@ seriously…
 machigatte nanka inakatta.
 wasn't off in the slightest.
 
-シュヴィとなら
-Schwi to nara
-With Schwi
+シュヴィとなら、
+Schwi to nara,
+With Schwi,
 
-面白いことができそうな気がするよ
-omoshiroi koto ga dekisou na ki ga suru yo
-_
-
-この世界。
-kono sekai.
-_
+面白いことができそうな気がするよこの世界。
+omoshiroi koto ga dekisou na ki ga suru yo kono sekai.
+I feel we could make things really interesting in this world.
 
 うん。
 Un.
@@ -3039,9 +3034,9 @@ Yes.
 Sore da yo.
 Correct.
 
-シュヴィ その目がいい
-Shuwi, sono me ga ii.
-These are proper eyes.
+シュヴィ、その目がいい。
+Schwi, sono me ga ii.
+Those are proper eyes.
 
 目がいい？
 Me ga ii?
@@ -5675,7 +5670,7 @@ Alles-Lösen.
 Forme – Tai michi-you sentou arugorizumu:
 Forme – unpredictable threat protocol:
 
-起動
+起動。
 kidou.
 initiate.
 
@@ -5735,16 +5730,16 @@ my precious self.
 Sayou desu ka. Watashi wa Jiburijru.
 I see. My name is Jibril.
 
-どうぞお見知りおきを
+どうぞお見知りおきを。
 Douzo omishiri oki o.
 Pleased to meet you.
 
-そして…
-Soshite…
+そして
+Soshite
 And now
 
-さようなら、でございます
-sayōnara de gozai masu.
+さようならでございます。
+sayounara de gozai masu.
 I bid you farewell.
 
 相手の舞台に立つな、
