@@ -16,9 +16,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 796
-Active Line: 802
-Video Position: 68157
+Scroll Position: 1451
+Active Line: 1463
+Video Position: 126015
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1131,7 +1131,7 @@ Dialogue: 5,1:03:32.15,1:03:32.69,Default,,0,0,0,,Riku!
 Dialogue: 5,1:03:35.29,1:03:37.11,Default,,0,0,0,,Looks like this one’s done for.
 Dialogue: 5,1:03:39.42,1:03:43.76,Default,,0,0,0,,So, how much do you think I have left?
 Dialogue: 5,1:03:45.28,1:03:46.27,Default,,0,0,0,,I won’t let you die.
-Dialogue: 5,1:03:47.03,1:03:49.84,Default,,0,0,0,,Riku is going to live until Schwi dies.
+Dialogue: 5,1:03:47.03,1:03:49.84,Default,,0,0,0,,Riku has to live until Schwi dies.
 Dialogue: 5,1:03:51.33,1:03:54.47,Default,,0,0,0,,Ex-machina's lifespan… how long is it?
 Dialogue: 5,1:03:54.83,1:03:56.01,Default,,0,0,0,,Usable lifespan:
 Dialogue: 5,1:03:56.44,1:03:58.17,Default,,0,0,0,,892 years left.
@@ -1476,7 +1476,7 @@ Dialogue: 5,1:24:59.99,1:25:01.80,Default,,0,0,0,,If… that’s so…
 Dialogue: 5,1:25:04.44,1:25:08.64,Default,,0,0,0,,what did you give me that heart for!
 Dialogue: 5,1:25:13.36,1:25:15.18,Default,,0,0,0,,Schwi…
 Dialogue: 5,1:25:15.18,1:25:16.34,Default,,0,0,0,,why?
-Dialogue: 5,1:25:20.16,1:25:22.96,Default,,0,0,0,,You have to stay alive until Schwi dies.
+Dialogue: 5,1:25:20.16,1:25:22.96,Default,,0,0,0,,Riku has to live until Schwi dies.
 Dialogue: 5,1:25:27.69,1:25:29.54,Default,,0,0,0,,Ah, right…
 Dialogue: 5,1:25:33.40,1:25:36.74,Default,,0,0,0,,If Schwi is dead, it's fine.
 Dialogue: 5,1:25:37.84,1:25:40.44,Default,,0,0,0,,Now I can just…
@@ -1486,7 +1486,7 @@ Dialogue: 5,1:26:01.25,1:26:02.59,Default,,0,0,0,,I have no name,
 Dialogue: 5,1:26:03.00,1:26:04.62,Default,,0,0,0,,but they call me with {\i1}Einzig{\i0}.
 Dialogue: 5,1:26:05.43,1:26:09.47,Default,,0,0,0,,Player Schwi entrusted me with her will, which I've come to fulfill.
 Dialogue: 5,1:26:10.86,1:26:11.90,Default,,0,0,0,,Schwi…
-Dialogue: 5,1:26:14.52,1:26:18.71,Default,,0,0,0,,Rule 2: bla bla bla bla
+Dialogue: 5,1:26:14.52,1:26:18.71,Default,,0,0,0,,Rule 2: You must not cause anyone to die.
 Dialogue: 5,1:26:19.22,1:26:20.97,Default,,0,0,0,,The rule set by Riku.
 Dialogue: 5,1:26:21.65,1:26:23.50,Default,,0,0,0,,The loss of a tool
 Dialogue: 5,1:26:23.50,1:26:26.12,Default,,0,0,0,,doesn't qualify as a losing condition.
@@ -1543,7 +1543,7 @@ Dialogue: 5,1:29:59.45,1:30:02.06,Default,,0,0,0,,All units, form up.
 Dialogue: 5,1:30:02.24,1:30:04.07,Default,,0,0,0,,We face the Old-deus.
 Dialogue: 5,1:30:05.07,1:30:08.53,Default,,0,0,0,,The petty plan of mere humans will be\Na breeze for him to see through.
 Dialogue: 5,1:30:09.41,1:30:12.00,Default,,0,0,0,,And yet, he'll bring all his power to wipe us out.
-Dialogue: 5,1:30:12.77,1:30:14.62,Default,,0,0,0,,That's the custom of the mighty.
+Dialogue: 5,1:30:12.77,1:30:14.62,Default,,0,0,0,,Such is the custom of the mighty.
 Dialogue: 5,1:30:15.21,1:30:17.17,Default,,0,0,0,,That's how the mighty think.
 Dialogue: 5,1:30:19.06,1:30:25.36,Default,,0,0,0,,You should know your place, you insolent specks of filth.
 Dialogue: 5,1:30:26.24,1:30:28.28,Default,,0,0,0,,Flounder, writhe,

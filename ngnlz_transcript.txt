@@ -1254,7 +1254,7 @@ Muri.
 I can't.
 
 シュヴィの動力源。疑似精霊回廊接続神経。
-Shuvi no douryokugen giji seirei kairou setsuzoku shinkei.
+Schwi no douryokugen giji seirei kairou setsuzoku shinkei.
 It's Schwi's power source.　Quasi-Spirit Circuit connection nerves.
 
 ハァー もうしょうがねえな。
@@ -1466,7 +1466,7 @@ Muimi ja nai… nara?
 What if it wasn’t… pointless?
 
 シュヴィに勝てば
-Shuvi ni kateba
+Schwi ni kateba
 If Schwi loses
 
 リクが望む情報開示する。
@@ -2011,7 +2011,7 @@ Daijoubu, oneechan wakatteru kara.
 No worries, sis understands.
 
 終わったら呼んで、シュヴィちゃんお風呂入れるから。
-Owattara yonde, Shuvi-chan ofuro ireru kara.
+Owattara yonde, Schwi-chan ofuro ireru kara.
 When you're done, Schwi can join me for a bath.
 
 風呂？
@@ -3231,7 +3231,7 @@ Run, hide and pray for the war to end?
 Dare ni?
 To who?
 
-神を名乗る破壊者どもか！
+神を名乗る破壊者どもか？！
 Kami o nanoru hakaisha domo ka?!
 To these butchers called gods?!
 
@@ -4522,7 +4522,7 @@ I won’t let you die.
 
 リクはシュヴィが死ぬまで生きるの。
 Riku wa Schwi ga shinu made ikiru no.
-Riku is going to live until Schwi dies.
+Riku has to live until Schwi dies.
 
 エクスマキナの寿命って…何年なの？
 Ex-machina no jumyou tte… nannen na no?
@@ -5935,9 +5935,9 @@ Schwi…
 Nande?
 why?
 
-リクは…シュヴィが、死ぬまで……生きるの
+リクはシュヴィが、死ぬまで生きるの。
 Riku wa… Schwi ga, shinu made ikiru no.
-You have to stay alive until Schwi dies.
+Riku has to live until Schwi dies.
 
 あ、そうだな…
 A, sou da na…
@@ -5975,9 +5975,9 @@ Player Schwi entrusted me with her will, which I've come to fulfill.
 Schwi…
 *
 
-ルールその2 誰も死なせてはならない。
-Ruuru 2: dare mo shinasete wa naranai.
-_
+ルールその2: 誰も死なせてはならない。
+Rule 2: Dare mo shinasete wa naranai.
+Rule 2: You must not cause anyone to die.
 
 リクが決めたルール。
 Riku ga kimeta ruuru.
@@ -6200,10 +6200,9 @@ The petty plan of mere humans will be a breeze for him to see through.
 Soredemo yatsu wa zenryoku de tsubushi ni kuru.
 And yet, he'll bring all his power to wipe us out.
 
-// Check needed
-それが強者の (旧弊) 。
-Sore ga kyousha no (kyuuhei).
-That's the custom of the mighty.
+それが強者のゆえん。
+Sore ga kyousha no yuen.
+Such is the custom of the mighty.
 
 強者の道理だからだ。
 Kyousha no douri dakara da.
