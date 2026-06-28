@@ -117,7 +117,7 @@ Why can't I win, please?!
 Jiman ja nai kedo boku, umarete kono kata ichido shika maketa koto nai n da.
 Not to brag, but I've only lost once in my entire life.
 
-十の盟約その六
+十の盟約その六:
 Juu no meiyaku, sono roku:
 The Ten Covenants, Rule Six:
 
@@ -145,8 +145,8 @@ In the next one I'll crush you, please!
 Ano futari ni katenai you ja, boku ni wa katenai yo.
 If you couldn’t beat them, you don’t stand a chance against me.
 
-空と白知ってやがるです？
-Sora to Shiro shitte yagaru desu?
+空と白…知ってやがるです？
+Sora to Shiro… shitte yagaru desu?
 Sora and Shiro… you know them, please?
 
 じゃあ次はゲームしながら面白い話をしてあげよう。
@@ -179,10 +179,10 @@ Not listening, please.
 
 そう…
 Sou…
-Well…
+Then…
 
 これは6,000年以上も前の物語。
-Kore wa 6000 nen ijō mo mae no monogatari.
+Kore wa 6000 nen ijou mo mae no monogatari.
 this story happened over 6000 years ago.
 
 天地を裂き星を殺した悠久の大戦。
@@ -207,7 +207,7 @@ it's a story I could never forget.
 
 大物だな。
 Oumono da na.
-That's a big one.
+It's a big one.
 
 黒灰がひどい…急ごう
 Kokuhai ga hidoi… isogou.
@@ -283,7 +283,7 @@ Ashieito!
 
 ドワーフの… 通信？
 Dowaufu no… tsuushin?
-A dwarves’… transmission?
+A dwarven… transmission?
 
 融合？
 Yuugou?
