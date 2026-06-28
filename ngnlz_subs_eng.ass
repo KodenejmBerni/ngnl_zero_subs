@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 1451
-Active Line: 1463
-Video Position: 126015
+Video Zoom Percent: 0.375000
+Scroll Position: 9
+Active Line: 25
+Video Position: 3766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,30 +30,30 @@ Style: Credits,Fontin Sans Rg,37,&H00FCFEF9,&H000000FF,&H008F00BB,&HBE7B33A4,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:13.14,0:00:14.98,Default,,0,0,0,,{\i1}When I was a child,
-Dialogue: 5,0:00:14.98,0:00:17.79,Default,,0,0,0,,{\i1}the world was much simpler for me.
+Dialogue: 5,0:00:14.98,0:00:17.79,Default,,0,0,0,,{\i1}I thought the world was much simpler.
 Dialogue: 5,0:00:19.03,0:00:21.31,Default,,0,0,0,,{\i1}Nothing was unbeatable,
 Dialogue: 5,0:00:21.31,0:00:23.83,Default,,0,0,0,,{\i1}every effort was rewarded,
 Dialogue: 5,0:00:23.83,0:00:25.92,Default,,0,0,0,,{\i1}and everything was possible.
 Dialogue: 5,0:00:34.42,0:00:37.08,Default,,0,0,0,,{\i1}The world was clear:
 Dialogue: 5,0:00:37.08,0:00:39.71,Default,,0,0,0,,{\i1}win, loss… or draw.
 Dialogue: 5,0:00:44.35,0:00:46.24,Default,,0,0,0,,{\i1}More precise moves!
-Dialogue: 5,0:00:46.24,0:00:48.36,Default,,0,0,0,,{\i1}More superior strategies!
-Dialogue: 5,0:00:48.36,0:00:50.65,Default,,0,0,0,,{\i1}More refined tactics!
+Dialogue: 5,0:00:46.24,0:00:48.36,Default,,0,0,0,,{\i1}More excellent tactics!
+Dialogue: 5,0:00:48.36,0:00:50.65,Default,,0,0,0,,{\i1}More sophisticated strategies!
 Dialogue: 5,0:00:51.50,0:00:53.53,Default,,0,0,0,,{\i1}Even if your opponent is overwhelming,
-Dialogue: 5,0:00:54.65,0:00:57.08,Default,,0,0,0,,{\i1}you just prepare to win the next one.
+Dialogue: 5,0:00:54.65,0:00:57.08,Default,,0,0,0,,{\i1}you just make sure to win in the next one.
 Dialogue: 5,0:01:00.91,0:01:02.53,Default,,0,0,0,,{\i1}Stupid, ignorant brat.
-Dialogue: 5,0:01:29.73,0:01:32.51,Default,,0,0,0,,{\i1}That's how I thought.
-Dialogue: 5,0:01:37.67,0:01:40.28,Default,,0,0,0,,{\i1}It was all a childish delusion,
+Dialogue: 5,0:01:29.73,0:01:32.51,Default,,0,0,0,,{\i1}That’s how I was.
+Dialogue: 5,0:01:37.67,0:01:40.28,Default,,0,0,0,,{\i1}All was a childish delusion,
 Dialogue: 5,0:01:40.28,0:01:42.12,Default,,0,0,0,,{\i1}a pathetic world of games.
 Dialogue: 5,0:01:45.02,0:01:46.27,Default,,0,0,0,,{\i1}The truth is
 Dialogue: 5,0:01:46.80,0:01:48.15,Default,,0,0,0,,{\i1}this world
-Dialogue: 5,0:01:48.78,0:01:51.53,Default,,0,0,0,,{\i1}is just a chaos without any obligations.
-Dialogue: 5,0:01:51.53,0:01:53.83,Default,,0,0,0,,{\i1}Filled only with coincidences…
+Dialogue: 5,0:01:48.78,0:01:51.53,Default,,0,0,0,,{\i1}is nothing but an unbounded chaos.
+Dialogue: 5,0:01:51.53,0:01:53.83,Default,,0,0,0,,{\i1}Filled only with coincidence…
 Dialogue: 5,0:01:53.83,0:01:56.25,Default,,0,0,0,,{\i1}unreasonable, absurd…
-Dialogue: 5,0:01:57.09,0:01:58.77,Default,,0,0,0,,{\i1}not even having meaning.
+Dialogue: 5,0:01:57.09,0:01:58.77,Default,,0,0,0,,{\i1}not even having any meaning.
 Dialogue: 5,0:02:10.08,0:02:10.91,Default,,0,0,0,,{\i1}Even so…
-Dialogue: 5,0:02:17.37,0:02:18.06,Default,,0,0,0,,{\i1}The next…
-Dialogue: 5,0:02:20.73,0:02:21.82,Default,,0,0,0,,{\i1}The next one…
+Dialogue: 5,0:02:17.37,0:02:18.06,Default,,0,0,0,,{\i1}In the next…
+Dialogue: 5,0:02:20.73,0:02:21.82,Default,,0,0,0,,{\i1}In the next one…
 Dialogue: 0,0:02:37.05,0:02:40.34,TS/Pledges,,0,0,0,,{\pos(960,878)\fad(300,0)\fscx70\fscy70\t(0,300,\fscx100\fscy100)\bord4\blur7\fnA-OTF Jun Pro 34-Kami\3c&HAF02E2&}Elkia
 Dialogue: 5,0:02:38.38,0:02:40.07,Default,,0,0,0,,Why?!
 Dialogue: 5,0:02:41.01,0:02:42.43,Default,,0,0,0,,Why can't I win, please?!
