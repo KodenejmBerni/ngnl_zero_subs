@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 58
-Active Line: 73
-Video Position: 9713
+Video Zoom Percent: 0.500000
+Scroll Position: 150
+Active Line: 154
+Video Position: 18799
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,8 +154,8 @@ Dialogue: 5,0:10:52.59,0:10:53.34,Default,,0,0,0,,Nonna,
 Dialogue: 5,0:10:59.68,0:11:01.01,Default,,0,0,0,,your dad
 Dialogue: 5,0:11:01.51,0:11:03.15,Default,,0,0,0,,won't be coming home.
 Dialogue: 5,0:11:07.39,0:11:09.19,Default,,0,0,0,,W–hy?
-Dialogue: 5,0:11:11.40,0:11:12.23,Default,,1000,0,0,,He died.
-Dialogue: 5,0:11:13.73,0:11:14.48,Default,,0,0,0,,You're lying!
+Dialogue: 5,0:11:11.40,0:11:12.23,Default,,900,0,0,,He died.
+Dialogue: 5,0:11:13.73,0:11:14.48,Default,,0,0,0,,Lies!
 Dialogue: 5,0:11:15.83,0:11:16.69,Default,,0,0,0,,It's not a lie.
 Dialogue: 5,0:11:16.69,0:11:21.24,Default,,0,0,0,,You're lying! Daddy promised he'd come back!
 Dialogue: 5,0:11:21.24,0:11:24.83,Default,,0,0,0,,He said humans would win in the end!
@@ -183,9 +183,9 @@ Dialogue: 5,0:12:40.86,0:12:42.35,Default,,0,0,0,,what's next?
 Dialogue: 5,0:12:43.91,0:12:45.48,Default,,0,0,0,,How far will this go?
 Dialogue: 5,0:12:45.78,0:12:50.25,Default,,0,0,0,,Until I throw away 999 lives for the sake of 1001?
 Dialogue: 5,0:12:50.25,0:12:52.50,Default,,0,0,0,,Or until I'm the only one left?!
-Dialogue: 5,0:12:55.00,0:12:57.00,Default,,0,0,0,,When will this end?
+Dialogue: 5,0:12:55.00,0:12:57.00,Default,,0,0,0,,When will this end…?
 Dialogue: 5,0:12:57.75,0:12:59.63,Default,,0,0,0,,How much longer
-Dialogue: 5,0:13:00.26,0:13:03.13,Default,,0,0,0,,do we have to live like trash?!
+Dialogue: 5,0:13:00.21,0:13:03.13,Default,,0,0,0,,do we have to live like trash?!
 Dialogue: 5,0:13:09.52,0:13:12.02,Default,,0,0,0,,{\i1}No one born into this world
 Dialogue: 5,0:13:12.89,0:13:16.94,Default,,0,0,0,,{\i1}could accept a death that bears no meaning.
 Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just like a reason to live,

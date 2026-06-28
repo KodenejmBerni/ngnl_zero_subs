@@ -518,7 +518,7 @@ He died.
 
 ウソだ！
 Uso da!
-You're lying!
+Lies!
 
 ウソじゃない。
 Uso ja nai.
@@ -629,9 +629,9 @@ Until I order half the village to bite the dust for the other half?
 Saigo no hitori ni naru made ka?!
 Or until I'm the only one left?!
 
-いつになりゃ終わるんだ？
-Itsu ni narya owaru n da?
-When will this end?
+いつになりゃ終わるんだ…？
+Itsu ni narya owaru n da…?
+When will this end…?
 
 いつまで惨めに
 Itsu made mijime ni
