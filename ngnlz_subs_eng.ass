@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 158
-Active Line: 166
-Video Position: 20035
+Video Zoom Percent: 0.500000
+Scroll Position: 189
+Active Line: 194
+Video Position: 23746
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -197,7 +197,7 @@ Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}something you almost neve
 Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Being able to stay sane in a world like this…
 Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}can that… really be called sanity?
 Dialogue: 5,0:14:09.07,0:14:10.51,Default,,0,0,0,,{\i1}The Dwarves?
-Dialogue: 5,0:14:11.52,0:14:12.77,Default,,0,0,0,,{\i1}No.
+Dialogue: 5,0:14:11.52,0:14:12.77,Default,,0,0,0,,{\i1}No…
 Dialogue: 5,0:14:13.23,0:14:15.64,Default,,0,0,0,,{\i1}This kind of destruction…
 Dialogue: 5,0:14:15.64,0:14:17.31,Default,,0,0,0,,{\i1}the Flügels.
 Dialogue: 5,0:14:48.95,0:14:51.87,Default,,0,0,0,,{\i1}What a massive structure…
@@ -205,7 +205,7 @@ Dialogue: 5,0:15:08.63,0:15:11.09,Default,,0,0,0,,{\i1}My imagination…?
 Dialogue: 0,0:15:13.84,0:15:14.97,Default,,0,0,0,,No!
 Dialogue: 5,0:15:35.24,0:15:36.79,Default,,0,0,0,,{\i1}Ex-machina?!
 Dialogue: 5,0:15:36.79,0:15:37.61,Default,,0,0,0,,Examination.
-Dialogue: 5,0:15:37.61,0:15:39.25,Default,,0,0,0,,Processing the circumstances.
+Dialogue: 5,0:15:37.61,0:15:39.25,Default,,0,0,0,,Analyzing the circumstances.
 Dialogue: 5,0:15:41.95,0:15:43.10,Default,,0,0,0,,{\i1}Calm down.
 Dialogue: 5,0:15:43.57,0:15:46.39,Default,,0,0,0,,{\i1}These things always act in groups.
 Dialogue: 5,0:15:46.39,0:15:48.63,Default,,0,0,0,,{\i1}They share a common consciousness.
@@ -222,7 +222,7 @@ Dialogue: 5,0:16:19.46,0:16:20.59,Default,,0,0,0,,Cannot
 Dialogue: 5,0:16:20.59,0:16:21.49,Default,,0,0,0,,comprehend.
 Dialogue: 5,0:16:21.49,0:16:24.05,Default,,0,0,0,,{\i1}I cannot fucking comprehend!
 Dialogue: 5,0:16:24.05,0:16:25.52,Default,,0,0,0,,Conjecture:
-Dialogue: 5,0:16:25.52,0:16:28.21,Default,,0,0,0,,That scenario doesn't satisfy you?
+Dialogue: 5,0:16:25.52,0:16:28.21,Default,,0,0,0,,This scenario doesn't satisfy you?
 Dialogue: 5,0:16:29.10,0:16:30.67,Default,,0,0,0,,Forgive me,
 Dialogue: 5,0:16:30.67,0:16:34.80,Default,,0,0,0,,but I'm not a weirdo who gets excited when you lot are watching.
 Dialogue: 5,0:16:34.80,0:16:37.51,Default,,0,0,0,,Doubt: Who are “you lot”?

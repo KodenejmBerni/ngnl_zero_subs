@@ -655,15 +655,15 @@ could accept a death that bears no meaning.
 
 生きる理由に等しく、
 Ikiru riyuu ni hitoshiku,
-Just as a reason to live,
+Just as it needs a reason to live,
 
 心が意味もなく死ぬことを
 kokoro ga imi mo naku shinu koto o
-the heart needs a meaning in death
+the heart needs meaning in death
 
 認めてくれないからだ。
 mitomete kurenai kara da.
-to deal with reality.
+to cope with reality.
 
 イワンの死は無駄じゃなかった。
 Ivan no shi wa muda ja nakatta.
@@ -671,11 +671,11 @@ Ivan's death won't be in vain.
 
 高度な情報を持つエルフの都の跡…
 Koudo na jouhou o motsu erufu no miyako no ato…
-Intelligence from the ruins of an elvish city…
+Knowledge from the ruins of an elven city…
 
 めったにお目にかかれるものじゃない。
 mettani ome ni kakareru mono ja nai.
-things you almost never come across.
+something you almost never come across.
 
 こんな世界で正気を保っていられるのは…
 Konna sekai de shouki o tamotte irareru no wa…
@@ -693,9 +693,9 @@ can that… really be called sanity?
 Dowaufu ka?
 The Dwarves?
 
-いや。
-Iya.
-No.
+いや…
+Iya…
+No…
 
 この破壊っぷりは…
 Kono hakai ppri wa…
@@ -767,7 +767,7 @@ I must not resist.
 
 お兄ちゃんもう我慢できない。
 Onii-chan mou gaman dekinai.
-Onii-chan, I cannot hold it.
+Onii-chan, I can't hold it.
 
 私を女にして。
 Watashi o onna ni shite.
@@ -799,14 +799,14 @@ Conjecture:
 
 該当シチュエーションでは充足できない？
 Gaitou situation de wa juusoku dekinai?
-That scenario doesn't satisfy you?
+This scenario doesn't satisfy you?
 
 あいにく俺は、
 Ainiku ore wa,
 Forgive me,
 
 お前たちに観察されて興奮するほど変態じゃないんでね。
-Omae-tachi ni kansatsu sarete koufun suru hodo hentai ja nai n de ne.
+Omae-tachi ni kansatsu sarete koufun suru hodo hentai ja nai nde ne.
 but I'm not a weirdo who gets excited when you lot are watching.
 
 疑問: “お前たち”とは…誰？
