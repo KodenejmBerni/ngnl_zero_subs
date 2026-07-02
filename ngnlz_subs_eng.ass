@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 150
-Active Line: 154
-Video Position: 18799
+Video Zoom Percent: 0.625000
+Scroll Position: 158
+Active Line: 166
+Video Position: 20035
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -188,12 +188,12 @@ Dialogue: 5,0:12:57.75,0:12:59.63,Default,,0,0,0,,How much longer
 Dialogue: 5,0:13:00.21,0:13:03.13,Default,,0,0,0,,do we have to live like trash?!
 Dialogue: 5,0:13:09.52,0:13:12.02,Default,,0,0,0,,{\i1}No one born into this world
 Dialogue: 5,0:13:12.89,0:13:16.94,Default,,0,0,0,,{\i1}could accept a death that bears no meaning.
-Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just like a reason to live,
-Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart needs a meaning in death
-Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to deal with reality.
+Dialogue: 5,0:13:18.94,0:13:20.94,Default,,0,0,0,,{\i1}Just as it needs a reason to live,
+Dialogue: 5,0:13:21.61,0:13:23.74,Default,,0,0,0,,{\i1}the heart needs meaning in death
+Dialogue: 5,0:13:24.74,0:13:26.49,Default,,0,0,0,,{\i1}to cope with reality.
 Dialogue: 5,0:13:32.79,0:13:35.25,Default,,0,0,0,,{\i1}Ivan's death won't be in vain.
-Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Knowledge from the ruins of an elvish city…
-Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}things you almost never come across.
+Dialogue: 5,0:13:39.59,0:13:42.80,Default,,0,0,0,,{\i1}Knowledge from the ruins of an elven city…
+Dialogue: 5,0:13:43.34,0:13:45.68,Default,,0,0,0,,{\i1}something you almost never come across.
 Dialogue: 5,0:13:47.43,0:13:50.35,Default,,0,0,0,,{\i1}Being able to stay sane in a world like this…
 Dialogue: 5,0:13:51.43,0:13:55.14,Default,,0,0,0,,{\i1}can that… really be called sanity?
 Dialogue: 5,0:14:09.07,0:14:10.51,Default,,0,0,0,,{\i1}The Dwarves?
