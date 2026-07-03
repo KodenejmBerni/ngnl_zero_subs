@@ -15,10 +15,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 189
-Active Line: 194
-Video Position: 23746
+Video Zoom Percent: 0.375000
+Scroll Position: 207
+Active Line: 222
+Video Position: 25486
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -237,18 +237,18 @@ Dialogue: 5,0:16:52.53,0:16:54.07,Default,,0,0,0,,Then…
 Dialogue: 5,0:16:54.07,0:16:59.32,Default,,0,0,0,,what does some stray Ex-machina want from a human like me?
 Dialogue: 5,0:16:59.66,0:17:01.66,Default,,0,0,0,,May I even ask?
 Dialogue: 5,0:17:01.66,0:17:02.83,Default,,0,0,0,,Response:
-Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the inner language of humans.
-Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The inner language called ‘heart’.
+Dialogue: 5,0:17:02.83,0:17:06.38,Default,,0,0,0,,To analyze the internal language of humans.
+Dialogue: 5,0:17:06.38,0:17:08.38,Default,,0,0,0,,The internal language called ‘heart’.
 Dialogue: 5,0:17:08.96,0:17:10.26,Default,,0,0,0,,Heart?
 Dialogue: 5,0:17:10.26,0:17:11.47,Default,,0,0,0,,Reasoning:
 Dialogue: 5,0:17:11.47,0:17:14.60,Default,,0,0,0,,The unit investigated the possession of the heart.
-Dialogue: 5,0:17:14.60,0:17:19.77,Default,,0,0,0,,During the process of analysis, logical collapses recurred, and it was discarded.
+Dialogue: 5,0:17:14.60,0:17:19.77,Default,,0,0,0,,During analysis, logical collapses recurred, and the unit was discarded.
 Dialogue: 5,0:17:19.77,0:17:22.48,Default,,0,0,0,,Further observation proceeded independently.
 Dialogue: 5,0:17:22.48,0:17:23.94,Default,,0,0,0,,Observation, huh?
-Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,Are you planning to analyze the heart and return with everything to that cluster?
+Dialogue: 5,0:17:24.44,0:17:29.61,Default,,0,0,0,,You're planning to analyze the heart on your own and bring everything back to that cluster?
 Dialogue: 5,0:17:29.82,0:17:31.41,Default,,0,0,0,,Demand:
-Dialogue: 5,0:17:31.41,0:17:35.45,Default,,0,0,0,,‘Becoming one’, utilization of the inner language via surface contact,
-Dialogue: 5,0:17:35.45,0:17:37.74,Default,,0,0,0,,is presumed to share the heart.
+Dialogue: 5,0:17:31.41,0:17:35.45,Default,,0,0,0,,Becoming one – utilization of the internal language via surface contact
+Dialogue: 5,0:17:35.45,0:17:37.74,Default,,0,0,0,,is presumed to share ‘heart’.
 Dialogue: 5,0:17:38.12,0:17:39.83,Default,,0,0,0,,Procreate with this unit.
 Dialogue: 5,0:17:40.66,0:17:41.79,Default,,0,0,0,,I refuse.
 Dialogue: 5,0:17:42.95,0:17:44.41,Default,,0,0,0,,Alternative:

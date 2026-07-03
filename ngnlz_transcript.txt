@@ -863,11 +863,11 @@ Response:
 
 人間が交わす独自言語を解析する。
 ningen ga kawasu dokujigengo o kaiseki suru.
-To analyze the inner language of humans.
+To analyze the internal language of humans.
 
 心という独自言語。
 Kokoro to iu dokujigengo.
-The inner language called ‘heart’.
+The internal language called ‘heart’.
 
 心？
 Kokoro?
@@ -883,7 +883,7 @@ The unit investigated the possession of the heart.
 
 解析の実行過程において論理破綻を多発し、破棄された。
 Kaiseki no jikkou katei ni oite ronri hatan o tahatsu shi, haki sareta.
-During the process of analysis, logical collapses recurred, and it was discarded.
+During analysis, logical collapses recurred, and the unit was discarded.
 
 以後単独で観察を続けている。
 Igo tandoku de kansatsu o tsudzukete iru.
@@ -895,20 +895,20 @@ Observation, huh?
 
 自力で心の解析をして― クラスタに 戻してもらおうって魂胆か？
 Jiriki de kokoro no kaiseki o shite　kurasuta ni modashite moraou tte kontan ka?
-Are you planning to analyze the heart and return with everything to that cluster?
+You're planning to analyze the heart on your own and bring everything back to that cluster?
 
 要求:
 Youkyuu:
 Demand:
 
 肌を重ねる、皮膚組織接触を用いた独自言語は
-Hada o kasaneru, hifu soshiki sesshoku o mochii ta dokuji gengo wa
-‘Becoming one’, utilization of the inner language via surface contact,
+Hada o kasaneru – hifu soshiki sesshoku o mochii ta dokuji gengo wa
+Becoming one – utilization of the internal language via surface contact
 
 
 心を交わす行為と推定。
 kokoro o kawasu koui to suitei.
-is presumed to share the heart.
+is presumed to share ‘heart’.
 
 当機と生殖行為を。
 Touki to seishoku koui o.
