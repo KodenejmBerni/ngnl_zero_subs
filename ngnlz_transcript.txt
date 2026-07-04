@@ -928,13 +928,11 @@ You can take advantage of this unit as you please.
 
 穴、ない けど。
 Ana, nai kedo.
-However, there's no orifice.
-_
+No orifice, though.
 
 しねえよ！ってか、ねえのかよ！
 Shinee yo! Tte ka… nee no ka yo?!
-I won't! Don’t you get it?!
-_
+Like hell! Wait… what?!
 
 レーゼン:
 Lösen:
@@ -962,7 +960,7 @@ Conditions:
 
 当機が勝てば、当機を持ち帰り、生殖行為の実践を要求。
 Touki ga kateba, touki o mochikaeri, seishoku koui no jissen o youkyuu.
-If this unit wins, you take it home, and the act of procreation is demanded.
+If this unit wins, you shall take it home, and procreation is required.
 
 よりによってチェスだと？
 Yori ni yotte chesu da to?
@@ -990,15 +988,15 @@ Answer:
 
 当機を持ち帰り、
 Touki o mochikaeri,
-You take this unit home,
+The unit shall be taken home,
 
 生殖行為の実践を許可。
 seishoku koui no jissen o kyoka.
-and the act of procreation is permitted.
+and procreation is permitted.
 
 どっちも変わんねえよ！
 Docchi mo kawannee yo!
-There's no difference!
+It's no different!
 
 まあいい、どのみちこのまま逃がしてはもらえねえだろうから。
 Maa ii, donomichi kono mama nigashite wa moraenee darou kara.
@@ -1020,13 +1018,13 @@ You accept the game request.
 Aa, shoubu wa ikkai.
 Yeah, let's play once.
 
-ただし条件は
-Tadashi jouken wa
-But we're making
+ただし条件は…
+Tadashi jouken wa…
+But I've got…
 
 ちょっとばかし変更してもらうぞ。
 Chotto bakashi henkou shite morau zo.
-a little change to the winning conditions.
+far better winning conditions for you.
 
 
 00:19:25
