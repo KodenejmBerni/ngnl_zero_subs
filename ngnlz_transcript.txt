@@ -1108,19 +1108,19 @@ Question:
 
 当機が勝利した際の条件は心が解析できるまでリクのそばにいること。
 Touki ga shouri shita sai no jouken wa kokoro ga kaiseki dekiru made Riku no soba ni iru koto.
-The condition for the unit’s victory was to stay by Riku until the heart was analyzed.
+The condition upon this unit’s victory was to remain by Riku’s side until heart analysis is completed.
 
 機械であることを隠す必要はある？
 Kikai de aru koto o kakusu hitsuyou wa aru?
-Is hiding being a machine necessary?
+Is it necessary to conceal being a machine?
 
-心ってのは 相互理解から感じ取る 言外の言葉だっつったろ。
+心ってのは、相互理解から感じ取る言外の言葉だっつったろ。
 Kokoro tte no wa, sōgo rikai kara kanjitoru gengai no kotoba da ttsuttaro.
-I’ve told you, ‘heart’ is unspoken words that come from mutual understanding.
+I told you, ‘heart’ is the unspoken language grasped through mutual understanding.
 
 俺と一緒に生活するからには人間を装え。
 Ore to issho ni seikatsu suru kara ni wa, ningen o yoso e.
-If you're to stay by me, you need to pretend to be human.
+If you're to stay with me, you must pretend to be human.
 
 質問: 名前は自由設定か？
 Shitsumon:　Namae wa jiyuu settei ka?
@@ -1152,7 +1152,7 @@ We'll take Schwi.
 
 不可解: 自由設定を訂正された。
 Fukakai: Jiyuu settei o teisei sareta.
-Incoherence: Arbitrary parameter corrected.
+Incoherence: Arbitrary parameter rejected.
 
 入る前に… その口調直るか？
 Hairu mae ni… sono kuchou naoru ka?
@@ -1180,15 +1180,16 @@ Rebuttal: Advanced logical reasoning was used.
 
 どんな論理で通用すると思ったんだ？
 Donna ronri de tsuuyou suru to omotta nda?
-What logic could even let it work?
+What logic could ever let it work?
 
 要求: 最適な状況設定の提供を。
-Youkyou: Saiteki na joukyou settei no teikyō o.
-Demand: Provide optimal scenario settings.
+Youkyou: Saiteki na joukyou settei no teikyou o.
+Demand: Provide optimal scenario parameters.
 
 そうだな… 過去を探られると面倒だから。
 Sou da na… kako o sagurareru to mendou da kara.
 Fine… It's painful to talk about your past.
+Fine… It'd be a pain if they started digging into your past
 
 臆病で口数が少なく余計なことを言わない。
 Okubyou de kuchikazu ga sukunaku, yokei na koto o iwanai.
@@ -1265,11 +1266,11 @@ Let's say they're trinkets.
 
 いいかもう一度言う。
 Ii ka, mou ichido iu.
-And one more time,
+And one last time,
 
 他のヤツには絶対にその機械の体見せるなよ。
 Hoka no yatsu ni wa zettai ni sono kikai no karada miseru na yo.
-don’t you ever show that mechanical body to anyone else.
+don’t you ever show that machine body to anyone else.
 
 うん。
 Un.
@@ -1277,7 +1278,7 @@ Okay.
 
 リクにしか見せない。
 Riku ni shika misenai.
-No one else can see it.
+Only Riku will see it.
 
 
 00:22:14
