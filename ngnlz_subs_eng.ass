@@ -8,6 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -16,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 302
-Active Line: 310
-Video Position: 31992
+Scroll Position: 320
+Active Line: 334
+Video Position: 33168
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -345,6 +347,7 @@ Dialogue: 5,0:22:17.60,0:22:21.19,Default,,0,0,0,,Found her in a destroyed villa
 Dialogue: 5,0:22:21.19,0:22:22.88,Default,,0,0,0,,Is she...
 Dialogue: 5,0:22:22.88,0:22:24.01,Default,,0,0,0,,your wife?
 Dialogue: 5,0:22:24.01,0:22:24.49,Default,,0,0,0,,Wife?
+Dialogue: 5,0:22:24.49,0:22:25.67,Default,,0,0,0,,For real…
 Dialogue: 5,0:22:24.99,0:22:26.80,Default,,0,0,0,,Come on, don't be shy!
 Dialogue: 5,0:22:26.80,0:22:29.57,Default,,0,0,0,,These days, first come kids, second food,
 Dialogue: 5,0:22:29.57,0:22:31.75,Default,,0,0,0,,third, fourth, fifth… more kids!
@@ -361,8 +364,8 @@ Dialogue: 5,0:22:47.68,0:22:48.97,Default,,0,0,0,,kissed…
 Dialogue: 5,0:22:48.97,0:22:51.95,Default,,0,0,0,,and talked about sleeping together.
 Dialogue: 5,0:22:55.85,0:22:57.60,Default,,0,0,0,,No, that's not—
 Dialogue: 5,0:22:57.92,0:22:59.43,Default,,0,0,0,,Riku…
-Dialogue: 5,0:22:59.43,0:23:01.90,Default,,0,0,0,,with things like that…
-Dialogue: 5,0:23:02.07,0:23:04.78,Default,,0,0,0,,you wait until you’re back!
+Dialogue: 5,0:22:59.43,0:23:01.90,Default,,0,0,0,,things like that…
+Dialogue: 5,0:23:02.07,0:23:04.78,Default,,0,0,0,,wait until we’re back!
 Dialogue: 5,0:23:06.43,0:23:09.25,Default,,0,0,0,,You could have put it better.
 Dialogue: 5,0:23:09.82,0:23:10.81,Default,,0,0,0,,Put better?
 Dialogue: 5,0:23:10.81,0:23:12.12,Default,,0,0,0,,Eh, whatever…
