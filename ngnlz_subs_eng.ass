@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 320
-Active Line: 334
-Video Position: 33168
+Scroll Position: 332
+Active Line: 341
+Video Position: 33636
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,11 +361,11 @@ Dialogue: 5,0:22:40.89,0:22:42.82,Default,,0,0,0,,Lovely name.
 Dialogue: 5,0:22:42.82,0:22:44.84,Default,,0,0,0,,How did you meet Riku?
 Dialogue: 5,0:22:45.77,0:22:47.68,Default,,0,0,0,,We…
 Dialogue: 5,0:22:47.68,0:22:48.97,Default,,0,0,0,,kissed…
-Dialogue: 5,0:22:48.97,0:22:51.95,Default,,0,0,0,,and talked about sleeping together.
+Dialogue: 5,0:22:48.97,0:22:51.95,Default,,0,0,0,,and sleeping together was insisted on.
 Dialogue: 5,0:22:55.85,0:22:57.60,Default,,0,0,0,,No, that's not—
 Dialogue: 5,0:22:57.92,0:22:59.43,Default,,0,0,0,,Riku…
 Dialogue: 5,0:22:59.43,0:23:01.90,Default,,0,0,0,,things like that…
-Dialogue: 5,0:23:02.07,0:23:04.78,Default,,0,0,0,,wait until we’re back!
+Dialogue: 5,0:23:02.07,0:23:04.78,Default,,0,0,0,,save them until you're back!
 Dialogue: 5,0:23:06.43,0:23:09.25,Default,,0,0,0,,You could have put it better.
 Dialogue: 5,0:23:09.82,0:23:10.81,Default,,0,0,0,,Put better?
 Dialogue: 5,0:23:10.81,0:23:12.12,Default,,0,0,0,,Eh, whatever…
@@ -373,12 +373,12 @@ Dialogue: 5,0:23:12.12,0:23:16.79,Default,,0,0,0,,To begin with, wasn’t there 
 Dialogue: 5,0:23:16.79,0:23:18.87,Default,,0,0,0,,All the more if trying to seduce me.
 Dialogue: 5,0:23:19.92,0:23:22.79,Default,,0,0,0,,That… was meant to appeal to Riku.
 Dialogue: 5,0:23:22.89,0:23:24.96,Default,,0,0,0,,I'm not into that.
-Dialogue: 5,0:23:25.51,0:23:28.42,Default,,0,0,0,,So, what kind of form spurs you?
+Dialogue: 5,0:23:25.51,0:23:28.42,Default,,0,0,0,,So, what form spurs you on?
 Dialogue: 5,0:23:28.42,0:23:29.55,Default,,0,0,0,,Listen…
 Dialogue: 5,0:23:29.55,0:23:32.72,Default,,0,0,0,,Do you even know what it means to be spurred?
-Dialogue: 5,0:23:34.10,0:23:36.65,Default,,0,0,0,,I want to learn what it means to Riku.
+Dialogue: 5,0:23:34.10,0:23:36.65,Default,,0,0,0,,I’d like to know what it means to Riku.
 Dialogue: 5,0:23:36.98,0:23:40.44,Default,,0,0,0,,You can only learn it through what is unspoken.
-Dialogue: 5,0:23:40.44,0:23:42.81,Default,,0,0,0,,I already told you, didn’t I?
+Dialogue: 5,0:23:40.44,0:23:42.81,Default,,0,0,0,,Already told you, didn’t I?
 Dialogue: 5,0:23:43.11,0:23:44.37,Default,,0,0,0,,Then
 Dialogue: 5,0:23:45.40,0:23:47.36,Default,,0,0,0,,let's play a game.
 Dialogue: 5,0:23:47.61,0:23:48.99,Default,,0,0,0,,I refuse.
