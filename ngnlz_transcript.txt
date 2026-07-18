@@ -1418,7 +1418,7 @@ I'm not into that.
 
 じゃあ、どんな姿が好き？
 Jaa, donna sugata ga suki?
-So, what form spurs you on?
+So, what do you burn for?
 
 お前さ…
 Omae sa…
@@ -1426,11 +1426,11 @@ Listen…
 
 好きって どういう意味か 分かって言ってんのか？
 ‘Suki’ tte dou iu imi ka wakatte ittеn no ka?
-Do you even know what it means to be spurred?
+Do you even know what it means to burn for something?
 
 リクの“好き”を知りたい。
 Riku no… ‘suki’ o shiritai.
-I'd like to learn what it means to Riku.
+I’d like to know what it means to Riku.
 
 言外の言葉を読むことでしか理解できない。
 Gengai no kotoba o yomu koto de shika rikai dekinai.
@@ -1470,7 +1470,7 @@ If Schwi loses
 
 リクが望む情報開示する。
 Riku ga nozomu jouhou kaiji suru.
-she will share any information Riku desires.
+she shall disclose any information Riku requests.
 
 例えば,
 Tatoeba,
@@ -1478,7 +1478,7 @@ For example,
 
 大戦が始まった理由
 taisen ga hajimatta riyuu
-the reason behind the Great War
+the cause of the Great War
 
 終結する要因など。
 shuuketsu suru youin nado.
