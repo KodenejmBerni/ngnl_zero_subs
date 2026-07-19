@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 360
-Active Line: 372
-Video Position: 35883
+Scroll Position: 327
+Active Line: 334
+Video Position: 33137
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -406,32 +406,32 @@ Dialogue: 5,0:24:54.68,0:24:55.90,Default,,0,0,0,,an error.
 Dialogue: 5,0:24:56.60,0:24:59.10,Default,,0,0,0,,Ex-machina's reasoning
 Dialogue: 5,0:24:59.10,0:25:00.91,Default,,0,0,0,,fails to explain it.
 Dialogue: 5,0:25:02.39,0:25:04.73,Default,,0,0,0,,Biologically fragile,
-Dialogue: 5,0:25:04.73,0:25:06.67,Default,,0,0,0,,civilizationally primitive,
+Dialogue: 5,0:25:04.73,0:25:06.67,Default,,0,0,0,,technologically primitive,
 Dialogue: 5,0:25:06.67,0:25:09.55,Default,,0,0,0,,unable to utilize spirits, and yet…
-Dialogue: 5,0:25:10.13,0:25:11.77,Default,,0,0,0,,keep trudging.
-Dialogue: 5,0:25:12.83,0:25:14.99,Default,,0,0,0,,There must be a reason,
-Dialogue: 5,0:25:14.99,0:25:16.81,Default,,0,0,0,,a factor
-Dialogue: 5,0:25:16.81,0:25:18.10,Default,,0,0,0,,to live on.
+Dialogue: 5,0:25:10.13,0:25:11.77,Default,,0,0,0,,still struggling.
+Dialogue: 5,0:25:12.83,0:25:14.99,Default,,0,0,0,,There must be a reason
+Dialogue: 5,0:25:14.99,0:25:16.81,Default,,0,0,0,,to live on.
+Dialogue: 5,0:25:16.81,0:25:18.10,Default,,0,0,0,,A factor…
 Dialogue: 5,0:25:18.77,0:25:20.87,Default,,0,0,0,,That factor
 Dialogue: 5,0:25:20.87,0:25:22.63,Default,,0,0,0,,is presumed
 Dialogue: 5,0:25:22.63,0:25:24.45,Default,,0,0,0,,to be the heart.
-Dialogue: 5,0:25:24.68,0:25:26.88,Default,,0,0,0,,Schwi wants to—
+Dialogue: 5,0:25:24.68,0:25:26.88,Default,,0,0,0,,Schwi wants to kno—
 Dialogue: 5,0:25:26.88,0:25:27.88,Default,,0,0,0,,Hey
 Dialogue: 5,0:25:29.71,0:25:31.34,Default,,0,0,0,,Are you mocking me?
 Dialogue: 5,0:25:32.17,0:25:33.09,Default,,0,0,0,,Riku?
-Dialogue: 5,0:25:33.09,0:25:35.66,Default,,0,0,0,,You slaughter us as you like.
+Dialogue: 5,0:25:33.09,0:25:35.66,Default,,0,0,0,,You slaughter us as you please.
 Dialogue: 5,0:25:35.66,0:25:37.68,Default,,0,0,0,,You rob us of everything we have.
 Dialogue: 5,0:25:37.68,0:25:39.47,Default,,0,0,0,,And what do you have to say?
 Dialogue: 5,0:25:39.47,0:25:42.64,Default,,0,0,0,,“Hey hey humans, why do you still exist?”
 Dialogue: 5,0:25:42.64,0:25:44.89,Default,,0,0,0,,"Let me see what's in your heart."
 Dialogue: 5,0:25:46.58,0:25:48.31,Default,,0,0,0,,Fine! Let me tell you!
 Dialogue: 5,0:25:48.31,0:25:49.81,Default,,0,0,0,,What I feel
-Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,haven't changed since the moment I was born!
-Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Rot in hell, every single one of you!
+Dialogue: 5,0:25:49.81,0:25:52.40,Default,,0,0,0,,haven't changed since the day I was born!
+Dialogue: 5,0:25:54.11,0:25:56.36,Default,,0,0,0,,Rot in hell, every fucking one of you!
 Dialogue: 5,0:25:58.07,0:26:00.66,Default,,0,0,0,,Do you have any idea how many died because of you?!
 Dialogue: 5,0:26:00.66,0:26:02.21,Default,,0,0,0,,How many you've killed?!
 Dialogue: 5,0:26:02.21,0:26:03.87,Default,,0,0,0,,How many—
-Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many will you make me kill?
+Dialogue: 5,0:26:03.87,0:26:06.53,Default,,0,0,0,,How many more will you make me kill?
 Dialogue: 5,0:26:08.04,0:26:10.34,Default,,0,0,0,,Riku, I made you cry.
 Dialogue: 5,0:26:11.59,0:26:13.20,Default,,0,0,0,,Therefore,
 Dialogue: 5,0:26:13.20,0:26:16.76,Default,,0,0,0,,Schwi said something cruel,
@@ -448,7 +448,7 @@ Dialogue: 5,0:26:38.91,0:26:40.66,Default,,0,0,0,,A shutdown,
 Dialogue: 5,0:26:40.66,0:26:42.49,Default,,0,0,0,,a permanent
 Dialogue: 5,0:26:43.24,0:26:44.83,Default,,0,0,0,,cessation.
 Dialogue: 5,0:26:45.29,0:26:48.50,Default,,0,0,0,,Schwi yearns to learn Riku's heart.
-Dialogue: 5,0:26:49.04,0:26:53.95,Default,,0,0,0,,So now, when your heart tells you that,
+Dialogue: 5,0:26:49.04,0:26:53.95,Default,,0,0,0,,So now, when your heart tells you that…
 Dialogue: 5,0:26:53.95,0:26:55.35,Default,,0,0,0,,do you
 Dialogue: 5,0:26:55.35,0:26:57.00,Default,,0,0,0,,kill Schwi?
 Dialogue: 5,0:27:01.14,0:27:02.01,Default,,0,0,0,,Chad
@@ -502,11 +502,11 @@ Dialogue: 5,0:27:35.92,0:27:36.96,Default,,0,0,0,,Karim!
 Dialogue: 5,0:27:38.22,0:27:39.33,Default,,0,0,0,,Ivan!
 Dialogue: 5,0:27:40.57,0:27:42.35,Default,,0,0,0,,Forty-eight.
 Dialogue: 5,0:27:42.35,0:27:45.56,Default,,0,0,0,,I ordered each of them to die!
-Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,It's true that many people died due to the war
-Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,being swept away like nothing but dust…
+Dialogue: 5,0:27:46.68,0:27:49.94,Default,,0,0,0,,It's true that many people died because of the war,
+Dialogue: 5,0:27:49.94,0:27:52.77,Default,,0,0,0,,swept away like nothing but dust…
 Dialogue: 5,0:27:52.77,0:27:54.00,Default,,0,0,0,,but
-Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,those died because
-Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,I told them to!
+Dialogue: 5,0:27:54.00,0:27:55.91,Default,,0,0,0,,they died
+Dialogue: 5,0:27:56.28,0:27:58.19,Default,,0,0,0,,because I told them to!
 Dialogue: 5,0:28:14.96,0:28:16.21,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:35.11,0:28:36.32,Default,,0,0,0,,Riku?
 Dialogue: 5,0:28:36.32,0:28:37.40,Default,,0,0,0,,You awake?

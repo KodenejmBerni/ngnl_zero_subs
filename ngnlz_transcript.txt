@@ -1438,7 +1438,7 @@ You can only learn it through what is unspoken.
 
 それが心だと言ったはずだが？
 Sore ga kokoro da to itta hazu da ga?
-I already told you, didn’t I?
+Already told you, didn’t I?
 
 じゃあ
 Jaa
@@ -1526,7 +1526,7 @@ In the current
 
 惑星環境。
 wakusei kankyō.
-world conditions
+state of the world
 
 人間がまだ生き残ってるの。
 Ningen ga mada ikinokotteru no
@@ -1551,7 +1551,7 @@ Biologically fragile,
 
 文明的に未熟、
 bunmeiteki ni mijuku,
-civilizationally primitive,
+technologically primitive,
 
 精霊運用もできない、なのに…
 seirei unyou mo dekinai, nano ni…
@@ -1559,19 +1559,19 @@ unable to utilize spirits, and yet…
 
 生き残っている。
 ikinosotteiru.
-keep trudging.
+still struggling.
 
-理由があるはず、
-Riyuu ga aru hazu,
-There must be a reason,
+理由があるはず
+Riyuu ga aru hazu
+There must be a reason
 
-生き残る
-ikinokoru
-a factor
-
-因子がある。
-inshi ga aru.
+生き残る。
+ikinokoru.
 to live on.
+
+因子がある…
+inshi ga aru…
+A factor…
 
 その因子が
 Sono inshi ga
@@ -1587,7 +1587,7 @@ to be the heart.
 
 シュヴィは それが知り—
 Schwi wa sore ga shiri—
-Schwi wants to—
+Schwi wants to kno—
 
 なあ
 Naa
@@ -1603,7 +1603,7 @@ Riku?
 
 好き勝手放題戦争しといて。
 Sukikatte houdai sensou shitoite.
-You slaughter us as you like.
+You slaughter us as you please.
 
 俺らの全てを奪い続けて。
 Orera no subete o ubai tsudzukete.
@@ -1631,11 +1631,11 @@ What I feel
 
 生まれたときから一寸たりとも変わっちゃいねえ！
 umareta toki kara issun taritomo kawacchai nee!
-haven't changed since the moment I was born!
+haven't changed since the day I was born!
 
 てめえら全員くたばりやがれだ！
 Temeera zenin, kutabari yagare da!
-Rot in hell, every single one of you!
+Rot in hell, every fucking one of you!
 
 てめえらのせいで何人死んだか分かるか？！
 Temeera no sei de nannin shinda ka wakaru ka?!
@@ -1651,7 +1651,7 @@ How many—
 
 あと何人俺に殺させれば…
 Ato nannin ore ni korosaseru ba…
-How many will you make me kill?
+How many more will you make me kill?
 
 リク 泣かせた。
 Riku, nakaseta.
@@ -1717,9 +1717,9 @@ cessation.
 Schwi Riku no kokoro shiritai.
 Schwi yearns to learn Riku's heart.
 
-だから、リクの心がそうしたいなら、
-Dakara, Riku no kokoro soushitai nara,
-So now, if this is what Riku's heart desires,
+だから、リクの心がそうしたいなら…
+Dakara, Riku no kokoro soushitai nara…
+So now, when your heart tells you that…
 
 シュヴィ 
 Schwi
@@ -1933,13 +1933,13 @@ Forty-eight.
 Zenbu ore ga shine to meijite kita yatsu da yo.
 I ordered each of them to die!
 
-確かに大戦のせいで大勢が死んだ
-Tashika ni taisen no sei de ouzei ga shinda
-It's true that many people died due to the war
+確かに大戦のせいで大勢が死んだ、
+Tashika ni taisen no sei de ouzei ga shinda,
+It's true that many people died because of the war,
 
-ホコリでも払うかのように殺されてきた
-Hokori demo harau ka no you ni korosarete kita
-being swept away like nothing but dust…
+ホコリでも払うかのように殺されてきた…
+Hokori demo harau ka no you ni korosarete kita…
+swept away like nothing but dust…
 
 でも
 demo
@@ -1947,11 +1947,11 @@ but
 
 彼らに死ねと…
 Karera ni shine to
-those died because
+they died
 
 そう告げたのは！
 Sou tsugeta no wa!
-I told them to!
+because I told them to!
 
 リク？
 Riku?
