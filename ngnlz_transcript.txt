@@ -2347,7 +2347,7 @@ Again? I haven't won at chess yet.
 
 リク欲しがってると思ったから。
 Riku hoshigatteru to omotta kara.
-I figured Riku would want it.
+Riku would want it… I figured.
 
 リクと会った場所？
 Riku to atta basho?
@@ -2371,7 +2371,7 @@ Arrived.
 
 随分気が利く機械だな、おい…
 Zuibun ki ga kiku kikai da na, oi…
-Quick on the uptake, aren’t you?
+Quite a thoughtful machine, aren't you?
 
 気づいてたか？建物丸ごと破壊されてんのに、
 Kidzuiteta ka? Tatemono marugoto hakai sareten no ni,
@@ -2401,9 +2401,13 @@ a shelter,
 arui wa… sore ijou no kachi ga aru.
 or perhaps… something even more valuable.
 
-新兵器の研究開発施設。
-Shin heiki no kenkyuu kaihatsu shisetsu.
-A research facility for new weaponry.
+新兵器の研究
+Shin heiki no kenkyuu
+A research facility
+
+開発施設。
+kaihatsu shisetsu.
+for new weaponry.
 
 なんだ こりゃ？
 Nanda korya?
@@ -2411,7 +2415,7 @@ What are these?
 
 オールドデウス カイナースの加護刻印。
 Old Deus, Kainas no kago kokuin.
-Blessing glyphs of the Old Deus, Kainas.
+The blessing glyphs of the Old Deus, Kainas.
 
 カイナース？
 Kainas?
@@ -2449,9 +2453,9 @@ Just like the dwarves, they're eager to obliterate this planet.
 riron kenshou shikenro”
 proof of concept reactor”
 
-リク、エルフ語も読めるの？
-Riku, Elf go mo yomeru no?
-Riku, you can read Elvish?
+リク、エルフ語も読めるの…？
+Riku, Elf go mo yomeru no…?
+Riku, you can read Elvish…?
 
 苦労して手にした情報も。
 Kurou shite te ni shita jouhou mo yomenakya kachi ga nai.
