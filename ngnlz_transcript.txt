@@ -1938,7 +1938,7 @@ Tashika ni taisen no sei de ouzei ga shinda,
 It's true that many people died because of the war,
 
 ホコリでも払うかのように殺されてきた…
-Hokori demo harau ka no you ni korosarete kita…
+hokori demo harau ka no you ni korosarete kita…
 swept away like nothing but dust…
 
 でも
@@ -2099,7 +2099,7 @@ Yeah.
 
 怒り狂ってお前を殴ったって何も解決しないだろ。
 Ikarikurutte omae o naguttatte nani mo kaiketsu shinai daro.
-An urge to hit you won't solve any actual problems.
+I could hit you in a fit o rage, but that wouldn't solve anything.
 
 リクはシュヴィを殴りたい…
 Riku wa Schwi o naguritai…
@@ -2125,9 +2125,9 @@ Riku,
 geimu shiyo.
 let's play a game.
 
-んなもん持ってくんなよ。
-Nna mon motte kunna yo.
-What did you bring that for?
+んなもん持ってくんなよ…
+Nna mon motte kunna yo…
+Don't lug that around with you…
 
 リク笑ったの
 Riku waratta no
@@ -2147,11 +2147,11 @@ let's play a game.
 
 シュヴィリクの心を知りたい。
 Schwi Riku no kokoro o shiritai.
-Schwi wants to know Riku's heart.
+Schwi wants to learn Riku's heart…
 
 でもリクを傷つけたくない。
-Demo Riku o kizutsuketakunai.
-But doesn’t want to hurt Riku.
+demo Riku o kizutsuketakunai.
+but doesn’t want to hurt Riku.
 
 どうしたらいいか
 Dou shitara ii ka
@@ -2191,7 +2191,7 @@ Y–You're asking me?
 
 回答候補列挙:
 Kaitou kouho rekkyo:
-Listing possible reasons:
+Listing possible answers:
 
 クラスタはどうでもいい
 Cluster wa doudemoii
@@ -2219,7 +2219,7 @@ Need to comprehend Riku's heart.
 
 リクがいればいい。
 Riku ga ireba ii.
-Riku being enough.
+Riku being sufficient.
 
 エラー
 Error

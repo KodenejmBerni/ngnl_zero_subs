@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 327
-Active Line: 334
-Video Position: 33137
+Scroll Position: 558
+Active Line: 568
+Video Position: 47633
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -541,20 +541,20 @@ Dialogue: 5,0:30:05.95,0:30:07.80,Default,,0,0,0,,That's not what I meant.
 Dialogue: 5,0:30:09.37,0:30:12.62,Default,,0,0,0,,Well, I also got too worked up.
 Dialogue: 5,0:30:13.25,0:30:15.29,Default,,0,0,0,,Is that a bad thing?
 Dialogue: 5,0:30:15.29,0:30:16.79,Default,,0,0,0,,Yeah.
-Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,An urge to hit you won't solve any actual problems.
+Dialogue: 5,0:30:16.79,0:30:20.50,Default,,0,0,0,,I could hit you in a fit o rage, but that wouldn't solve anything.
 Dialogue: 5,0:30:20.50,0:30:22.55,Default,,0,0,0,,Riku wants to hit Schwi…
 Dialogue: 5,0:30:22.55,0:30:24.17,Default,,0,0,0,,It was just an example.
 Dialogue: 5,0:30:26.26,0:30:28.01,Default,,0,0,0,,Or was it?
 Dialogue: 5,0:30:28.72,0:30:30.51,Default,,0,0,0,,I'm not sure myself.
 Dialogue: 5,0:30:32.64,0:30:33.72,Default,,0,0,0,,Riku,
 Dialogue: 5,0:30:33.72,0:30:34.97,Default,,0,0,0,,let's play a game.
-Dialogue: 5,0:30:40.86,0:30:42.82,Default,,0,0,0,,What did you bring that for?
+Dialogue: 5,0:30:40.86,0:30:42.82,Default,,0,0,0,,Don't lug that around with you…
 Dialogue: 5,0:30:44.32,0:30:46.61,Default,,0,0,0,,It's the only time
 Dialogue: 5,0:30:46.61,0:30:48.11,Default,,0,0,0,,Riku smiled.
 Dialogue: 5,0:30:49.57,0:30:50.57,Default,,0,0,0,,So…
 Dialogue: 5,0:30:53.37,0:30:55.12,Default,,0,0,0,,let's play a game.
-Dialogue: 5,0:30:57.35,0:31:01.12,Default,,0,0,0,,Schwi wants to know Riku's heart.
-Dialogue: 5,0:31:01.12,0:31:04.38,Default,,0,0,0,,But doesn’t want to hurt Riku.
+Dialogue: 5,0:30:57.35,0:31:01.12,Default,,0,0,0,,Schwi wants to learn Riku's heart…
+Dialogue: 5,0:31:01.12,0:31:04.38,Default,,0,0,0,,but doesn’t want to hurt Riku.
 Dialogue: 5,0:31:04.90,0:31:06.63,Default,,0,0,0,,I don't know
 Dialogue: 5,0:31:07.01,0:31:08.38,Default,,0,0,0,,what to do.
 Dialogue: 5,0:31:10.51,0:31:13.14,Default,,0,0,0,,Why are you trying not to hurt me?
@@ -564,14 +564,14 @@ Dialogue: 5,0:31:19.19,0:31:21.11,Default,,0,0,0,,Riku's right.
 Dialogue: 5,0:31:21.69,0:31:25.57,Default,,0,0,0,,However, Schwi doesn’t want to hurt Riku.
 Dialogue: 5,0:31:27.45,0:31:28.20,Default,,0,0,0,,Why?
 Dialogue: 5,0:31:28.20,0:31:29.66,Default,,0,0,0,,Y–You're asking me?
-Dialogue: 5,0:31:31.74,0:31:34.00,Default,,0,0,0,,Listing possible reasons:
+Dialogue: 5,0:31:31.74,0:31:34.00,Default,,0,0,0,,Listing possible answers:
 Dialogue: 5,0:31:34.00,0:31:35.66,Default,,0,0,0,,Cluster being irrelevant,
 Dialogue: 5,0:31:35.68,0:31:36.43,Default,,0,0,0,,pointless,
-Dialogue: 5,0:31:36.44,0:31:37.24,Default,,0,0,0,,disengaged.
+Dialogue: 5,0:31:36.44,0:31:37.24,Default,,0,0,0,,indifferent.
 Dialogue: 5,0:31:37.24,0:31:38.09,Default,,0,0,0,,Sync denied.
 Dialogue: 5,0:31:38.10,0:31:39.16,Default,,0,0,0,,Analysis prioritized.
 Dialogue: 5,0:31:39.18,0:31:40.73,Default,,0,0,0,,Need to comprehend Riku's heart.
-Dialogue: 5,0:31:40.75,0:31:42.13,Default,,0,0,0,,Riku being enough.
+Dialogue: 5,0:31:40.75,0:31:42.13,Default,,0,0,0,,Riku being sufficient.
 Dialogue: 5,0:31:42.14,0:31:42.54,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:42.54,0:31:43.00,Default,,0,0,0,,{\fad(100,100)}ERROR.
 Dialogue: 5,0:31:43.00,0:31:43.63,Default,,0,0,0,,{\fad(100,100)}ERROR.
