@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 589
-Active Line: 598
-Video Position: 49970
+Scroll Position: 606
+Active Line: 615
+Video Position: 51521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -630,19 +630,19 @@ Dialogue: 5,0:34:49.41,0:34:52.73,Default,,0,0,0,,Just like the dwarves,\Nthey'r
 Dialogue: 5,0:34:54.28,0:34:56.05,Default,,0,0,0,,“Áka Si Anse…
 Dialogue: 5,0:34:56.36,0:34:58.86,Default,,0,0,0,,proof of concept reactor”
 Dialogue: 5,0:34:59.53,0:35:02.24,Default,,0,0,0,,Riku, you can read Elvish…?
-Dialogue: 5,0:35:03.91,0:35:07.69,Default,,0,0,0,,The information we suffer to get is worthless if you can’t read it.
-Dialogue: 5,0:35:07.72,0:35:09.38,Default,,0,0,0,,Be it word or writing,
-Dialogue: 5,0:35:09.38,0:35:12.44,Default,,0,0,0,,we've continuously passed down the traits,
-Dialogue: 5,0:35:12.44,0:35:16.35,Default,,0,0,0,,languages, and customs of other races to this very day.
+Dialogue: 5,0:35:03.91,0:35:07.69,Default,,0,0,0,,The hardest-earned information is worthless if you can’t read it.
+Dialogue: 5,0:35:07.72,0:35:09.38,Default,,0,0,0,,By word, writing,
+Dialogue: 5,0:35:09.38,0:35:12.44,Default,,0,0,0,,and every way imaginable we've been passing down the traits,
+Dialogue: 5,0:35:12.44,0:35:16.35,Default,,0,0,0,,languages, even customs of other races to this very day.
 Dialogue: 5,0:35:17.59,0:35:19.13,Default,,0,0,0,,Despite appearances,
 Dialogue: 5,0:35:19.13,0:35:22.35,Default,,0,0,0,,we are capable of more than just endlessly running away.
 Dialogue: 5,0:35:24.13,0:35:25.60,Default,,0,0,0,,Either way…
-Dialogue: 5,0:35:26.05,0:35:28.10,Default,,0,0,0,,I can't read anything else here.
+Dialogue: 5,0:35:26.05,0:35:28.10,Default,,0,0,0,,I can't read anything else.
 Dialogue: 5,0:35:28.80,0:35:30.22,Default,,0,0,0,,Especially here.
 Dialogue: 5,0:35:30.22,0:35:31.61,Default,,0,0,0,,Must be a name, right?
-Dialogue: 5,0:35:31.94,0:35:34.88,Default,,0,0,0,,If it is sensitive elven information
-Dialogue: 5,0:35:34.88,0:35:38.50,Default,,0,0,0,,the chance that it is encrypted is high.
-Dialogue: 5,0:35:38.50,0:35:44.87,Default,,0,0,0,,Yeah, the problem is… they’ve even encrypted the names of the people involved.
+Dialogue: 5,0:35:31.94,0:35:34.88,Default,,0,0,0,,If it's classified elven information
+Dialogue: 5,0:35:34.88,0:35:38.50,Default,,0,0,0,,there's a high chance it is encrypted.
+Dialogue: 5,0:35:38.50,0:35:44.87,Default,,0,0,0,,Right, the problem is… they’ve even encrypted the names of the people involved.
 Dialogue: 5,0:35:45.83,0:35:47.79,Default,,0,0,0,,Áka Si Anse…
 Dialogue: 5,0:35:48.83,0:35:52.59,Default,,0,0,0,,One thing we know for sure it's for no good.
 Dialogue: 5,0:35:57.05,0:35:58.34,Default,,0,0,0,,Riku, stand back!
@@ -732,7 +732,7 @@ Dialogue: 5,0:40:57.41,0:40:58.79,Default,,0,0,0,,like to do?
 Dialogue: 5,0:41:01.56,0:41:02.86,Default,,0,0,0,,Would like?
 Dialogue: 5,0:41:03.65,0:41:05.40,Default,,0,0,0,,Whatever it is,
 Dialogue: 5,0:41:06.64,0:41:08.34,Default,,0,0,0,,Schwi will help.
-Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,Until Schwi understands Riku's heart,\Nshe'll be by his side.
+Dialogue: 5,0:41:09.10,0:41:14.10,Default,,0,0,0,,Until Schwi learns Riku's heart,\Nshe'll stay by his side.
 Dialogue: 5,0:41:14.10,0:41:18.70,Default,,0,0,0,,She will follow to see,\Nwhat purpose Riku's heart finds.
 Dialogue: 5,0:41:19.45,0:41:20.70,Default,,0,0,0,,Therefore...
 Dialogue: 5,0:41:21.15,0:41:23.92,Default,,0,0,0,,What Riku wants is Schwi's wish.
