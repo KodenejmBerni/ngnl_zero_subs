@@ -2578,8 +2578,8 @@ Security system…
 *
 
 エルフの術式…生きてた。
-Elven magic… active.
 Elf no jutsushiki… ikitetа
+Elven magic… active.
 
 でも、大丈夫。
 Demo, daijoubu.
@@ -2599,11 +2599,11 @@ What was that?
 
 エクスマキナの特性。
 Ex-machina no tokusei.
-An Ex-machina ability.
+The feature of Ex-machina.
 
 受けた攻撃を解析、模倣、再現。
 Uketa kougeki o kaiseki, mohou, saigen.
-Received attack can be analyzed, imitated, reproduced.
+Received attack is analyzed, imitated, reproduced.
 
 コピーできる。
 Copy de kiru.
@@ -2611,7 +2611,7 @@ Copying it.
 
 解析体、プリューファのシュヴィじゃ―、本来の１割も再現できないけど。
 Kaisekitai, Prüfer no Schwi ja―, honrai no 10% mo saigen dekinai kedo.
-Although, analysis unit like Schwi, cannot reproduce even 10% of the original power.
+Although an analysis unit like Schwi can't reproduce even 10% of the original power.
 
 それでも、お前
 Sore demo, omae
@@ -2619,7 +2619,7 @@ Even then,
 
 十分デタラメだよ。
 juubun detarame da yo.
-you’re ridiculous enough.
+you're still ridiculous.
 
 ごめんなさい…
 Gomennasai…
@@ -2641,17 +2641,17 @@ Well, it's better than dying there.
 Bakemono renchuu ni tanchi sareru mae ni, sassato taisan shiyou.
 Let's just get out of here quickly before any scum spots us.
 
-くそ！
-Kuso!
-Shit!
+くそ…
+Kuso…
+Shit…
 
-黒灰の嵐か。
-Kurohai no arashi ka.
-A black ash storm.
+黒灰の嵐か？
+Kurohai no arashi ka?
+a black ash storm?
 
 シュヴィ平気。
 Schwi heiki.
-Schwi's fine.
+Schwi’s fine.
 
 灰汚染を除去できる除染液流れてる。
 Hai osen o jokyo dekiru josen eki nagareteru.
@@ -2659,7 +2659,11 @@ She includes a fluid that neutralizes ash contamination.
 
 お前は平気でも俺がダメなの。
 Omae wa heiki demo ore ga dame nano.
-You might be fine, but I’m not.
+You may be fine, but I'm not.
+
+
+0:38:22
+
 
 なあ…
 Naa…
@@ -2679,7 +2683,7 @@ I’m not blaming you.
 
 ゲームでもやろうぜ。
 Geimu demo yarou ze.
-Do you want to play a game?
+Wanna play a game?
 
 いいの？
 Ii no?

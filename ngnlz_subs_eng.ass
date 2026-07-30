@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 606
-Active Line: 615
-Video Position: 51521
+Scroll Position: 641
+Active Line: 648
+Video Position: 55257
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -656,33 +656,33 @@ Dialogue: 5,0:36:27.54,0:36:28.16,Default,,0,0,0,,Rik—
 Dialogue: 5,0:36:49.93,0:36:51.02,Default,,0,0,0,,Schwi…
 Dialogue: 5,0:36:51.89,0:36:53.15,Default,,0,0,0,,Schwi!
 Dialogue: 5,0:36:58.08,0:36:59.19,Default,,0,0,0,,Schwi...
-Dialogue: 5,0:37:01.28,0:37:03.53,Default,,0,0,0,,Security system...
+Dialogue: 5,0:37:01.28,0:37:03.53,Default,,0,0,0,,Security system…
 Dialogue: 5,0:37:03.53,0:37:06.37,Default,,0,0,0,,Elven magic… active.
 Dialogue: 5,0:37:07.53,0:37:09.65,Default,,0,0,0,,But, I be fine.
 Dialogue: 5,0:37:10.29,0:37:11.21,Default,,0,0,0,,Lösen:
 Dialogue: 5,0:37:11.58,0:37:13.25,Default,,0,0,0,,Stehapokryphen.
 Dialogue: 5,0:37:22.07,0:37:23.09,Default,,0,0,0,,What was that?
-Dialogue: 5,0:37:23.09,0:37:25.01,Default,,0,0,0,,An Ex-machina ability.
-Dialogue: 5,0:37:25.01,0:37:28.97,Default,,0,0,0,,Received attack can be analyzed, imitated, reproduced.
+Dialogue: 5,0:37:23.09,0:37:25.01,Default,,0,0,0,,The feature of Ex-machina.
+Dialogue: 5,0:37:25.01,0:37:28.97,Default,,0,0,0,,Received attack is analyzed, imitated, reproduced.
 Dialogue: 5,0:37:28.97,0:37:30.02,Default,,0,0,0,,Copying it.
-Dialogue: 5,0:37:30.68,0:37:36.52,Default,,0,0,0,,Although, analysis unit like Schwi, cannot reproduce even 10% of the original power.
+Dialogue: 5,0:37:30.68,0:37:36.52,Default,,0,0,0,,Although an analysis unit like Schwi\Ncan't reproduce even 10% of the original power.
 Dialogue: 5,0:37:37.92,0:37:39.75,Default,,0,0,0,,Even then,
-Dialogue: 5,0:37:39.75,0:37:41.52,Default,,0,0,0,,you're ridiculous enough.
+Dialogue: 5,0:37:39.75,0:37:41.52,Default,,0,0,0,,you're still ridiculous.
 Dialogue: 5,0:37:45.30,0:37:46.70,Default,,0,0,0,,I'm sorry…
 Dialogue: 5,0:37:47.88,0:37:50.59,Default,,0,0,0,,Schwi broke the promise
 Dialogue: 5,0:37:50.59,0:37:52.45,Default,,0,0,0,,and used spiritual energy.
 Dialogue: 5,0:37:52.45,0:37:55.05,Default,,0,0,0,,Well, it's better than dying there.
 Dialogue: 5,0:37:55.90,0:38:00.25,Default,,0,0,0,,Let's just get out of here quickly before any scum spots us.
-Dialogue: 5,0:38:05.32,0:38:06.32,Default,,0,0,0,,Shit!
-Dialogue: 5,0:38:06.93,0:38:08.93,Default,,0,0,0,,A black ash storm.
+Dialogue: 5,0:38:05.32,0:38:06.32,Default,,0,0,0,,Shit…
+Dialogue: 5,0:38:06.93,0:38:08.93,Default,,0,0,0,,a black ash storm?
 Dialogue: 5,0:38:09.30,0:38:10.47,Default,,0,0,0,,Schwi’s fine.
 Dialogue: 5,0:38:10.97,0:38:14.23,Default,,0,0,0,,She includes a fluid that neutralizes ash contamination.
-Dialogue: 5,0:38:14.23,0:38:17.19,Default,,0,0,0,,You might be fine, but I’m not.
+Dialogue: 5,0:38:14.23,0:38:17.19,Default,,0,0,0,,You may be fine, but I'm not.
 Dialogue: 5,0:38:24.64,0:38:25.84,Default,,0,0,0,,Well…
 Dialogue: 5,0:38:25.84,0:38:27.53,Default,,0,0,0,,I bet you brought chess with you.
 Dialogue: 5,0:38:27.70,0:38:28.70,Default,,0,0,0,,I'm sorry.
 Dialogue: 5,0:38:29.52,0:38:30.95,Default,,0,0,0,,I’m not blaming you.
-Dialogue: 5,0:38:31.51,0:38:32.91,Default,,0,0,0,,Do you want to play a game?
+Dialogue: 5,0:38:31.51,0:38:32.91,Default,,0,0,0,,Wanna play a game?
 Dialogue: 5,0:38:33.79,0:38:34.79,Default,,0,0,0,,Really?
 Dialogue: 5,0:38:35.08,0:38:36.54,Default,,0,0,0,,In this storm
 Dialogue: 5,0:38:36.54,0:38:39.38,Default,,0,0,0,,we shouldn't be detected by anyone anyway.
