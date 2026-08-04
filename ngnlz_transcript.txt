@@ -1534,7 +1534,7 @@ the existence of humans is
 
 異常。
 ijou.
-an error.
+abnormal.
 
 エクスマキナの解析でも
 Ex-machina no kaiseki demo
@@ -1721,7 +1721,7 @@ Schwi yearns to learn Riku's heart.
 Dakara, Riku no kokoro soushitai nara…
 So now, when your heart tells you that…
 
-シュヴィ 
+シュヴィ
 Schwi
 do you
 
@@ -2727,7 +2727,7 @@ I can't win?
 
 リク、今まで一度も
 Riku, ima made ichido mo
-Riku, you still haven’t won 
+Riku, you still haven’t won
 
 勝ってない。
 katte nai.
@@ -2741,9 +2741,9 @@ I’ve forced you to think longer.
 Zettai ni katenai to dare ga kimeta?
 Who decided I can never win?
 
-シュヴィ少し分かった。
-Schwi sukoshi wakatta.
-Schwi understands a bit. 
+シュヴィ…少し分かった。
+Schwi… sukoshi wakatta.
+Schwi… understands a bit.
 
 現在の惑星環境人間に致命的。
 Genzai no wakusei kankyou　ningen ni chimeiteki.
@@ -2755,11 +2755,11 @@ Staying alive is…
 
 異常。
 ijou.
-an anomaly.
+abnormal.
 
 その異常—
 Sono ijou—
-That anomaly—
+That abnormality—
 
 訂正: 偉業
 teisei: igyou
@@ -2775,7 +2775,7 @@ and will.
 
 それでも人間生き残ってる。
 Soredemo ningen ikinokotteru.
-Despite all odds, humans survive.
+Despite everything, humans survive.
 
 客観的事実。
 Kyakkan-teki jijitsu.
@@ -2801,9 +2801,9 @@ Let me ask you,
 konna sekai ikinobite ittai nan ni naru?
 what’s the point of surviving in a world like this?
 
-必死に逃げて、逃げ延びて、
-Hisshi ni nigete, nige nobite,
-Desperately running, barely making it through,
+必死に逃げて、逃げ延びて…
+Hisshi ni nigete, nige nobite…
+Desperately fleeing, barely surviving…
 
 そのあとは？　それでどうする？
 Sono ato wa? Sore de dou suru?
@@ -2843,7 +2843,7 @@ what else can you do?
 
 俺は…どうすればいいんだ…
 Ore wa… dou sureba ii nda…
-What… am I supposed to do…
+What am I… supposed to do…
 
 それが知りたい…
 Sore ga shiritai…
@@ -2891,7 +2891,7 @@ Until Schwi understands Riku's heart, she'll be by his side.
 
 リクの心がどうしたいかそばで見届ける。
 Riku no kokoro ga dou shitai ka, soba de mitodokeru.
-She'll follow to see, what purpose Riku's heart finds.
+She'll be there to see what purpose Riku's heart finds.
 
 だから…
 Dakara…
@@ -2900,6 +2900,7 @@ Therefore…
 シュヴィは“リクのやりたい”をやりたい
 Schwi wa “Riku no yaritai” o yaritai.
 What Riku wants is Schwi's wish.
+Schwi wants to do what Riku wants.
 
 チェックメイト。
 Checkmate.
