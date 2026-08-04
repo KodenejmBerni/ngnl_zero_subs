@@ -19,8 +19,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 641
-Active Line: 648
-Video Position: 55257
+Active Line: 656
+Video Position: 55863
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -686,7 +686,7 @@ Dialogue: 5,0:38:31.51,0:38:32.91,Default,,0,0,0,,Wanna play a game?
 Dialogue: 5,0:38:33.79,0:38:34.79,Default,,0,0,0,,Really?
 Dialogue: 5,0:38:35.08,0:38:36.54,Default,,0,0,0,,In this storm
 Dialogue: 5,0:38:36.54,0:38:39.38,Default,,0,0,0,,we shouldn't be detected by anyone anyway.
-Dialogue: 5,0:38:39.79,0:38:41.55,Default,,0,0,0,,It’s a good way to kill some time.
+Dialogue: 5,0:38:39.79,0:38:41.55,Default,,0,0,0,,Good way to kill some time.
 Dialogue: 5,0:38:49.93,0:38:51.93,Default,,0,0,0,,Shit! I lost again!
 Dialogue: 5,0:38:51.93,0:38:53.31,Default,,0,0,0,,One more time!
 Dialogue: 5,0:38:53.61,0:38:56.05,Default,,0,0,0,,Riku, if you can't win,
