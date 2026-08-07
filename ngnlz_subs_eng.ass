@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 731
-Active Line: 736
-Video Position: 62519
+Scroll Position: 737
+Active Line: 748
+Video Position: 63923
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -773,11 +773,12 @@ Dialogue: 5,0:43:33.56,0:43:34.73,Default,,0,0,0,,Yes.
 Dialogue: 5,0:43:34.73,0:43:35.94,Default,,0,0,0,,Correct.
 Dialogue: 5,0:43:35.94,0:43:37.90,Default,,0,0,0,,Those are proper eyes.
 Dialogue: 5,0:43:38.19,0:43:39.69,Default,,0,0,0,,Proper eyes?
-Dialogue: 5,0:43:39.89,0:43:41.18,Default,,0,0,0,,No.
-Dialogue: 5,0:43:42.70,0:43:46.30,Default,,0,0,0,,Is it that Schwi
-Dialogue: 5,0:43:47.12,0:43:48.83,Default,,0,0,0,,is into
-Dialogue: 5,0:43:48.83,0:43:49.73,Default,,0,0,0,,those eyes?
-Dialogue: 5,0:43:55.00,0:43:56.82,Default,,0,0,0,,That's so like you.
+Dialogue: 5,0:43:39.89,0:43:41.18,Default,,0,0,0,,No…
+Dialogue: 5,0:43:42.70,0:43:44.60,Default,,0,0,0,,Schwi
+Dialogue: 5,0:43:44.60,0:43:46.30,Default,,0,0,0,,is into those eyes…
+Dialogue: 5,0:43:47.12,0:43:48.83,Default,,0,0,0,,would you
+Dialogue: 5,0:43:48.83,0:43:49.73,Default,,0,0,0,,agree?
+Dialogue: 5,0:43:55.00,0:43:56.82,Default,,0,0,0,,So very you, again.
 Dialogue: 5,0:44:26.09,0:44:27.47,Default,,0,0,0,,This is bad!
 Dialogue: 5,0:44:29.78,0:44:30.77,Default,,0,0,0,,Stay calm!
 Dialogue: 5,0:44:30.77,0:44:32.06,Default,,0,0,0,,Go to the west exit!
