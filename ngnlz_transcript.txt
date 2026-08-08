@@ -3103,7 +3103,7 @@ Nonna, minna to issho ni.
 Nonna, go with the others.
 
 さあ行って！
-Sa itte.
+Sa itte!
 Run!
 
 リク！
@@ -3140,7 +3140,7 @@ Let sister take care of things from here.
 
 シュヴィ、言質は取ったな？
 Schwi, genchi wa totta na?
-Schwi, did you write this down?
+Schwi, did you take that down?
 
 バッチリ。
 Batchiri.
@@ -3175,7 +3175,7 @@ Anta nashi ja watashi mo shuuraku mo—
 Without you, the village and I will—
 
 いいや、コロンがいれば大丈夫だ。
-Iiya, koron ga ireba daijoubu da.
+Iiya, Koron ga ireba daijoubu da.
 No, everything will be fine.
 
 ここから先は、
@@ -3196,7 +3196,7 @@ Hey!
 
 ２人とも何を始める気なのかな？
 Futari tomo nani o hajimeru kina no ka na?
-What are you two cooking up, huh?!
+What on earth are you two cooking up, huh?!
 
 ゲームだよ。
 Geimu da yo.
@@ -3212,6 +3212,7 @@ to start a mere child's play.
 
 
 00:46:00
+
 
 ここにいる者は逃げ遅れ集落と共に命を落としたことになっている。
 Koko ni iru mono wa nige okure shuuraku to tomo ni inochi o otoshita koto ni natte iru.
