@@ -3497,10 +3497,12 @@ A truly handpicked lineup of fools, isn't it?
 人は愚かだ、愚かゆえに、
 Hito wa oroka da, oroka yue ni,
 Humans are foolish, and for that reason,
+Humans are foolish, and therefore,
 
 その愚かさに殺されまいと、知恵を磨く。
 sono orokasa ni korosaremai to, chie o migaku.
-so as not to be killed by it, they hone their wits.
+to not be killed by that, they hone their wits.
+to keep that from killing them, they hone their wits.
 
 生きる価値なき世界で、それでも生き残った。
 Ikiru kachi naki sekai de, soredemo ikinokotta.
@@ -3512,7 +3514,7 @@ All those who put all their knowledge, skills and experience into it…
 
 誇り高い愚者…尊敬すべき弱者でなければ、なんだというのか？
 Hokori takai gusha… sonkei subeki jakusha de nakereba, nan da to iu no ka?
-how can you call them if not the proud masters of that foolishness?
+how can you call them… if not the proud masters of that foolishness?
 
 やってやろうじゃねえか！
 Yatte yarou janee ka!
