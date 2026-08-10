@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 767
-Active Line: 779
-Video Position: 66245
+Scroll Position: 786
+Active Line: 803
+Video Position: 67771
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -811,28 +811,28 @@ Dialogue: 5,0:45:53.95,0:45:55.45,Default,,0,0,0,,Just a game.
 Dialogue: 5,0:45:56.08,0:45:57.64,Default,,0,0,0,,We're about
 Dialogue: 5,0:45:57.64,0:45:59.93,Default,,0,0,0,,to start a mere child's play.
 Dialogue: 5,0:46:01.44,0:46:07.24,Default,,0,0,0,,Everyone here is considered to have failed to escape the village in time and to have died.
-Dialogue: 5,0:46:07.44,0:46:09.91,Default,,0,0,0,,Those who no longer exist in this world.
+Dialogue: 5,0:46:07.44,0:46:09.91,Default,,0,0,0,,Those who no longer exist in this world…
 Dialogue: 5,0:46:10.45,0:46:11.65,Default,,0,0,0,,Ghosts.
 Dialogue: 5,0:46:13.43,0:46:15.81,Default,,0,0,0,,“Someday the war will end…”
-Dialogue: 5,0:46:15.81,0:46:18.47,Default,,0,0,0,,Stop waiting for a future that will never come.
-Dialogue: 5,0:46:19.54,0:46:21.64,Default,,0,0,0,,What do we do in this shit-ridden world?
-Dialogue: 5,0:46:21.64,0:46:24.84,Default,,0,0,0,,Run, hide and pray for the war to end?
+Dialogue: 5,0:46:15.81,0:46:18.47,Default,,0,0,0,,stop waiting for a future that will never come.
+Dialogue: 5,0:46:19.54,0:46:21.64,Default,,0,0,0,,In this shit-ridden world,
+Dialogue: 5,0:46:21.64,0:46:24.84,Default,,0,0,0,,we flee, hide and pray for the war to end?
 Dialogue: 5,0:46:25.44,0:46:26.54,Default,,0,0,0,,To who?
 Dialogue: 5,0:46:26.99,0:46:29.22,Default,,0,0,0,,To these butchers called gods?!
 Dialogue: 5,0:46:30.03,0:46:32.74,Default,,0,0,0,,The creator of the Flügel, Artosh.
 Dialogue: 5,0:46:32.74,0:46:35.50,Default,,0,0,0,,The creator of the Elves, Kainas.
 Dialogue: 5,0:46:35.50,0:46:38.68,Default,,0,0,0,,The creator of the Dwarves, Ocain.
-Dialogue: 5,0:46:38.68,0:46:42.79,Default,,0,0,0,,They each claim the right to be the sole god of this world
-Dialogue: 5,0:46:42.79,0:46:47.17,Default,,0,0,0,,and while quarreling they spread death and destruction!
+Dialogue: 5,0:46:38.68,0:46:42.79,Default,,0,0,0,,Each of them claims the right to be the sole god of this world
+Dialogue: 5,0:46:42.79,0:46:47.17,Default,,0,0,0,,and while quarreling they plunge the world further into despair!
 Dialogue: 5,0:46:47.17,0:46:49.91,Default,,0,0,0,,These pieces of shit deserve nothing from us!
 Dialogue: 5,0:46:51.80,0:46:53.50,Default,,0,0,0,,It's time to face it.
 Dialogue: 5,0:46:53.95,0:46:56.83,Default,,0,0,0,,In this world, we have no place.
 Dialogue: 5,0:46:58.32,0:46:59.72,Default,,0,0,0,,That's why
-Dialogue: 5,0:46:59.72,0:47:01.70,Default,,0,0,0,,we need to build it with our own hands.
-Dialogue: 5,0:47:03.31,0:47:05.84,Default,,0,0,0,,This world turns out to be a mere game.
-Dialogue: 5,0:47:06.61,0:47:10.15,Default,,0,0,0,,What those bastards are after, is the Suniaster.
-Dialogue: 5,0:47:10.15,0:47:14.66,Default,,0,0,0,,A conceptual device, which is said to grant absolute power over the world.
-Dialogue: 5,0:47:14.66,0:47:18.16,Default,,0,0,0,,Their pathetic contest is the only thing they care about!
+Dialogue: 5,0:46:59.72,0:47:01.70,Default,,0,0,0,,we have to build it ourselves.
+Dialogue: 5,0:47:03.31,0:47:05.84,Default,,0,0,0,,This world was a mere game all along.
+Dialogue: 5,0:47:06.61,0:47:10.15,Default,,0,0,0,,What those bastards are after is the Suniaster.
+Dialogue: 5,0:47:10.15,0:47:14.66,Default,,0,0,0,,A conceptual device that's said to grant absolute power over the world.
+Dialogue: 5,0:47:14.66,0:47:18.16,Default,,0,0,0,,They think about nothing but their pathetic contest!
 Dialogue: 5,0:47:18.79,0:47:20.22,Default,,0,0,0,,In that case,
 Dialogue: 5,0:47:20.22,0:47:22.71,Default,,0,0,0,,we'll also make the rules as we like
 Dialogue: 5,0:47:22.71,0:47:23.90,Default,,0,0,0,,and then

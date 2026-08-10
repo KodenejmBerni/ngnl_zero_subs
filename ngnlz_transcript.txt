@@ -3218,12 +3218,12 @@ to start a mere child's play.
 Koko ni iru mono wa nige okure shuuraku to tomo ni inochi o otoshita koto ni natte iru.
 Everyone here is considered to have failed to escape the village in time and to have died.
 
-既にこの世に存在しない者。
-Sude ni kono yo ni sonzai shinai mono.
-Those who no longer exist in this world.
+既にこの世に存在しない者…
+Sude ni kono yo ni sonzai shinai mono…
+Those who no longer exist in this world…
 
 幽霊だ。
-Yuureida.
+Yuurei da.
 Ghosts.
 
 “いつか訪れる終戦…”
@@ -3231,16 +3231,16 @@ Ghosts.
 “Someday the war will end…”
 
 そんな来ない未来を待つのは、もうやめだ。
-Sonna konai mirai o matsu no wa, mou yame da.
-Stop waiting for a future that will never come.
+sonna konai mirai o matsu no wa, mou yame da.
+stop waiting for a future that will never come.
 
 こんなくそまみれの世界で、
 Konna kuso mamire no sekai de,
-What do we do in this shit-ridden world?
+In this shit-ridden world,
 
 逃げて、生き延びて、終戦を祈るか？
 nigete, ikinobite, shuusen o inoru ka?
-Run, hide and pray for the war to end?
+we flee, hide and pray for the war to end?
 
 誰に？
 Dare ni?
@@ -3248,7 +3248,7 @@ To who?
 
 神を名乗る破壊者どもか？！
 Kami o nanoru hakaisha domo ka?!
-To these butchers called gods?!
+These butchers called gods?!
 
 フリューゲルの創造主、アルトシュ。
 Flügel no souzoushu, Artosh.
@@ -3264,11 +3264,11 @@ The creator of the Dwarves, Ocain.
 
 連中は我こそがこの世界の唯一神だと主張し
 Renchuu wa ware koso ga kono sekai no yuiitsushin da to shuchou shi
-They each claim the right to be the sole god of this world
+Each of them claims the right to be the sole god of this world
 
 争い、その座を巡り世界もろとも破壊し続けている！
 arasoi, sono za o meguri sekai moroto mo hakai shi tsuzukete iru!
-and while quarreling they spread death and destruction!
+and while quarreling they plunge the world further into despair!
 
 そんなくそどもにいったい何を祈る！
 Sonna kuso domo ni ittai nani o inoru!
@@ -3290,22 +3290,21 @@ That's why
 oretachi no te de tsukuru shika nai.
 we need to build it with our own hands.
 
-この世界(を)?
 この世界はやはり単純なゲームだった。
 Kono sekai wa yahari tanjun na geimu datta.
-This world turns out to be a mere game.
+This world was a mere game all along.
 
 あの破壊者どもは、このスーニアスター。
 Ano hakaisha domo wa, kono Suniaster.
-What those bastards are after, is the Suniaster.
+What those bastards are after is the Suniaster.
 
 世界の絶対支配権という概念装置を手中に収めようと。
 Sekai no zettai shihaiken to iu gainen souchi o shuchuu ni osameyou to.
-A conceptual device, which is said to grant absolute power over the world.
+A conceptual device that's said to grant absolute power over the world.
 
 なんでもありのくだらねえゲームに明け暮れているだけだ！
 Nandemoari no kudaranee geimu ni akekurete iru dake da!
-Their pathetic contest is the only thing they care about!
+They think about nothing but their pathetic contest!
 
 だったら、
 Dattara,
