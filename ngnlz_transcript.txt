@@ -3570,7 +3570,7 @@ now Schwi completely
 
 心分からない。
 kokoro wakaranai.
-don't understand the heart.
+doesn't understand the heart.
 
 作戦どれも成功確率１％未満。
 Sakusen dore mo seikou kakuritsu 1% miman.
@@ -3594,7 +3594,7 @@ One sixth.
 
 じゃあそれをもし
 Jaa sore o moshi
-But what if
+And what if
 
 “存在しない誰か”が６しか出ないサイコロに取り替えたとしたら？
 “Sonzai shinai dareka” ga roku shika denai saikoro ni torikaeta to shitara?
@@ -3618,11 +3618,11 @@ Fun, right?
 
 俺たちは計算上の特異点だ。
 Oretachi wa keisanjou no tokuiten da.
-We are a computational singularity.
+We’re a computational singularity.
 
 あらゆる予想、戦略、
 Arayuru yosou, senryaku
-Every intent or prediction
+Every course of events
 
 計算を全て望む方向へ収束させる。
 keisan o　subete nozomu houkou e shuusoku saseru.
@@ -3710,11 +3710,11 @@ I'm sorry!
 
 童貞の分際で調子こきました！
 Doutei no bunzai de choushi kokimashita!
-I got carried away as a greenhorn!
+I got carried away as a virgin!
 
 結婚…
 Kekkon…
-Mariage…
+Marriage…
 
 人間が繁殖のつがいと交わす契約。
 ningen ga hanshoku no tsugai to kawasu keiyaku.
@@ -3766,7 +3766,7 @@ Doesn't matter!
 
 間があった
 Ma ga atta…
-A delay…
+A hesitation…
 
 細けえことはいいんだよ！
 Komakee koto wa iin da yo!
@@ -3854,7 +3854,7 @@ Why choose a game of chess to convince someone?
 
 そもそも、なんで集落からあんなに離れた場所で〝待ち構えてた〟のか？とか…
 Somosomo, nande shuuraku kara annani hanareta basho de ‘machikamaete ta’ no ka? toka…
-To begin with, why ‘lie in wait’ in a place so far from the village? And so on…
+To begin with, why lie in wait in a place so far from the village? And so on…
 
 意外と詰めが甘いよな。
 Higai to tsume ga amai yo na.
@@ -3874,7 +3874,7 @@ the thing is that I love you
 
 シュヴィに惚(ほ)れたからかな。
 Schwi ni horetakara ka na.
-for every part of you.
+for everything about you.
 
 シュヴィが俺の故郷を滅ぼした過去は変わらない、
 Schwi ga ore no kokyou o horoboshita kako wa kawaranai,
@@ -3894,7 +3894,7 @@ No point in running from it.
 
 歯がみして、
 Hagami shite,
-You lament,
+You yell,
 
 悔やんで、
 kuyande,
@@ -3902,11 +3902,11 @@ cry,
 
 泣き叫んで、
 nakisakende,
-gnash your teeth
+gnash your teeth,
 
 次は次こそはと前に進む。
 tsugi wa tsugi koso wa to mae ni susumu.
-and then, you move on to ‘the next one’.
+and then you move on to ‘the next one’.
 
 だからシュヴィは俺に興味を持ってくれた、
 Dakara Schwi wa ore ni kyoumi o motte kureta,
@@ -3930,11 +3930,11 @@ I love them all.
 
 ２人でいれば、こんな世界でも生きたいって思える。
 Futari　de ireba konna sekai demo ikitai tte omoeru.
-With you, I want to live even in a world like this.
+With you, I want to keep going even in a world like this.
 
 ２人でいられれば、二度と笑えなくなることはないと思える。
 Futari　de irarereba, nido to waraenaku naru koto wa nai to omoeru.
-With you, I'm able to live my life in line with my heart.
+With you, I'm able to live my life true to my heart.
 
 だから…
 Dakara…
@@ -3970,7 +3970,7 @@ in so many ways…
 
 だけど…
 dakedo…
-yet…
+and yet…
 
 ずっと…ずっとずっと
 zutto… zutto zutto
@@ -3978,7 +3978,7 @@ forever… and ever
 
 そばにいさせてください。
 soba ni isasete kudasai.
-let me stay by your side.
+let me be by your side.
 
 こちらこそ。
 Kochira koso.
