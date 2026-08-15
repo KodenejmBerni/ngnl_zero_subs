@@ -4278,7 +4278,7 @@ The stakes would be information.
 
 私に勝てば提供し、負ければ頂く。
 Watashi ni kateba teikyou shi, makereba itadaku.
-Beat me and I'll give you something, and vice versa.
+You beat me, I give you mine, and vice versa.
 
 どこの誰とも分からない相手と
 Doko no dare tomo wakaranai aite to
@@ -4306,7 +4306,7 @@ As the lead researcher of Aka Si Anse theory
 
 この情報の真偽など己のツテで精査可能。
 kono jouhou no shingi nado onore no tsute de seisa kanou.
-you should easily confirm the authenticity of this information.
+you should easily verify the authenticity of this information.
 
 相違あるまい？
 Soui aru mai?
@@ -4368,13 +4368,13 @@ Ca—
 Sono “masaka” da…
 If it can't be…
 
-私はつかんでいる
-Watashi wa tsukande iru
-I have it
+私はつかんでいる…
+Watashi wa tsukande iru…
+I got it…
 
 アーカ･シ･アンセと同等以上と、
 Áka Si Anse to doutou ijou to
-the information about the weapon,
+the information on the weapon,
 
 ドワーフが判断している兵器の情報を。
 Dwarves ga handan shite iru heiki no jouhou o.
