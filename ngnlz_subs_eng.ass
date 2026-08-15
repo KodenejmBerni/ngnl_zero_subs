@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 979
-Active Line: 988
-Video Position: 81581
+Video Zoom Percent: 0.500000
+Scroll Position: 1004
+Active Line: 1017
+Video Position: 84240
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1020,27 +1020,27 @@ Dialogue: 5,0:56:36.95,0:56:38.37,Default,,0,0,0,,Do you Schwi,
 Dialogue: 5,0:56:38.37,0:56:41.03,Default,,0,0,0,,take Riku as your husband,
 Dialogue: 5,0:56:41.03,0:56:41.99,Default,,0,0,0,,and vow to love—
 Dialogue: 5,0:56:41.99,0:56:42.88,Default,,0,0,0,,I do.
-Dialogue: 5,0:56:43.35,0:56:49.02,Default,,0,0,0,,For Schwi's life… and purpose,\NI vow to Riku who gives me the heart,
+Dialogue: 5,0:56:43.35,0:56:49.02,Default,,0,0,0,,Upon Schwi's life… and purpose,\NI vow to Riku, who gives me the heart,
 Dialogue: 5,0:56:49.55,0:56:51.16,Default,,0,0,0,,I will never let him die,
 Dialogue: 5,0:56:51.59,0:56:54.51,Default,,0,0,0,,and stay alive by his side until the very end.
 Dialogue: 5,0:56:54.88,0:56:55.92,Default,,0,0,0,,Aschiento.
 Dialogue: 5,0:57:00.61,0:57:05.02,Default,,0,0,0,,Now, as your sister, let me congratulate you on your marriage.
 Dialogue: 5,0:57:05.02,0:57:05.57,Default,,0,0,0,,Couron!
 Dialogue: 5,0:57:13.65,0:57:15.13,Default,,0,0,0,,Yay! So cute!
-Dialogue: 5,0:57:15.14,0:57:16.85,Default,,0,0,0,,Couron, how…
-Dialogue: 5,0:57:16.95,0:57:20.33,Default,,0,0,0,,After all, she was chosen by you, right?
+Dialogue: 5,0:57:15.14,0:57:16.85,Default,,0,0,0,,Couron, why…
+Dialogue: 5,0:57:16.95,0:57:20.33,Default,,0,0,0,,After all, it was you who chose her, right?
 Dialogue: 5,0:57:21.42,0:57:24.93,Default,,0,0,0,,Alright, so now, carve your names onto this.
 Dialogue: 5,0:57:25.45,0:57:26.53,Default,,0,0,0,,On this stone?
-Dialogue: 5,0:57:27.06,0:57:31.42,Default,,0,0,0,,You guys don't officially exist\Nso you can't have any documents, right?
+Dialogue: 5,0:57:27.06,0:57:31.42,Default,,0,0,0,,You guys don't officially exist,\Nso you can't have any documents, right?
 Dialogue: 5,0:57:31.71,0:57:32.93,Default,,0,0,0,,There's your name…
-Dialogue: 5,0:57:33.07,0:57:34.76,Default,,0,0,0,,Yeah, and my family name.
+Dialogue: 5,0:57:33.07,0:57:34.76,Default,,0,0,0,,Yes, and my family name.
 Dialogue: 5,0:57:35.84,0:57:37.65,Default,,0,0,0,,From now on, It’s {\i1}our{\i0} family name.
-Dialogue: 5,0:57:40.16,0:57:43.70,Default,,0,0,0,,Haha, it sounds weird, “our family name”.
-Dialogue: 5,0:57:45.41,0:57:49.13,Default,,0,0,0,,Hey, Riku, Schwi, you two…
-Dialogue: 0,0:57:49.97,0:57:52.81,Default,,0,0,0,,I really have no idea what are you up to.
-Dialogue: 5,0:57:53.63,0:57:55.23,Default,,0,0,0,,You two are out of this world.
+Dialogue: 5,0:57:41.35,0:57:43.70,Default,,0,0,0,,Sounds weird, “our family name”.
+Dialogue: 5,0:57:45.41,0:57:49.13,Default,,0,0,0,,Listen, Riku, Schwi, you two…
+Dialogue: 0,0:57:49.97,0:57:52.81,Default,,0,0,0,,I really have no idea what you’re up to…
+Dialogue: 5,0:57:53.63,0:57:55.23,Default,,0,0,0,,You are out of this world.
 Dialogue: 5,0:57:56.45,0:57:59.32,Default,,0,0,0,,But… I do know
-Dialogue: 0,0:58:00.04,0:58:02.35,Default,,0,0,0,,I now have a brother and a little sister.
+Dialogue: 0,0:58:00.04,0:58:02.35,Default,,0,0,0,,I have a brother and a little sister now.
 Dialogue: 5,0:58:03.17,0:58:05.51,Default,,0,0,0,,So, please…
 Dialogue: 5,0:58:06.31,0:58:08.71,Default,,0,0,0,,I don't want to lose another family.
 Dialogue: 5,0:58:09.68,0:58:11.05,Default,,0,0,0,,Don’t push it too far.
