@@ -4395,6 +4395,7 @@ A large-scale weapon that can wipe out an entire continent.
 エルフの全霊を賭した最強の霊壊術式…
 Elves no zenrei o toshita saikyou no reikai jutsushiki…
 The technique that stakes the entire essence of the elves…
+The ultimate technique that stakes the very soul of the elves…
 
 アーカ･シ･アンセを超えるものを
 Áka Si Anse o koeru mono o
@@ -4441,15 +4442,15 @@ Ii wa yuurei-san.
 Very well Mr. Ghost.
 
 その情報を受けてどうするか、他ならぬ私に問うわけね？
-Sono jouhou o ukete dou suru ka hoka naranu watashi ni tou wake ne?
-What to do with all that information, you’re leaving it up to me, aren't you?
+Sono jouhou o ukete dou suru ka, hoka naranu watashi ni tou wake ne?
+What to do with that information, you're leaving solely to me, hm?
 
 ちなみにー、
 Chinaminii,
 By the waaay,
 
 ニーナ･クライヴは偽名。
-Nīna Clive wa gimei.
+Nina Clive wa gimei.
 Nina Clive is an alias.
 
 私の本名は
@@ -4462,19 +4463,19 @@ Think Nirvalen is my real name.
 
 この演技見破れました？
 Kono engi miyaburemashita?
-Did you see through my act?
+Did you see through the act?
 
 私は一度でも君をニーナと呼んだかね？
 Watashi wa ichido demo kimi o Nina to yonda ka ne?
 Have you ever heard me call you Nina?
 
-よりによってこの私を手のひらでもてあそんだこと
-Yori ni yotte kono watashi o tenohira de moteasonda koto
-You had the audacity to pick me as your plaything
+よりによってこの私を手のひらでもてあそんだこと…
+Yori ni yotte kono watashi o tenohira de moteasonda koto…
+For choosing me, of all people, to use as your plaything…
 
 後悔させてやるのですよ！
 koukai sasete yaru no desu yo!
-and I’ll make you pay for it!
+I'll make you regret it!
 
 エルフが粘着質ってウワサの由来は
 Elf ga nenchakushitsu tte uwasa no yurai wa

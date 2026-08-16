@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1061
-Active Line: 1066
-Video Position: 88270
+Video Zoom Percent: 0.375000
+Scroll Position: 1085
+Active Line: 1092
+Video Position: 90469
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1100,7 +1100,7 @@ Dialogue: 5,1:01:12.90,1:01:15.70,Default,,0,0,0,,the Dwarves believe surpasses 
 Dialogue: 5,1:01:21.58,1:01:22.74,Default,,0,0,0,,Ether-bomb?
 Dialogue: 5,1:01:24.02,1:01:24.57,Default,,0,0,0,,Yes.
 Dialogue: 5,1:01:25.08,1:01:28.66,Default,,0,0,0,,A large-scale weapon that can wipe out an entire continent.
-Dialogue: 5,1:01:29.59,1:01:32.99,Default,,0,0,0,,The technique that stakes the entire essence of the elves…
+Dialogue: 5,1:01:29.59,1:01:32.99,Default,,0,0,0,,The ultimate technique that stakes the very soul of the elves…
 Dialogue: 5,1:01:33.51,1:01:35.18,Default,,0,0,0,,and it was outperformed
 Dialogue: 5,1:01:35.53,1:01:37.72,Default,,0,0,0,,by those moles burrowing in the earth?
 Dialogue: 5,1:01:38.84,1:01:39.66,Default,,0,0,0,,Wait a moment.
@@ -1112,15 +1112,15 @@ Dialogue: 5,1:01:51.49,1:01:53.16,Default,,0,0,0,,Neither an enemy nor an ally.
 Dialogue: 0,1:01:53.98,1:01:55.33,Default,,0,0,0,,As much as possible.
 Dialogue: 5,1:01:57.27,1:02:00.15,Default,,0,0,0,,I just wish for none of you to die.
 Dialogue: 5,1:02:02.60,1:02:03.91,Default,,0,0,0,,Very well Mr. Ghost.
-Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,What to do with all that information,\Nyou’re leaving it up to me, aren't you?
+Dialogue: 5,1:02:05.46,1:02:10.02,Default,,0,0,0,,What to do with that information, you're leaving solely to me, hm?
 Dialogue: 5,1:02:16.18,1:02:17.61,Default,,0,0,0,,By the waaay,
 Dialogue: 0,1:02:17.76,1:02:19.60,Default,,0,0,0,,Nina Clive is an alias.
 Dialogue: 5,1:02:19.82,1:02:21.25,Default,,0,0,0,,You see, actually
 Dialogue: 0,1:02:22.03,1:02:24.31,Default,,0,0,0,,Think Nirvalen is my real name.
-Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Did you see through my act?
+Dialogue: 5,1:02:24.98,1:02:27.63,Default,,0,0,0,,Did you see through the act?
 Dialogue: 5,1:02:29.52,1:02:32.79,Default,,0,0,0,,Have you ever heard me call you Nina?
-Dialogue: 5,1:02:37.03,1:02:41.08,Default,,0,0,0,,You had the audacity\Nto pick me as your plaything
-Dialogue: 5,1:02:41.36,1:02:43.19,Default,,0,0,0,,and I'll make you pay for it!
+Dialogue: 5,1:02:37.03,1:02:41.08,Default,,0,0,0,,For choosing me, of all people, to use as your plaything…
+Dialogue: 5,1:02:41.36,1:02:43.19,Default,,0,0,0,,I'll make you regret it!
 Dialogue: 5,1:02:44.05,1:02:47.22,Default,,0,0,0,,The rumor that elves are relentlessly vindictive
 Dialogue: 5,1:02:48.19,1:02:50.89,Default,,0,0,0,,comes from none other than the Nirvalen family.
 Dialogue: 5,1:02:53.30,1:02:53.86,Default,,0,0,0,,Riku!
