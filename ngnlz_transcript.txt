@@ -4495,7 +4495,7 @@ Riku!
 
 リク、早く！除染液飲んで！
 Riku hayaku! Josen eki nonde!
-Riku, hurry up! Drink the decontaminate!
+Riku, hurry up! The decontaminate!
 
 リク、ウソつき！１時間って言ったのに。
 Riku, usotsuki! Ichi-jikan tte itta no ni.
@@ -4557,17 +4557,17 @@ ato 892-nen.
 Sorya kiai irenai to na.
 Then I really need to step it up.
 
-これで第１目標
-Kore de daiichi mokuhyou
-The first objective
+これで第１目標:
+Kore de daiichi mokuhyou:
+The first objective:
 
-人間の生存圏からの戦線排除
-ningen no seizonken kara no sensen haijo
-removing the warfare from human territory
+人間の生存圏からの戦線排除。
+ningen no seizonken kara no sensen haijo.
+removing the warfare from human territory.
 
 達成。
-tassei.
-complete.
+Tassei.
+Complete.
 
 ドワーフに続いて、エルフも…
 Dwarfs ni tsuzuite, Elves mo…

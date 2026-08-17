@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1085
-Active Line: 1092
-Video Position: 90469
+Video Zoom Percent: 0.500000
+Scroll Position: 1109
+Active Line: 1118
+Video Position: 92815
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1124,12 +1124,12 @@ Dialogue: 5,1:02:41.36,1:02:43.19,Default,,0,0,0,,I'll make you regret it!
 Dialogue: 5,1:02:44.05,1:02:47.22,Default,,0,0,0,,The rumor that elves are relentlessly vindictive
 Dialogue: 5,1:02:48.19,1:02:50.89,Default,,0,0,0,,comes from none other than the Nirvalen family.
 Dialogue: 5,1:02:53.30,1:02:53.86,Default,,0,0,0,,Riku!
-Dialogue: 5,1:02:55.16,1:02:57.69,Default,,0,0,0,,Riku, hurry up! Drink the decontaminate!
+Dialogue: 5,1:02:55.16,1:02:57.69,Default,,0,0,0,,Riku, hurry up! The decontaminate!
 Dialogue: 5,1:03:00.41,1:03:03.28,Default,,0,0,0,,Riku, you liar! You said it'd be an hour.
 Dialogue: 5,1:03:03.70,1:03:05.92,Default,,0,0,0,,That much black ash over two hours…
 Dialogue: 5,1:03:13.87,1:03:15.21,Default,,0,0,0,,I had no choice.
 Dialogue: 5,1:03:16.13,1:03:20.64,Default,,0,0,0,,Without it I would be exposed in an instant.
-Dialogue: 5,1:03:22.06,1:03:24.93,Default,,0,0,0,,Especially those with supreme intelligence
+Dialogue: 5,1:03:22.06,1:03:24.93,Default,,0,0,0,,Especially those with excellent intelligence
 Dialogue: 5,1:03:25.68,1:03:28.98,Default,,0,0,0,,wouldn’t consider such a suicidal move, right?
 Dialogue: 5,1:03:32.15,1:03:32.69,Default,,0,0,0,,Riku!
 Dialogue: 5,1:03:35.29,1:03:37.11,Default,,0,0,0,,Looks like this one’s done for.
@@ -1140,9 +1140,9 @@ Dialogue: 5,1:03:51.33,1:03:54.47,Default,,0,0,0,,Ex-machina's lifespan… how l
 Dialogue: 5,1:03:54.83,1:03:56.01,Default,,0,0,0,,Usable lifespan:
 Dialogue: 5,1:03:56.44,1:03:58.17,Default,,0,0,0,,892 years left.
 Dialogue: 5,1:04:00.28,1:04:02.99,Default,,0,0,0,,Then I really need to step it up.
-Dialogue: 5,1:04:06.65,1:04:08.25,Default,,0,0,0,,The first objective
-Dialogue: 5,1:04:09.35,1:04:12.26,Default,,0,0,0,,removing the warfare from human territory
-Dialogue: 0,1:04:12.90,1:04:13.72,Default,,0,0,0,,complete.
+Dialogue: 5,1:04:06.65,1:04:08.25,Default,,0,0,0,,The first objective:
+Dialogue: 5,1:04:09.35,1:04:12.26,Default,,0,0,0,,removing warfare from human territory.
+Dialogue: 0,1:04:12.90,1:04:13.72,Default,,0,0,0,,Complete.
 Dialogue: 5,1:04:15.19,1:04:17.52,Default,,0,0,0,,First the Dwarfs, now the Elves…
 Dialogue: 5,1:04:18.01,1:04:20.43,Default,,0,0,0,,the Werebeasts are leaving one by one…
 Dialogue: 5,1:04:20.84,1:04:22.08,Default,,0,0,0,,What in the world?
