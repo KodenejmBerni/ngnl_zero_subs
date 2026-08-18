@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1109
-Active Line: 1118
-Video Position: 92815
+Video Zoom Percent: 0.375000
+Scroll Position: 1118
+Active Line: 1135
+Video Position: 94326
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1149,13 +1149,13 @@ Dialogue: 5,1:04:20.84,1:04:22.08,Default,,0,0,0,,What in the world?
 Dialogue: 5,1:04:23.97,1:04:26.29,Default,,0,0,0,,Lily, please take care of things for me!
 Dialogue: 5,1:04:26.29,1:04:27.35,Default,,0,0,0,,Huh? Wait a—
 Dialogue: 0,1:04:27.35,1:04:28.03,Default,,0,0,0,,Couron!
-Dialogue: 5,1:04:31.12,1:04:33.79,Default,,0,0,0,,The ghosts’ covert actions pressed on.
+Dialogue: 5,1:04:31.12,1:04:33.79,Default,,0,0,0,,The ghosts’ covert actions continued.
 Dialogue: 5,1:04:34.97,1:04:38.31,Default,,0,0,0,,As expected, the Elves allied with the Fairies,
 Dialogue: 5,1:04:38.58,1:04:43.69,Default,,0,0,0,,and to face the dwarven fleet,\Nthey expanded contracts with the Dragonias.
 Dialogue: 5,1:04:44.84,1:04:48.45,Default,,0,0,0,,Meanwhile, the Dwarves teamed up with the Giants
 Dialogue: 5,1:04:48.76,1:04:51.01,Default,,0,0,0,,and turned many phantasmas to their side.
 Dialogue: 5,1:04:52.10,1:04:54.27,Default,,0,0,0,,Manipulated by the ghosts’ information,
-Dialogue: 5,1:04:54.51,1:04:58.28,Default,,0,0,0,,the two major pawns kept mutual watch over each other’s threat,
+Dialogue: 5,1:04:54.51,1:04:58.28,Default,,0,0,0,,the two major pawns kept a wary eye on each other,
 Dialogue: 5,1:04:58.69,1:05:01.38,Default,,0,0,0,,moving their forces to the continent of Ariela.
 Dialogue: 5,1:05:03.19,1:05:07.82,Default,,0,0,0,,This place however, happens to be the base of the Flügel's sovereign,
 Dialogue: 5,1:05:08.16,1:05:09.59,Default,,0,0,0,,the Old-deus,
@@ -1164,11 +1164,11 @@ Dialogue: 5,1:05:16.13,1:05:17.18,Default,,0,0,0,,Umweg.
 Dialogue: 5,1:05:19.87,1:05:22.31,Default,,0,0,0,,23 units – installed.
 Dialogue: 5,1:05:22.59,1:05:24.42,Default,,0,0,0,,Remaining: 9 units.
 Dialogue: 5,1:05:25.97,1:05:29.38,Default,,0,0,0,,With other races joining to profit from the situation,
-Dialogue: 5,1:05:29.38,1:05:33.19,Default,,0,0,0,,the world entered a countdown toward a final, spectacular showdown.
+Dialogue: 5,1:05:29.38,1:05:33.19,Default,,0,0,0,,the world entered a countdown to a final, spectacular showdown.
 Dialogue: 5,1:05:35.06,1:05:36.21,Default,,0,0,0,,Everything
 Dialogue: 5,1:05:36.71,1:05:38.01,Default,,0,0,0,,as planned.
 Dialogue: 5,1:05:40.47,1:05:41.38,Default,,0,0,0,,Say, Schwi
-Dialogue: 5,1:05:42.13,1:05:44.45,Default,,0,0,0,,is there anything like… a god of games?
+Dialogue: 5,1:05:42.13,1:05:44.45,Default,,0,0,0,,is there anyone like… a god of games?
 Dialogue: 5,1:05:46.01,1:05:49.75,Default,,0,0,0,,If I said I'd seen him, would you believe me?
 Dialogue: 5,1:05:51.83,1:05:55.00,Default,,0,0,0,,Bastard always moved far beyond my predictions.
 Dialogue: 5,1:05:55.87,1:05:57.89,Default,,0,0,0,,I always ended up losing.
