@@ -4659,7 +4659,7 @@ With other races joining to profit from the situation,
 
 世界は一触即発の最終決戦へ秒読みとなった。
 sekai wa isshoku sokuhatsu no saishuu kessen e byouyomi to natta.
-the world entered a countdown toward a final, spectacular showdown.
+the world entered a countdown to a final, spectacular showdown.
 
 全て
 Subete
@@ -4667,7 +4667,7 @@ Everything
 
 狙いどおりに。
 nerai doori ni.
-as planned.
+just as planned.
 
 
 01:05:40
@@ -4685,21 +4685,21 @@ is there anyone like… a god of games?
 Ore atta koto aru tte ittara, shinjiru ka?
 If I said I'd seen him, would you believe me?
 
-ヤツは常に俺の予想を上回る手を打ち。
-Yatsu wa tsuneni ore no yosou o uwamawaru te o uchi.
-Bastard always moved far beyond my predictions.
+ヤツは常に俺の予想を上回る手を打ち、
+Yatsu wa tsuneni ore no yosou o uwamawaru te o uchi,
+Bastard always made moves I never saw coming,
 
 俺はいつも決まって負ける。
 Ore wa itsumo kimatte makeru.
-I always ended up losing.
+and I always ended up losing.
 
 けど、
 Kedo,
-However,
+But even so,
 
 それがたまらなく楽しくて。
 sore ga tamaranaku tanoshikute.
-it was irresistibly fun to play.
+it was so incredibly fun.
 
 次は…
 Tsugi wa…
@@ -4715,7 +4715,7 @@ I always thought.
 
 だから俺は、ヤツとのゲームに 決着をつけなきゃならない
 Dakara ore wa yatsu to no geimu ni kecchaku o tsukenakya naranai
-And now, I still need to settle things with him,
+And so, I still have to settle things with him,
 
 あのときのゲームはまだ
 Ano toki no geimu wa mada
