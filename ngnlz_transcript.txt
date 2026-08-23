@@ -4779,7 +4779,7 @@ Just as you said,
 
 誰一人戦死者は出てない。
 dare hitori senshisha wa detenai.
-no one has died so far.
+not a single person has died so far.
 
 他種族の目撃情報もなくなってるわ。
 Tashuzoku no mokugeki jouhou mo nakunatteru wa.
@@ -4795,7 +4795,7 @@ If you're the ones behind all of this,
 
 確かにすごいことをしてると思う。
 tashika ni sugoi koto o shi teru to omou.
-I can’t express how incredible this is.
+you're doing something truly incredible.
 
 でも、リク！
 Demo, Riku!
