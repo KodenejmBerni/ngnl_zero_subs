@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1160
-Active Line: 1176
-Video Position: 97389
+Video Zoom Percent: 0.500000
+Scroll Position: 1221
+Active Line: 1230
+Video Position: 101010
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1209,17 +1209,17 @@ Dialogue: 5,1:07:21.98,1:07:23.21,Default,,0,0,0,,How long is that?
 Dialogue: 5,1:07:24.12,1:07:26.36,Default,,0,0,0,,How much longer do I have to worry?
 Dialogue: 5,1:07:32.49,1:07:33.31,Default,,0,0,0,,Listen Couron,
 Dialogue: 5,1:07:34.61,1:07:37.38,Default,,0,0,0,,do you know what the gods are fighting over in this war?
-Dialogue: 5,1:07:39.18,1:07:40.46,Default,,0,0,0,,The Title of the Sole God.
+Dialogue: 5,1:07:39.18,1:07:40.46,Default,,0,0,0,,The title of the Sole God.
 Dialogue: 5,1:07:40.93,1:07:42.90,Default,,0,0,0,,Yeah, according to Schwi,
 Dialogue: 5,1:07:43.31,1:07:46.04,Default,,0,0,0,,it's something called “Suniaster”.
 Dialogue: 5,1:07:46.70,1:07:48.39,Default,,0,0,0,,Countless Old-deus emerged,
 Dialogue: 5,1:07:48.73,1:07:52.68,Default,,0,0,0,,and in order for only one to rule, these wannabe gods devised…
 Dialogue: 5,1:07:53.11,1:07:54.42,Default,,0,0,0,,a “conceptual device”.
 Dialogue: 5,1:07:54.75,1:07:56.05,Default,,0,0,0,,A conceptual device…?
-Dialogue: 5,1:07:57.24,1:07:59.52,Default,,0,0,0,,Where in the world is something like that?
+Dialogue: 5,1:07:57.24,1:07:59.52,Default,,0,0,0,,Where could something like that even be?
 Dialogue: 5,1:08:00.36,1:08:02.71,Default,,0,0,0,,Suniaster's requirement:
 Dialogue: 5,1:08:03.37,1:08:07.18,Default,,0,0,0,,It will manifest before the greatest power on the planet.
-Dialogue: 5,1:08:07.50,1:08:11.51,Default,,0,0,0,,So then, if there are ten gods with equal power,
+Dialogue: 5,1:08:07.50,1:08:11.51,Default,,0,0,0,,And then, if there are ten gods of equal power,
 Dialogue: 5,1:08:11.92,1:08:15.59,Default,,0,0,0,,I have to kill the other nine to become the Sole God.
 Dialogue: 5,1:08:15.83,1:08:17.57,Default,,0,0,0,,That’s how they figured it.
 Dialogue: 5,1:08:17.78,1:08:19.58,Default,,0,0,0,,Wha— are they idiots?!
@@ -1231,14 +1231,14 @@ Dialogue: 0,1:08:30.41,1:08:33.17,Default,,0,0,0,,and Suniaster is still going t
 Dialogue: 5,1:08:34.24,1:08:37.13,Default,,0,0,0,,That’s exactly why we gathered everyone.
 Dialogue: 5,1:08:38.55,1:08:40.01,Default,,0,0,0,,Áka Si Anse,
 Dialogue: 5,1:08:40.50,1:08:41.37,Default,,0,0,0,,Ether-bomb,
-Dialogue: 5,1:08:41.99,1:08:42.86,Default,,0,0,0,,Heaven's Smite.
+Dialogue: 5,1:08:41.99,1:08:42.86,Default,,0,0,0,,Heaven’s Smite.
 Dialogue: 5,1:08:43.19,1:08:47.13,Default,,0,0,0,,All these enormous powers, gathered for one purpose…
 Dialogue: 5,1:08:47.79,1:08:48.86,Default,,0,0,0,,to break through
 Dialogue: 5,1:08:49.46,1:08:50.40,Default,,0,0,0,,the planet.
 Dialogue: 5,1:08:51.22,1:08:52.07,Default,,0,0,0,,The planet?!
 Dialogue: 5,1:08:52.50,1:08:55.76,Default,,0,0,0,,All the Old-deus come from the planet.
 Dialogue: 5,1:08:55.76,1:08:57.85,Default,,0,0,0,,Born from the Spirit Circuit.
-Dialogue: 5,1:08:58.63,1:09:01.54,Default,,0,0,0,,And so, the greatest power on this planet is…?
+Dialogue: 5,1:08:58.63,1:09:01.54,Default,,0,0,0,,Therefore, the greatest power on this planet is…?
 Dialogue: 5,1:09:02.35,1:09:03.88,Default,,0,0,0,,The Spirit Circuit.
 Dialogue: 5,1:09:04.35,1:09:07.63,Default,,0,0,0,,We, the weaklings, set the final stage.
 Dialogue: 5,1:09:08.02,1:09:10.06,Default,,0,0,0,,Using the power of those bastards,
@@ -1249,14 +1249,14 @@ Dialogue: 5,1:09:21.57,1:09:23.72,Default,,0,0,0,,To control the accumulated str
 Dialogue: 0,1:09:24.23,1:09:28.73,Default,,0,0,0,,we'll use power redirecting devices that Schwi has in her arsenal.
 Dialogue: 5,1:09:29.25,1:09:31.75,Default,,0,0,0,,Umweg, 32 units,
 Dialogue: 5,1:09:31.75,1:09:33.10,Default,,0,0,0,,precisely synchronized,
-Dialogue: 5,1:09:33.46,1:09:37.92,Default,,0,0,0,,are capable of controlling the energy required to breaking the crust.
+Dialogue: 5,1:09:33.46,1:09:37.92,Default,,0,0,0,,are capable of redirecting the energy required to fracture the crust.
 Dialogue: 5,1:09:37.92,1:09:39.82,Default,,0,0,0,,There are still nine left.
 Dialogue: 5,1:09:39.91,1:09:41.84,Default,,0,0,0,,Once they're all set up…
 Dialogue: 5,1:09:42.26,1:09:43.46,Default,,0,0,0,,checkmate.
 Dialogue: 5,1:09:45.22,1:09:47.93,Default,,0,0,0,,They themselves will pierce through the planet,
 Dialogue: 5,1:09:47.93,1:09:51.02,Default,,0,0,0,,and deliver Suniaster into our hands.
 Dialogue: 5,1:09:52.10,1:09:54.23,Default,,0,0,0,,Without a single one dying.
-Dialogue: 5,1:09:55.12,1:09:57.72,Default,,0,0,0,,I just can't wait to ask these gods.
+Dialogue: 5,1:09:55.12,1:09:57.72,Default,,0,0,0,,I just can't wait to ask these mighty gods.
 Dialogue: 5,1:09:58.97,1:10:00.23,Default,,0,0,0,,Hey, hey, losers…
 Dialogue: 5,1:10:00.66,1:10:03.03,Default,,0,0,0,,enjoying yourselves?
 Dialogue: 5,1:10:03.03,1:10:03.78,Default,,0,0,0,,Riku?
