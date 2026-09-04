@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1271
-Active Line: 1278
-Video Position: 105468
+Video Zoom Percent: 0.500000
+Scroll Position: 1286
+Active Line: 1291
+Video Position: 107019
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1315,16 +1315,16 @@ Dialogue: 5,1:13:26.76,1:13:28.37,Default,,0,0,0,,Riku, hold on!
 Dialogue: 5,1:13:28.90,1:13:29.88,Default,,0,0,0,,Oh my!
 Dialogue: 5,1:13:32.41,1:13:35.18,Default,,0,0,0,,Are we taking a solitary stroll today?
 Dialogue: 5,1:13:37.67,1:13:41.69,Default,,0,0,0,,A faint spiritual reaction catches your eye,\Nyou come to take a look,
-Dialogue: 5,1:13:41.69,1:13:44.55,Default,,0,0,0,,and what a wonderful bounty it turns out to be.
+Dialogue: 5,1:13:41.69,1:13:44.55,Default,,0,0,0,,and what a delightful bounty it turns out to be.
 Dialogue: 5,1:13:47.46,1:13:50.01,Default,,0,0,0,,Pleasure to meet you, scrap.
 Dialogue: 5,1:13:58.89,1:14:04.01,Default,,0,0,0,,Warning: Any hostile action will result in severe countermeasures.
-Dialogue: 5,1:14:04.98,1:14:08.38,Default,,0,0,0,,From a single Prüfer… that is?
-Dialogue: 5,1:14:09.62,1:14:14.18,Default,,0,0,0,,I've confirmed that there is no cluster activity within 100 km.
-Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,Then, it's truly a {\i1}magnifique opportunité{\i0} to pick up a premium head.
+Dialogue: 5,1:14:04.98,1:14:08.38,Default,,0,0,0,,For a single Prufer… I presume?
+Dialogue: 5,1:14:09.62,1:14:14.18,Default,,0,0,0,,I've confirmed there is no cluster activity within 100 km.
+Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,And so, it's truly a magnifique opportunité to pick up a premium head.
 Dialogue: 5,1:14:19.82,1:14:22.79,Default,,0,0,0,,1: You must not kill anyone.
-Dialogue: 5,1:14:23.10,1:14:27.03,Default,,0,0,0,,Luckily, Ex-Machinas don’t even possess the concept of death.
+Dialogue: 5,1:14:23.10,1:14:27.03,Default,,0,0,0,,Luckily, Ex-Machinas are free from the concept of death.
 Dialogue: 5,1:14:27.19,1:14:29.86,Default,,0,0,0,,2: You must not cause anyone to die.
-Dialogue: 5,1:14:30.14,1:14:32.01,Default,,0,0,0,,Please, no futile resi–
+Dialogue: 5,1:14:30.14,1:14:32.01,Default,,0,0,0,,If you would kindly stand still–
 Dialogue: 5,1:14:31.59,1:14:32.45,Alt,,0,0,0,,I refuse!
 Dialogue: 5,1:14:32.76,1:14:33.60,Default,,0,0,0,,Pardon?
 Dialogue: 5,1:14:34.09,1:14:35.57,Default,,0,0,0,,This unit was discarded,
