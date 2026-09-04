@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1257
-Active Line: 1267
-Video Position: 104655
+Scroll Position: 1271
+Active Line: 1278
+Video Position: 105468
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1306,7 +1306,7 @@ Dialogue: 5,1:12:53.14,1:12:54.68,Default,,0,0,0,,that's utter idiocy, nya!
 Dialogue: 5,1:12:57.21,1:12:58.41,Default,,0,0,0,,Ouch, nya!
 Dialogue: 5,1:12:57.75,1:12:59.33,Alt,,0,0,0,,You're the idiot, Azriel!
 Dialogue: 0,1:12:59.84,1:13:02.30,Default,,0,0,0,,At this moment we can't afford any mistakes.
-Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Should Lord Artosh refrain from acting,
+Dialogue: 5,1:13:03.05,1:13:05.35,Default,,0,0,0,,Should Lord Artosh await the right moment,
 Dialogue: 5,1:13:05.65,1:13:07.22,Default,,0,0,0,,then we must wait as well.
 Dialogue: 5,1:13:09.85,1:13:11.60,Default,,0,0,0,,How utterly tedious this is…
 Dialogue: 5,1:13:18.89,1:13:20.38,Default,,0,0,0,,8 remains.
