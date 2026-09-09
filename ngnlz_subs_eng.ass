@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1286
-Active Line: 1291
-Video Position: 107019
+Scroll Position: 1303
+Active Line: 1314
+Video Position: 108802
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1320,15 +1320,15 @@ Dialogue: 5,1:13:47.46,1:13:50.01,Default,,0,0,0,,Pleasure to meet you, scrap.
 Dialogue: 5,1:13:58.89,1:14:04.01,Default,,0,0,0,,Warning: Any hostile action will result in severe countermeasures.
 Dialogue: 5,1:14:04.98,1:14:08.38,Default,,0,0,0,,For a single Prufer… I presume?
 Dialogue: 5,1:14:09.62,1:14:14.18,Default,,0,0,0,,I've confirmed there is no cluster activity within 100 km.
-Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,And so, it's truly a magnifique opportunité to pick up a premium head.
+Dialogue: 5,1:14:14.50,1:14:19.68,Default,,0,0,0,,And so, it's truly a {\i1}magnifique opportunité{\i0} to pick up a premium head.
 Dialogue: 5,1:14:19.82,1:14:22.79,Default,,0,0,0,,1: You must not kill anyone.
-Dialogue: 5,1:14:23.10,1:14:27.03,Default,,0,0,0,,Luckily, Ex-Machinas are free from the concept of death.
+Dialogue: 5,1:14:23.10,1:14:27.03,Default,,0,0,0,,Fortunately, Ex-Machinas have no concept of death, so…
 Dialogue: 5,1:14:27.19,1:14:29.86,Default,,0,0,0,,2: You must not cause anyone to die.
-Dialogue: 5,1:14:30.14,1:14:32.01,Default,,0,0,0,,If you would kindly stand still–
+Dialogue: 5,1:14:30.14,1:14:32.01,Default,,0,0,0,,if you would kindly stand still–
 Dialogue: 5,1:14:31.59,1:14:32.45,Alt,,0,0,0,,I refuse!
 Dialogue: 5,1:14:32.76,1:14:33.60,Default,,0,0,0,,Pardon?
-Dialogue: 5,1:14:34.09,1:14:35.57,Default,,0,0,0,,This unit was discarded,
-Dialogue: 5,1:14:35.57,1:14:36.54,Default,,0,0,0,,it has no value.
+Dialogue: 5,1:14:34.09,1:14:35.57,Default,,0,0,0,,This unit was discarded.
+Dialogue: 5,1:14:35.57,1:14:36.54,Default,,0,0,0,,It has no value.
 Dialogue: 5,1:14:36.92,1:14:40.89,Default,,0,0,0,,6: Breaking any of these rules results in a loss.
 Dialogue: 5,1:14:41.70,1:14:42.26,Default,,0,0,0,,Therefore,
 Dialogue: 5,1:14:43.99,1:14:45.61,Default,,0,0,0,,please, spare me.
@@ -1343,10 +1343,10 @@ Dialogue: 5,1:15:11.33,1:15:13.86,Default,,0,0,0,,they're never truly zero.
 Dialogue: 5,1:15:15.03,1:15:21.74,Default,,0,0,0,,Laden: Code 1673B743E1F25 Script E
 Dialogue: 0,1:15:21.83,1:15:24.00,Default,,0,0,0,,Activate: Lösen.
 Dialogue: 5,1:15:27.37,1:15:28.74,Default,,0,0,0,,Final warning.
-Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All gear, armaments, maneuvers unlocked.
-Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Life preservation committed.
+Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All gear, armaments, maneuvers committed.
+Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Life preservation primed.
 Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh dear… I knew Ex-machinas analyze and imitate
-Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the methods used against them.
+Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the tactics used against them.
 Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that one of you died from laughter?
 Dialogue: 5,1:15:49.94,1:15:51.02,Default,,0,0,0,,Over-boost!
 Dialogue: 5,1:16:05.64,1:16:06.77,Default,,0,0,0,,Asyut-Armor!

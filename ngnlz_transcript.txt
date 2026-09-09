@@ -5309,9 +5309,9 @@ And so, it's truly a magnifique opportunité to pick up a premium head.
 1: Dare mo koroshite wa naranai.
 1: You must not kill anyone.
 
-幸いエクスマキナには死の概念もないことですし。
-Saiwai ekusumakina ni wa shi no gainen mo nai kotodesushi.
-Luckily, Ex-Machinas are free from the concept of death. (so…)
+幸いエクスマキナには死の概念もないことですし…
+Saiwai, ekusumakina ni wa shi no gainen mo nai kotodesu shi…
+Fortunately, Ex-Machinas have no concept of death, so…
 
 二つ: 誰も死なせてはならない。
 2: Dare mo shinasete wa naranai.
@@ -5329,13 +5329,13 @@ I refuse!
 Hai?
 Pardon?
 
-当機は廃棄機、
-Touki wa haiki-ki,
-This unit was discarded,
+当機は廃棄機。
+Touki wa haiki-ki.
+This unit was discarded.
 
 価値はない。
 kachi wa nai.
-it has no value.
+It has no value.
 
 六つ: 上記に違反する一切は敗北とする。
 6: Jouki ni ihan suru issai wa haiboku to suru.
@@ -5395,11 +5395,11 @@ Final warning.
 
 全武装、戦力、戦術を賭して。
 Zenbusou senryoku senjutsu o toshite.
-All gear, armaments, maneuvers unlocked.
+All gear, armaments, maneuvers committed.
 
 命乞いを開始する。
 Inochigoi o kaishi suru.
-Life preservation committed.
+Life preservation primed.
 
 おや…エクスマキナは撃破要因を解析し
 Oya… Ex-machina wa gekiha youin o kaiseki shi
@@ -5407,7 +5407,7 @@ Oh dear… I knew Ex-machinas analyze and imitate
 
 模倣する種のはずでございますが。
 mohou suru shu no hazu de gozaimasu ga.
-the methods used against them.
+the tactics used against them.
 
 もしやどなたか笑い殺されたので？
 Moshiya donata ka warai korosareta no de?
