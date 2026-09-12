@@ -17,10 +17,10 @@ Audio File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Dual Audio)[BD 1080p x264 10bit FLAC]v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1303
-Active Line: 1314
-Video Position: 108802
+Video Zoom Percent: 0.375000
+Scroll Position: 1299
+Active Line: 1317
+Video Position: 109090
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1343,16 +1343,16 @@ Dialogue: 5,1:15:11.33,1:15:13.86,Default,,0,0,0,,they're never truly zero.
 Dialogue: 5,1:15:15.03,1:15:21.74,Default,,0,0,0,,Laden: Code 1673B743E1F25 Script E
 Dialogue: 0,1:15:21.83,1:15:24.00,Default,,0,0,0,,Activate: Lösen.
 Dialogue: 5,1:15:27.37,1:15:28.74,Default,,0,0,0,,Final warning.
-Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All gear, armaments, maneuvers committed.
-Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Life preservation primed.
-Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh dear… I knew Ex-machinas analyze and imitate
-Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the tactics used against them.
-Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that one of you died from laughter?
+Dialogue: 5,1:15:29.71,1:15:32.85,Default,,0,0,0,,All assets, armaments, measures committed.
+Dialogue: 5,1:15:34.71,1:15:36.56,Default,,0,0,0,,Primed for life preservation.
+Dialogue: 5,1:15:37.94,1:15:41.91,Default,,0,0,0,,Oh dear… Ex-machinas do analyze and replicate
+Dialogue: 5,1:15:42.01,1:15:44.45,Default,,0,0,0,,the attacks used against them.
+Dialogue: 5,1:15:46.17,1:15:49.28,Default,,0,0,0,,Could it be that one of you was laughed to death?
 Dialogue: 5,1:15:49.94,1:15:51.02,Default,,0,0,0,,Over-boost!
 Dialogue: 5,1:16:05.64,1:16:06.77,Default,,0,0,0,,Asyut-Armor!
 Dialogue: 5,1:16:15.16,1:16:20.14,Default,,0,0,0,,Scattering dead spirits like that…\Nhow terribly inconsiderate to the environment.
 Dialogue: 5,1:16:20.14,1:16:21.27,Default,,0,0,0,,Anyway,
-Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,that was supposed to do anything?
+Dialogue: 5,1:16:21.27,1:16:23.68,Default,,0,0,0,,was that supposed to do anything?
 Dialogue: 5,1:16:23.83,1:16:26.56,Default,,0,0,0,,Never counted on that.
 Dialogue: 5,1:16:29.83,1:16:31.88,Default,,0,0,0,,Lösen: Enderpokryphen!
 Dialogue: 5,1:16:43.37,1:16:44.48,Default,,0,0,0,,Einweg.

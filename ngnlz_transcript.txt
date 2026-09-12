@@ -5395,23 +5395,23 @@ Final warning.
 
 全武装、戦力、戦術を賭して。
 Zenbusou senryoku senjutsu o toshite.
-All gear, armaments, maneuvers committed.
+All assets, armaments, measures committed.
 
 命乞いを開始する。
 Inochigoi o kaishi suru.
-Life preservation primed.
+Primed for life preservation.
 
 おや…エクスマキナは撃破要因を解析し
 Oya… Ex-machina wa gekiha youin o kaiseki shi
-Oh dear… I knew Ex-machinas analyze and imitate
+Oh dear… Ex-machinas do analyze and replicate
 
 模倣する種のはずでございますが。
 mohou suru shu no hazu de gozaimasu ga.
-the tactics used against them.
+the attacks used against them.
 
 もしやどなたか笑い殺されたので？
 Moshiya donata ka warai korosareta no de?
-Could it be that one of you died from laughter?
+Could it be that one of you was laughed to death?
 
 オーヴァ･ブースト！
 Over-boost!
@@ -5431,7 +5431,7 @@ Anyway,
 
 これで私をどうにかできると？
 kore de watashi o dou ni ka dekiru to?
-that was supposed to do anything?
+was that supposed to do anything?
 
 思っているはず… ない。
 Omotte iru hazu nai.
