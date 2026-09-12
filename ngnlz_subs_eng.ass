@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1299
-Active Line: 1317
-Video Position: 109090
+Scroll Position: 1374
+Active Line: 1385
+Video Position: 115627
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1391,23 +1391,23 @@ Dialogue: 0,1:18:44.75,1:18:46.00,Default,,0,0,0,,Synchronize!
 Dialogue: 5,1:18:47.05,1:18:48.49,Default,,0,0,0,,Eins...
 Dialogue: 0,1:18:48.49,1:18:50.18,Default,,0,0,0,,no, correction...
 Dialogue: 5,1:18:50.74,1:18:52.00,Default,,0,0,0,,you dense asshole!
-Dialogue: 5,1:18:55.97,1:18:58.50,Default,,0,0,0,,I meant to never share this with anyone!
+Dialogue: 5,1:18:55.97,1:18:58.50,Default,,0,0,0,,I really don’t want to share this with anyone!
 Dialogue: 5,1:18:58.50,1:19:01.35,Default,,0,0,0,,{\i1}I love Riku, I don’t want to part with him.{\i0}
 Dialogue: 5,1:19:01.35,1:19:03.20,Default,,0,0,0,,It's embarrassing…
 Dialogue: 5,1:19:03.20,1:19:06.37,Default,,0,0,0,,{\i1}All these contradictions I got from him…{\i0}
 Dialogue: 5,1:19:06.73,1:19:10.62,Default,,0,0,0,,All… all of this is mine alone!
 Dialogue: 5,1:19:10.62,1:19:12.76,Default,,0,0,0,,I'm telling you to take it!
-Dialogue: 5,1:19:13.36,1:19:16.21,Default,,0,0,0,,Get the meaning of it, idiot!
+Dialogue: 5,1:19:13.36,1:19:16.21,Default,,0,0,0,,Realize what that means, idiot!
 Dialogue: 5,1:19:16.21,1:19:18.15,Default,,0,0,0,,Stop giving me shit,
-Dialogue: 5,1:19:18.15,1:19:20.81,Default,,0,0,0,,and carry it on!
+Dialogue: 5,1:19:18.15,1:19:20.81,Default,,0,0,0,,and take these feelings on!
 Dialogue: 5,1:19:38.89,1:19:41.14,Default,,0,0,0,,The unit is clearly defective.
 Dialogue: 5,1:19:42.17,1:19:43.24,Default,,0,0,0,,I know.
-Dialogue: 5,1:19:43.43,1:19:47.09,Default,,0,0,0,,Ambiguous, incoherent, but still functional.
-Dialogue: 5,1:19:47.12,1:19:48.16,Default,,0,0,0,,Abnormal.
+Dialogue: 5,1:19:43.43,1:19:47.09,Default,,0,0,0,,Uncertain, incoherent, yet still functional.
+Dialogue: 5,1:19:47.12,1:19:48.16,Default,,0,0,0,,Unprecedented.
 Dialogue: 5,1:19:48.16,1:19:49.77,Default,,0,0,0,,I know that too!
 Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,Impossible to occur.
-Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,That's the truth!
-Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart I've got from Riku is the proof!
+Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,That's the truth.
+Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart I've got from Riku proves it all!
 Dialogue: 5,1:19:58.81,1:20:00.44,Default,,0,0,0,,Your unit
 Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,contains valuable data.
 Dialogue: 5,1:20:04.46,1:20:06.40,Default,,0,0,0,,Synchronization initiated.
