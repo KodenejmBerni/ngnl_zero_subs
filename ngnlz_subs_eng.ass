@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1374
-Active Line: 1385
-Video Position: 115627
+Scroll Position: 1402
+Active Line: 1411
+Video Position: 118603
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1409,24 +1409,24 @@ Dialogue: 5,1:19:49.77,1:19:51.84,Default,,0,0,0,,Impossible to occur.
 Dialogue: 5,1:19:51.84,1:19:53.45,Default,,0,0,0,,That's the truth.
 Dialogue: 0,1:19:53.63,1:19:57.11,Default,,0,0,0,,The heart I've got from Riku proves it all!
 Dialogue: 5,1:19:58.81,1:20:00.44,Default,,0,0,0,,Your unit
-Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,contains valuable data.
+Dialogue: 5,1:20:00.44,1:20:02.56,Default,,0,0,0,,contains a valuable sample.
 Dialogue: 5,1:20:04.46,1:20:06.40,Default,,0,0,0,,Synchronization initiated.
 Dialogue: 0,1:20:06.40,1:20:09.12,Default,,0,0,0,,Completion in 251 seconds.
 Dialogue: 5,1:20:09.12,1:20:12.16,Default,,0,0,0,,During the process, destruction is prohibited.
 Dialogue: 5,1:20:14.27,1:20:15.79,Default,,0,0,0,,Alles-Lösen.
 Dialogue: 5,1:20:16.11,1:20:19.26,Default,,0,0,0,,Forme – unpredictable threat protocol:
 Dialogue: 5,1:20:19.26,1:20:19.78,Default,,0,0,0,,initiate.
-Dialogue: 5,1:20:22.58,1:20:24.73,Default,,0,0,0,,That urge, the heart…
-Dialogue: 5,1:20:27.62,1:20:31.15,Default,,0,0,0,,Born as a tool, I found meaning.
-Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,And all of that
+Dialogue: 5,1:20:22.58,1:20:24.73,Default,,0,0,0,,That spur… the heart…
+Dialogue: 5,1:20:27.62,1:20:31.15,Default,,0,0,0,,Created as a tool, I was given life.
+Dialogue: 5,1:20:32.25,1:20:33.57,Default,,0,0,0,,And I stake
 Dialogue: 5,1:20:35.05,1:20:37.40,Default,,0,0,0,,in these 251 seconds
-Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,will emerge!
+Dialogue: 5,1:20:38.41,1:20:39.34,Default,,0,0,0,,all of it!
 Dialogue: 5,1:20:43.37,1:20:47.09,Default,,0,0,0,,Are those giagantic wings\Nsuppose to be a jab?
 Dialogue: 5,1:20:47.87,1:20:50.65,Default,,0,0,0,,For a mere puppet, quite impressive.
 Dialogue: 5,1:20:51.10,1:20:52.00,Default,,0,0,0,,Schwi.
 Dialogue: 5,1:20:52.45,1:20:53.39,Default,,0,0,0,,Pardon?
-Dialogue: 5,1:20:54.14,1:20:56.98,Default,,0,0,0,,I didn’t mention my name,
-Dialogue: 5,1:20:56.98,1:20:58.26,Default,,0,0,0,,so here it is.
+Dialogue: 5,1:20:54.14,1:20:56.98,Default,,0,0,0,,I never gave my name.
+Dialogue: 5,1:20:56.98,1:20:58.26,Default,,0,0,0,,This is who I am.
 Dialogue: 5,1:20:59.97,1:21:01.41,Default,,0,0,0,,A gift from Riku…
 Dialogue: 5,1:21:02.26,1:21:03.64,Default,,0,0,0,,my precious self.
 Dialogue: 5,1:21:04.83,1:21:08.24,Default,,0,0,0,,I see. My name is Jibril.
@@ -1440,7 +1440,7 @@ Dialogue: 5,1:21:32.76,1:21:34.99,Default,,0,0,0,,let them think they can't make
 Dialogue: 5,1:21:36.32,1:21:39.37,Default,,0,0,0,,If you lose now… prepare for the next!
 Dialogue: 5,1:21:43.35,1:21:44.48,Default,,0,0,0,,I can't die!
 Dialogue: 0,1:21:45.04,1:21:45.89,Default,,0,0,0,,Not yet!
-Dialogue: 5,1:21:45.89,1:21:48.26,Default,,0,0,0,,I can't die yet!
+Dialogue: 5,1:21:45.89,1:21:48.26,Default,,0,0,0,,I can't die!
 Dialogue: 5,1:22:05.62,1:22:06.92,Default,,0,0,0,,Umweg!
 Dialogue: 5,1:22:25.52,1:22:27.98,Default,,0,0,0,,Finally a proper mistake.
 Dialogue: 5,1:22:28.58,1:22:30.60,Default,,0,0,0,,You really gave me a hassle.

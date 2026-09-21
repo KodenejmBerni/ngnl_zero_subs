@@ -5663,7 +5663,7 @@ Your unit
 
 貴重なサンプルデータと判断する。
 Kichou na sanpuru deeta to handan.
-is deemed to contain valuable data.
+contains a valuable sample.
 
 データ同期──開始
 Deeta douki – kaishi
@@ -5675,7 +5675,7 @@ Completion in 251 seconds.
 
 その火力式の全壊を禁ずる
 Sonoka, kiki no zenkai o kinzuru.
-During this time, destruction is prohibited.
+During the process, destruction is prohibited.
 
 アーレス・レーゼン
 Alles-Lösen.
@@ -5691,15 +5691,15 @@ initiate.
 
 この想い、心…
 Kono omoi, kokoro…
-That urge, the heart…
+That spur… the heart…
 
 機械に生まれ、て…命を、貰った、
 Kikai ni umare, te… inochi o moratta.
-Born as a tool, I found meaning.
+Created as a tool, I was given life.
 
 その全て…
 Sono subete…
-And all of it
+And I stake
 
 この二五一秒に
 kono 251-byō ni
@@ -5707,7 +5707,7 @@ in these 251 seconds
 
 賭けるッ!!
 kakeru!
-will emerge!
+all of it!
 
 その大きな翼は、当てつけのつもりで？
 Sono oukina tsubasa wa, atetsuke no tsumori de?
@@ -5727,11 +5727,11 @@ Pardon?
 
 名前、言ってなかった。
 Namae, itte nakatta.
-I didn’t mention my name,
+I never gave my name.
 
 それが私。
 Sore ga watashi.
-so here it is.
+This is who I am.
 
 リクにもらった、
 Riku ni moratta,
@@ -5793,7 +5793,15 @@ Not yet!
 
 死ねないの！
 shinenai no!
-I can't die yet!
+I can't die!
+
+Umweg!
+*
+*
+
+
+1:22:21
+
 
 ようやくミスらしいミスを…
 Youyaku misu rashii misu o.
