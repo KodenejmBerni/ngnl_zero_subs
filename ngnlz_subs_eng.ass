@@ -18,9 +18,9 @@ Video File: ../../../Videos/No Game No Life Zero/[YURI] No Game No Life Zero (Du
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1402
-Active Line: 1411
-Video Position: 118603
+Scroll Position: 1396
+Active Line: 1406
+Video Position: 117395
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1433,11 +1433,11 @@ Dialogue: 5,1:21:04.83,1:21:08.24,Default,,0,0,0,,I see. My name is Jibril.
 Dialogue: 0,1:21:08.24,1:21:09.95,Default,,0,0,0,,Pleased to meet you.
 Dialogue: 5,1:21:10.29,1:21:11.46,Default,,0,0,0,,And now
 Dialogue: 5,1:21:12.14,1:21:14.26,Default,,0,0,0,,I bid you farewell.
-Dialogue: 5,1:21:22.84,1:21:26.87,Default,,0,0,0,,Stay off their stage,\Nnever give up the initiative.
-Dialogue: 5,1:21:26.87,1:21:31.03,Default,,0,0,0,,Make them reckless,\Nlet them dismiss you as a threat.
-Dialogue: 5,1:21:31.03,1:21:32.76,Default,,0,0,0,,Fill them with doubt,
-Dialogue: 5,1:21:32.76,1:21:34.99,Default,,0,0,0,,let them think they can't make a mistake.
-Dialogue: 5,1:21:36.32,1:21:39.37,Default,,0,0,0,,If you lose now… prepare for the next!
+Dialogue: 5,1:21:22.84,1:21:26.87,Default,,0,0,0,,Don’t let them set the stage.\NNever give up the initiative.
+Dialogue: 5,1:21:26.87,1:21:31.03,Default,,0,0,0,,Make them complacent.\NLet them dismiss you as a threat.
+Dialogue: 5,1:21:31.03,1:21:32.76,Default,,0,0,0,,Keep them on edge.
+Dialogue: 5,1:21:32.76,1:21:34.99,Default,,0,0,0,,Make them think they can’t afford a mistake.
+Dialogue: 5,1:21:36.32,1:21:39.37,Default,,0,0,0,,If not now… prepare for the next!
 Dialogue: 5,1:21:43.35,1:21:44.48,Default,,0,0,0,,I can't die!
 Dialogue: 0,1:21:45.04,1:21:45.89,Default,,0,0,0,,Not yet!
 Dialogue: 5,1:21:45.89,1:21:48.26,Default,,0,0,0,,I can't die!

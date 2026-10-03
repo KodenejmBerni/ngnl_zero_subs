@@ -5759,29 +5759,28 @@ I bid you farewell.
 
 相手の舞台に立つな、
 Aite no butai ni tatsu na,
-Stay off their stage,
-Don’t let yourself be led,
-Don’t play by their rules,
+Don’t let them set the stage.
 
-主導権を絶対に渡すな
+主導権を絶対に渡すな。
 Shudouken o zettai ni watasu na.
-never give up the initiative.
+Never give up the initiative.
 
-相手を油断させろ、取るに足らぬ相手だと理解させろ
+相手を油断させろ、取るに足らぬ相手だと理解させろ。
 Aite o yudan sasero, toru ni taranu aite da to rikai sasero.
-Make them reckless, let them dismiss you as a threat.
+Make them complacent. Let them dismiss you as a threat.
 
 相手を警戒させろ、
 Aite o keikai sasero,
-Fill them with doubt,
+Keep them on edge.
 
-下手は打てぬ相手だと錯覚させろ
-heta wa utenu aite da to sakkaku sasero.
-let them think they can't make a mistake.
+下手は打てぬ相手だと錯覚させろ。
+Heta wa utenu aite da to sakkaku sasero.
+Make them believe they can’t afford a mistake.
 
-今がダメなら…次に託して
-Ima ga dame nara. Tsugi ni takushite.
-If you lose now… prepare for the next!
+今がダメなら…次に託して!
+Ima ga dame nara… tsugi ni takushite!
+If not now… prepare for the next!
+#### Drugie zdanie TODO
 
 死ねない！
 Shine nai!
@@ -5812,7 +5811,7 @@ Tema o kakesasete kuremashita nee.
 You really gave me a hassle.
 
 ミス？
-Misu. 
+Misu.
 Mistake?
 
 何のこと、だろ…
