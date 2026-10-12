@@ -5779,8 +5779,7 @@ Make them believe they can’t afford a mistake.
 
 今がダメなら…次に託して!
 Ima ga dame nara… tsugi ni takushite!
-If not now… prepare for the next!
-#### Drugie zdanie TODO
+If not now… entrust it to the next!
 
 死ねない！
 Shine nai!
