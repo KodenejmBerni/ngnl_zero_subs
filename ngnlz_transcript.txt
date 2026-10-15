@@ -5803,32 +5803,31 @@ Umweg!
 
 ようやくミスらしいミスを…
 Youyaku misu rashii misu o.
-Finally a proper mistake.
+Finally a decent mistake.
 
 手間をかけさせてくれましたねぇ
 Tema o kakesasete kuremashita nee. 
-You really gave me a hassle.
+You’ve really been a hassle.
 
 ミス？
-Misu.
+Misu?
 Mistake?
 
 何のこと、だろ…
 Nanno koto daru…
 What are you talking about…
 
-さようでございますか。
-Sayou de gozaimasu ka.
-Very well then.
-As you wish.
+さようでございますか…
+Sayou de gozaimasu ka…
+So be it…
 
 鉄クズ呼ばわりを謝罪
 Tetsukuzu yobawari o shazai.
-Sorry for calling you scrap.
+I apologize for calling you scrap.
 
 撤回しましょう
 tekkai shimashou.
-I take that back.
+Allow me to retract that.
 
 あなたさまは、ここで、確実に排すべき〝脅威〟
 Anatasama wa koko de kakujitsu ni hai subeki kyoui.
@@ -5836,8 +5835,6 @@ You lady, are a threat that must be eliminated at once.
 
 全力に値する敵と判断致します
 Zenryoku ni ataisuru teki to handan itashimasu.
-An enemy worthy of my full power.
-I consider you an enemy worthy of the full extent of my power.
 An enemy worthy of the full extent of my power.
 
 同期、完了
@@ -5850,7 +5847,7 @@ In this game,
 
 シュヴィの勝ち…だよ
 Schwi no kachi dayo.
-victory goes to me.
+victory goes to Schwi.
 
 Lösen: Kein-Eintrag.
 *
@@ -5868,17 +5865,17 @@ Hey, Riku…
 Schwi…
 *
 
-やっと、わかった、よ……？
-yatto wakatta yo?
-has understood at last.
+やっと、わかった、よ。
+yatto wakatta yo.
+finally understands.
 
-シュヴィ…
-Schwi…
+シュヴィ
+Schwi
 *
 
 リクに会えて──本当に……幸せだよ
-riku ni aete, hontou ni shiawaseda yo.
-is really blissful to have met you.
+Riku ni aete, hontou ni shiawaseda yo.
+is truly blessed to have met Riku.
 
 次こそ…
 Tsugi koso…
@@ -5894,23 +5891,28 @@ Know that
 
 愛してる…よ
 aishiteru yo.
-I trully love you.
+I truly love you.
 
-Kubiwa-te ni hairazu, buhin wa keshitobi
+首は手に入らず、部品は消し飛び。
+Kubiwa-te ni hairazu, buhin wa keshitobi.
 I didn’t get the head… everything is shattered.
 
-Shikamo chikara o tsukatta sei de kono sugata.
-And that energy outburst turned me into a brat.
+しかも力を使ったせいでこの姿。
+shikamo chikara o tsukatta sei de kono sugata.
+and that outburst turned me into a brat.
 
 これでは
 Kore de wa
-All of that
+After all that
 
 何一つ割に合わのおございますよぉ
 nani hitotsu wari ni awanai gozaimasu yoo!
 ended up being utterly pointless!
+the whole thing was utterly pointless!
+
 
 01:24:30
+
 
 今度こそ…
 Kondo koso…
