@@ -5984,11 +5984,11 @@ Who are you…
 
 名前はないが
 Namae wa nai ga.
-I have no name,
+I posses no name,
 
 アインツイヒと名乗ろう
 Einzig to nanorou
-but they call me with Einzig.
+but I shall assume Einzig.
 
 プライヤーシュヴィから託された遺志を、果たしに来た
 Player Schwi kara takusareta ishi o, hatashi ni kita.
@@ -6004,7 +6004,7 @@ Rule 2: You must not cause anyone to die.
 
 リクが決めたルール。
 Riku ga kimeta ruuru.
-The rule set by Riku.
+The rule Riku laid down.
 
 道具の損失は
 Dougu no sonshitsu wa
@@ -6014,9 +6014,13 @@ The loss of a tool
 haiboku no jouken ni gaitou shinai.
 doesn't qualify as a losing condition.
 
-シュヴィの損失は該当しない。
-Schwi no sonshitsu wa gaitou shinai.
-The loss of Schwi doesn't qualify.
+シュヴィの損失は
+Schwi no sonshitsu wa
+The loss of Schwi
+
+該当しない。
+gaitou shinai.
+doesn't qualify.
 
 チェックだよ、リク
 Chekku da yo, Riku.
@@ -6032,23 +6036,22 @@ Providing additional information:
 
 一つ、現在 Umweg 設置ポイントには他種族が集結しているため
 1: genzai, Umweg setchi pointo ni wa ta shuzoku ga shuuketsu shite iru tame
-1: Currently, Umweg installation points have drawn the attention of several races,
+1: Currently, Umweg installation points have drawn the attention of several races.
 
 我々が移動すれば Cluster を感知され
 wareware ga idou sureba Cluster o kanchi sare,
-and any activity will lead to Cluster exposure,
+Any activity will lead to Cluster exposure,
 
 交戦となる確率が 98% 。
 kousen to naru kakuritsu ga 98%.
-resulting in combat with probability of 98%.
+resulting in combat with a probability of 98%.
 
-従って稼働出来る Umweg は既に設置完了している
-Shitagatte, kadou dekiru Umweg wa sudeni setchi kanryou shite iru,
-Consequently, only the already deployed Umwegs are available for use,
+したがって,稼働できるアインヴィークは既に設置完了している、
+Shitagatte, kadou dekiru Umweg wa sude　ni setchi kanryou shite iru,
+Consequently, only the already deployed Umwegs are available,
 
-// Check needed
-二十四機、星 (...) 全エネルギーを下へ誘導するのは不可能となった.
-24-Ki nomi to nari, hoshi (...) zenenerugii o shita e yuudou suru no wa fukanou to natta.
+24機のみとなり星をうがつエネルギーを下へ誘導するのは 不可能となった。
+24-ki nomi to nari, hoshi o ugatsu energy o shita e yuudou suru koto wa fukanou to natta.
 with the amount of 24 being insufficient to redirect the energy down into the planet.
 
 ただし、南西方向への誘導は可能。
@@ -6069,7 +6072,7 @@ Its wielder, Spieler Riku, shall pierce the planet,
 
 さすればスーニアスターはその手に顕現する。
 sa sureba Suniaster wa sono-te ni kengen suru.
-thereby manifesting the Suniaster in his hands.
+so that the Suniaster manifests in his hands.
 
 我ら Ex-machina 、心無き機械。
 Warera Ex-machina, kokoro naki kikai.
@@ -6081,15 +6084,15 @@ mere tools.
 
 命令に忠実に従い実行するのみ。
 Meirei ni chuujitsu ni shitagai jikkou suru nomi.
-Created solely to be used at another's discretion.
+Created solely to be used at another’s will.
 
 故に Spieler リク、
 Yueni Spieler Riku,
-And so, Spieler Riku,
+Therefore, Spieler Riku,
 
 戦略を補正する、
 Senryaku o hosei suru,
-refine the strategy.
+revise the strategy.
 
 命令を。
 meirei o.
@@ -6111,13 +6114,17 @@ the loss…
 fukuma renai
 of a tool.
 
-それがお前の願いだら。
-Sore ga omae no negai dara.
-If that is what you wish…
+それがお前の願いだら…
+Sore ga omae no negai dara…
+If that is your wish…
 
 そう願うたら。
-Sou negau tara.
-then so do I.
+sou negau tara.
+then so is mine.
+
+
+1:28:14
+
 
 可愛いにゃぁぁ！
 Kawaii nyaa!
