@@ -251,7 +251,7 @@ That's…
 
 ドワーフが作った世界地図だ！
 Dowaufu ga tsukutta sekai chizu da!
-A dwarven map of the whole world!
+A Dwarven map of the whole world!
 
 しかも最新版だぞこいつは！
 Shikamo saishinban da zo, koitsu wa!
@@ -2443,7 +2443,7 @@ They’ve probably invented some new crap again.
 
 ドワーフといい星を壊すのに熱心なこって。
 Dwarves to ii, hoshi o kowasu no ni nesshin na kotte.
-Just like the dwarves, they're eager to obliterate this planet.
+Just like the Dwarves, they're eager to obliterate this planet.
 
 “アーカ･シ･アンセ…
 “Áka Si Anse…
@@ -3252,7 +3252,7 @@ These butchers called gods?!
 
 フリューゲルの創造主、アルトシュ。
 Flügel no souzoushu, Artosh.
-The creator of the Flügel, Artosh.
+The creator of the Flügels, Artosh.
 
 エルフの創造主、カイナース。
 Elf no souzoushu, Kainas.
@@ -4226,7 +4226,7 @@ You could handle it if you happen to care.
 
 ドワーフの艦隊、ワービーストを警戒し、移動を開始。
 Dwarf no kantai, Warbeasts o keikai shi, idou o kaishi.
-The Dwarven fleet, wary of the Warbeast, begins to regroup.
+The Dwarven fleet, wary of the Werebeasts, begins to regroup.
 
 ワービーストは髄爆を恐れ、ルーシア大陸を脱出。
 Warbeats wa Zuibaku o osore, Lucia tairiku o dasshutsu.
@@ -4607,7 +4607,7 @@ As expected, the Elves allied with the Fairies,
 
 ドワーフの航空艦隊に対抗すべく、ドラゴニアの契約数を増大。
 Dwarves no koukuu kantai ni taikou subeku, Dragonia no keiyakusuu o zoudai.
-and to face the dwarven fleet, they expanded contracts with the Dragonias.
+and to face the dwarven fleet, they expanded contracts with the Dragonia.
 
 一方ドワーフは、関係良好なギガントに加え、
 Ippou Dwarves wa, kankei ryoukou na Giants ni kuwae,
@@ -6204,7 +6204,7 @@ An attack from behind Avant Heim was launched without killing anyone,
 
 そうすれば…
 sou sureba…
-and with it…
+and with that…
 
 11クラスター移動開始セットポイントへ。
 Cluster 11 idou kaishi: set point e.
@@ -6212,11 +6212,11 @@ Cluster 11 relocating: set point.
 
 直ぐにでも全火力の衝突がはじめる。
 …sugu ni demo zen-karyoku no shoutotsu ga hajimaru.
-…the final clash of powers will begin at any moment.
+…an all-out clash will begin at any moment.
 
 総員、構えよ。
 Souin, kamae yo.
-All units, form up.
+All units, into position.
 
 相手はオールドデウス。
 Aite wa Old-deus.
@@ -6262,6 +6262,10 @@ Ether-bomb, full-force strike!
 神撃。
 Shingeki.
 God's Smite.
+
+
+1:30:50
+
 
 アーカ・シ・アンセ、髄爆の力を以ってしても、
 Áka Si Anse, Zuibaku no chikara o motte shite mo,
